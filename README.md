@@ -1,1091 +1,1752 @@
+
 #EXTM3U
-#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name=" TV GAZETA  4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfXQ3pYiuvmQlsTorEzdkSiwX9kDYuAHEfcV1SCMShjYZQlp_lRK-2wKQvXj_DxwkduFg&usqp=CAU" group-title="TV ABERTA", TV GAZETA  4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/551
-#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",3 PALAVRINHAS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/670
-#EXTINF:-1 tvg-id="" tvg-name="A CASA DO MICKEY MOUSE" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",A CASA DO MICKEY MOUSE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/671
-#EXTINF:-1 tvg-id="" tvg-name="A MANSAO FOSTER" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",A MANSAO FOSTER
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/674
-#EXTINF:-1 tvg-id="" tvg-name="A RODA DO ONIBUS " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",A RODA DO ONIBUS 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/675
-#EXTINF:-1 tvg-id="a2e9fcaee0175ea43284b3fadfa8e649" tvg-name="A&E 4K" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="FILMES & SERIES",A&E 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/225
-#EXTINF:-1 tvg-id="a2e9fcaee0175ea43284b3fadfa8e649" tvg-name="A&E HD" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="FILMES & SERIES",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/226
-#EXTINF:-1 tvg-id="a2e9fcaee0175ea43284b3fadfa8e649" tvg-name="A&E PLAYBACK" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="PLAYBACK",A&E PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/913
-#EXTINF:-1 tvg-id="" tvg-name="AGRO+ 4K" tvg-logo="https://agroemdia.com.br/wp-content/uploads/2020/06/agromais-band-logo.jpg" group-title="NOTICIAS",AGRO+ 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/852
-#EXTINF:-1 tvg-id="" tvg-name="ALADDIN" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",ALADDIN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/676
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON ESPORTES 1" tvg-logo="http://xplussport.com:8080/images/da27847f9201c6b1bca73c06044a70a1.png" group-title="ESPORTES ONLINE",AMAZON ESPORTES 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/1009
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON ESPORTES 2" tvg-logo="http://xplussport.com:8080/images/da27847f9201c6b1bca73c06044a70a1.png" group-title="ESPORTES ONLINE",AMAZON ESPORTES 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/1010
-#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC 4K" tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="FILMES & SERIES",AMC 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/228
-#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC DUAL " tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="CANAIS DUAL AUDIO ",AMC DUAL 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/790
-#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC HD" tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="FILMES & SERIES",AMC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/229
-#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC HDR+" tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="CANAIS HDR+",AMC HDR+
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/1020
-#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="PLAYBACK",AMC PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/918
-#EXTINF:-1 tvg-id="476c98e227890f9477494c87171291cb" tvg-name="ANIMAL PLANET 4K" tvg-logo="http://xplussport.com:8080/images/a6c2029ac2ef37c4172fb4925f4b299e.png" group-title="DOCUMENTARIOS",ANIMAL PLANET 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/61
-#EXTINF:-1 tvg-id="476c98e227890f9477494c87171291cb" tvg-name="ANIMAL PLANET HD" tvg-logo="http://xplussport.com:8080/images/a6c2029ac2ef37c4172fb4925f4b299e.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/62
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HDR+" tvg-logo="http://xplussport.com:8080/images/a6c2029ac2ef37c4172fb4925f4b299e.png" group-title="CANAIS HDR+",ANIMAL PLANET HDR+
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/994
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET LT" tvg-logo="https://e7.pngegg.com/pngimages/94/673/png-cliphttp://xplussport.com:8080/images/a6c2029ac2ef37c4172fb4925f4b299e.pngart-animal-planet-television-channel-animal-logo-television-text.png" group-title="LATINOS",ANIMAL PLANET LT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/871
-#EXTINF:-1 tvg-id="" tvg-name="AQUI NA FAZENDA MAIARA HD" tvg-logo="https://img2.gratispng.com/20180526/pga/kisspng-show-tv-turkey-television-show-logo-tv-5b08fbf9e0a0c0.3094832015273154499201.jpg" group-title="ENTRETENIMENTO",AQUI NA FAZENDA MAIARA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/853
-#EXTINF:-1 tvg-id="" tvg-name="AQUI NA FAZENDA RATINHO HD " tvg-logo="https://img2.gratispng.com/20180526/pga/kisspng-show-tv-turkey-television-show-logo-tv-5b08fbf9e0a0c0.3094832015273154499201.jpg" group-title="ENTRETENIMENTO",AQUI NA FAZENDA RATINHO HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/854
-#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ARTE 1 4K" tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="FILMES & SERIES",ARTE 1 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/231
-#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ARTE 1 HD" tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="FILMES & SERIES",ARTE 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/232
-#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DO BATMAN " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",AS AVENTURAS DO BATMAN 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/677
-#EXTINF:-1 tvg-id="ae9b072c84284681d992d96359460c90" tvg-name="AXN 4K" tvg-logo="http://toptv2.com:25461/logos/axn-hd.png" group-title="FILMES & SERIES",AXN 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/233
-#EXTINF:-1 tvg-id="ae9b072c84284681d992d96359460c90" tvg-name="AXN HD" tvg-logo="http://toptv2.com:25461/logos/axn-hd.png" group-title="FILMES & SERIES",AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/234
-#EXTINF:-1 tvg-id="ae9b072c84284681d992d96359460c90" tvg-name="AXN PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/axn-hd.png" group-title="PLAYBACK",AXN PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/917
-#EXTINF:-1 tvg-id="babytv.br" tvg-name="BABY TV 4K " tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="INFANTIS",BABY TV 4K 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/767
-#EXTINF:-1 tvg-id="3fc41207138bcbd07aa5e36e03b9a97d" tvg-name="BABY TV HD" tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="INFANTIS",BABY TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/342
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV PT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Babytv.jpg/revision/latest?cb=20160820183751&path-prefix=es" group-title="PORTUGAL ",BABY TV PT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/881
-#EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="BAND MINAS UHD" tvg-logo="http://toptv2.com:25461/logos/band_minas_UHD.png" group-title="TV ABERTA",BAND MINAS UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/481
-#EXTINF:-1 tvg-id="be4eacc302569c4905ab735868011351" tvg-name="BAND NEWS 4K" tvg-logo="http://toptv2.com:25461/logos/Band_news_UHD.png" group-title="NOTICIAS",BAND NEWS 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/482
-#EXTINF:-1 tvg-id="be4eacc302569c4905ab735868011351" tvg-name="BAND NEWS HD" tvg-logo="http://toptv2.com:25461/logos/Band_news_UHD.png" group-title="NOTICIAS",BAND NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/432
-#EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="BAND NORDESTE UHD" tvg-logo="http://toptv2.com:25461/logos/band_NORDESTE_UHD.png" group-title="TV ABERTA",BAND NORDESTE UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/483
-#EXTINF:-1 tvg-id="9b06e31791b171bd6987483a264ee48f" tvg-name="BAND SP 4k" tvg-logo="http://toptv2.com:25461/logos/band_SP_4K.png" group-title="TV ABERTA",BAND SP 4k
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/484
-#EXTINF:-1 tvg-id="9b06e31791b171bd6987483a264ee48f" tvg-name="BAND SP HD" tvg-logo="http://toptv2.com:25461/logos/band_SP_4K.png" group-title="TV ABERTA",BAND SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/485
-#EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS 4K" tvg-logo="http://toptv2.com:25461/logos/bandsports-4K.png" group-title="ESPORTES",BAND SPORTS 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/120
-#EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS HD" tvg-logo="http://toptv2.com:25461/logos/bandsports-4K.png" group-title="ESPORTES",BAND SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/121
-#EXTINF:-1 tvg-id="" tvg-name="BBB 22 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ENTRETENIMENTO",BBB 22 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/943
-#EXTINF:-1 tvg-id="" tvg-name="BBB 22 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="ENTRETENIMENTO",BBB 22 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/944
-#EXTINF:-1 tvg-id="" tvg-name="BBB MOSAICO" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022",BBB MOSAICO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/981
-#EXTINF:-1 tvg-id="" tvg-name="BBB PRINCIPAL" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022",BBB PRINCIPAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/982
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/901
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/902
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/903
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/904
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 " tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 5 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/905
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 " tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 6 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/906
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/907
-#EXTINF:-1 tvg-id="" tvg-name="BEN 10" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",BEN 10
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/678
-#EXTINF:-1 tvg-id="aa4fa98423e14ecd6154eaaa770d2f80" tvg-name="BIS 4K" tvg-logo="https://w7.pngwing.com/pngs/96/344/png-transparent-bis-television-channel-music-logo-bis-logo-television-angle-text-thumbnail.png" group-title="MUSICA",BIS 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/419
-#EXTINF:-1 tvg-id="aa4fa98423e14ecd6154eaaa770d2f80" tvg-name="BIS HD" tvg-logo="https://w7.pngwing.com/pngs/96/344/png-transparent-bis-television-channel-music-logo-bis-logo-television-angle-text-thumbnail.png" group-title="MUSICA",BIS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/420
-#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",BOB ESPONJA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/679
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG LT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="LATINOS",BOOMERANG LT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/862
-#EXTINF:-1 tvg-id="" tvg-name="CAMERA 02" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022",CAMERA 02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/971
-#EXTINF:-1 tvg-id="" tvg-name="CAMERA 04 PISCINA" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022",CAMERA 04 PISCINA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/973
-#EXTINF:-1 tvg-id="" tvg-name="CAMERA 05 JARDIM" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022",CAMERA 05 JARDIM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/974
-#EXTINF:-1 tvg-id="" tvg-name="CAMERA 06 CHUVEIRO" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022",CAMERA 06 CHUVEIRO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/975
-#EXTINF:-1 tvg-id="" tvg-name="CAMERA 07 ACADEMIA" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022",CAMERA 07 ACADEMIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/976
-#EXTINF:-1 tvg-id="" tvg-name="CAMERA 08 SALA" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022",CAMERA 08 SALA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/977
-#EXTINF:-1 tvg-id="" tvg-name="CAMERA 09 QUARTO GRUNGE" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022",CAMERA 09 QUARTO GRUNGE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/978
-#EXTINF:-1 tvg-id="" tvg-name="CAMERA 10 COZINHA" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022",CAMERA 10 COZINHA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/979
-#EXTINF:-1 tvg-id="" tvg-name="CAMERA 11 QUARTO LOLLIPOP" tvg-logo="http://xplussport.com:8080/images/2d3f665b4bc3ccc786fe3ad4419c5865.png" group-title="BBB 2022",CAMERA 11 QUARTO LOLLIPOP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/980
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 1 HD" tvg-logo="http://xplussport.com:8080/images/6e197f40d47f9f043e0f69365f6246d5.png" group-title="ESPORTES ONLINE",CAMPEONATO CARIOCA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/986
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 2 HD" tvg-logo="http://xplussport.com:8080/images/6e197f40d47f9f043e0f69365f6246d5.png" group-title="ESPORTES ONLINE",CAMPEONATO CARIOCA 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/987
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 3 HD" tvg-logo="http://xplussport.com:8080/images/6e197f40d47f9f043e0f69365f6246d5.png" group-title="ESPORTES ONLINE",CAMPEONATO CARIOCA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/988
-#EXTINF:-1 tvg-id="6e57d77806b180634ba62a9c1d5dbc8b" tvg-name="CANAL BOI HD" tvg-logo="http://185.53.90.49:41001/logos/canal boi.png" group-title="TV ABERTA",CANAL BOI HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/486
-#EXTINF:-1 tvg-id="a73f4a1a4510b09a3290c5096241a3f7" tvg-name="CANAL BRASIL 4K" tvg-logo="http://toptv2.com:25461/logos/CANAL_BRASIL_4K.png" group-title="FILMES & SERIES",CANAL BRASIL 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/236
-#EXTINF:-1 tvg-id="a73f4a1a4510b09a3290c5096241a3f7" tvg-name="CANAL BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/CANAL_BRASIL_4K.png" group-title="FILMES & SERIES",CANAL BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/237
-#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA PT" tvg-logo="http://xplussport.com:8080/images/a721f8e803564008cb6cb5e32d68f387.png" group-title="PORTUGAL ",CANAL PANDA PT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/887
-#EXTINF:-1 tvg-id="4a1989c97bf28cdc047161fa0253d893" tvg-name="CANCAO NOVA HD" tvg-logo="http://toptv2.com:25461/logos/cancaao-nova.png" group-title="ENTRETENIMENTO",CANCAO NOVA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/96
-#EXTINF:-1 tvg-id="4a1989c97bf28cdc047161fa0253d893" tvg-name="CANCAO NOVA UHD" tvg-logo="http://toptv2.com:25461/logos/cancaao-nova.png" group-title="ENTRETENIMENTO",CANCAO NOVA UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/97
-#EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK 4K" tvg-logo="http://185.53.90.49:41001/logos/cartoonnetwork.png" group-title="INFANTIS",CARTOON NETWORK 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/346
-#EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK HD" tvg-logo="http://185.53.90.49:41001/logos/cartoonnetwork.png" group-title="INFANTIS",CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/347
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HDR+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="CANAIS HDR+",CARTOON NETWORK HDR+
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/1002
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK LT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="LATINOS",CARTOON NETWORK LT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/855
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK PT" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo-2.png" group-title="PORTUGAL ",CARTOON NETWORK PT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/882
-#EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO 4K" tvg-logo="http://xplussport.com:8080/images/1dead2673d64b236c6f4e1bbad8059c3.png" group-title="INFANTIS",CARTOONITO 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/344
-#EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO HD" tvg-logo="http://xplussport.com:8080/images/1dead2673d64b236c6f4e1bbad8059c3.png" group-title="INFANTIS",CARTOONITO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/345
-#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODIACO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",CAVALEIROS DO ZODIACO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/680
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS COMEDIA",CHAVES 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/682
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1 " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 1 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/754
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10 " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 10 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/764
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 11 " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 11 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/809
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 12 " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 12 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/810
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 13 " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 13 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/811
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 14 " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 14 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/812
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 15 " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 15 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/813
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/755
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/756
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4 " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 4 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/757
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/758
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 6 " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 6 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/760
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 7 " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 7 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/761
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 8 " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 8 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/762
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9 " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="24HS FILMES ",CINE SKY 9 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/763
-#EXTINF:-1 tvg-id="a7859a4a1c7f67b8a96942487dbb3468" tvg-name="CINEMAX 4K" tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="FILMES & SERIES",CINEMAX 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/239
-#EXTINF:-1 tvg-id="a7859a4a1c7f67b8a96942487dbb3468" tvg-name="CINEMAX HD" tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="FILMES & SERIES",CINEMAX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/240
-#EXTINF:-1 tvg-id="cd0c58163e21bad37ccb6f16b43bebef" tvg-name="CNN BRASIL 4K" tvg-logo="http://toptv2.com:25461/logos/CNN_BRASIL_HD.png" group-title="NOTICIAS",CNN BRASIL 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/433
-#EXTINF:-1 tvg-id="cd0c58163e21bad37ccb6f16b43bebef" tvg-name="CNN BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/CNN_BRASIL_HD.png" group-title="NOTICIAS",CNN BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/434
-#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL HDR+ " tvg-logo="" group-title="CANAIS HDR+",CNN BRASIL HDR+ 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/1018
-#EXTINF:-1 tvg-id="cd0c58163e21bad37ccb6f16b43bebef" tvg-name="CNN BRASIL PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/CNN_BRASIL_HD.png" group-title="PLAYBACK",CNN BRASIL PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/936
-#EXTINF:-1 tvg-id="5be2136ed519c135699791e245ad9433" tvg-name="CNN ESPANHOL" tvg-logo="http://toptv2.com:25461/logos/cnn_espa.png" group-title="NOTICIAS",CNN ESPANHOL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/436
-#EXTINF:-1 tvg-id="c0879c01cbcfdfe09899bd8a756722aa" tvg-name="CNN INTERNACIONAL 4K" tvg-logo="http://toptv2.com:25461/logos/cnn-international_HD.png" group-title="NOTICIAS",CNN INTERNACIONAL 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/438
-#EXTINF:-1 tvg-id="52e622950dcda02c65c715cd25ee7073" tvg-name="COMBATE 4K" tvg-logo="http://toptv2.com:25461/logos/combate_UHD.png" group-title="ESPORTES",COMBATE 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/122
-#EXTINF:-1 tvg-id="52e622950dcda02c65c715cd25ee7073" tvg-name="COMBATE HD" tvg-logo="http://toptv2.com:25461/logos/combate_UHD.png" group-title="ESPORTES",COMBATE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/123
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE HDR+" tvg-logo="http://toptv2.com:25461/logos/combate_UHD.png" group-title="CANAIS HDR+",COMBATE HDR+
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/1001
-#EXTINF:-1 tvg-id="52e622950dcda02c65c715cd25ee7073" tvg-name="COMBATE PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/combate_UHD.png" group-title="PLAYBACK",COMBATE PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/934
-#EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL 4K" tvg-logo="http://toptv2.com:25461/logos/Comedy_Central.png" group-title="ENTRETENIMENTO",COMEDY CENTRAL 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/99
-#EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://toptv2.com:25461/logos/Comedy_Central.png" group-title="ENTRETENIMENTO",COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/98
-#EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/Comedy_Central.png" group-title="PLAYBACK",COMEDY CENTRAL PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/924
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 4K" tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="ESPORTES ONLINE",CONMEBOL TV 1 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/193
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 4K " tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="ESPORTES ONLINE",CONMEBOL TV 2 4K 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/820
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 4K" tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="ESPORTES ONLINE",CONMEBOL TV 3 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/194
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 4K" tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="ESPORTES ONLINE",CONMEBOL TV 4 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/195
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV1 HD" tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="ESPORTES ONLINE",CONMEBOL TV1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/196
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV2 HD" tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="ESPORTES ONLINE",CONMEBOL TV2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/198
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV3 HD" tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="ESPORTES ONLINE",CONMEBOL TV3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/199
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV4 HD" tvg-logo="http://xplussport.com:8080/images/2212651919d2662c7bf5a4574e58af16.png" group-title="ESPORTES ONLINE",CONMEBOL TV4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/200
-#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE 1 HD" tvg-logo="https://www.lance.com.br/files/article_main/uploads/2021/04/12/607442da6a8bd.png" group-title="ESPORTES ONLINE",COPA NORDESTE 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/201
-#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE 2 HD" tvg-logo="https://www.lance.com.br/files/article_main/uploads/2021/04/12/607442da6a8bd.png" group-title="ESPORTES ONLINE",COPA NORDESTE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/202
-#EXTINF:-1 tvg-id="76ee0cab054dfa3a2e6ed9783d82d598" tvg-name="CURTA HD" tvg-logo="http://toptv2.com:25461/logos/curta_HD.png" group-title="ENTRETENIMENTO",CURTA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/100
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="ESPORTES ONLINE",DAZN 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/206
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="ESPORTES ONLINE",DAZN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/821
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="ESPORTES ONLINE",DAZN 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/205
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="ESPORTES ONLINE",DAZN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/822
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="ESPORTES ONLINE",DAZN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/823
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="ESPORTES ONLINE",DAZN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/824
-#EXTINF:-1 tvg-id="e29f806eaafeca7c27164075b36632c0" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="http://xplussport.com:8080/images/3f4d65287e97039b4d14282aa4f722b3.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/65
-#EXTINF:-1 tvg-id="e29f806eaafeca7c27164075b36632c0" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/3f4d65287e97039b4d14282aa4f722b3.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/66
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL LT" tvg-logo="http://xplussport.com:8080/images/3f4d65287e97039b4d14282aa4f722b3.png" group-title="LATINOS",DISCOVERY CHANNEL LT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/870
-#EXTINF:-1 tvg-id="e29f806eaafeca7c27164075b36632c0" tvg-name="DISCOVERY CHANNEL PLAYBACK" tvg-logo="http://xplussport.com:8080/images/3f4d65287e97039b4d14282aa4f722b3.png" group-title="PLAYBACK",DISCOVERY CHANNEL PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/921
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL PT" tvg-logo="http://xplussport.com:8080/images/3f4d65287e97039b4d14282aa4f722b3.png" group-title="PORTUGAL ",DISCOVERY CHANNEL PT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/892
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION LT" tvg-logo="https://1.bp.blogspot.com/-xDR9E6uDt7A/XNhOPLuM5yI/AAAAAAAAT3E/rO2-hV3Cqos-MTOSPK-4wcxPtjx30IbcQCLcBGAs/s1600/discoverycivilizationb.png" group-title="LATINOS",DISCOVERY CIVILIZATION LT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/869
-#EXTINF:-1 tvg-id="9f69a7aab7bc08a257f8c70537c0f3fc" tvg-name="DISCOVERY H&H  PLAYBACK" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="PLAYBACK",DISCOVERY H&H  PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/922
-#EXTINF:-1 tvg-id="9f69a7aab7bc08a257f8c70537c0f3fc" tvg-name="DISCOVERY H&H 4K" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="DOCUMENTARIOS",DISCOVERY H&H 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/67
-#EXTINF:-1 tvg-id="9f69a7aab7bc08a257f8c70537c0f3fc" tvg-name="DISCOVERY H&H HD" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="DOCUMENTARIOS",DISCOVERY H&H HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/68
-#EXTINF:-1 tvg-id="9f69a7aab7bc08a257f8c70537c0f3fc" tvg-name="DISCOVERY H&H HDR+" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="CANAIS HDR+",DISCOVERY H&H HDR+
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/1021
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME&HEALTH LT" tvg-logo="https://www.southerncable.bz/wp-content/uploads/2017/03/h_h-logo-01.png" group-title="LATINOS",DISCOVERY HOME&HEALTH LT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/863
-#EXTINF:-1 tvg-id="ae49728b553d30a8864c6ea86f1dd244" tvg-name="DISCOVERY ID 4K" tvg-logo="http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png" group-title="DOCUMENTARIOS",DISCOVERY ID 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/69
-#EXTINF:-1 tvg-id="ae49728b553d30a8864c6ea86f1dd244" tvg-name="DISCOVERY ID HD" tvg-logo="http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png" group-title="DOCUMENTARIOS",DISCOVERY ID HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/70
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID PT" tvg-logo="http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png" group-title="PORTUGAL ",DISCOVERY ID PT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/894
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY INVESTIGATION LT" tvg-logo="https://seeklogo.com/images/I/investigation-discovery-logo-D8839FBD94-seeklogo.com.png" group-title="LATINOS",DISCOVERY INVESTIGATION LT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/864
-#EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS 4K" tvg-logo="http://185.53.90.49:41001/logos/discovery_kids.png" group-title="INFANTIS",DISCOVERY KIDS 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/348
-#EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://185.53.90.49:41001/logos/discovery_kids.png" group-title="INFANTIS",DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/349
-#EXTINF:-1 tvg-id="6c36a751ceba37796879f2c63a919b5c" tvg-name="DISCOVERY SCIENCE 4k" tvg-logo="http://xplussport.com:8080/images/7b539c507b1b806a537fc361dd9adec8.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE 4k
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/71
-#EXTINF:-1 tvg-id="6c36a751ceba37796879f2c63a919b5c" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://xplussport.com:8080/images/7b539c507b1b806a537fc361dd9adec8.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/72
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SHOWCASE PT" tvg-logo="http://xplussport.com:8080/images/ac3004859ac7074f4c6e1e52d9bcdbd5.png" group-title="PORTUGAL ",DISCOVERY SHOWCASE PT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/893
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TEATHER LT " tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-theater-hd_m.png" group-title="LATINOS",DISCOVERY TEATHER LT 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/866
-#EXTINF:-1 tvg-id="36c2f4fcb3bdb824f77795aab4ae42b3" tvg-name="DISCOVERY THEATER 4K" tvg-logo="http://xplussport.com:8080/images/1385fb05c53c6ce195a0beca3d7f69f4.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/73
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://xplussport.com:8080/images/1385fb05c53c6ce195a0beca3d7f69f4.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/74
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC LT" tvg-logo="https://www.pngfind.com/pngs/m/682-6829120_discovery-channel-png-download-discovery-tlc-logo-png.png" group-title="LATINOS",DISCOVERY TLC LT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/867
-#EXTINF:-1 tvg-id="db5244cc5810ef5c7920ea77642eb947" tvg-name="DISCOVERY TURBO 4K" tvg-logo="http://xplussport.com:8080/images/b14f0177b9cf30e5f607db443458c275.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/75
-#EXTINF:-1 tvg-id="db5244cc5810ef5c7920ea77642eb947" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://xplussport.com:8080/images/b14f0177b9cf30e5f607db443458c275.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/76
-#EXTINF:-1 tvg-id="db5244cc5810ef5c7920ea77642eb947" tvg-name="DISCOVERY TURBO HDR+" tvg-logo="http://xplussport.com:8080/images/b14f0177b9cf30e5f607db443458c275.png" group-title="CANAIS HDR+",DISCOVERY TURBO HDR+
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/1022
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO LT" tvg-logo="http://xplussport.com:8080/images/b14f0177b9cf30e5f607db443458c275.png" group-title="LATINOS",DISCOVERY TURBO LT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/868
-#EXTINF:-1 tvg-id="83980477dcbd1bc6f3ba92c5e7356c59" tvg-name="DISCOVERY WORLD 4K" tvg-logo="http://xplussport.com:8080/images/d7ed971e5f0fa7afab0dbeff6c420350.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/77
-#EXTINF:-1 tvg-id="83980477dcbd1bc6f3ba92c5e7356c59" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://xplussport.com:8080/images/d7ed971e5f0fa7afab0dbeff6c420350.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/78
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD LT" tvg-logo="http://xplussport.com:8080/images/d7ed971e5f0fa7afab0dbeff6c420350.png" group-title="LATINOS",DISCOVERY WORLD LT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/865
-#EXTINF:-1 tvg-id="b0ecc24b8090ddc3ff2941979a9808ce" tvg-name="DISNEY CHANNEL  4K" tvg-logo="http://185.53.90.49:41001/logos/disneychannel.png" group-title="INFANTIS",DISNEY CHANNEL  4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/351
-#EXTINF:-1 tvg-id="b0ecc24b8090ddc3ff2941979a9808ce" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://185.53.90.49:41001/logos/disneychannel.png" group-title="INFANTIS",DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/352
-#EXTINF:-1 tvg-id="0cc894794fcb1fce239d200dbbc534c0" tvg-name="DISNEY JUNIOR 4K" tvg-logo="http://185.53.90.49:41001/logos/disneyjr.png" group-title="INFANTIS",DISNEY JUNIOR 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/353
-#EXTINF:-1 tvg-id="0cc894794fcb1fce239d200dbbc534c0" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://185.53.90.49:41001/logos/disneyjr.png" group-title="INFANTIS",DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/354
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR LT" tvg-logo="https://w7.pngwing.com/pngs/673/844/png-transparent-disney-junior-disney-channel-the-walt-disney-company-television-show-family-channel-nick-jr-television-text-logo.png" group-title="LATINOS",DISNEY JUNIOR LT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/858
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR PT" tvg-logo="https://cdn9.pngable.com/4/12/13/Km39uzRrGf/disney-junior-logo.jpg" group-title="PORTUGAL ",DISNEY JUNIOR PT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/884
-#EXTINF:-1 tvg-id="bf534ee0e7e1df92b1d82cf2238cfbcd" tvg-name="DISNEY XD 4K" tvg-logo="http://185.53.90.49:41001/logos/disney_xd.png" group-title="INFANTIS",DISNEY XD 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/355
-#EXTINF:-1 tvg-id="bf534ee0e7e1df92b1d82cf2238cfbcd" tvg-name="DISNEY XD HD" tvg-logo="http://185.53.90.49:41001/logos/disney_xd.png" group-title="INFANTIS",DISNEY XD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/356
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD LT" tvg-logo="https://w7.pngwing.com/pngs/890/131/png-transparent-disney-xd-television-channel-logo-the-walt-disney-company-disney-channel-discovery-id-tv-channel-television-angle-rectangle.png" group-title="LATINOS",DISNEY XD LT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/857
-#EXTINF:-1 tvg-id="" tvg-name="DOG TV HD " tvg-logo="http://www.dogtv.com/wp-content/uploads/2021/09/dogtv_logo.png" group-title="ENTRETENIMENTO",DOG TV HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/879
-#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS COMEDIA",DOIS HOMENS E MEIO 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/683
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",DRAGON BALL 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/684
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",DRAGON BALL SUPER 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/686
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",DRAGON BALL Z
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/687
-#EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! 2 HD" tvg-logo="http://toptv2.com:25461/logos/E!2.png" group-title="ENTRETENIMENTO",E! 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/101
-#EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! 4K" tvg-logo="https://img2.gratispng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" group-title="ENTRETENIMENTO",E! 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/102
-#EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! HD" tvg-logo="https://img2.gratispng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" group-title="ENTRETENIMENTO",E! HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/103
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 4K " tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="PORTUGAL ",ELEVEN SPORTS 1 4K 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/124
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 4K " tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="PORTUGAL ",ELEVEN SPORTS 2 4K 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/125
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3 4K" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="PORTUGAL ",ELEVEN SPORTS 3 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/801
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4 4K" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="PORTUGAL ",ELEVEN SPORTS 4 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/802
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5 4K" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="PORTUGAL ",ELEVEN SPORTS 5 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/803
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6 4K " tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="PORTUGAL ",ELEVEN SPORTS 6 4K 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/804
-#EXTINF:-1 tvg-id="" tvg-name="EM BUSCA DO VALE ENCANTADO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",EM BUSCA DO VALE ENCANTADO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/688
-#EXTINF:-1 tvg-id="" tvg-name="EPTV RIBEIRAO PRETO" tvg-logo="" group-title="TV ABERTA",EPTV RIBEIRAO PRETO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/1011
-#EXTINF:-1 tvg-id="4ceb89cf78c79f670f6dc02b1765f423" tvg-name="ESPN  4K" tvg-logo="http://toptv2.com:25461/logos/ESPN_Brasil_FHD.png" group-title="ESPORTES",ESPN  4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/130
-#EXTINF:-1 tvg-id="4ceb89cf78c79f670f6dc02b1765f423" tvg-name="ESPN  HD" tvg-logo="http://toptv2.com:25461/logos/ESPN_Brasil_FHD.png" group-title="ESPORTES",ESPN  HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/131
-#EXTINF:-1 tvg-id="2c729e9f2c9e6a887aa5cfc9f01172ca" tvg-name="ESPN 2 4K" tvg-logo="http://xplussport.com:8080/images/fd524d7d4c582ce92eafc4de281e485f.png" group-title="ESPORTES",ESPN 2 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/129
-#EXTINF:-1 tvg-id="0288e7a4ca87d39958fb3f8931776852" tvg-name="ESPN 2 HD" tvg-logo="http://xplussport.com:8080/images/fd524d7d4c582ce92eafc4de281e485f.png" group-title="ESPORTES",ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/135
-#EXTINF:-1 tvg-id="aeab51e588f8e18a27e43aa5bb3d0827" tvg-name="ESPN 3 4K" tvg-logo="http://xplussport.com:8080/images/08935974c9ab37351298bb63548cb1a2.png" group-title="ESPORTES",ESPN 3 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/127
-#EXTINF:-1 tvg-id="aeab51e588f8e18a27e43aa5bb3d0827" tvg-name="ESPN 3 HD " tvg-logo="http://xplussport.com:8080/images/08935974c9ab37351298bb63548cb1a2.png" group-title="ESPORTES",ESPN 3 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/126
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HDR+" tvg-logo="http://xplussport.com:8080/images/08935974c9ab37351298bb63548cb1a2.png" group-title="CANAIS HDR+",ESPN 3 HDR+
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/995
-#EXTINF:-1 tvg-id="a3694659decfe49635161b993bc7c3a6" tvg-name="ESPN 4 4K" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="ESPORTES",ESPN 4 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/142
-#EXTINF:-1 tvg-id="a3694659decfe49635161b993bc7c3a6" tvg-name="ESPN 4 HD" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="ESPORTES",ESPN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/143
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HDR" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="ESPORTES",ESPN 4 HDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/899
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HDR+" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="CANAIS HDR+",ESPN 4 HDR+
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/1007
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA 4K" tvg-logo="http://toptv2.com:25461/logos/espn_extra_uhd.png" group-title="ESPORTES",ESPN EXTRA 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/133
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="http://toptv2.com:25461/logos/espn_extra_uhd.png" group-title="ESPORTES",ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/134
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA HDR+ " tvg-logo="http://toptv2.com:25461/logos/espn_extra_uhd.png" group-title="CANAIS HDR+",ESPN EXTRA HDR+ 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/1005
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 01 HD" tvg-logo="https://cdn.melhorplano.net/cms/2021/05/28/60b1328d71a09ei_plus_estadio_tnt_sports.png" group-title="ESPORTES ONLINE",ESTADIO TNT SPORT 01 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/216
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 02 HD" tvg-logo="https://cdn.melhorplano.net/cms/2021/05/28/60b1328d71a09ei_plus_estadio_tnt_sports.png" group-title="ESPORTES ONLINE",ESTADIO TNT SPORT 02 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/217
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 03 HD" tvg-logo="https://cdn.melhorplano.net/cms/2021/05/28/60b1328d71a09ei_plus_estadio_tnt_sports.png" group-title="ESPORTES ONLINE",ESTADIO TNT SPORT 03 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/218
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 04 HD" tvg-logo="https://cdn.melhorplano.net/cms/2021/05/28/60b1328d71a09ei_plus_estadio_tnt_sports.png" group-title="ESPORTES ONLINE",ESTADIO TNT SPORT 04 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/219
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 05 HD" tvg-logo="https://cdn.melhorplano.net/cms/2021/05/28/60b1328d71a09ei_plus_estadio_tnt_sports.png" group-title="ESPORTES ONLINE",ESTADIO TNT SPORT 05 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/220
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD PT" tvg-logo="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" group-title="PORTUGAL ",EUROSPORT 1 HD PT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/137
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD PT" tvg-logo="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" group-title="PORTUGAL ",EUROSPORT 2 HD PT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/138
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="ENTRETENIMENTO",FASHION TV HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/878
-#EXTINF:-1 tvg-id="dd4766390e0409634178b12f087cb567" tvg-name="FILM & ARTS HD" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPgAAADLCAMAAAB04a46AAAAwFBMVEX////hGzIjHyDgDSrhEy3pbHflS1j98fP97vDfAB3rcXzhGDAfGhsgHB0bFhg2MzTQz9D3vMNaWFhMSUr29vYAAADqZ3RCQEB9e3wWEBH53N6WlJSlpKT+9vf61NnfABjgACHf39++vb0vKywMAANwbW7qeILnXWniJTvwoKfPzs7kMEbeAAD4z9Pzr7XfABFdW1vvi5bkPE7uhpL3wcjnUmL75efwmqLyqbHm5eVpZWeNi4uAfn+2tbXlP1PxnKWd2YmGAAAHQklEQVR4nO2Z/Veyvh+Hwc0HBB/QJKHQVUoUtxaiZHXf9v//V59tgIDV+Xa0zPM9r+uHDowNudj23nukKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4EepR7RdYLH/bW2k0GT0+Y/O3vbk4UXfQ9d2Sb0c7OXGdacRX+Z+flf8G8evhY6/3eKko0x7npasoQ3Hw2N1HXGcknDUajXgWEW1v9S80PFj8/nxgt9vtyVBR+vzAPr9XlJ44uLnfQ5z6T/mFdUD3Nf958W7HrghsIW5UKoYUb1cqrc4ePa6XY+1ssY85CdfrdfgubnyzeE96G/bgW8TpunzJZHuIjx3ecjT+WfHngezu8+nLhaJ0BpybA8TpZvfaPoP9KOKXE+7dHp6VS/cVZ/OkJI6iODkK9+jyo4hfiJFuXO6U7is+TnQbt5rmufLQ1D54Zv2TZT4t/0j8fZPvEK98Qfz5/vr+Kju5Kp4UxB/qsmC0ocRK3sFsV1wnGvMDn4wZ3ZZwuBYR5eLsjxT/w0vzJmqgauXM4BDx6XAo4lml0hsOh9eK8soLhq9XufjZJS+ZXpwpV397553z/lSucN1h/7zT6U//vROXfaUorsdYmFybl4c617JMJ45jZ/a20aS6vvCiyAsoWy3j2Az8MPLEO4tFqaigM99bOk7sOGaTke8RH7TbLbmWGW3b5sHtfLuOZ+JDXmXSO7u07bZhtAy7dSkGiW20Wi1e9eV5R5yli3hjlY50xSondXqznv/8UkY+YjW45kqV4WG2KIbHBpOJgZsXWPmIP0i8kmNcfLCcnQ35TDAeLyatrFbl+mKQnVQmLzvidJE+ZBraFKfU4br6Vvp9Z0O34sk6OFssyuK6XvYLt0ndQeKDQZq98KNPxVudCu/riS192/1WpWVPJnKGVAb3ZXGVls3caqnDSSTfi2PO50vZ83M9E0/X/9EiiJ2RqOWOHGdJ1GTKuMv53JQvs7EdQoeId7tXf6X561W3+/yZeKXF1/mLy9dKO+lzu/P676Iv29nTHXG2cIreT6WkWw9monRd81U1sEbiFaxoIl7nrvGbFzV9tVYLxD2coFbb8IEtjuNqoKr+SprOff1wcWUnqn8iXrFfxdWrc9nNRk/E8+epeA1G/6wortPbuHDvekT4k+ezkliiK01CRSGrCl/eUoqLcp8Swoc+pQ8yqj/wPTefO+KGIRNNSCDeVbw4nrjRL9Y1kr3LfaclKj8XxEsbFF7ss/LaSy3HcWZpZbJyRPjfii/H2xyvsI7TjRA3qVzIiBV5XnTEHp+k69Y/0eOtTnJyllS+ysVpMC/durFg1blkkzrxddr3k7FBZIZTEN/kuW1BPBnqynrFd7u6StIV/1jigzRXub7hndzuKXnlVkn8aefeMz95NjcbnSL/4uOZjTV/dSd0c/FZIRoUMzd2J28Rj9bVQGPFDOYYPV4Sf0lbyjoFcVp7d/M4TeS22adO9OA2Wjt1N1n2cvGnwmamKK6TbbR0Y97x9FvW8X3Ek0D+gbiWDfRGsxTiFGW7pum+tX1at9zjEflYXKXqvHC3WdU/4lD/mvg4zcnqlkY8t/ATThbX9SwJi0dLMwxLc9z7TJz3+epumXf7doU8GXGSls/5TCZh4Se2TrQpvOtrb7UJ9LH3RXHejvmrZmgmq567oicmruXi/FHzp1pnXaSr4rNUw6KE8plKviaebN14SKR+UJVjfs1OTDzdiyuuRZiaz/I8rdN9cW4+JO+BRMoXxOnK87xmIJrwnMcXs8kZn5h4uvDw07uneWGOO7V0bOqBOM0+yZC7r4gnN82i48PoFMXp6pOfGKVLUNrjcheua1Y5qpfERUrv/qE6T+TlNnZJ5LsjtKHk33RORlxXP3sSc6wn4jI2zwPGND9MxkQ4pu/Fk4XxbRHwTYov54zJkxfGVnKPk3X/yYjzDGb0yY/cJQsaTWN9Y9TIrriOx96Jy+kvrzKVVJPD+shJP+IdM1f/mrhKbmfFWzfW2Ytwo0S89N+GZRL/Iu2duB6kKYH4AqO9FXMCZZlFjIPFB+223c7EbcNoJ/9C4gedey4+MQwjz9X5SS4u63QL4irZ3G2/LLmmpVlZz7pV+bh085SVjCI/6ddQq7o74nxmJ2+wzkQw9/LX5YTBtt6B4v8eXzjXycljh9PjLlNx0Oc9/nrDD24y8XNx8jdt+SLrFHtc5Je1yHTchmNGK5/vKGq3Kek2heq1cD2bmeHtgscrazla3m1oICoEpR0sDVbNyGveyjjIT8L5bMRbWQuap/Qn9m9iSrTxw8NYIzKUU5Ki59eZNk62WXxryo+oKjZsu/9SlmUkWwcp07TxuLw5OzXx4wFxiB9fvMrI8Xn4ffH6k1U9Ptbsfz/ZT+PWf4PftgYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgP9L/gPfz+DRyt26hQAAAABJRU5ErkJggg==" group-title="FILMES & SERIES",FILM & ARTS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/242
-#EXTINF:-1 tvg-id="ebf476b8a69a7e335883fa75e01720d0" tvg-name="FISH TV 4K" tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="DOCUMENTARIOS",FISH TV 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/79
-#EXTINF:-1 tvg-id="ebf476b8a69a7e335883fa75e01720d0" tvg-name="FISH TV HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="DOCUMENTARIOS",FISH TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/80
-#EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK 4K" tvg-logo="http://toptv2.com:25461/logos/Food_Network_UHD.png" group-title="ENTRETENIMENTO",FOOD NETWORK 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/104
-#EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK HD" tvg-logo="http://toptv2.com:25461/logos/Food_Network_UHD.png" group-title="ENTRETENIMENTO",FOOD NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/105
-#EXTINF:-1 tvg-id="" tvg-name="FORMIGA ATOMICA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",FORMIGA ATOMICA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/691
-#EXTINF:-1 tvg-id="f59c512e2fe682c1b91167de085bc7aa" tvg-name="FOX SPORTS 2 4K" tvg-logo="http://toptv2.com:25461/logos/Fox-Sports-2_U4K.png" group-title="ESPORTES",FOX SPORTS 2 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/139
-#EXTINF:-1 tvg-id="f59c512e2fe682c1b91167de085bc7aa" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://toptv2.com:25461/logos/Fox-Sports-2_U4K.png" group-title="ESPORTES",FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/140
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HDR+ " tvg-logo="http://toptv2.com:25461/logos/Fox-Sports-2_U4K.png" group-title="CANAIS HDR+",FOX SPORTS 2 HDR+ 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/1008
-#EXTINF:-1 tvg-id="" tvg-name="FREAKAZOID" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",FREAKAZOID
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/692
-#EXTINF:-1 tvg-id="" tvg-name="FURACÃO LIVE 4K " tvg-logo="https://pbs.twimg.com/profile_images/1320433252608466947/ekNFdF28.jpg" group-title="ESPORTES ONLINE",FURACÃO LIVE 4K 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/818
-#EXTINF:-1 tvg-id="899076abbcea9639918fb27bbcc85dd8" tvg-name="FUTURA 4K" tvg-logo="http://toptv2.com:25461/logos/Futura.png" group-title="FILMES & SERIES",FUTURA 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/243
-#EXTINF:-1 tvg-id="816f1c140d095a098846951e0607aed0" tvg-name="FX HD" tvg-logo="http://toptv2.com:25461/logos/FX_UHD.png" group-title="FILMES & SERIES",FX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/244
-#EXTINF:-1 tvg-id="0a54d08d692b8e9a803f0037b8dcb060" tvg-name="GLOBO BAHIA 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV ABERTA",GLOBO BAHIA 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/488
-#EXTINF:-1 tvg-id="7e70ef2bdcd3c0aa660db718a979effc" tvg-name="GLOBO BRASILIA 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV ABERTA",GLOBO BRASILIA 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/490
-#EXTINF:-1 tvg-id="7e70ef2bdcd3c0aa660db718a979effc" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV ABERTA",GLOBO BRASILIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/489
-#EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS 4K " tvg-logo="http://toptv2.com:25461/logos/EPTV_CAMPINAS_GLOBO.png" group-title="TV ABERTA",GLOBO EPTV CAMPINAS 4K 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/780
-#EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://toptv2.com:25461/logos/EPTV_CAMPINAS_GLOBO.png" group-title="TV ABERTA",GLOBO EPTV CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/491
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SUL DE MINAS HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/6/67/20210422110721%21EPTV.png" group-title="TV ABERTA",GLOBO EPTV SUL DE MINAS HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/1012
-#EXTINF:-1 tvg-id="8fce20fba553e998b00add259a9d5ca7" tvg-name="GLOBO INTEGRAÇÃO JUIZ DE FORA " tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-integrac-o-uberaba_m.png" group-title="TV ABERTA",GLOBO INTEGRAÇÃO JUIZ DE FORA 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/494
-#EXTINF:-1 tvg-id="a26b437a5f1cbcf0ba862fe31e69993b" tvg-name="GLOBO INTER TV CABUGI 4K" tvg-logo="http://toptv2.com:25461/logos/intertv_4k.png" group-title="TV ABERTA",GLOBO INTER TV CABUGI 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/514
-#EXTINF:-1 tvg-id="a26b437a5f1cbcf0ba862fe31e69993b" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="http://toptv2.com:25461/logos/INTER_TV_CABUGI_GLOBO.png" group-title="TV ABERTA",GLOBO INTER TV CABUGI HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/495
-#EXTINF:-1 tvg-id="e26375ad11fbc0740b725915057934f3" tvg-name="GLOBO MINAS 4K" tvg-logo="http://xplussport.com:8080/images/1497683403967a61fddf01f9d9988fb8.png" group-title="TV ABERTA",GLOBO MINAS 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/497
-#EXTINF:-1 tvg-id="e26375ad11fbc0740b725915057934f3" tvg-name="GLOBO MINAS HD" tvg-logo="http://xplussport.com:8080/images/1497683403967a61fddf01f9d9988fb8.png" group-title="TV ABERTA",GLOBO MINAS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/772
-#EXTINF:-1 tvg-id="e26375ad11fbc0740b725915057934f3" tvg-name="GLOBO MINAS PLAYBACK" tvg-logo="http://xplussport.com:8080/images/1497683403967a61fddf01f9d9988fb8.png" group-title="PLAYBACK",GLOBO MINAS PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/925
-#EXTINF:-1 tvg-id="7febbe84b0edb3806d2d52afeb997fcd" tvg-name="GLOBO NEWS 4K" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="NOTICIAS",GLOBO NEWS 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/498
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS DF" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="NOTICIAS",GLOBO NEWS DF
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/445
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS MG HD" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="NOTICIAS",GLOBO NEWS MG HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/446
-#EXTINF:-1 tvg-id="7febbe84b0edb3806d2d52afeb997fcd" tvg-name="GLOBO NEWS PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="PLAYBACK",GLOBO NEWS PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/935
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS SP 4K" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="NOTICIAS",GLOBO NEWS SP 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/447
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS SP UHD" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="NOTICIAS",GLOBO NEWS SP UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/448
-#EXTINF:-1 tvg-id="4c02e1f2b6a94acdc16c02bfa00e3176" tvg-name="GLOBO NORDESTE 4k" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV ABERTA",GLOBO NORDESTE 4k
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/499
-#EXTINF:-1 tvg-id="4c02e1f2b6a94acdc16c02bfa00e3176" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV ABERTA",GLOBO NORDESTE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/500
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC BLUMENAU 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="TV ABERTA",GLOBO NSC BLUMENAU 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/515
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO PREMIUM PT" tvg-logo="https://s2.loli.net/2022/02/15/CKj4ZFhTafENboX.png" group-title="PORTUGAL ",GLOBO PREMIUM PT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/889
-#EXTINF:-1 tvg-id="6d89a18149bfd8b93ba815a4e4cbfa74" tvg-name="GLOBO RBS PORTO ALEGRE 4k" tvg-logo="http://toptv2.com:25461/logos/RBS_TV.png" group-title="TV ABERTA",GLOBO RBS PORTO ALEGRE 4k
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/501
-#EXTINF:-1 tvg-id="f8f1449dea8bd39fc4f8c88fbcc3c426" tvg-name="GLOBO REDE AMAZONICA MANAUS 4K" tvg-logo="http://toptv2.com:25461/logos/RedeAmazonica.png" group-title="TV ABERTA",GLOBO REDE AMAZONICA MANAUS 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/530
-#EXTINF:-1 tvg-id="0f2b867370232e42a6bdf4c3eb557abe" tvg-name="GLOBO RJ 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV ABERTA",GLOBO RJ 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/504
-#EXTINF:-1 tvg-id="0f2b867370232e42a6bdf4c3eb557abe" tvg-name="GLOBO RJ HD" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV ABERTA",GLOBO RJ HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/503
-#EXTINF:-1 tvg-id="17d59f8dd4e7a20626479151e084726c" tvg-name="GLOBO RPC CURITIBA 4K" tvg-logo="http://toptv2.com:25461/logos/RPC_CURITIBA_4K_GLOBO.png" group-title="TV ABERTA",GLOBO RPC CURITIBA 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/505
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC FOZ DO IGUAÇU 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="TV ABERTA",GLOBO RPC FOZ DO IGUAÇU 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/506
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC MARINGA 4K" tvg-logo="http://toptv2.com:25461/logos/RPC_PARANA_4K_GLOBO.png" group-title="TV ABERTA",GLOBO RPC MARINGA 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/507
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC MARINGA HD" tvg-logo="http://toptv2.com:25461/logos/RPC_PARANA_4K_GLOBO.png" group-title="TV ABERTA",GLOBO RPC MARINGA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/817
-#EXTINF:-1 tvg-id="30fb2667ef413d9a555281386fb5cbcb" tvg-name="GLOBO SP 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV ABERTA",GLOBO SP 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/511
-#EXTINF:-1 tvg-id="30fb2667ef413d9a555281386fb5cbcb" tvg-name="GLOBO SP HD" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="TV ABERTA",GLOBO SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/510
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIAS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a0/Logo_TV_Anhanguera_2019.png" group-title="TV ABERTA",GLOBO TV ANHANGUERA GOIAS 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/849
-#EXTINF:-1 tvg-id="63b218bc09317a7488464275730190da" tvg-name="GLOBO TV CENTRO AMERICA CUIABA 4K" tvg-logo="http://toptv2.com:25461/logos/TV_Centro_America.png" group-title="TV ABERTA",GLOBO TV CENTRO AMERICA CUIABA 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/512
-#EXTINF:-1 tvg-id="a59483f89eb41e07791c2730e68fc82f" tvg-name="GLOBO TV LIBERAL BELEM 4K" tvg-logo="" group-title="TV ABERTA",GLOBO TV LIBERAL BELEM 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/554
-#EXTINF:-1 tvg-id="a59483f89eb41e07791c2730e68fc82f" tvg-name="GLOBO TV LIBERAL BELEM HD" tvg-logo="" group-title="TV ABERTA",GLOBO TV LIBERAL BELEM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/773
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="http://xplussport.com:8080/images/ebb669d13b4e05676c3fda8143ebf945.png" group-title="TV ABERTA",GLOBO TV TEM BAURU HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/968
-#EXTINF:-1 tvg-id="95c74b5af2e547589ddddf8829313a0b" tvg-name="GLOBOSAT + UHD" tvg-logo="http://toptv2.com:25461/logos/globosat+_4K.png" group-title="ENTRETENIMENTO",GLOBOSAT + UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/106
-#EXTINF:-1 tvg-id="4b25c9f111374746c76a6f488ff09ba6" tvg-name="GLOOB 4K" tvg-logo="http://185.53.90.49:41001/logos/gloob.png" group-title="INFANTIS",GLOOB 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/357
-#EXTINF:-1 tvg-id="4b25c9f111374746c76a6f488ff09ba6" tvg-name="GLOOB HD" tvg-logo="http://185.53.90.49:41001/logos/gloob.png" group-title="INFANTIS",GLOOB HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/358
-#EXTINF:-1 tvg-id="a316577614ecd36243fee85cea7409cb" tvg-name="GLOOBINHO 4K" tvg-logo="http://185.53.90.49:41001/logos/globinho.png" group-title="INFANTIS",GLOOBINHO 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/359
-#EXTINF:-1 tvg-id="a316577614ecd36243fee85cea7409cb" tvg-name="GLOOBINHO HD" tvg-logo="http://185.53.90.49:41001/logos/globinho.png" group-title="INFANTIS",GLOOBINHO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/360
-#EXTINF:-1 tvg-id="e68d3d0c3ca1a41afd483ca6742a26a0" tvg-name="GNT 4K" tvg-logo="http://185.53.90.49:41001/logos/gnt.png" group-title="ENTRETENIMENTO",GNT 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/107
-#EXTINF:-1 tvg-id="e68d3d0c3ca1a41afd483ca6742a26a0" tvg-name="GNT HD" tvg-logo="http://185.53.90.49:41001/logos/gnt.png" group-title="ENTRETENIMENTO",GNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/108
-#EXTINF:-1 tvg-id="9c89384f4bfa30f167e77d23d8c331c4" tvg-name="H2  PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/h2-hd.png" group-title="PLAYBACK",H2  PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/931
-#EXTINF:-1 tvg-id="9c89384f4bfa30f167e77d23d8c331c4" tvg-name="H2 4K" tvg-logo="http://toptv2.com:25461/logos/h2-hd.png" group-title="DOCUMENTARIOS",H2 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/815
-#EXTINF:-1 tvg-id="9c89384f4bfa30f167e77d23d8c331c4" tvg-name="H2 HD" tvg-logo="http://toptv2.com:25461/logos/h2-hd.png" group-title="DOCUMENTARIOS",H2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/81
-#EXTINF:-1 tvg-id="" tvg-name="H2 LT" tvg-logo="https://www.pngfind.com/pngs/m/197-1979074_history-channel-video-history-channel-logo-png-transparent.png" group-title="LATINOS",H2 LT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/872
-#EXTINF:-1 tvg-id="bd04657e9d4deb7babb7cb61efde338e" tvg-name="HBO + 4K" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="FILMES & SERIES",HBO + 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/246
-#EXTINF:-1 tvg-id="bd04657e9d4deb7babb7cb61efde338e" tvg-name="HBO + DUAL " tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="CANAIS DUAL AUDIO ",HBO + DUAL 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/795
-#EXTINF:-1 tvg-id="bd04657e9d4deb7babb7cb61efde338e" tvg-name="HBO + HD" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="FILMES & SERIES",HBO + HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/245
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 4K" tvg-logo="http://toptv2.com:25461/logos/HBO2_HD.png" group-title="FILMES & SERIES",HBO 2 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/247
-#EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 DUAL " tvg-logo="http://toptv2.com:25461/logos/HBO2_HD.png" group-title="CANAIS DUAL AUDIO ",HBO 2 DUAL 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/794
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://toptv2.com:25461/logos/HBO2_HD.png" group-title="FILMES & SERIES",HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/248
-#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO 4K" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="FILMES & SERIES",HBO 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/251
-#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO DUAL " tvg-logo="http://185.53.90.49:41001/logos/hbo.png" group-title="CANAIS DUAL AUDIO ",HBO DUAL 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/793
-#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY 4K" tvg-logo="http://toptv2.com:25461/logos/HBO_Family.png" group-title="FILMES & SERIES",HBO FAMILY 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/252
-#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY DUAL " tvg-logo="http://toptv2.com:25461/logos/HBO_Family.png" group-title="CANAIS DUAL AUDIO ",HBO FAMILY DUAL 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/796
-#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY HD" tvg-logo="http://toptv2.com:25461/logos/HBO_Family.png" group-title="FILMES & SERIES",HBO FAMILY HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/253
-#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO HD" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="FILMES & SERIES",HBO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/255
-#EXTINF:-1 tvg-id="" tvg-name="HBO HDR+" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="CANAIS HDR+",HBO HDR+
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/1000
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1 HD " tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="ESPORTES ONLINE",HBO MAX 1 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/832
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 HD " tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="ESPORTES ONLINE",HBO MAX 2 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/833
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 HD" tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="ESPORTES ONLINE",HBO MAX 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/834
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4 HD " tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="ESPORTES ONLINE",HBO MAX 4 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/835
-#EXTINF:-1 tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-name="HBO MUNDI 4K" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="FILMES & SERIES",HBO MUNDI 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/256
-#EXTINF:-1 tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-name="HBO MUNDI HD" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="FILMES & SERIES",HBO MUNDI HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/257
-#EXTINF:-1 tvg-id="bd04657e9d4deb7babb7cb61efde338e" tvg-name="HBO PLUS 4K" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="FILMES & SERIES",HBO PLUS 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/258
-#EXTINF:-1 tvg-id="bd04657e9d4deb7babb7cb61efde338e" tvg-name="HBO PLUS E HD" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="FILMES & SERIES",HBO PLUS E HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/259
-#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP 4K" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="FILMES & SERIES",HBO POP 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/260
-#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP DUAL " tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="CANAIS DUAL AUDIO ",HBO POP DUAL 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/798
-#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP HD" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="FILMES & SERIES",HBO POP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/261
-#EXTINF:-1 tvg-id="319a862225f08e1e503f6da20108c67d" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="FILMES & SERIES",HBO SIGNATURE 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/264
-#EXTINF:-1 tvg-id="319a862225f08e1e503f6da20108c67d" tvg-name="HBO SIGNATURE HD" tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="FILMES & SERIES",HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/262
-#EXTINF:-1 tvg-id="40f7ca16db5eb9f53e2c88081131cbe9" tvg-name="HBO XTREME 4K" tvg-logo="http://xplussport.com:8080/images/831c440493273692f0c6189b44137392.png" group-title="FILMES & SERIES",HBO XTREME 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/266
-#EXTINF:-1 tvg-id="40f7ca16db5eb9f53e2c88081131cbe9" tvg-name="HBO XTREME HD" tvg-logo="http://xplussport.com:8080/images/831c440493273692f0c6189b44137392.png" group-title="FILMES & SERIES",HBO XTREME HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/267
-#EXTINF:-1 tvg-id="bd04657e9d4deb7babb7cb61efde338e" tvg-name="HBO+ PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="PLAYBACK",HBO+ PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/920
-#EXTINF:-1 tvg-id="" tvg-name="HE-MAN" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",HE-MAN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/694
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV 4K" tvg-logo="http://xplussport.com:8080/images/b5f2cb96ae5db72a10647df43949dbb9.png" group-title="DOCUMENTARIOS",HGTV 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/816
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="http://xplussport.com:8080/images/b5f2cb96ae5db72a10647df43949dbb9.png" group-title="DOCUMENTARIOS",HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/552
-#EXTINF:-1 tvg-id="" tvg-name="HGTV HDR+ " tvg-logo="http://xplussport.com:8080/images/b5f2cb96ae5db72a10647df43949dbb9.png" group-title="CANAIS HDR+",HGTV HDR+ 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/1006
-#EXTINF:-1 tvg-id="3bf7039c747b9600dcb773ad01fc0637" tvg-name="HGTV PLAYBACK" tvg-logo="http://xplussport.com:8080/images/b5f2cb96ae5db72a10647df43949dbb9.png" group-title="PLAYBACK",HGTV PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/940
-#EXTINF:-1 tvg-id="1c7b354134490b8008a7aaacf28c82c9" tvg-name="HISTORY CHANNEL 4K" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/83
-#EXTINF:-1 tvg-id="1c7b354134490b8008a7aaacf28c82c9" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/82
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL PT" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="PORTUGAL ",HISTORY CHANNEL PT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/895
-#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",HOMEM ARANHA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/695
-#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA 2" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",HOMEM ARANHA 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/696
-#EXTINF:-1 tvg-id="" tvg-name="HOMEM DE FERRO " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",HOMEM DE FERRO 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/697
-#EXTINF:-1 tvg-id="" tvg-name="HOMEM DE FERRO 2" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",HOMEM DE FERRO 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/698
-#EXTINF:-1 tvg-id="5e186dac8a8f97419c4ad656efd92dd7" tvg-name="I-SAT HD" tvg-logo="http://toptv2.com:25461/logos/I.Sat_logo.png" group-title="FILMES & SERIES",I-SAT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/268
-#EXTINF:-1 tvg-id="" tvg-name="INVESTIGAÇAO CRIMINAL " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS FILMES ",INVESTIGAÇAO CRIMINAL 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/668
-#EXTINF:-1 tvg-id="" tvg-name="JIRAYA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",JIRAYA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/699
-#EXTINF:-1 tvg-id="" tvg-name="JOHNNY BRAVO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",JOHNNY BRAVO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/700
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="NOTICIAS",JOVEM PAN NEWS 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/847
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="NOTICIAS",JOVEM PAN NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/846
-#EXTINF:-1 tvg-id="e869c199882e64c2fcb37d7a45539798" tvg-name="LIFETIME HD" tvg-logo="http://toptv2.com:25461/logos/Lifetime_HD.png" group-title="FILMES & SERIES",LIFETIME HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/269
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DA JUSTIÇA " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",LIGA DA JUSTIÇA 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/701
-#EXTINF:-1 tvg-id="" tvg-name="MASHA E O URSO " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",MASHA E O URSO 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/702
-#EXTINF:-1 tvg-id="35ba03a94e64de65d33c83170c11ef5a" tvg-name="MEGAPIX 4K" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="FILMES & SERIES",MEGAPIX 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/270
-#EXTINF:-1 tvg-id="35ba03a94e64de65d33c83170c11ef5a" tvg-name="MEGAPIX HD" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="FILMES & SERIES",MEGAPIX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/271
-#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX HDR+" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="CANAIS HDR+",MEGAPIX HDR+
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/998
-#EXTINF:-1 tvg-id="35ba03a94e64de65d33c83170c11ef5a" tvg-name="MEGAPIX PLAYBACK" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="PLAYBACK",MEGAPIX PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/938
-#EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM 4K" tvg-logo="http://xplussport.com:8080/images/0eee5d09aca1ee708d892815108cd424.png" group-title="DOCUMENTARIOS",MODO VIAGEM 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/85
-#EXTINF:-1 tvg-id="" tvg-name="MORANGUINHO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",MORANGUINHO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/703
-#EXTINF:-1 tvg-id="" tvg-name="MOTOR VISION HD" tvg-logo="" group-title="PORTUGAL ",MOTOR VISION HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/806
-#EXTINF:-1 tvg-id="092c33be2ce573fb88e6fe27b747cbff" tvg-name="MTV 4K" tvg-logo="http://xplussport.com:8080/images/f207ef4153ddc7c1816e9d5c42436a65.png" group-title="MUSICA",MTV 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/112
-#EXTINF:-1 tvg-id="092c33be2ce573fb88e6fe27b747cbff" tvg-name="MTV HD" tvg-logo="http://xplussport.com:8080/images/f207ef4153ddc7c1816e9d5c42436a65.png" group-title="MUSICA",MTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/422
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE 4K" tvg-logo="http://xplussport.com:8080/images/827d9f9eb3b8d9d013252aed02714d93.png" group-title="MUSICA",MTV LIVE 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/831
-#EXTINF:-1 tvg-id="092c33be2ce573fb88e6fe27b747cbff" tvg-name="MTV PLAYBACK" tvg-logo="http://xplussport.com:8080/images/f207ef4153ddc7c1816e9d5c42436a65.png" group-title="PLAYBACK",MTV PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/919
-#EXTINF:-1 tvg-id="84102f4749f1fe3f8114395f2fe1bce4" tvg-name="MULTISHOW HD" tvg-logo="http://xplussport.com:8080/images/ae4a3a3f0fbe5ab8c657a87e77d45038.png" group-title="MUSICA",MULTISHOW HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/423
-#EXTINF:-1 tvg-id="84102f4749f1fe3f8114395f2fe1bce4" tvg-name="MULTISHOW PLAYBACK" tvg-logo="http://xplussport.com:8080/images/ae4a3a3f0fbe5ab8c657a87e77d45038.png" group-title="PLAYBACK",MULTISHOW PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/927
-#EXTINF:-1 tvg-id="2271082e80a6c556d510dd40ec7c85c9" tvg-name="MUSIC BOX  4K" tvg-logo="http://185.53.90.49:41001/logos/music box.png" group-title="MUSICA",MUSIC BOX  4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/424
-#EXTINF:-1 tvg-id="" tvg-name="NARUTO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",NARUTO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/704
-#EXTINF:-1 tvg-id="7655e9a70218f2aef78e339238fd8192" tvg-name="NAT GEO WILD 4K" tvg-logo="http://xplussport.com:8080/images/de700459188136f466a95982fc3ff919.png" group-title="DOCUMENTARIOS",NAT GEO WILD 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/86
-#EXTINF:-1 tvg-id="2c4d2ef7733c6a39de451eb30e4fcad5" tvg-name="NATGEO KIDS 4K" tvg-logo="http://185.53.90.49:41001/logos/natgeokids.png" group-title="INFANTIS",NATGEO KIDS 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/361
-#EXTINF:-1 tvg-id="2c4d2ef7733c6a39de451eb30e4fcad5" tvg-name="NATGEO KIDS HD" tvg-logo="http://185.53.90.49:41001/logos/natgeokids.png" group-title="INFANTIS",NATGEO KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/362
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD PT" tvg-logo="http://xplussport.com:8080/images/de700459188136f466a95982fc3ff919.png" group-title="PORTUGAL ",NATGEO WILD PT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/898
-#EXTINF:-1 tvg-id="0468e9c61c2406180ed5df536b8e95d6" tvg-name="NATIONAL GEOGRAPHIC 4K" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/87
-#EXTINF:-1 tvg-id="0468e9c61c2406180ed5df536b8e95d6" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/88
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC LT" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="LATINOS",NATIONAL GEOGRAPHIC LT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/873
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC PT" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="PORTUGAL ",NATIONAL GEOGRAPHIC PT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/897
-#EXTINF:-1 tvg-id="aaff79db8057bd9782f27b25af31955e" tvg-name="NHK 4K" tvg-logo="http://toptv2.com:25461/logos/NHHK.png" group-title="NOTICIAS",NHK 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/449
-#EXTINF:-1 tvg-id="aaff79db8057bd9782f27b25af31955e" tvg-name="NHK HD" tvg-logo="http://toptv2.com:25461/logos/NHHK.png" group-title="NOTICIAS",NHK HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/450
-#EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR 4K" tvg-logo="http://185.53.90.49:41001/logos/nick_jr.png" group-title="INFANTIS",NICK JR 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/363
-#EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR HD" tvg-logo="http://185.53.90.49:41001/logos/nick_jr.png" group-title="INFANTIS",NICK JR HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/364
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR LT" tvg-logo="https://www.pikpng.com/pngl/m/453-4530233_nick-jr-logo-png-e-vetor-download-de.png" group-title="LATINOS",NICK JR LT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/859
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR PT" tvg-logo="https://w7.pngwing.com/pngs/9/917/png-transparent-nick-jr-too-nickelodeon-television-logo-nick-jr.png" group-title="PORTUGAL ",NICK JR PT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/885
-#EXTINF:-1 tvg-id="" tvg-name="NICK MUSIC LT" tvg-logo="https://logodix.com/logo/1045741.png" group-title="LATINOS",NICK MUSIC LT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/860
-#EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON 4K" tvg-logo="http://185.53.90.49:41001/logos/nick.png" group-title="INFANTIS",NICKELODEON 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/365
-#EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON HD" tvg-logo="http://185.53.90.49:41001/logos/nick.png" group-title="INFANTIS",NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/768
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON PT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Nickelodeon_1993.svg/revision/latest/scale-to-width-down/250?cb=20210820185041&path-prefix=es" group-title="PORTUGAL ",NICKELODEON PT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/886
-#EXTINF:-1 tvg-id="eb054ce8e473fe44fae003765e6cfdc7" tvg-name="NOVO TEMPO HD" tvg-logo="http://toptv2.com:25461/logos/TV_Novo_Tempo.png" group-title="TV ABERTA",NOVO TEMPO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/556
-#EXTINF:-1 tvg-id="afdd2a65d987aa221d4043a4b593ef3e" tvg-name="OFF 4K" tvg-logo="http://toptv2.com:25461/logos/canal-off_HD.png" group-title="FILMES & SERIES",OFF 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/273
-#EXTINF:-1 tvg-id="afdd2a65d987aa221d4043a4b593ef3e" tvg-name="OFF HD" tvg-logo="http://toptv2.com:25461/logos/canal-off_HD.png" group-title="FILMES & SERIES",OFF HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/274
-#EXTINF:-1 tvg-id="" tvg-name="ONE PIECE EAST BLUE" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",ONE PIECE EAST BLUE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/705
-#EXTINF:-1 tvg-id="" tvg-name="OS FLINSTONES" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",OS FLINSTONES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/706
-#EXTINF:-1 tvg-id="" tvg-name="OS JETSON " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",OS JETSON 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/707
-#EXTINF:-1 tvg-id="" tvg-name="OS PADRINHOS MAGICOS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",OS PADRINHOS MAGICOS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/708
-#EXTINF:-1 tvg-id="" tvg-name="OS PATOS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",OS PATOS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/709
-#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",OS SIMPSONS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/710
-#EXTINF:-1 tvg-id="5732a420f537fb46b10feeda7d2c52b5" tvg-name="PAI ETERNO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="ENTRETENIMENTO",PAI ETERNO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/939
-#EXTINF:-1 tvg-id="" tvg-name="PANDA BIGGS PT" tvg-logo="http://xplussport.com:8080/images/7cb4f438f2191c6f2ca46487121e7f5b.png" group-title="PORTUGAL ",PANDA BIGGS PT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/888
-#EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT CHANNEL 4K" tvg-logo="http://toptv2.com:25461/logos/paramount_HD.png" group-title="FILMES & SERIES",PARAMOUNT CHANNEL 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/275
-#EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT HD" tvg-logo="http://toptv2.com:25461/logos/paramount_HD.png" group-title="FILMES & SERIES",PARAMOUNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/276
-#EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/paramount_HD.png" group-title="PLAYBACK",PARAMOUNT PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/937
-#EXTINF:-1 tvg-id="" tvg-name="PATO DONALD" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",PATO DONALD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/712
-#EXTINF:-1 tvg-id="" tvg-name="PAY PER VIEW ESPORTES 1" tvg-logo="http://xplussport.com:8080/images/987c3cb325b7e544a576bb45a51689ae.png" group-title="ESPORTES ONLINE",PAY PER VIEW ESPORTES 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/989
-#EXTINF:-1 tvg-id="1481c6022bbd0c4f3a2e875b789ee7c4" tvg-name="PEPPA PIG" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",PEPPA PIG
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/713
-#EXTINF:-1 tvg-id="" tvg-name="PEQUENA SEREIA " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",PEQUENA SEREIA 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/714
-#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",PERNALONGA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/715
-#EXTINF:-1 tvg-id="b289a8bd8ec7dae2839859e43db19d4f" tvg-name="PFC +" tvg-logo="http://toptv2.com:25461/logos/pfc.png" group-title="ESPORTES",PFC +
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/146
-#EXTINF:-1 tvg-id="" tvg-name="PICA PAU" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",PICA PAU
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/716
-#EXTINF:-1 tvg-id="" tvg-name="PINK E CEREBRO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",PINK E CEREBRO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/717
-#EXTINF:-1 tvg-id="" tvg-name="PINTINHO AMARELINHO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",PINTINHO AMARELINHO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/718
-#EXTINF:-1 tvg-id="" tvg-name="PJ MASKS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",PJ MASKS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/719
-#EXTINF:-1 tvg-id="bd5d7cf823212b72ce943bfabb614a9e" tvg-name="PLAY TV" tvg-logo="http://185.53.90.49:41001/logos/play tv.png" group-title="MUSICA",PLAY TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/426
-#EXTINF:-1 tvg-id="" tvg-name="POKEMON" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",POKEMON
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/720
-#EXTINF:-1 tvg-id="" tvg-name="POLICIA MILITAR " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS FILMES ",POLICIA MILITAR 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/669
-#EXTINF:-1 tvg-id="4d1d789d86786a9ff73d25cbe4de07d1" tvg-name="POLISHOP HD" tvg-logo="http://185.53.90.49:41001/logos/polishop.png" group-title="ENTRETENIMENTO",POLISHOP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/427
-#EXTINF:-1 tvg-id="b289a8bd8ec7dae2839859e43db19d4f" tvg-name="PREMIERE 1 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 1 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/148
-#EXTINF:-1 tvg-id="b289a8bd8ec7dae2839859e43db19d4f" tvg-name="PREMIERE 1 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/147
-#EXTINF:-1 tvg-id="b5381f02a7c15c61ffa98aef98a17153" tvg-name="PREMIERE 2 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 2 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/149
-#EXTINF:-1 tvg-id="b5381f02a7c15c61ffa98aef98a17153" tvg-name="PREMIERE 2 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/150
-#EXTINF:-1 tvg-id="22c91dbf50b62270e636e4580a334f64" tvg-name="PREMIERE 3 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 3 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/153
-#EXTINF:-1 tvg-id="22c91dbf50b62270e636e4580a334f64" tvg-name="PREMIERE 3 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/152
-#EXTINF:-1 tvg-id="9877d69b539e24abe50854d380b3ead3" tvg-name="PREMIERE 4 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 4 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/155
-#EXTINF:-1 tvg-id="9877d69b539e24abe50854d380b3ead3" tvg-name="PREMIERE 4 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/154
-#EXTINF:-1 tvg-id="e283a922f2e62b3eb93a6c31e21a70ec" tvg-name="PREMIERE 5 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 5 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/157
-#EXTINF:-1 tvg-id="e283a922f2e62b3eb93a6c31e21a70ec" tvg-name="PREMIERE 5 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/156
-#EXTINF:-1 tvg-id="c01003421239cbc0fb789944333ebc7a" tvg-name="PREMIERE 6 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 6 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/159
-#EXTINF:-1 tvg-id="c01003421239cbc0fb789944333ebc7a" tvg-name="PREMIERE 6 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 6 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/158
-#EXTINF:-1 tvg-id="caea7ea0b318bf8708481a8339e6e562" tvg-name="PREMIERE 7 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 7 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/161
-#EXTINF:-1 tvg-id="caea7ea0b318bf8708481a8339e6e562" tvg-name="PREMIERE 7 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 7 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/160
-#EXTINF:-1 tvg-id="5e16411ef98f27297132cd8064f0acaf" tvg-name="PREMIERE 8 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 8 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/162
-#EXTINF:-1 tvg-id="87652b56da39ead9ade0fcb2ee883ccb" tvg-name="PREMIERE 9 HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE 9 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/163
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUB HDR+" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="CANAIS HDR+",PREMIERE CLUB HDR+
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/1003
-#EXTINF:-1 tvg-id="b289a8bd8ec7dae2839859e43db19d4f" tvg-name="PREMIERE CLUBES 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE CLUBES 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/165
-#EXTINF:-1 tvg-id="b289a8bd8ec7dae2839859e43db19d4f" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/164
-#EXTINF:-1 tvg-id="907290e24ec6e81e0c5e1efb9fa1eb95" tvg-name="PRIME BOX BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/PrimeBoxBrazil.png" group-title="FILMES & SERIES",PRIME BOX BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/277
-#EXTINF:-1 tvg-id="33877e13059c576fd02bf5d576c18739" tvg-name="RAI ITALIA HD" tvg-logo="http://toptv2.com:25461/logos/rai.png" group-title="NOTICIAS",RAI ITALIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/428
-#EXTINF:-1 tvg-id="3b220cc065f34810b98141ad412a1076" tvg-name="RBI 4K" tvg-logo="http://toptv2.com:25461/logos/RBI_TV.png" group-title="TV ABERTA",RBI 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/517
-#EXTINF:-1 tvg-id="6d89a18149bfd8b93ba815a4e4cbfa74" tvg-name="RBS TV PORTO ALEGRE " tvg-logo="http://toptv2.com:25461/logos/RBS_TV.png" group-title="TV ABERTA",RBS TV PORTO ALEGRE 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/519
-#EXTINF:-1 tvg-id="79a773fe452a6ff5dbd0dd21c20880bb" tvg-name="RECORD BAHIA HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="TV ABERTA",RECORD BAHIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/520
-#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD BRASILIA HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="TV ABERTA",RECORD BRASILIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/521
-#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD DF HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="TV ABERTA",RECORD DF HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/522
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="TV ABERTA",RECORD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/523
-#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD MANAUS HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="TV ABERTA",RECORD MANAUS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/524
-#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD MINAS UHD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="TV ABERTA",RECORD MINAS UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/525
-#EXTINF:-1 tvg-id="082475b399aec8632907af07ba460db6" tvg-name="RECORD NEWS HD" tvg-logo="http://toptv2.com:25461/logos/Record_News_UHD.png" group-title="NOTICIAS",RECORD NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/452
-#EXTINF:-1 tvg-id="082475b399aec8632907af07ba460db6" tvg-name="RECORD NEWS U4K" tvg-logo="http://toptv2.com:25461/logos/Record_News_UHD.png" group-title="NOTICIAS",RECORD NEWS U4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/451
-#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD PARANA HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="TV ABERTA",RECORD PARANA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/526
-#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD RJ 4K" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="TV ABERTA",RECORD RJ 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/766
-#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD RJ HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="TV ABERTA",RECORD RJ HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/527
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD SP HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="TV ABERTA",RECORD SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/529
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP HDR+" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="CANAIS HDR+",RECORD SP HDR+
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/999
-#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD SP INTERIOR HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="TV ABERTA",RECORD SP INTERIOR HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/528
-#EXTINF:-1 tvg-id="79a773fe452a6ff5dbd0dd21c20880bb" tvg-name="RECORD SP PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="PLAYBACK",RECORD SP PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/916
-#EXTINF:-1 tvg-id="f7274fbdf20f8c7a253a962682f4ceae" tvg-name="REDE BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/rede-brasil.png" group-title="TV ABERTA",REDE BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/531
-#EXTINF:-1 tvg-id="6bbdff07dce18a1b7b7269c6fdeb0a3a" tvg-name="REDE TV HD" tvg-logo="http://toptv2.com:25461/logos/RedeTV!.png" group-title="TV ABERTA",REDE TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/532
-#EXTINF:-1 tvg-id="1418f5c4721e363d0c1a67496d3605d4" tvg-name="REDE VIDA HD" tvg-logo="http://toptv2.com:25461/logos/Rede_Vida_HD.png" group-title="ENTRETENIMENTO",REDE VIDA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/113
-#EXTINF:-1 tvg-id="" tvg-name="REINO GELADO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",REINO GELADO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/722
-#EXTINF:-1 tvg-id="" tvg-name="SABOR & ARTE HD " tvg-logo="https://www.saboreartetorteria.com.br/wp-content/uploads/2019/08/saborearte.png" group-title="ENTRETENIMENTO",SABOR & ARTE HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/877
-#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT 4K" tvg-logo="http://toptv2.com:25461/logos/TV_JORNAL_SBT.png" group-title="TV ABERTA",SBT 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/534
-#EXTINF:-1 tvg-id="067ae2f6064f035670ba170b9c3a7712" tvg-name="SBT CIDADE VERDE HD" tvg-logo="" group-title="TV ABERTA",SBT CIDADE VERDE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/535
-#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT HD" tvg-logo="http://toptv2.com:25461/logos/TV_JORNAL_SBT.png" group-title="TV ABERTA",SBT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/540
-#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/TV_JORNAL_SBT.png" group-title="PLAYBACK",SBT PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/926
-#EXTINF:-1 tvg-id="067ae2f6064f035670ba170b9c3a7712" tvg-name="SBT RJ UHD" tvg-logo="http://toptv2.com:25461/logos/TV_JORNAL_SBT.png" group-title="TV ABERTA",SBT RJ UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/537
-#EXTINF:-1 tvg-id="067ae2f6064f035670ba170b9c3a7712" tvg-name="SBT SERRA DOURADA 4K" tvg-logo="http://toptv2.com:25461/logos/TV_JORNAL_SBT.png" group-title="TV ABERTA",SBT SERRA DOURADA 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/538
-#EXTINF:-1 tvg-id="shoptime.br" tvg-name="SHOPTIME  4K" tvg-logo="" group-title="ENTRETENIMENTO",SHOPTIME  4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/799
-#EXTINF:-1 tvg-id="" tvg-name="SHURATO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",SHURATO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/724
-#EXTINF:-1 tvg-id="" tvg-name="SILVER HAWKS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",SILVER HAWKS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/725
-#EXTINF:-1 tvg-id="" tvg-name="SIMON" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",SIMON
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/726
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1 HD " tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo.png" group-title="PORTUGAL ",SKY SPORTS F1 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/808
-#EXTINF:-1 tvg-id="smithsonianchannel.br" tvg-name="SMITHSONIAN HD" tvg-logo="https://w7.pngwing.com/pngs/682/281/png-transparent-smithsonian-institution-building-national-museum-of-natural-history-national-air-and-space-museum-smithsonian-american-art-museum-bright-idea-leaf-text-logo.png" group-title="DOCUMENTARIOS",SMITHSONIAN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/851
-#EXTINF:-1 tvg-id="83ac2c679b44c648ac23990f713c5cb2" tvg-name="SONY CHANNEL HD" tvg-logo="http://toptv2.com:25461/logos/Canal_Sony_UHD.png" group-title="FILMES & SERIES",SONY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/238
-#EXTINF:-1 tvg-id="8dae4fd8d26721adaf8fd0c2d1a2bc8b" tvg-name="SPACE 4K" tvg-logo="http://toptv2.com:25461/logos/SPACE_HD.png" group-title="FILMES & SERIES",SPACE 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/278
-#EXTINF:-1 tvg-id="8dae4fd8d26721adaf8fd0c2d1a2bc8b" tvg-name="SPACE HD" tvg-logo="http://toptv2.com:25461/logos/SPACE_HD.png" group-title="FILMES & SERIES",SPACE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/279
-#EXTINF:-1 tvg-id="8dae4fd8d26721adaf8fd0c2d1a2bc8b" tvg-name="SPACE PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/SPACE_HD.png" group-title="PLAYBACK",SPACE PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/929
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORT TV 1 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="PORTUGAL ",SPORT TV 1 HD PT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/167
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORT TV 2 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="PORTUGAL ",SPORT TV 2 HD PT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/168
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORT TV 3 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="PORTUGAL ",SPORT TV 3 HD PT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/169
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="PORTUGAL ",SPORT TV 4 HD PT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/170
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="PORTUGAL ",SPORT TV 5 HD PT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/171
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORT TV+ HD PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="PORTUGAL ",SPORT TV+ HD PT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/166
-#EXTINF:-1 tvg-id="" tvg-name="SPORTING HD " tvg-logo="" group-title="PORTUGAL ",SPORTING HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/805
-#EXTINF:-1 tvg-id="30c750ccff9c607ae24411eace4715ec" tvg-name="SPORTV 1 4K" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="ESPORTES",SPORTV 1 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/183
-#EXTINF:-1 tvg-id="30c750ccff9c607ae24411eace4715ec" tvg-name="SPORTV 1 HD" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="ESPORTES",SPORTV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/182
-#EXTINF:-1 tvg-id="30c750ccff9c607ae24411eace4715ec" tvg-name="SPORTV 1 HDR" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="ESPORTES",SPORTV 1 HDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/178
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 1 HDR+" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="CANAIS HDR+",SPORTV 1 HDR+
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/993
-#EXTINF:-1 tvg-id="2ab405ed6f10dd88a1783b89c5283b56" tvg-name="SPORTV 2 4K" tvg-logo="http://xplussport.com:8080/images/ee67489938d900ebacc1bddfd70c1622.png" group-title="ESPORTES",SPORTV 2 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/172
-#EXTINF:-1 tvg-id="2ab405ed6f10dd88a1783b89c5283b56" tvg-name="SPORTV 2 HD" tvg-logo="http://xplussport.com:8080/images/34a7dec4daf47543bb4fac030a0d52d5.png" group-title="ESPORTES",SPORTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/173
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 HDR+" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="CANAIS HDR+",SPORTV 2 HDR+
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/1016
-#EXTINF:-1 tvg-id="70162c39a3bb1b387294c154927a4905" tvg-name="SPORTV 3 4K" tvg-logo="http://xplussport.com:8080/images/1669ef2cc27503cba33e431dcc4f3809.png" group-title="ESPORTES",SPORTV 3 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/175
-#EXTINF:-1 tvg-id="70162c39a3bb1b387294c154927a4905" tvg-name="SPORTV 3 HD" tvg-logo="http://xplussport.com:8080/images/1669ef2cc27503cba33e431dcc4f3809.png" group-title="ESPORTES",SPORTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/176
-#EXTINF:-1 tvg-id="704a11219aba00b606e933c52ee03c39" tvg-name="STAR CHANNEL 4K" tvg-logo="http://xplussport.com:8080/images/2485f9979b8674c829959d385195465c.png" group-title="FILMES & SERIES",STAR CHANNEL 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/281
-#EXTINF:-1 tvg-id="704a11219aba00b606e933c52ee03c39" tvg-name="STAR CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/2485f9979b8674c829959d385195465c.png" group-title="FILMES & SERIES",STAR CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/282
-#EXTINF:-1 tvg-id="a5f003ea82d27ff74dc6530980018baa" tvg-name="STAR LIFE 4K" tvg-logo="http://xplussport.com:8080/images/62669028115b285e4b17b156ee0d8303.png" group-title="FILMES & SERIES",STAR LIFE 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/287
-#EXTINF:-1 tvg-id="a5f003ea82d27ff74dc6530980018baa" tvg-name="STAR LIFE HD" tvg-logo="http://xplussport.com:8080/images/62669028115b285e4b17b156ee0d8303.png" group-title="FILMES & SERIES",STAR LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/288
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1 HD " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="ESPORTES ONLINE",STAR+ 1 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/829
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2 HD" tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="ESPORTES ONLINE",STAR+ 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/826
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3 HD " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="ESPORTES ONLINE",STAR+ 3 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/827
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 4 HD " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="ESPORTES ONLINE",STAR+ 4 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/828
-#EXTINF:-1 tvg-id="" tvg-name="STREET FIGHTER " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",STREET FIGHTER 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/727
-#EXTINF:-1 tvg-id="bd29923f14b4c6b2ce048290e0ba8cbe" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="http://toptv2.com:25461/logos/Studio_Universal.png" group-title="FILMES & SERIES",STUDIO UNIVERSAL 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/289
-#EXTINF:-1 tvg-id="" tvg-name="SUPER MAN" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",SUPER MAN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/728
-#EXTINF:-1 tvg-id="" tvg-name="SUPER MAN 2" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",SUPER MAN 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/729
-#EXTINF:-1 tvg-id="2ed30807ff0c5a5ea5800332ad988ba6" tvg-name="SYFY HD" tvg-logo="http://xplussport.com:8080/images/4474e6c225a3fdc027570708a7459368.png" group-title="FILMES & SERIES",SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/781
-#EXTINF:-1 tvg-id="2ed30807ff0c5a5ea5800332ad988ba6" tvg-name="SYFY PLAYBACK" tvg-logo="http://xplussport.com:8080/images/4474e6c225a3fdc027570708a7459368.png" group-title="PLAYBACK",SYFY PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/914
-#EXTINF:-1 tvg-id="44ecd72ae7d8744fbbff9a92ce816c7b" tvg-name="TBS 4K" tvg-logo="http://toptv2.com:25461/logos/tbs_hd.png" group-title="FILMES & SERIES",TBS 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/290
-#EXTINF:-1 tvg-id="44ecd72ae7d8744fbbff9a92ce816c7b" tvg-name="TBS DUAL" tvg-logo="http://toptv2.com:25461/logos/tbs_hd.png" group-title="CANAIS DUAL AUDIO ",TBS DUAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/791
-#EXTINF:-1 tvg-id="44ecd72ae7d8744fbbff9a92ce816c7b" tvg-name="TBS HD" tvg-logo="http://toptv2.com:25461/logos/tbs_hd.png" group-title="FILMES & SERIES",TBS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/291
-#EXTINF:-1 tvg-id="3b57cb47ab686c0b0f5aec74a3c5e787" tvg-name="TCM HD" tvg-logo="http://toptv2.com:25461/logos/TCM_HD.png" group-title="FILMES & SERIES",TCM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/292
-#EXTINF:-1 tvg-id="3b57cb47ab686c0b0f5aec74a3c5e787" tvg-name="TCM UHD" tvg-logo="http://toptv2.com:25461/logos/TCM_HD.png" group-title="FILMES & SERIES",TCM UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/293
-#EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION 4K" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="FILMES & SERIES",TELECINE ACTION 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/294
-#EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION DUAL" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="CANAIS DUAL AUDIO ",TELECINE ACTION DUAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/785
-#EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION HD" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="FILMES & SERIES",TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/295
-#EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION HDR+" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="CANAIS HDR+",TELECINE ACTION HDR+
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/1019
-#EXTINF:-1 tvg-id="0e5e2812730ae8a5299b2cf9f868e512" tvg-name="TELECINE CULT 4K" tvg-logo="http://xplussport.com:8080/images/08014e30d3bfca13ff968eea3ecfd0b8.png" group-title="FILMES & SERIES",TELECINE CULT 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/297
-#EXTINF:-1 tvg-id="0e5e2812730ae8a5299b2cf9f868e512" tvg-name="TELECINE CULT HD" tvg-logo="http://xplussport.com:8080/images/08014e30d3bfca13ff968eea3ecfd0b8.png" group-title="FILMES & SERIES",TELECINE CULT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/298
-#EXTINF:-1 tvg-id="a46d13a74579cf91484280c3771aad3b" tvg-name="TELECINE FUN 4K" tvg-logo="http://xplussport.com:8080/images/b2be9db3eedb515649e6e71e1889f4c2.png" group-title="FILMES & SERIES",TELECINE FUN 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/300
-#EXTINF:-1 tvg-id="a46d13a74579cf91484280c3771aad3b" tvg-name="TELECINE FUN DUAL " tvg-logo="http://xplussport.com:8080/images/b2be9db3eedb515649e6e71e1889f4c2.png" group-title="CANAIS DUAL AUDIO ",TELECINE FUN DUAL 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/789
-#EXTINF:-1 tvg-id="a46d13a74579cf91484280c3771aad3b" tvg-name="TELECINE FUN HD" tvg-logo="http://xplussport.com:8080/images/b2be9db3eedb515649e6e71e1889f4c2.png" group-title="FILMES & SERIES",TELECINE FUN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/301
-#EXTINF:-1 tvg-id="da6fb1fc4b99964a18b06f305de36721" tvg-name="TELECINE PIPOCA 4K" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="FILMES & SERIES",TELECINE PIPOCA 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/303
-#EXTINF:-1 tvg-id="da6fb1fc4b99964a18b06f305de36721" tvg-name="TELECINE PIPOCA DUAL " tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="CANAIS DUAL AUDIO ",TELECINE PIPOCA DUAL 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/788
-#EXTINF:-1 tvg-id="da6fb1fc4b99964a18b06f305de36721" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="FILMES & SERIES",TELECINE PIPOCA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/304
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA HDR+" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="CANAIS HDR+",TELECINE PIPOCA HDR+
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/996
-#EXTINF:-1 tvg-id="da6fb1fc4b99964a18b06f305de36721" tvg-name="TELECINE PIPOCA PLAYBACK" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="PLAYBACK",TELECINE PIPOCA PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/933
-#EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM 4K" tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="FILMES & SERIES",TELECINE PREMIUM 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/306
-#EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM DUAL " tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="CANAIS DUAL AUDIO ",TELECINE PREMIUM DUAL 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/787
-#EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="FILMES & SERIES",TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/307
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HDR+" tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="CANAIS HDR+",TELECINE PREMIUM HDR+
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/997
-#EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH 4K" tvg-logo="http://xplussport.com:8080/images/eae56b50163cfe62d15f0736e90d590b.png" group-title="FILMES & SERIES",TELECINE TOUCH 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/309
-#EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH DUAL " tvg-logo="http://xplussport.com:8080/images/eae56b50163cfe62d15f0736e90d590b.png" group-title="CANAIS DUAL AUDIO ",TELECINE TOUCH DUAL 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/786
-#EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH HD" tvg-logo="http://xplussport.com:8080/images/eae56b50163cfe62d15f0736e90d590b.png" group-title="FILMES & SERIES",TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/310
-#EXTINF:-1 tvg-id="" tvg-name="test" tvg-logo="" group-title="LATINOS",test
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/1035
-#EXTINF:-1 tvg-id="" tvg-name="TIMAO E PUMBA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",TIMAO E PUMBA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/731
-#EXTINF:-1 tvg-id="152266744258c8bc279c2dbdb87338f7" tvg-name="TLC 4K" tvg-logo="http://xplussport.com:8080/images/ec62f0088161df8a205abc8f968dbc4b.png" group-title="DOCUMENTARIOS",TLC 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/91
-#EXTINF:-1 tvg-id="152266744258c8bc279c2dbdb87338f7" tvg-name="TLC HD" tvg-logo="http://xplussport.com:8080/images/ec62f0088161df8a205abc8f968dbc4b.png" group-title="DOCUMENTARIOS",TLC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/92
-#EXTINF:-1 tvg-id="9968743ccbeaa92dcad9e5efd5fc3c94" tvg-name="TNT 4K" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="FILMES & SERIES",TNT 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/312
-#EXTINF:-1 tvg-id="" tvg-name="TNT ESPORTES LT" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/f7/9b/21/f79b2181-f32a-ac81-5627-fb713be365a4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="LATINOS",TNT ESPORTES LT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/876
-#EXTINF:-1 tvg-id="9968743ccbeaa92dcad9e5efd5fc3c94" tvg-name="TNT HD" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="FILMES & SERIES",TNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/313
-#EXTINF:-1 tvg-id="" tvg-name="TNT HDR+" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="CANAIS HDR+",TNT HDR+
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/1004
-#EXTINF:-1 tvg-id="" tvg-name="TNT LT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="LATINOS",TNT LT 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/874
-#EXTINF:-1 tvg-id="9968743ccbeaa92dcad9e5efd5fc3c94" tvg-name="TNT PLAYBACK" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="PLAYBACK",TNT PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/928
-#EXTINF:-1 tvg-id="65db1706ea43ff201632c39740ddc620" tvg-name="TNT SERIES 4K" tvg-logo="http://xplussport.com:8080/images/5e728d9b0a1f70bcfa9ae3503002645b.png" group-title="FILMES & SERIES",TNT SERIES 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/314
-#EXTINF:-1 tvg-id="65db1706ea43ff201632c39740ddc620" tvg-name="TNT SERIES HD" tvg-logo="http://xplussport.com:8080/images/5e728d9b0a1f70bcfa9ae3503002645b.png" group-title="FILMES & SERIES",TNT SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/315
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES LT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="LATINOS",TNT SERIES LT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/875
-#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CRIS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS COMEDIA",TODO MUNDO ODEIA O CRIS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/732
-#EXTINF:-1 tvg-id="" tvg-name="TOM & JERRY" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",TOM & JERRY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/733
-#EXTINF:-1 tvg-id="58cffaf314a9cfe1559b101844f07dc3" tvg-name="TOONCAST 4K" tvg-logo="http://185.53.90.49:41001/logos/tooncast.png" group-title="INFANTIS",TOONCAST 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/367
-#EXTINF:-1 tvg-id="58cffaf314a9cfe1559b101844f07dc3" tvg-name="TOONCAST HD" tvg-logo="http://185.53.90.49:41001/logos/tooncast.png" group-title="INFANTIS",TOONCAST HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/368
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST LT" tvg-logo="https://logodix.com/logo/1933609.png" group-title="LATINOS",TOONCAST LT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/861
-#EXTINF:-1 tvg-id="" tvg-name="TRACE BRAZUCA HD " tvg-logo="http://xplussport.com:8080/images/42ecffe48fdd469bc47366fb0b873f7f.png" group-title="MUSICA",TRACE BRAZUCA HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/969
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRASIL 4K" tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="DOCUMENTARIOS",TRAVEL BOX BRASIL 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/848
-#EXTINF:-1 tvg-id="258d342c88b7e32980d6799b2d1f6cba" tvg-name="TRU TV HD" tvg-logo="http://toptv2.com:25461/logos/TruTV.png" group-title="FILMES & SERIES",TRU TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/541
-#EXTINF:-1 tvg-id="f4643f16afe1996b188eb7b59796a265" tvg-name="TV APARECIDA HD" tvg-logo="http://toptv2.com:25461/logos/Aparecida.png" group-title="TV ABERTA",TV APARECIDA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/542
-#EXTINF:-1 tvg-id="55a411a89ae36ebde1bb9ac6aa7620f2" tvg-name="TV BRASIL 2 4K" tvg-logo="http://xplussport.com:8080/images/74538433148f4542f648fa66d78e99a4.png" group-title="TV ABERTA",TV BRASIL 2 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/908
-#EXTINF:-1 tvg-id="9fbb20e93f9118ff3cfe19fcbe904fe8" tvg-name="TV BRASIL 4K" tvg-logo="http://xplussport.com:8080/images/74538433148f4542f648fa66d78e99a4.png" group-title="TV ABERTA",TV BRASIL 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/544
-#EXTINF:-1 tvg-id="1594718929490742a7e44dd6e5a80a63" tvg-name="TV CAMARA " tvg-logo="http://toptv2.com:25461/logos/tv-camara.png" group-title="TV ABERTA",TV CAMARA 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/545
-#EXTINF:-1 tvg-id="231eb208f32f3a9a9dbe8ac3d9e03284" tvg-name="TV CULTURA UHD" tvg-logo="http://toptv2.com:25461/logos/tv-cultura.png" group-title="TV ABERTA",TV CULTURA UHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/547
-#EXTINF:-1 tvg-id="9e0c3303b37245538eb1c1cfc0b8d480" tvg-name="TV DIARIO HD" tvg-logo="http://toptv2.com:25461/logos/TV_Diario_Fortalisa.png" group-title="TV ABERTA",TV DIARIO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/548
-#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA ES 4K" tvg-logo="http://xplussport.com:8080/images/8dd7630d1b4d5c765dc5febc4aa7f01a.png" group-title="TV ABERTA",TV GAZETA ES 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/992
-#EXTINF:-1 tvg-id="45b2a4dbd9c2837985683683d668e565" tvg-name="TV JUSTICA " tvg-logo="http://toptv2.com:25461/logos/tv-justica.png" group-title="TV ABERTA",TV JUSTICA 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/553
-#EXTINF:-1 tvg-id="" tvg-name="TV MORENA 4K" tvg-logo="" group-title="TV ABERTA",TV MORENA 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/555
-#EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM 4K" tvg-logo="http://185.53.90.49:41001/logos/tvratimbum.png" group-title="INFANTIS",TV RA TIM BUM 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/369
-#EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM HD" tvg-logo="http://185.53.90.49:41001/logos/tvratimbum.png" group-title="INFANTIS",TV RA TIM BUM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/557
-#EXTINF:-1 tvg-id="46449f189313865e5b6d13cd55da8c7e" tvg-name="TV SENADO " tvg-logo="http://toptv2.com:25461/logos/tv-senado.png" group-title="TV ABERTA",TV SENADO 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/559
-#EXTINF:-1 tvg-id="ccc9131a347fd67a65ad45b2cad2f650" tvg-name="TV TEM SAO JOSE DO RIO PRETO" tvg-logo="http://xplussport.com:8080/images/ebb669d13b4e05676c3fda8143ebf945.png" group-title="TV ABERTA",TV TEM SAO JOSE DO RIO PRETO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/983
-#EXTINF:-1 tvg-id="f2914561160f44d4edf6a09eabcba449" tvg-name="TV TEM SOROCABA HD" tvg-logo="http://toptv2.com:25461/logos/TV_TEM_SOROCABA.png" group-title="TV ABERTA",TV TEM SOROCABA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/562
-#EXTINF:-1 tvg-id="bab8afec1121f433e170442e67a28718" tvg-name="TV TRIBUNA SANTOS " tvg-logo="http://toptv2.com:25461/logos/TV_Tribuna_(Santos).png" group-title="TV ABERTA",TV TRIBUNA SANTOS 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/564
-#EXTINF:-1 tvg-id="c31416092365cff9fcbe9d18533b1310" tvg-name="TV VANGUARDA S. J. DOS CAMPOS " tvg-logo="http://toptv2.com:25461/logos/tv_vanguarda.png" group-title="TV ABERTA",TV VANGUARDA S. J. DOS CAMPOS 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/565
-#EXTINF:-1 tvg-id="50a52cc9f2d40a3244b98383db30f334" tvg-name="TV VERDES MARES FORTALEZA 4K" tvg-logo="http://toptv2.com:25461/logos/TV_Verdes_Mares.png" group-title="TV ABERTA",TV VERDES MARES FORTALEZA 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/566
-#EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL DUAL " tvg-logo="http://xplussport.com:8080/images/08fc2bac2cddc0854bba4be7b620fb67.png" group-title="CANAIS DUAL AUDIO ",UNIVERSAL CHANNEL DUAL 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/792
-#EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/08fc2bac2cddc0854bba4be7b620fb67.png" group-title="FILMES & SERIES",UNIVERSAL CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/319
-#EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL PLAYBACK" tvg-logo="http://xplussport.com:8080/images/08fc2bac2cddc0854bba4be7b620fb67.png" group-title="PLAYBACK",UNIVERSAL CHANNEL PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/932
-#EXTINF:-1 tvg-id="9a7ea68940f10cca33470c26aa447a89" tvg-name="VH1 HD" tvg-logo="http://toptv2.com:25461/logos/VH1.png" group-title="MUSICA",VH1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/430
-#EXTINF:-1 tvg-id="9a7ea68940f10cca33470c26aa447a89" tvg-name="VH1 MEGAHITS" tvg-logo="http://toptv2.com:25461/logos/VH1_MEGAHITS.png" group-title="MUSICA",VH1 MEGAHITS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/431
-#EXTINF:-1 tvg-id="9e1ebec7332e1e1aee1bef629796d2b8" tvg-name="VIVA 4K" tvg-logo="http://toptv2.com:25461/logos/viva_HD.png" group-title="ENTRETENIMENTO",VIVA 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/114
-#EXTINF:-1 tvg-id="9e1ebec7332e1e1aee1bef629796d2b8" tvg-name="VIVA HD" tvg-logo="http://toptv2.com:25461/logos/viva_HD.png" group-title="ENTRETENIMENTO",VIVA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/116
-#EXTINF:-1 tvg-id="9e1ebec7332e1e1aee1bef629796d2b8" tvg-name="VIVA PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/viva_HD.png" group-title="PLAYBACK",VIVA PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/923
-#EXTINF:-1 tvg-id="c0445b25b8f3ac121c33b652c5214f63" tvg-name="WARNER CHANNEL 4K" tvg-logo="http://toptv2.com:25461/logos/warner.png" group-title="FILMES & SERIES",WARNER CHANNEL 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/783
-#EXTINF:-1 tvg-id="c0445b25b8f3ac121c33b652c5214f63" tvg-name="WARNER CHANNEL HD" tvg-logo="http://toptv2.com:25461/logos/warner.png" group-title="FILMES & SERIES",WARNER CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/320
-#EXTINF:-1 tvg-id="c0445b25b8f3ac121c33b652c5214f63" tvg-name="WARNER CHANNEL PLAYBACK" tvg-logo="http://toptv2.com:25461/logos/warner.png" group-title="PLAYBACK",WARNER CHANNEL PLAYBACK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/930
-#EXTINF:-1 tvg-id="91dde19254a54cab76902ca6d52cc7aa" tvg-name="WOOHOO HD" tvg-logo="http://toptv2.com:25461/logos/WOHOO_UHD.png" group-title="ENTRETENIMENTO",WOOHOO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://main.webhostingtoto.xyz:2095/NEW_LIVE9884747704/3678695374/117
+
+#PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
+
+################################################################################# Informações da Lista
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",downloadsdefimes.blogspot.com 
+https://www.youtube.com/channel/UCojJlqr-
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",youtube.com/matamataxiterbr 
+https://www.youtube.com/channel/UCojJlqr
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 30/03/2022 
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV 
+https://www.youtube.com/channel/UCojJlqr
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos! 
+https://www.youtube.com/channel/UCojJlqr-
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4xQxZ5g.png" group-title="Informações da Lista",(44)991045772
+https://www.youtube.com/channel/UCojJ
+
+#EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://static.esrv.cc/logos/canais/a%26e.png" group-title="Canais @ Variedades",A&amp;E HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/3
+#EXTINF:-1 tvg-id="A&E" tvg-logo="http://static.esrv.cc/logos/canais/a%26e.png" group-title="Canais @ 4K (FHDR)",A&E 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41544
+#EXTINF:-1 tvg-id="A e E" tvg-logo="http://static.esrv.cc/logos/canais/a%26e.png" group-title="Canais @ Variedades",A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31467
+#EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://static.esrv.cc/logos/canais/a%26e.png" group-title="Canais @ Variedades",A&E FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/2
+#EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://static.esrv.cc/logos/canais/a%26e.png" group-title="Canais @ Variedades",A&E SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",A Fazenda Camera Principal FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41851
+#EXTINF:-1 tvg-id="Agro Mais" tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais @ 4K (FHDR)",AgroMais 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41543
+#EXTINF:-1 tvg-id="AMC" tvg-logo="http://static.esrv.cc/logos/canais/amc.png" group-title="Canais @ 4K (FHDR)",AMC 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41542
+#EXTINF:-1 tvg-id="AMC" tvg-logo="http://a5.vc/Xun" group-title="Canais @ Filmes e Séries",AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31468
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/amc.png" group-title="Canais @ Filmes e Séries",AMC FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/474
+#EXTINF:-1 tvg-id="AMC" tvg-logo="http://static.esrv.cc/logos/canais/amc.png" group-title="Canais @ Filmes e Séries",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/475
+#EXTINF:-1 tvg-id="AMC" tvg-logo="http://static.esrv.cc/logos/canais/amc.png" group-title="Canais @ Filmes e Séries",AMC SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/476
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://static.esrv.cc/logos/canais/animalplanet.png" group-title="Canais @ 4K (FHDR)",Animal Planet 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41541
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/animalplanet.png" group-title="Canais @ Documentários",Animal Planet FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31873
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://static.esrv.cc/logos/canais/animalplanet.png" group-title="Canais @ Documentários",Animal Planet FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/5
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://static.esrv.cc/logos/canais/animalplanet.png" group-title="Canais @ Documentários",Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/6
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://static.esrv.cc/logos/canais/animalplanet.png" group-title="Canais @ Documentários",Animal Planet SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/7
+#EXTINF:-1 tvg-id="Arte 1" tvg-logo="http://static.esrv.cc/logos/canais/arte1.png" group-title="Canais @ 4K (FHDR)",Arte 1 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41540
+#EXTINF:-1 tvg-id="Arte 1" tvg-logo="http://static.esrv.cc/logos/canais/arte1.png" group-title="Canais @ Documentários",Arte 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31874
+#EXTINF:-1 tvg-id="Arte 1" tvg-logo="http://static.esrv.cc/logos/canais/arte1.png" group-title="Canais @ Documentários",Arte 1 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/8
+#EXTINF:-1 tvg-id="Arte 1" tvg-logo="http://static.esrv.cc/logos/canais/arte1.png" group-title="Canais @ Documentários",Arte 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/9
+#EXTINF:-1 tvg-id="Arte 1" tvg-logo="http://static.esrv.cc/logos/canais/arte1.png" group-title="Canais @ Documentários",Arte 1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/10
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://static.esrv.cc/logos/canais/axn.png" group-title="Canais @ 4K (FHDR)",AXN 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41539
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/axn.png" group-title="Canais @ Filmes e Séries",AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31884
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://static.esrv.cc/logos/canais/axn.png" group-title="Canais @ Filmes e Séries",AXN FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/11
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://static.esrv.cc/logos/canais/axn.png" group-title="Canais @ Legendados",AXN FHD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40046
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://static.esrv.cc/logos/canais/axn.png" group-title="Canais @ Filmes e Séries",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/12
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://static.esrv.cc/logos/canais/axn.png" group-title="Canais @ Legendados",AXN HD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40045
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://static.esrv.cc/logos/canais/axn.png" group-title="Canais @ Filmes e Séries",AXN SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/13
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://static.esrv.cc/logos/canais/axn.png" group-title="Canais @ Legendados",AXN SD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40044
+#EXTINF:-1 tvg-id="BabyTV" tvg-logo="http://static.esrv.cc/logos/canais/babytv.png" group-title="Canais @ Infantis",BabyTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/15
+#EXTINF:-1 tvg-id="BabyTV" tvg-logo="http://static.esrv.cc/logos/canais/babytv.png" group-title="Canais @ Infantis",BabyTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/16
+#EXTINF:-1 tvg-id="Band Bahia" tvg-logo="http://static.esrv.cc/logos/canais/band.png" group-title="Canais @ Abertos",Band BA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32051
+#EXTINF:-1 tvg-id="Band News" tvg-logo="http://static.esrv.cc/logos/canais/bandnews.png" group-title="Canais @ 4K (FHDR)",Band News 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41538
+#EXTINF:-1 tvg-id="BandNews" tvg-logo="http://static.esrv.cc/logos/canais/bandnews.png" group-title="Canais @ Notícias",Band News FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31920
+#EXTINF:-1 tvg-id="BandNews" tvg-logo="http://static.esrv.cc/logos/canais/bandnews.png" group-title="Canais @ Notícias",Band News FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32028
+#EXTINF:-1 tvg-id="BandNews" tvg-logo="http://static.esrv.cc/logos/canais/bandnews.png" group-title="Canais @ Notícias",Band News HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32029
+#EXTINF:-1 tvg-id="BandNews" tvg-logo="http://static.esrv.cc/logos/canais/bandnews.png" group-title="Canais @ Notícias",Band News SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32030
+#EXTINF:-1 tvg-id="Band Rio" tvg-logo="http://static.esrv.cc/logos/canais/band.png" group-title="Canais @ Abertos",Band RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31469
+#EXTINF:-1 tvg-id="Band" tvg-logo="http://static.esrv.cc/logos/canais/band.png" group-title="Canais @ Abertos",Band SP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/17
+#EXTINF:-1 tvg-id="Band" tvg-logo="http://static.esrv.cc/logos/canais/band.png" group-title="Canais @ Abertos",Band SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/18
+#EXTINF:-1 tvg-id="Band Sports" tvg-logo="http://static.esrv.cc/logos/canais/bandsports.png" group-title="Canais @ 4K (FHDR)",Band Sports 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41537
+#EXTINF:-1 tvg-id="BandSports" tvg-logo="http://static.esrv.cc/logos/canais/bandsports.png" group-title="Canais @ Esportes",BandSports FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31816
+#EXTINF:-1 tvg-id="BandSports" tvg-logo="http://static.esrv.cc/logos/canais/bandsports.png" group-title="Canais @ Esportes",BandSports FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/23
+#EXTINF:-1 tvg-id="BandSports" tvg-logo="http://static.esrv.cc/logos/canais/bandsports.png" group-title="Canais @ Esportes",BandSports HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/24
+#EXTINF:-1 tvg-id="BandSports" tvg-logo="http://static.esrv.cc/logos/canais/bandsports.png" group-title="Canais @ Esportes",BandSports SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/25
+#EXTINF:-1 tvg-id="Band" tvg-logo="http://static.esrv.cc/logos/canais/band.png" group-title="Canais @ Abertos",Band SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/19
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="http://static.esrv.cc/logos/canais/discoveryh%26h.png" group-title="Canais @ 4K (FHDR)",Disc. Home & Health 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41516
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://static.esrv.cc/logos/canais/discoverychannel.png" group-title="Canais @ 4K (FHDR)",Discovery Channel 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41515
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://static.esrv.cc/logos/canais/discoverychannel.png" group-title="Canais @ Documentários",Discovery Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31877
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://static.esrv.cc/logos/canais/discoverychannel.png" group-title="Canais @ Documentários",Discovery Channel FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/95
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://static.esrv.cc/logos/canais/discoverychannel.png" group-title="Canais @ Documentários",Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/96
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://static.esrv.cc/logos/canais/discoverychannel.png" group-title="Canais @ Documentários",Discovery Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/97
+#EXTINF:-1 tvg-id="Discovery Home  e  Health" tvg-logo="http://static.esrv.cc/logos/canais/discoveryh%26h.png" group-title="Canais @ Variedades",Discovery Home &amp; Health FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31475
+#EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://static.esrv.cc/logos/canais/discoveryh%26h.png" group-title="Canais @ Variedades",Discovery Home &amp; Health HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/102
+#EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://static.esrv.cc/logos/canais/discoveryh%26h.png" group-title="Canais @ Variedades",Discovery Home &amp; Health SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/103
+#EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://static.esrv.cc/logos/canais/discoveryh%26h.png" group-title="Canais @ Variedades",Discovery Home & Health FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/101
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-logo="http://static.esrv.cc/logos/canais/id.png" group-title="Canais @ Variedades",Discovery ID FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31495
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-logo="http://static.esrv.cc/logos/canais/id.png" group-title="Canais @ Variedades",Discovery ID FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/294
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-logo="http://static.esrv.cc/logos/canais/id.png" group-title="Canais @ Variedades",Discovery ID HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/295
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-logo="http://static.esrv.cc/logos/canais/id.png" group-title="Canais @ Variedades",Discovery ID SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/296
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://static.esrv.cc/logos/canais/discoverykids.png" group-title="Canais @ 4K (FHDR)",Discovery Kids 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41514
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://static.esrv.cc/logos/canais/discoverykids.png" group-title="Canais @ Infantis",Discovery Kids FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32058
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://static.esrv.cc/logos/canais/discoverykids.png" group-title="Canais @ Infantis",Discovery Kids FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/104
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://static.esrv.cc/logos/canais/discoverykids.png" group-title="Canais @ Infantis",Discovery Kids HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/105
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://static.esrv.cc/logos/canais/discoverykids.png" group-title="Canais @ Infantis",Discovery Kids SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/106
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="http://static.esrv.cc/logos/canais/discoveryscience.png" group-title="Canais @ 4K (FHDR)",Discovery Science 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41513
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="http://static.esrv.cc/logos/canais/discoveryscience.png" group-title="Canais @ Documentários",Discovery Science FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31476
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="http://static.esrv.cc/logos/canais/discoveryscience.png" group-title="Canais @ Documentários",Discovery Science FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/107
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="http://static.esrv.cc/logos/canais/discoveryscience.png" group-title="Canais @ Documentários",Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/108
+#EXTINF:-1 tvg-id="FashionTV Brasil" tvg-logo="http://static.esrv.cc/logos/canais/discoveryscience.png" group-title="Canais @ Documentários",Discovery Science SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/109
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="http://static.esrv.cc/logos/canais/discoverytheater.png" group-title="Canais @ 4K (FHDR)",Discovery Theater 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41512
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="http://static.esrv.cc/logos/canais/discoverytheater.png" group-title="Canais @ Documentários",Discovery Theater FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31477
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="http://static.esrv.cc/logos/canais/discoverytheater.png" group-title="Canais @ Documentários",Discovery Theater FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/110
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="http://static.esrv.cc/logos/canais/discoverytheater.png" group-title="Canais @ Documentários",Discovery Theater HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/111
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="http://static.esrv.cc/logos/canais/discoverytheater.png" group-title="Canais @ Documentários",Discovery Theater SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/112
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://static.esrv.cc/logos/canais/discoveryturbo.png" group-title="Canais @ 4K (FHDR)",Discovery Turbo 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41511
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://static.esrv.cc/logos/canais/discoveryturbo.png" group-title="Canais @ Variedades",Discovery Turbo FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31478
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://static.esrv.cc/logos/canais/discoveryturbo.png" group-title="Canais @ Variedades",Discovery Turbo FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/113
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://static.esrv.cc/logos/canais/discoveryturbo.png" group-title="Canais @ Variedades",Discovery Turbo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/114
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://static.esrv.cc/logos/canais/discoveryturbo.png" group-title="Canais @ Variedades",Discovery Turbo SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/115
+#EXTINF:-1 tvg-id="Discovery world HD ³" tvg-logo="http://static.esrv.cc/logos/canais/discoveryworld.png" group-title="Canais @ 4K (FHDR)",Discovery World 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41510
+#EXTINF:-1 tvg-id="Discovery World" tvg-logo="http://static.esrv.cc/logos/canais/discoveryworld.png" group-title="Canais @ Documentários",Discovery World FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31479
+#EXTINF:-1 tvg-id="Discovery World" tvg-logo="http://static.esrv.cc/logos/canais/discoveryworld.png" group-title="Canais @ Documentários",Discovery World FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/116
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://static.esrv.cc/logos/canais/discoveryworld.png" group-title="Canais @ Documentários",Discovery World HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/117
+#EXTINF:-1 tvg-id="Discovery World" tvg-logo="http://static.esrv.cc/logos/canais/discoveryworld.png" group-title="Canais @ Documentários",Discovery World SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/118
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ 4K (FHDR)",Disney Channel 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41327
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://static.esrv.cc/logos/canais/disney.png" group-title="Canais @ Infantis",Disney Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31480
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://static.esrv.cc/logos/canais/disney.png" group-title="Canais @ Infantis",Disney Channel FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/119
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://static.esrv.cc/logos/canais/disney.png" group-title="Canais @ Infantis",Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/120
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://static.esrv.cc/logos/canais/disney.png" group-title="Canais @ Infantis",Disney Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/121
+#EXTINF:-1 tvg-id="Disney JR" tvg-logo="http://static.esrv.cc/logos/canais/disneyjr.png" group-title="Canais @ 4K (FHDR)",Disney Junior 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41509
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://static.esrv.cc/logos/canais/disneyjr.png" group-title="Canais @ Infantis",Disney Junior FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31481
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://static.esrv.cc/logos/canais/disneyjr.png" group-title="Canais @ Infantis",Disney Junior FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/122
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://static.esrv.cc/logos/canais/disneyjr.png" group-title="Canais @ Infantis",Disney Junior HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/123
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://static.esrv.cc/logos/canais/disneyjr.png" group-title="Canais @ Infantis",Disney Junior SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/124
+#EXTINF:-1 tvg-id="Eurochannel" tvg-logo="http://static.esrv.cc/logos/canais/disneyxd.png" group-title="Canais @ Infantis",Disney XD FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/125
+#EXTINF:-1 tvg-id="Eurochannel" tvg-logo="http://static.esrv.cc/logos/canais/disneyxd.png" group-title="Canais @ Infantis",Disney XD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/126
+#EXTINF:-1 tvg-id="Eurochannel" tvg-logo="http://static.esrv.cc/logos/canais/disneyxd.png" group-title="Canais @ Infantis",Disney XD SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/127
+#EXTINF:-1 tvg-id="E! oi" tvg-logo="http://static.esrv.cc/logos/canais/e%21.png" group-title="Canais @ 4K (FHDR)",E! 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41508
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/e%21.png" group-title="Canais @ Variedades",E! FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31879
+#EXTINF:-1 tvg-id="E!" tvg-logo="http://static.esrv.cc/logos/canais/e%21.png" group-title="Canais @ Variedades",E! FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/128
+#EXTINF:-1 tvg-id="E!" tvg-logo="http://static.esrv.cc/logos/canais/e%21.png" group-title="Canais @ Variedades",E! HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/129
+#EXTINF:-1 tvg-id="E!" tvg-logo="http://static.esrv.cc/logos/canais/e%21.png" group-title="Canais @ Variedades",E! SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/130
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://static.esrv.cc/logos/canais/espn.png" group-title="Canais @ Disney Sports",ESPN 2 (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/152
+#EXTINF:-1 tvg-id="ESPN oi" tvg-logo="http://static.esrv.cc/logos/canais/espn.png" group-title="Canais @ 4K (FHDR)",ESPN 2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41506
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-logo="http://static.esrv.cc/logos/canais/espn2.png" group-title="Canais @ 4K (FHDR)",ESPN 3 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41507
+#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="http://static.esrv.cc/logos/canais/foxsports1.png" group-title="Canais @ 4K (FHDR)",ESPN 4 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41499
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-logo="http://static.esrv.cc/logos/canais/espnbrasil.png" group-title="Canais @ 4K (FHDR)",ESPN 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41505
+#EXTINF:-1 tvg-id="ESPN Extra HD" tvg-logo="http://static.esrv.cc/logos/canais/espnextra.png" group-title="Canais @ 4K (FHDR)",ESPN Extra 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41504
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-logo="http://static.esrv.cc/logos/canais/espnbrasil.png" group-title="Canais @ Disney Sports",ESPN FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31820
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-logo="http://static.esrv.cc/logos/canais/espnbrasil.png" group-title="Canais @ Disney Sports",ESPN FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/147
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-logo="http://static.esrv.cc/logos/canais/espnbrasil.png" group-title="Canais @ Disney Sports",ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/148
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-logo="http://static.esrv.cc/logos/canais/espnbrasil.png" group-title="Canais @ Disney Sports",ESPN SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/149
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/espn.png" group-title="Canais @ Disney Sports",ESPN 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31840
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://static.esrv.cc/logos/canais/espn.png" group-title="Canais @ Disney Sports",ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/153
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://static.esrv.cc/logos/canais/espn.png" group-title="Canais @ Disney Sports",ESPN 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/154
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/espn2.png" group-title="Canais @ Disney Sports",ESPN 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31817
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="http://static.esrv.cc/logos/canais/espn2.png" group-title="Canais @ Disney Sports",ESPN 3 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/144
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="http://static.esrv.cc/logos/canais/espn2.png" group-title="Canais @ Disney Sports",ESPN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/145
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="http://static.esrv.cc/logos/canais/espn2.png" group-title="Canais @ Disney Sports",ESPN 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/146
+#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="http://static.esrv.cc/logos/canais/foxsports1.png" group-title="Canais @ Disney Sports",ESPN 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31846
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://static.esrv.cc/logos/canais/foxsports1.png" group-title="Canais @ Disney Sports",ESPN 4 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/179
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://static.esrv.cc/logos/canais/foxsports1.png" group-title="Canais @ Disney Sports",ESPN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/180
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-logo="http://static.esrv.cc/logos/canais/foxsports1.png" group-title="Canais @ Disney Sports",ESPN 4 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/181
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-logo="http://static.esrv.cc/logos/canais/espnextra.png" group-title="Canais @ Disney Sports",ESPN Extra FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31832
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-logo="http://static.esrv.cc/logos/canais/espnextra.png" group-title="Canais @ Disney Sports",ESPN Extra FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31835
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-logo="http://static.esrv.cc/logos/canais/espnextra.png" group-title="Canais @ Disney Sports",ESPN Extra HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/150
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-logo="http://static.esrv.cc/logos/canais/espnextra.png" group-title="Canais @ Disney Sports",ESPN Extra SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/151
+#EXTINF:-1 tvg-id="Fashion TV HD" tvg-logo="" group-title="Canais @ 4K (FHDR)",Fashion TV 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41503
+#EXTINF:-1 tvg-id="FashionTV Brasil" tvg-logo="" group-title="Canais @ Variedades",FashionTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31482
+#EXTINF:-1 tvg-id="FashionTV Brasil" tvg-logo="" group-title="Canais @ Variedades",FashionTV FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31882
+#EXTINF:-1 tvg-id="FashionTV Brasil" tvg-logo="" group-title="Canais @ Variedades",FashionTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31883
+#EXTINF:-1 tvg-id="FashionTV Brasil" tvg-logo="" group-title="Canais @ Variedades",FashionTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31885
+#EXTINF:-1 tvg-id="FISH TV" tvg-logo="http://static.esrv.cc/logos/canais/fishtv.png" group-title="Canais @ 4K (FHDR)",Fish TV 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41502
+#EXTINF:-1 tvg-id="Fish TV" tvg-logo="http://static.esrv.cc/logos/canais/fishtv.png" group-title="Canais @ Variedades",Fish TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31483
+#EXTINF:-1 tvg-id="Fish TV" tvg-logo="http://static.esrv.cc/logos/canais/fishtv.png" group-title="Canais @ Variedades",Fish TV FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/155
+#EXTINF:-1 tvg-id="Fish TV" tvg-logo="http://static.esrv.cc/logos/canais/fishtv.png" group-title="Canais @ Variedades",Fish TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/156
+#EXTINF:-1 tvg-id="Fish TV" tvg-logo="http://static.esrv.cc/logos/canais/fishtv.png" group-title="Canais @ Variedades",Fish TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/157
+#EXTINF:-1 tvg-id="" tvg-logo="http://a5.vc/AJf" group-title="Canais @ Pay-Per-View",FlaTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31517
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/P5gcR4V.jpg" group-title="Canais @ Pay-Per-View",FluTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31640
+#EXTINF:-1 tvg-id="Food Network" tvg-logo="http://static.esrv.cc/logos/canais/foodnetwork.png" group-title="Canais @ 4K (FHDR)",Food Network 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41501
+#EXTINF:-1 tvg-id="Food Network" tvg-logo="http://static.esrv.cc/logos/canais/foodnetwork.png" group-title="Canais @ Variedades",Food Network FHD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31889
+#EXTINF:-1 tvg-id="Food Network" tvg-logo="http://static.esrv.cc/logos/canais/foodnetwork.png" group-title="Canais @ Variedades",Food Network FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/158
+#EXTINF:-1 tvg-id="Food Network" tvg-logo="http://static.esrv.cc/logos/canais/foodnetwork.png" group-title="Canais @ Variedades",Food Network HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/159
+#EXTINF:-1 tvg-id="Food Network" tvg-logo="http://static.esrv.cc/logos/canais/foodnetwork.png" group-title="Canais @ Variedades",Food Network SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/160
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ Variedades",Formula 1 TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32981
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-logo="http://static.esrv.cc/logos/canais/foxsports2.png" group-title="Canais @ 4K (FHDR)",FOX Sports 2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41500
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="http://static.esrv.cc/logos/canais/foxsports2.png" group-title="Canais @ Disney Sports",Fox Sports 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31842
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://static.esrv.cc/logos/canais/foxsports2.png" group-title="Canais @ Disney Sports",Fox Sports 2 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/176
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://static.esrv.cc/logos/canais/foxsports2.png" group-title="Canais @ Disney Sports",Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/177
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-logo="http://static.esrv.cc/logos/canais/foxsports2.png" group-title="Canais @ Disney Sports",Fox Sports 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/178
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ 4K (FHDR)",France 24 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41498
+#EXTINF:-1 tvg-id="Futura" tvg-logo="" group-title="Canais @ 4K (FHDR)",Futura 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41497
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://static.esrv.cc/logos/canais/fx.png" group-title="Canais @ 4K (FHDR)",FX 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41496
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://static.esrv.cc/logos/canais/fx.png" group-title="Canais @ Filmes e Séries",FX FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31890
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://static.esrv.cc/logos/canais/fx.png" group-title="Canais @ Filmes e Séries",FX FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/182
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://static.esrv.cc/logos/canais/fx.png" group-title="Canais @ Legendados",FX FHD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40040
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://static.esrv.cc/logos/canais/fx.png" group-title="Canais @ Filmes e Séries",FX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/183
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://static.esrv.cc/logos/canais/fx.png" group-title="Canais @ Legendados",FX HD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40039
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://static.esrv.cc/logos/canais/fx.png" group-title="Canais @ Filmes e Séries",FX SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/184
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://static.esrv.cc/logos/canais/fx.png" group-title="Canais @ Legendados",FX SD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40038
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Brasilia FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31790
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Brasilia HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/185
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Brasilia SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/186
+#EXTINF:-1 tvg-id="EPTV Campinas" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo EPTV Campinas FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/189
+#EXTINF:-1 tvg-id="EPTV Campinas" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/190
+#EXTINF:-1 tvg-id="EPTV Campinas" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo EPTV Campinas SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/191
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo EPTV Central Sao Carlos FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39839
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo EPTV Central Sao Carlos HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39840
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo EPTV Central Sao Carlos SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/18269
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo EPTV Ribeirao Preto FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32984
+#EXTINF:-1 tvg-id="EPTV Ribeirão" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo EPTV Ribeirao Preto HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/30782
+#EXTINF:-1 tvg-id="EPTV Ribeirão" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo EPTV Ribeirao Preto SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/192
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo EPTV Sul de Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39841
+#EXTINF:-1 tvg-id="EPTV Sul de Minas" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo EPTV Sul de Minas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/194
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo EPTV Sul de Minas SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39842
+#EXTINF:-1 tvg-id="Inter TV Alto Litoral" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Inter TV Alto Litoral FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31851
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Inter TV Alto Litoral HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32985
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Inter TV Alto Litoral SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32986
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Inter TV Araxa FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39843
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Inter TV Araxa HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39844
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Inter TV Araxa SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39845
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Inter TV Cabugi FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31796
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Inter TV Cabugi HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31797
+#EXTINF:-1 tvg-id="Inter TV Cabugi" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Inter TV Cabugi SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/195
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Inter TV dos Vales FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39846
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Inter TV dos Vales HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39847
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Inter TV dos Vales SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39848
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Inter TV Grande Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/197
+#EXTINF:-1 tvg-id="Inter TV Grande Minas" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Inter TV Grande Minas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/198
+#EXTINF:-1 tvg-id="Inter TV Grande Minas" tvg-logo="" group-title="Canais @ Globo",Globo Inter TV Grande Minas SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32014
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Inter TV Serra Mar FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39849
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Inter TV Serra Mar HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39850
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Inter TV Serra Mar SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39851
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31798
+#EXTINF:-1 tvg-id="Globo Minas" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Minas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/200
+#EXTINF:-1 tvg-id="Globo Minas" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Minas SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/201
+#EXTINF:-1 tvg-id="GloboNews" tvg-logo="http://static.esrv.cc/logos/canais/globonews.png" group-title="Canais @ 4K (FHDR)",GloboNews 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41495
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globonews.png" group-title="Canais @ Notícias",Globo News FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31923
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globonews.png" group-title="Canais @ Notícias",Globo News FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/202
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globonews.png" group-title="Canais @ Notícias",Globo News HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/203
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globonews.png" group-title="Canais @ Notícias",Globo News SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/204
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Nordeste FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31799
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Nordeste HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/206
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Nordeste SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/207
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png " group-title="Canais @ Globo",Globo NSC Florianopolis FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31800
+#EXTINF:-1 tvg-id="NSC TV Florianópolis" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo NSC Florianopolis HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/209
+#EXTINF:-1 tvg-id="NSC TV Florianópolis" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo NSC Florianopolis SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/210
+#EXTINF:-1 tvg-id="NSC TV Blumenau" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo NSC TV Blumenau FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/211
+#EXTINF:-1 tvg-id="NSC TV Blumenau" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo NSC TV Blumenau HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31801
+#EXTINF:-1 tvg-id="NSC TV Blumenau" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo NSC TV Blumenau SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32050
+#EXTINF:-1 tvg-id="NSC TV Chapecó" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo NSC TV Chapeco FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31825
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo NSC TV Chapeco HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32987
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo NSC TV Chapeco SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32988
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo NSC TV Joinville FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39852
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo NSC TV Joinville HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39853
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo NSC TV Joinville SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39854
+#EXTINF:-1 tvg-id="FashionTV Brasil" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RBS TV Caxias do Sul FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31857
+#EXTINF:-1 tvg-id="FashionTV Brasil" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RBS TV Caxias do Sul HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31858
+#EXTINF:-1 tvg-id="FashionTV Brasil" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RBS TV Caxias do Sul SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31859
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RBS TV Pelotas FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39855
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RBS TV Pelotas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39856
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RBS TV Pelotas SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39857
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RBS TV Porto Alegre FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/212
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RBS TV Porto Alegre HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/213
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RBS TV Porto Alegre SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/214
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Rede Amazonica Boa Vista FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39900
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Rede Amazonica Boa Vista HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39901
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Rede Amazonica Boa Vista SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39902
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Rede Amazonica Manaus FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39858
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Rede Amazonica Manaus HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39859
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Rede Amazonica Manaus SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39860
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Rede Amazonica Porto Velho FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39903
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Rede Amazonica Porto Velho HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39904
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Rede Amazonica Porto Velho SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39905
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Rede Amazonica Rio Branco FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39861
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Rede Amazonica Rio Branco HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39862
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo Rede Amazonica Rio Branco SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39863
+#EXTINF:-1 tvg-id="Eurochannel" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RJ FHD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31805
+#EXTINF:-1 tvg-id="Eurochannel" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/217
+#EXTINF:-1 tvg-id="Eurochannel" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RJ SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/216
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RPC Cascavel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/70550
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RPC Cascavel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/70551
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RPC Cascavel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/70552
+#EXTINF:-1 tvg-id="RPC Curitiba" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RPC Curitiba FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31836
+#EXTINF:-1 tvg-id="RPC Curitiba" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RPC Curitiba HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31837
+#EXTINF:-1 tvg-id="RPC Curitiba" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RPC Curitiba SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/221
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RPC Londrina FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/70553
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RPC Londrina HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/70554
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RPC Londrina SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/70555
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RPC TV Curitiba FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/70556
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RPC TV Curitiba HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/70557
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RPC TV Curitiba SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/70558
+#EXTINF:-1 tvg-id="RPC Foz do Iguaçu" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RPC TV Foz do Iguacu FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31831
+#EXTINF:-1 tvg-id="RPC Foz do Iguaçu" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RPC TV Foz do Iguacu HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31833
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RPC TV Foz do Iguacu SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39864
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RPC TV Maringa FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39865
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RPC TV Maringa HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39866
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RPC TV Maringa SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39867
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RPC TV Paranavai FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39868
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RPC TV Paranavai HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39869
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RPC TV Paranavai SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39870
+#EXTINF:-1 tvg-id="RPC Ponta Grossa" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RPC TV Ponta Grossa FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31838
+#EXTINF:-1 tvg-id="RPC Ponta Grossa" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RPC TV Ponta Grossa HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31839
+#EXTINF:-1 tvg-id="RPC Ponta Grossa" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo RPC TV Ponta Grossa SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31841
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo SP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/222
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/223
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/224
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Anhanguera FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/225
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Anhanguera HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/226
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Anhanguera SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/227
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Asa Branca FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39871
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Asa Branca HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39872
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Asa Branca SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39873
+#EXTINF:-1 tvg-id="TV Bahia" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Bahia FHD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/228
+#EXTINF:-1 tvg-id="TV Bahia" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Bahia HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/229
+#EXTINF:-1 tvg-id="TV Bahia" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Bahia SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32057
+#EXTINF:-1 tvg-id="TV Cabo Branco" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Cabo Branco FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31828
+#EXTINF:-1 tvg-id="TV Cabo Branco" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Cabo Branco HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31829
+#EXTINF:-1 tvg-id="TV Cabo Branco" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Cabo Branco SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31830
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Centro America FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31810
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Centro America HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/188
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Centro America SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39874
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Clube Teresina FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31843
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Clube Teresina HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32989
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Clube Teresina SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32990
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Diario Mogi das Cruzes FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39875
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Diario Mogi das Cruzes HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39876
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Diario Mogi das Cruzes SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39877
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Fronteira Presidente Prudente FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39878
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Fronteira Presidente Prudente HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39879
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Fronteira Presidente Prudente SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39880
+#EXTINF:-1 tvg-id="Gazeta RN" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Gazeta Alagoas FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31812
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Gazeta Alagoas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31813
+#EXTINF:-1 tvg-id="Gazeta RN" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Gazeta Alagoas SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31814
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Gazeta Sul FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39881
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Gazeta Sul HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39882
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Gazeta Sul SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39883
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Gazeta Vitoria FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31847
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Gazeta Vitoria HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31848
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png " group-title="Canais @ Globo",Globo TV Gazeta Vitoria SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31849
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Integracao Juiz de Fora FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39884
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Integracao Juiz de Fora HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31864
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Integracao Juiz de Fora SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31865
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Integracao Uberaba FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/70559
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Integracao Uberaba HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/70560
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Integracao Uberaba SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/70561
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Integracao Uberlandia FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/70562
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Integracao Uberlandia HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/70563
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Integracao Uberlandia SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/70564
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Liberal Belem FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/231
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Liberal Belem HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/232
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Liberal Belem SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/233
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Mirante Cocais FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/70565
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Mirante Cocais HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/70566
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Mirante Cocais SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/70567
+#EXTINF:-1 tvg-id="TV Mirante" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Mirante Sao Luis FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/238
+#EXTINF:-1 tvg-id="TV Mirante" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Mirante Sao Luis HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/239
+#EXTINF:-1 tvg-id="TV Mirante" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Mirante Sao Luis SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/240
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Morena FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31819
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Morena HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/242
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Morena SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/243
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ Globo",Globo TV Paraiba HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/18265
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ Globo",Globo TV Rio Sul FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31484
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ Globo",Globo TV Rio Sul HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/18268
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Rio Sul SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32991
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Santa Cruz HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31823
+#EXTINF:-1 tvg-id="TV Santa Cruz - Rede Bahia" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Santa Cruz SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31824
+#EXTINF:-1 tvg-id="TV Sergipe" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Sergipe FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/244
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/Gxs" group-title="Canais @ Globo",Globo TV Sergipe HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31650
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/Gxs" group-title="Canais @ Globo",Globo TV Sergipe SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31652
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Subae FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/70568
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Subae  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/70569
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Subae SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/70570
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV TEM Bauru FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39885
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV TEM Bauru HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39886
+#EXTINF:-1 tvg-id="TV TEM Bauru" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV TEM Bauru SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/245
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV TEM Itapetininga FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39887
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV TEM Itapetininga HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39888
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV TEM Itapetininga SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39889
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV TEM Sao Jose do Rio Preto FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32994
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/Gxs" group-title="Canais @ Globo",Globo TV Tem Sao Jose do Rio Preto HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/27195
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Tem Sao Jose do Rio Preto SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/18267
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV TEM Sorocaba FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32992
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV TEM Sorocaba HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32993
+#EXTINF:-1 tvg-id="TV TEM Sorocaba" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV TEM Sorocaba SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/246
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Tribuna Santos FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32983
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Tribuna Santos HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32982
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Tribuna Santos SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/247
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Vanguarda Sao Jose dos Campos FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32995
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Vanguarda Sao Jose dos Campos HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32996
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Vanguarda Sao Jose dos Campos SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/248
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Vanguarda Taubate FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39890
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Vanguarda Taubate HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39891
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Vanguarda Taubate SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39892
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ 4K (FHDR)",Globo TV Verdes Mares 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41494
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Verdes Mares FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31792
+#EXTINF:-1 tvg-id="TV Verdes Mares" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Verdes Mares HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/250
+#EXTINF:-1 tvg-id="TV Verdes Mares" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Globo",Globo TV Verdes Mares SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/251
+#EXTINF:-1 tvg-id="Gloob" tvg-logo="http://static.esrv.cc/logos/canais/gloob.png" group-title="Canais @ 4K (FHDR)",Gloob 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41493
+#EXTINF:-1 tvg-id="Gloob" tvg-logo="http://static.esrv.cc/logos/canais/gloob.png" group-title="Canais @ Infantis",Gloob FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31911
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://static.esrv.cc/logos/canais/gloob.png" group-title="Canais @ Infantis",Gloob FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/252
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://static.esrv.cc/logos/canais/gloob.png" group-title="Canais @ Infantis",Gloob HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/253
+#EXTINF:-1 tvg-id="Gloobinho" tvg-logo="http://static.esrv.cc/logos/canais/gloobinho.png" group-title="Canais @ 4K (FHDR)",Gloobinho 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41492
+#EXTINF:-1 tvg-id="Gloobinho" tvg-logo="http://static.esrv.cc/logos/canais/gloobinho.png" group-title="Canais @ Infantis",Gloobinho FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/255
+#EXTINF:-1 tvg-id="Gloobinho" tvg-logo="http://static.esrv.cc/logos/canais/gloobinho.png" group-title="Canais @ Infantis",Gloobinho HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/256
+#EXTINF:-1 tvg-id="Gloobinho" tvg-logo="http://static.esrv.cc/logos/canais/gloobinho.png" group-title="Canais @ Infantis",Gloobinho SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/257
+#EXTINF:-1 tvg-id="Gloob" tvg-logo="http://static.esrv.cc/logos/canais/gloob.png" group-title="Canais @ Infantis",Gloob SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/254
+#EXTINF:-1 tvg-id="GNT" tvg-logo="http://static.esrv.cc/logos/canais/gnt.png" group-title="Canais @ 4K (FHDR)",GNT 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41491
+#EXTINF:-1 tvg-id="GNT" tvg-logo="http://static.esrv.cc/logos/canais/gnt.png" group-title="Canais @ Variedades",GNT FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31893
+#EXTINF:-1 tvg-id="GNT" tvg-logo="http://static.esrv.cc/logos/canais/gnt.png" group-title="Canais @ Variedades",GNT FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/258
+#EXTINF:-1 tvg-id="GNT" tvg-logo="http://static.esrv.cc/logos/canais/gnt.png" group-title="Canais @ Variedades",GNT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/259
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-logo="http://static.esrv.cc/logos/canais/gnt.png" group-title="Canais @ Variedades",GNT SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/260
+#EXTINF:-1 tvg-id="History 2" tvg-logo="http://static.esrv.cc/logos/canais/h2.png" group-title="Canais @ Documentários",H2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31485
+#EXTINF:-1 tvg-id="History 2" tvg-logo="http://static.esrv.cc/logos/canais/h2.png" group-title="Canais @ Documentários",H2 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/261
+#EXTINF:-1 tvg-id="History 2" tvg-logo="http://static.esrv.cc/logos/canais/h2.png" group-title="Canais @ Documentários",H2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/262
+#EXTINF:-1 tvg-id="History 2" tvg-logo="http://static.esrv.cc/logos/canais/h2.png" group-title="Canais @ Documentários",H2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/263
+#EXTINF:-1 tvg-id="HBO +" tvg-logo="http://static.esrv.cc/logos/canais/hboplus.png" group-title="Canais @ 4K (FHDR)",HBO+ 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41490
+#EXTINF:-1 tvg-id="HBO +" tvg-logo="http://static.esrv.cc/logos/canais/hboplus.png" group-title="Canais @ Legendados",HBO+ FHD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40037
+#EXTINF:-1 tvg-id="HBO +" tvg-logo="http://static.esrv.cc/logos/canais/hboplus.png" group-title="Canais @ Legendados",HBO+ HD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40036
+#EXTINF:-1 tvg-id="HBO +" tvg-logo="http://static.esrv.cc/logos/canais/hboplus.png" group-title="Canais @ Legendados",HBO+ SD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40035
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="http://static.esrv.cc/logos/canais/hbo2.png" group-title="Canais @ 4K (FHDR)",HBO 2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41489
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="http://static.esrv.cc/logos/canais/hbo2.png" group-title="Canais @ HBO",HBO 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31486
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="http://static.esrv.cc/logos/canais/hbo2.png" group-title="Canais @ HBO",HBO 2 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/264
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="http://static.esrv.cc/logos/canais/hbo2.png" group-title="Canais @ HBO",HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/265
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="http://static.esrv.cc/logos/canais/hbo2.png" group-title="Canais @ HBO",HBO 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/266
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://static.esrv.cc/logos/canais/hbo.png" group-title="Canais @ 4K (FHDR)",HBO 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41487
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="http://static.esrv.cc/logos/canais/hbofamily.png" group-title="Canais @ 4K (FHDR)",HBO Family 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41488
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="http://static.esrv.cc/logos/canais/hbofamily.png" group-title="Canais @ HBO",HBO Family FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31487
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="http://static.esrv.cc/logos/canais/hbofamily.png" group-title="Canais @ HBO",HBO Family FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/267
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="http://static.esrv.cc/logos/canais/hbofamily.png" group-title="Canais @ HBO",HBO Family HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/268
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="http://static.esrv.cc/logos/canais/hbofamily.png" group-title="Canais @ HBO",HBO Family SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/269
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://static.esrv.cc/logos/canais/hbo.png" group-title="Canais @ HBO",HBO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31488
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://static.esrv.cc/logos/canais/hbo.png" group-title="Canais @ HBO",HBO FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/270
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://static.esrv.cc/logos/canais/hbo.png" group-title="Canais @ Legendados",HBO FHD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40034
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://static.esrv.cc/logos/canais/hbo.png" group-title="Canais @ HBO",HBO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/271
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://static.esrv.cc/logos/canais/hbo.png" group-title="Canais @ Legendados",HBO HD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40033
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-logo="http://static.esrv.cc/logos/canais/eiplus.png" group-title="Canais @ Pay-Per-View",HBO Max 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/131
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-logo="http://static.esrv.cc/logos/canais/eiplus.png" group-title="Canais @ Pay-Per-View",HBO Max 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/133
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-logo="http://static.esrv.cc/logos/canais/eiplus.png" group-title="Canais @ Pay-Per-View",HBO Max 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/135
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-logo="http://static.esrv.cc/logos/canais/eiplus.png" group-title="Canais @ Pay-Per-View",HBO Max 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/137
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-logo="http://static.esrv.cc/logos/canais/eiplus.png" group-title="Canais @ Pay-Per-View",HBO Max 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/139
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-logo="http://static.esrv.cc/logos/canais/eiplus.png" group-title="Canais @ Pay-Per-View",HBO Max 6 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/142
+#EXTINF:-1 tvg-id="Hbo Mundi" tvg-logo="http://static.esrv.cc/logos/canais/hbomundi.png" group-title="Canais @ 4K (FHDR)",HBO MUNDI 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41486
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="http://static.esrv.cc/logos/canais/hbomundi.png" group-title="Canais @ HBO",HBO Mundi FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31489
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-logo="http://static.esrv.cc/logos/canais/hbomundi.png" group-title="Canais @ HBO",HBO Mundi FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/272
+#EXTINF:-1 tvg-id="Hbo Mundi" tvg-logo="http://static.esrv.cc/logos/canais/hbomundi.png" group-title="Canais @ Legendados",HBO MUNDI FHD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40032
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-logo="http://static.esrv.cc/logos/canais/hbomundi.png" group-title="Canais @ HBO",HBO Mundi HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/273
+#EXTINF:-1 tvg-id="Hbo Mundi" tvg-logo="http://static.esrv.cc/logos/canais/hbomundi.png" group-title="Canais @ Legendados",HBO MUNDI HD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40031
+#EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://static.esrv.cc/logos/canais/hbomundi.png" group-title="Canais @ HBO",HBO Mundi SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/274
+#EXTINF:-1 tvg-id="Hbo Mundi" tvg-logo="http://static.esrv.cc/logos/canais/hbomundi.png" group-title="Canais @ Legendados",HBO MUNDI SD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40030
+#EXTINF:-1 tvg-id="HBO +" tvg-logo="http://static.esrv.cc/logos/canais/hboplus.png" group-title="Canais @ HBO",HBO Plus FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31490
+#EXTINF:-1 tvg-id="HBO +" tvg-logo="http://static.esrv.cc/logos/canais/hboplus.png" group-title="Canais @ HBO",HBO Plus FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/275
+#EXTINF:-1 tvg-id="HBO +" tvg-logo="http://static.esrv.cc/logos/canais/hboplus.png" group-title="Canais @ HBO",HBO Plus HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/276
+#EXTINF:-1 tvg-id="HBO +" tvg-logo="http://static.esrv.cc/logos/canais/hboplus.png" group-title="Canais @ HBO",HBO Plus SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/277
+#EXTINF:-1 tvg-id="Hbo Pop" tvg-logo="http://static.esrv.cc/logos/canais/hbopop.png" group-title="Canais @ 4K (FHDR)",HBO POP 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41485
+#EXTINF:-1 tvg-id="HBO Pop" tvg-logo="http://static.esrv.cc/logos/canais/hbopop.png" group-title="Canais @ HBO",HBO Pop FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31491
+#EXTINF:-1 tvg-id="HBO Pop" tvg-logo="http://static.esrv.cc/logos/canais/hbopop.png" group-title="Canais @ HBO",HBO Pop FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/278
+#EXTINF:-1 tvg-id="Hbo Pop" tvg-logo="http://static.esrv.cc/logos/canais/hbopop.png" group-title="Canais @ Legendados",HBO POP FHD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40029
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-logo="http://static.esrv.cc/logos/canais/hbopop.png" group-title="Canais @ HBO",HBO Pop HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/279
+#EXTINF:-1 tvg-id="Hbo Pop" tvg-logo="http://static.esrv.cc/logos/canais/hbopop.png" group-title="Canais @ Legendados",HBO POP HD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40028
+#EXTINF:-1 tvg-id="HBO Pop" tvg-logo="http://static.esrv.cc/logos/canais/hbopop.png" group-title="Canais @ HBO",HBO Pop SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/280
+#EXTINF:-1 tvg-id="Hbo Pop" tvg-logo="http://static.esrv.cc/logos/canais/hbopop.png" group-title="Canais @ Legendados",HBO POP SD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40027
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://static.esrv.cc/logos/canais/hbo.png" group-title="Canais @ HBO",HBO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/281
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://static.esrv.cc/logos/canais/hbo.png" group-title="Canais @ Legendados",HBO SD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40026
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="http://static.esrv.cc/logos/canais/hbosignature.png" group-title="Canais @ 4K (FHDR)",HBO Signature 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41484
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="http://static.esrv.cc/logos/canais/hbosignature.png" group-title="Canais @ HBO",HBO Signature FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31492
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="http://static.esrv.cc/logos/canais/hbosignature.png" group-title="Canais @ HBO",HBO Signature FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/282
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="http://static.esrv.cc/logos/canais/hbosignature.png" group-title="Canais @ Legendados",HBO Signature FHD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40025
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="http://static.esrv.cc/logos/canais/hbosignature.png" group-title="Canais @ HBO",HBO Signature HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/283
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="http://static.esrv.cc/logos/canais/hbosignature.png" group-title="Canais @ Legendados",HBO Signature HD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40024
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="http://static.esrv.cc/logos/canais/hbosignature.png" group-title="Canais @ HBO",HBO Signature SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/284
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="http://static.esrv.cc/logos/canais/hbosignature.png" group-title="Canais @ Legendados",HBO Signature SD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40023
+#EXTINF:-1 tvg-id="hBO Xtreme" tvg-logo="http://static.esrv.cc/logos/canais/hboxtreme.png" group-title="Canais @ 4K (FHDR)",HBO Xtreme 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41483
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="http://static.esrv.cc/logos/canais/hboxtreme.png" group-title="Canais @ HBO",HBO Xtreme FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31493
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="http://static.esrv.cc/logos/canais/hboxtreme.png" group-title="Canais @ HBO",HBO Xtreme FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/285
+#EXTINF:-1 tvg-id="hBO Xtreme" tvg-logo="http://static.esrv.cc/logos/canais/hboxtreme.png" group-title="Canais @ Legendados",HBO XTREME FHD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40022
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-logo="http://static.esrv.cc/logos/canais/hboxtreme.png" group-title="Canais @ HBO",HBO Xtreme HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/286
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="http://static.esrv.cc/logos/canais/hboxtreme.png" group-title="Canais @ Legendados",HBO XTREME HD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40021
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="http://static.esrv.cc/logos/canais/hboxtreme.png" group-title="Canais @ HBO",HBO Xtreme SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/287
+#EXTINF:-1 tvg-id="hBO Xtreme" tvg-logo="http://static.esrv.cc/logos/canais/hboxtreme.png" group-title="Canais @ Legendados",HBO XTREME SD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40020
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="http://static.esrv.cc/logos/canais/hgtv.png" group-title="Canais @ 4K (FHDR)",HGTV 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41482
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="http://a5.vc/nug" group-title="Canais @ Documentários",HGTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31494
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="http://static.esrv.cc/logos/canais/hgtv.png" group-title="Canais @ Documentários",HGTV FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/98
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="http://static.esrv.cc/logos/canais/hgtv.png" group-title="Canais @ Documentários",HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/99
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="http://static.esrv.cc/logos/canais/hgtv.png" group-title="Canais @ Documentários",HGTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/100
+#EXTINF:-1 tvg-id="History 2" tvg-logo="http://static.esrv.cc/logos/canais/h2.png" group-title="Canais @ 4K (FHDR)",History 2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41481
+#EXTINF:-1 tvg-id="The History Channel" tvg-logo="http://static.esrv.cc/logos/canais/history.png" group-title="Canais @ 4K (FHDR)",History 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41480
+#EXTINF:-1 tvg-id="History" tvg-logo="http://static.esrv.cc/logos/canais/history.png" group-title="Canais @ Documentários",History FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31878
+#EXTINF:-1 tvg-id="History" tvg-logo="http://static.esrv.cc/logos/canais/history.png" group-title="Canais @ Documentários",History FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/288
+#EXTINF:-1 tvg-id="History" tvg-logo="http://static.esrv.cc/logos/canais/history.png" group-title="Canais @ Documentários",History HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/289
+#EXTINF:-1 tvg-id="History" tvg-logo="http://static.esrv.cc/logos/canais/history.png" group-title="Canais @ Documentários",History SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/290
+#EXTINF:-1 tvg-id="ID" tvg-logo="http://static.esrv.cc/logos/canais/id.png" group-title="Canais @ 4K (FHDR)",ID 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41479
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2FLFlC5.png" group-title="Canais @ 4K (FHDR)",Jovem Pan News 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/53120
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2FLFlC5.png" group-title="Canais @ Notícias",Jovem Pan News FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/53116
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2FLFlC5.png" group-title="Canais @ Notícias",Jovem Pan News FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/53119
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2FLFlC5.png" group-title="Canais @ Notícias",Jovem Pan News HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/53117
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2FLFlC5.png" group-title="Canais @ Notícias",Jovem Pan News SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/53118
+#EXTINF:-1 tvg-id="Lifetime" tvg-logo="http://static.esrv.cc/logos/canais/lifetime.png" group-title="Canais @ 4K (FHDR)",Lifetime 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41478
+#EXTINF:-1 tvg-id="Lifetime" tvg-logo="http://static.esrv.cc/logos/canais/lifetime.png" group-title="Canais @ Variedades",Lifetime FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31897
+#EXTINF:-1 tvg-id="Lifetime" tvg-logo="http://static.esrv.cc/logos/canais/lifetime.png" group-title="Canais @ Variedades",Lifetime FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/297
+#EXTINF:-1 tvg-id="Lifetime" tvg-logo="http://static.esrv.cc/logos/canais/lifetime.png" group-title="Canais @ Variedades",Lifetime HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/298
+#EXTINF:-1 tvg-id="Lifetime" tvg-logo="http://static.esrv.cc/logos/canais/lifetime.png" group-title="Canais @ Variedades",Lifetime SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/299
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ Pay-Per-View",Liga Futsal 1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32034
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ 4K (FHDR)",Like 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41477
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ Variedades",Like FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31496
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ Variedades",Like FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31898
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ Variedades",Like HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31899
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ Variedades",Like SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31903
+#EXTINF:-1 tvg-id="Trace Brazuca Vivo" tvg-logo="" group-title="Canais @ Infantis",Loading FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39893
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ Infantis",Loading FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39896
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ Infantis",Loading HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39894
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ Infantis",Loading SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39895
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ Documentários",Love Nature FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/2551
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-logo="http://static.esrv.cc/logos/canais/maisglobosat.png" group-title="Canais @ Variedades",Mais Globosat HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/301
+#EXTINF:-1 tvg-id="Megapix" tvg-logo="http://static.esrv.cc/logos/canais/megapix.png" group-title="Canais @ 4K (FHDR)",Megapix 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41475
+#EXTINF:-1 tvg-id="Megapix" tvg-logo="http://static.esrv.cc/logos/canais/megapix.png" group-title="Canais @ Filmes e Séries",Megapix FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31497
+#EXTINF:-1 tvg-id="Megapix" tvg-logo="http://static.esrv.cc/logos/canais/megapix.png" group-title="Canais @ Filmes e Séries",Megapix FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/303
+#EXTINF:-1 tvg-id="Megapix" tvg-logo="http://static.esrv.cc/logos/canais/megapix.png" group-title="Canais @ Legendados",Megapix FHD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40019
+#EXTINF:-1 tvg-id="Megapix" tvg-logo="http://static.esrv.cc/logos/canais/megapix.png" group-title="Canais @ Filmes e Séries",Megapix HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/304
+#EXTINF:-1 tvg-id="Megapix" tvg-logo="http://static.esrv.cc/logos/canais/megapix.png" group-title="Canais @ Legendados",Megapix HD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40018
+#EXTINF:-1 tvg-id="Megapix" tvg-logo="http://static.esrv.cc/logos/canais/megapix.png" group-title="Canais @ Filmes e Séries",Megapix SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/305
+#EXTINF:-1 tvg-id="Megapix" tvg-logo="http://static.esrv.cc/logos/canais/megapix.png" group-title="Canais @ Legendados",Megapix SD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40017
+#EXTINF:-1 tvg-id="Mais na tela" tvg-logo="" group-title="Canais @ 4K (FHDR)",Modo Viagem 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41476
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/maisglobosat.png" group-title="Canais @ Variedades",Modo Viagem FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31905
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://static.esrv.cc/logos/canais/maisglobosat.png" group-title="Canais @ Variedades",Modo Viagem FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/300
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-logo="http://static.esrv.cc/logos/canais/maisglobosat.png" group-title="Canais @ Variedades",Modo Viagem SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/302
+#EXTINF:-1 tvg-id="MTV" tvg-logo="http://static.esrv.cc/logos/canais/mtv.png" group-title="Canais @ 4K (FHDR)",MTV 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41474
+#EXTINF:-1 tvg-id="MTV" tvg-logo="http://static.esrv.cc/logos/canais/mtv.png" group-title="Canais @ Variedades",MTV FHD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31908
+#EXTINF:-1 tvg-id="MTV" tvg-logo="http://static.esrv.cc/logos/canais/mtv.png" group-title="Canais @ Variedades",MTV FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/306
+#EXTINF:-1 tvg-id="MTV" tvg-logo="http://static.esrv.cc/logos/canais/mtv.png" group-title="Canais @ Variedades",MTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/307
+#EXTINF:-1 tvg-id="MTV Live HD" tvg-logo="http://a5.vc/cnP" group-title="Canais @ 4K (FHDR)",MTV LIVE 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41473
+#EXTINF:-1 tvg-id="MTV Live HD" tvg-logo="http://a5.vc/cnP" group-title="Canais @ Variedades",MTV Live FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31498
+#EXTINF:-1 tvg-id="MTV Live HD" tvg-logo="http://a5.vc/cnP" group-title="Canais @ Variedades",MTV Live FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31910
+#EXTINF:-1 tvg-id="MTV Live HD" tvg-logo="http://a5.vc/cnP" group-title="Canais @ Variedades",MTV Live HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31912
+#EXTINF:-1 tvg-id="MTV Live HD" tvg-logo="http://a5.vc/cnP" group-title="Canais @ Variedades",MTV Live SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31914
+#EXTINF:-1 tvg-id="VH1 HD vfaz" tvg-logo="http://static.esrv.cc/logos/canais/vh1megahits.png" group-title="Canais @ 4K (FHDR)",MTVs 00 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41422
+#EXTINF:-1 tvg-id="VH1 HD" tvg-logo="http://static.esrv.cc/logos/canais/vh1megahits.png" group-title="Canais @ Variedades",MTVs 00 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32024
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://static.esrv.cc/logos/canais/vh1megahits.png" group-title="Canais @ Variedades",MTVs 00 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/455
+#EXTINF:-1 tvg-id="VH1 HD" tvg-logo="http://static.esrv.cc/logos/canais/vh1megahits.png" group-title="Canais @ Variedades",MTVs 00 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/456
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://static.esrv.cc/logos/canais/vh1megahits.png" group-title="Canais @ Variedades",MTVs 00 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/457
+#EXTINF:-1 tvg-id="MTV" tvg-logo="http://static.esrv.cc/logos/canais/mtv.png" group-title="Canais @ Variedades",MTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/308
+#EXTINF:-1 tvg-id="Multishow" tvg-logo="http://static.esrv.cc/logos/canais/multishow.png" group-title="Canais @ 4K (FHDR)",Multishow 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41472
+#EXTINF:-1 tvg-id="Multishow" tvg-logo="http://static.esrv.cc/logos/canais/multishow.png" group-title="Canais @ Variedades",Multishow FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31916
+#EXTINF:-1 tvg-id="Multishow" tvg-logo="http://static.esrv.cc/logos/canais/multishow.png" group-title="Canais @ Variedades",Multishow FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/309
+#EXTINF:-1 tvg-id="Multishow" tvg-logo="http://static.esrv.cc/logos/canais/multishow.png" group-title="Canais @ Variedades",Multishow HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/310
+#EXTINF:-1 tvg-id="Multishow" tvg-logo="http://static.esrv.cc/logos/canais/multishow.png" group-title="Canais @ Variedades",Multishow SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/311
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-logo="http://static.esrv.cc/logos/canais/musicboxbrazil.png" group-title="Canais @ Variedades",Music Box Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31918
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-logo="http://static.esrv.cc/logos/canais/musicboxbrazil.png" group-title="Canais @ Variedades",Music Box Brasil FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/312
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-logo="http://static.esrv.cc/logos/canais/musicboxbrazil.png" group-title="Canais @ Variedades",Music Box Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/313
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-logo="http://static.esrv.cc/logos/canais/musicboxbrazil.png" group-title="Canais @ Variedades",Music Box Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/314
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-logo="http://static.esrv.cc/logos/canais/musicboxbrazil.png" group-title="Canais @ 4K (FHDR)",Music Box Brazil 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41471
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/RcHSyRx" group-title="Canais @ Pay-Per-View",MyCujoo TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31518
+#EXTINF:-1 tvg-id="Nat Geo Kids HD" tvg-logo="http://static.esrv.cc/logos/canais/natgeokids.png" group-title="Canais @ 4K (FHDR)",Nat Geo Kids 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41470
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-logo="http://static.esrv.cc/logos/canais/natgeokids.png" group-title="Canais @ Infantis",Natgeo Kids FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31913
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-logo="http://static.esrv.cc/logos/canais/natgeokids.png" group-title="Canais @ Infantis",Natgeo Kids FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/317
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-logo="http://static.esrv.cc/logos/canais/natgeokids.png" group-title="Canais @ Infantis",Natgeo Kids HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/318
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-logo="http://static.esrv.cc/logos/canais/natgeokids.png" group-title="Canais @ Infantis",Natgeo Kids SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/319
+#EXTINF:-1 tvg-id="Natgeo Wild" tvg-logo="http://static.esrv.cc/logos/canais/natgeowild.png" group-title="Canais @ 4K (FHDR)",Nat Geo Wild 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41469
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-logo="http://static.esrv.cc/logos/canais/natgeowild.png" group-title="Canais @ Documentários",Natgeo Wild FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31880
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://static.esrv.cc/logos/canais/natgeowild.png" group-title="Canais @ Documentários",Natgeo Wild FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/321
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://static.esrv.cc/logos/canais/natgeowild.png" group-title="Canais @ Documentários",Natgeo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/322
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-logo="http://static.esrv.cc/logos/canais/natgeowild.png" group-title="Canais @ Documentários",Natgeo Wild SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/323
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ 4K (FHDR)",National Geographic 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41468
+#EXTINF:-1 tvg-id="National Geographic" tvg-logo="http://static.esrv.cc/logos/canais/nationalgeographic.png" group-title="Canais @ Documentários",National Geographic FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31881
+#EXTINF:-1 tvg-id="National Geographic" tvg-logo="http://static.esrv.cc/logos/canais/nationalgeographic.png" group-title="Canais @ Documentários",National Geographic FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/315
+#EXTINF:-1 tvg-id="National Geographic" tvg-logo="http://static.esrv.cc/logos/canais/nationalgeographic.png" group-title="Canais @ Documentários",National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/316
+#EXTINF:-1 tvg-id="National Geographic" tvg-logo="http://static.esrv.cc/logos/canais/nationalgeographic.png" group-title="Canais @ Documentários",National Geographic SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/320
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais @ Pay-Per-View",NBA League Pass 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/73265
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais @ Pay-Per-View",NBA League Pass 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/73266
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais @ Pay-Per-View",NBA League Pass 1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/73267
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais @ Pay-Per-View",NBA League Pass 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/73268
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais @ Pay-Per-View",NBA League Pass 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/73269
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais @ Pay-Per-View",NBA League Pass 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/73270
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais @ Pay-Per-View",NBA League Pass 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/73271
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais @ Pay-Per-View",NBA League Pass 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/73272
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais @ Pay-Per-View",NBA League Pass 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/73273
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais @ Pay-Per-View",NBA League Pass 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/73274
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais @ Pay-Per-View",NBA League Pass 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/73275
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais @ Pay-Per-View",NBA League Pass 4 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/73276
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais @ Pay-Per-View",NBA League Pass 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/73277
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais @ Pay-Per-View",NBA League Pass 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/73278
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais @ Pay-Per-View",NBA League Pass 5 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/73279
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais @ Pay-Per-View",NBA League Pass 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/73280
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais @ Pay-Per-View",NBA League Pass 6 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/73281
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais @ Pay-Per-View",NBA League Pass 6 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/73282
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="http://static.esrv.cc/logos/canais/nick.png" group-title="Canais @ 4K (FHDR)",Nickelodeon 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41467
+#EXTINF:-1 tvg-id="Nick" tvg-logo="http://static.esrv.cc/logos/canais/nick.png" group-title="Canais @ Infantis",Nickelodeon FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31917
+#EXTINF:-1 tvg-id="Nick" tvg-logo="http://static.esrv.cc/logos/canais/nick.png" group-title="Canais @ Infantis",Nickelodeon FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/328
+#EXTINF:-1 tvg-id="Nick" tvg-logo="http://static.esrv.cc/logos/canais/nick.png" group-title="Canais @ Infantis",Nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/329
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-logo="http://static.esrv.cc/logos/canais/nick.png" group-title="Canais @ Infantis",Nickelodeon SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/327
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://static.esrv.cc/logos/canais/nickjr.png" group-title="Canais @ 4K (FHDR)",Nick Jr. 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41466
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://static.esrv.cc/logos/canais/nickjr.png" group-title="Canais @ Infantis",Nick Jr FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31915
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://static.esrv.cc/logos/canais/nickjr.png" group-title="Canais @ Infantis",Nick Jr FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/324
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://static.esrv.cc/logos/canais/nickjr.png" group-title="Canais @ Infantis",Nick Jr HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/325
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://static.esrv.cc/logos/canais/nickjr.png" group-title="Canais @ Infantis",Nick Jr SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/326
+#EXTINF:-1 tvg-id="Off" tvg-logo="http://static.esrv.cc/logos/canais/off.png" group-title="Canais @ 4K (FHDR)",OFF 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41465
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://static.esrv.cc/logos/canais/off.png" group-title="Canais @ Esportes",OFF FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31919
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://static.esrv.cc/logos/canais/off.png" group-title="Canais @ Esportes",OFF FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/330
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://static.esrv.cc/logos/canais/off.png" group-title="Canais @ Esportes",OFF HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/331
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://static.esrv.cc/logos/canais/off.png" group-title="Canais @ Esportes",OFF SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/332
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ Pay-Per-View",O Tempo Sports FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/74911
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ Pay-Per-View",O Tempo Sports HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/74912
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ Pay-Per-View",O Tempo Sports SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/74913
+#EXTINF:-1 tvg-id="TV Pai Eterno" tvg-logo="" group-title="Canais @ 4K (FHDR)",Pai Eterno 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41464
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/paramount.png" group-title="Canais @ Filmes e Séries",Paramount Channel FHD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31892
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://static.esrv.cc/logos/canais/paramount.png" group-title="Canais @ Filmes e Séries",Paramount Channel FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/333
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://static.esrv.cc/logos/canais/paramount.png" group-title="Canais @ Filmes e Séries",Paramount Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/334
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-logo="http://static.esrv.cc/logos/canais/paramount.png" group-title="Canais @ Filmes e Séries",Paramount Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/335
+#EXTINF:-1 tvg-id="Paamount Network" tvg-logo="http://static.esrv.cc/logos/canais/paramount.png" group-title="Canais @ 4K (FHDR)",Paramount Network 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41463
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://static.esrv.cc/logos/canais/playtv.png" group-title="Canais @ Variedades",Play TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/338
+#EXTINF:-1 tvg-id="Premiere 2" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ 4K (FHDR)",Premiere 2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41460
+#EXTINF:-1 tvg-id="Premiere 3" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ 4K (FHDR)",Premiere 3 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41459
+#EXTINF:-1 tvg-id="Premiere 4" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ 4K (FHDR)",Premiere 4 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41458
+#EXTINF:-1 tvg-id="Premiere 5" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ 4K (FHDR)",Premiere 5 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41457
+#EXTINF:-1 tvg-id="Premiere 6" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ 4K (FHDR)",Premiere 6 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41456
+#EXTINF:-1 tvg-id="Premiere 7" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ 4K (FHDR)",Premiere 7 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41455
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ 4K (FHDR)",Premiere Clubes 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41461
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere Clubes FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31860
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere Clubes FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/357
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere Clubes HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/358
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere Clubes SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/359
+#EXTINF:-1 tvg-id="Premiere 2" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31850
+#EXTINF:-1 tvg-id="Premiere 2" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere 2 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/339
+#EXTINF:-1 tvg-id="Premiere 2" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/340
+#EXTINF:-1 tvg-id="Premiere 2" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/341
+#EXTINF:-1 tvg-id="Premiere 3" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31852
+#EXTINF:-1 tvg-id="Premiere 3" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere 3 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/342
+#EXTINF:-1 tvg-id="Premiere 3" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/343
+#EXTINF:-1 tvg-id="Premiere 3" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/344
+#EXTINF:-1 tvg-id="Premiere 4" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31855
+#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere 4 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/345
+#EXTINF:-1 tvg-id="Premiere 4" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/346
+#EXTINF:-1 tvg-id="Premiere 4" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere 4 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/347
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31856
+#EXTINF:-1 tvg-id="Premiere 5" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere 5 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/348
+#EXTINF:-1 tvg-id="Premiere 5" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/349
+#EXTINF:-1 tvg-id="Premiere 5" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere 5 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/350
+#EXTINF:-1 tvg-id="Premiere 6" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31499
+#EXTINF:-1 tvg-id="Premiere 6" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere 6 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/351
+#EXTINF:-1 tvg-id="Premiere 6" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere 6 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/352
+#EXTINF:-1 tvg-id="Premiere 6" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere 6 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/353
+#EXTINF:-1 tvg-id="Premiere 7" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31500
+#EXTINF:-1 tvg-id="Premiere 7" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere 7 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/354
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere 7 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/355
+#EXTINF:-1 tvg-id="Premiere 7" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ Premiere",Premiere 7 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/356
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-logo="http://static.esrv.cc/logos/canais/primeboxbrazil.png" group-title="Canais @ Variedades",Prime Box Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31921
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-logo="http://static.esrv.cc/logos/canais/primeboxbrazil.png" group-title="Canais @ Variedades",Prime Box Brasil FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/360
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-logo="http://static.esrv.cc/logos/canais/primeboxbrazil.png" group-title="Canais @ Variedades",Prime Box Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/361
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-logo="http://static.esrv.cc/logos/canais/primeboxbrazil.png" group-title="Canais @ Variedades",Prime Box Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/362
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-logo="http://static.esrv.cc/logos/canais/campeonatocatarinense.png" group-title="Canais @ 4K (FHDR)",Prime Box Brazil 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41454
+#EXTINF:-1 tvg-id="Record News" tvg-logo="http://static.esrv.cc/logos/canais/recordnews.png" group-title="Canais @ Notícias",Record News FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/364
+#EXTINF:-1 tvg-id="Record News" tvg-logo="http://static.esrv.cc/logos/canais/recordnews.png" group-title="Canais @ Notícias",Record News HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/365
+#EXTINF:-1 tvg-id="Record News" tvg-logo="http://static.esrv.cc/logos/canais/recordnews.png" group-title="Canais @ Notícias",Record News SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/366
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV Belem FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39813
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV Belem HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39812
+#EXTINF:-1 tvg-id="RecordTV Belém" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV Belem SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/368
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV Brasilia HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/369
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV GO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39819
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV GO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39818
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV Go SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/371
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV Interior RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39820
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV Interior RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39821
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV Interior RJ SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39822
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV Interior SP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39823
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV Interior SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39824
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV Interior SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39825
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV Itapoan HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39826
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV Itapoan SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39827
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV Litoral/Vale do Paraiba FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39828
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV Litoral/Vale do Paraiba HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39829
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV Litoral/Vale do Paraiba SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39830
+#EXTINF:-1 tvg-id="TV Korea" tvg-logo="" group-title="Canais @ Abertos",RecordTV MG FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40222
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV MG HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/373
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV MG SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39817
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://a5.vc/QOy" group-title="Canais @ Abertos",RecordTV RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39809
+#EXTINF:-1 tvg-id="RecordTV Rio" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/375
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://a5.vc/QOy" group-title="Canais @ Abertos",RecordTV RJ SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39811
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV RS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39815
+#EXTINF:-1 tvg-id="RecordTV RS" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV RS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/376
+#EXTINF:-1 tvg-id="RecordTV RS" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV RS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/377
+#EXTINF:-1 tvg-id="Record" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV SP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39814
+#EXTINF:-1 tvg-id="RecordTV" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/372
+#EXTINF:-1 tvg-id="RecordTV" tvg-logo="http://static.esrv.cc/logos/canais/record.png" group-title="Canais @ Abertos",RecordTV SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32052
+#EXTINF:-1 tvg-id="Rede Gospel" tvg-logo="" group-title="Canais @ Abertos",Rede Gospel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39835
+#EXTINF:-1 tvg-id="Rede Gospel" tvg-logo="" group-title="Canais @ Abertos",Rede Gospel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39834
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ Abertos",Rede Gospel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/14069
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="http://static.esrv.cc/logos/canais/redetv.png" group-title="Canais @ Abertos",RedeTV SP FHD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/379
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="http://static.esrv.cc/logos/canais/redetv.png" group-title="Canais @ Abertos",RedeTV SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/380
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="http://static.esrv.cc/logos/canais/redetv.png" group-title="Canais @ Abertos",RedeTV SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/381
+#EXTINF:-1 tvg-id="Rede Vida" tvg-logo="" group-title="Canais @ 4K (FHDR)",Rede Vida 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41453
+#EXTINF:-1 tvg-id="Rede Vida" tvg-logo="" group-title="Canais @ Abertos",Rede Vida FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32015
+#EXTINF:-1 tvg-id="Rede Vida" tvg-logo="" group-title="Canais @ Abertos",Rede Vida FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32022
+#EXTINF:-1 tvg-id="Rede Vida" tvg-logo="" group-title="Canais @ Abertos",Rede Vida HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32016
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ Abertos",Rede Vida SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/14066
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ Abertos",RiT TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/14070
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/sbt.png" group-title="Canais @ Abertos",SBT Alterosa MG HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/13904
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://static.esrv.cc/logos/canais/sbt.png" group-title="Canais @ Abertos",SBT RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39906
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://static.esrv.cc/logos/canais/sbt.png" group-title="Canais @ Abertos",SBT RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39907
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://static.esrv.cc/logos/canais/sbt.png" group-title="Canais @ Abertos",SBT RJ SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39908
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://static.esrv.cc/logos/canais/sbt.png" group-title="Canais @ Abertos",SBT Serra Dourada FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/382
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://static.esrv.cc/logos/canais/sbt.png" group-title="Canais @ Abertos",SBT SP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31501
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://static.esrv.cc/logos/canais/sbt.png" group-title="Canais @ Abertos",SBT SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/383
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://static.esrv.cc/logos/canais/sbt.png" group-title="Canais @ Abertos",SBT SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/384#EXTINF:-1 tvg-id="Smithsonian HD" tvg-logo="http://iv.pe/Rm0" group-title="Canais @ Documentários",Smithsonian Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/27197
+#EXTINF:-1 tvg-id="Smithsonian Channel" tvg-logo="http://a5.vc/SbT" group-title="Canais @ Documentários",Smithsonian FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31502
+#EXTINF:-1 tvg-id="Smithsonian Channel" tvg-logo="http://a5.vc/SbT" group-title="Canais @ Documentários",Smithsonian FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31924
+#EXTINF:-1 tvg-id="Smithsonian Channel" tvg-logo="http://a5.vc/SbT" group-title="Canais @ Documentários",Smithsonian HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31925
+#EXTINF:-1 tvg-id="Smithsonian Channel" tvg-logo="http://a5.vc/SbT" group-title="Canais @ Documentários",Smithsonian SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31926
+#EXTINF:-1 tvg-id="Sony Channel" tvg-logo="http://static.esrv.cc/logos/canais/sony.png" group-title="Canais @ Filmes e Séries",Sony FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31894
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://static.esrv.cc/logos/canais/sony.png" group-title="Canais @ Filmes e Séries",Sony FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/386
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://static.esrv.cc/logos/canais/sony.png" group-title="Canais @ Filmes e Séries",Sony HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/387
+#EXTINF:-1 tvg-id="Sony Channel" tvg-logo="http://static.esrv.cc/logos/canais/sony.png" group-title="Canais @ Filmes e Séries",Sony SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/388
+#EXTINF:-1 tvg-id="Space" tvg-logo="http://static.esrv.cc/logos/canais/space.png" group-title="Canais @ 4K (FHDR)",Space 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41451
+#EXTINF:-1 tvg-id="Space" tvg-logo="http://static.esrv.cc/logos/canais/space.png" group-title="Canais @ Filmes e Séries",Space FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31503
+#EXTINF:-1 tvg-id="Space" tvg-logo="http://static.esrv.cc/logos/canais/space.png" group-title="Canais @ Filmes e Séries",Space FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/389
+#EXTINF:-1 tvg-id="Space" tvg-logo="http://static.esrv.cc/logos/canais/space.png" group-title="Canais @ Legendados",Space FHD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40016
+#EXTINF:-1 tvg-id="Space" tvg-logo="http://static.esrv.cc/logos/canais/space.png" group-title="Canais @ Filmes e Séries",Space HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/390
+#EXTINF:-1 tvg-id="Space" tvg-logo="http://static.esrv.cc/logos/canais/space.png" group-title="Canais @ Legendados",Space HD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40015
+#EXTINF:-1 tvg-id="Space" tvg-logo="http://static.esrv.cc/logos/canais/space.png" group-title="Canais @ Filmes e Séries",Space SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/391
+#EXTINF:-1 tvg-id="Space" tvg-logo="http://static.esrv.cc/logos/canais/space.png" group-title="Canais @ Legendados",Space SD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40014
+#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="http://static.esrv.cc/logos/canais/sportv2.png" group-title="Canais @ 4K (FHDR)",SporTV2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41450
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="http://static.esrv.cc/logos/canais/sportv3.png" group-title="Canais @ 4K (FHDR)",SporTV3 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41449
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="http://static.esrv.cc/logos/canais/sportv.png" group-title="Canais @ Esportes",SporTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31862
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="http://static.esrv.cc/logos/canais/sportv.png" group-title="Canais @ Esportes",SporTV FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/398
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="http://static.esrv.cc/logos/canais/sportv.png" group-title="Canais @ Esportes",SporTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/399
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="http://static.esrv.cc/logos/canais/sportv.png" group-title="Canais @ Esportes",SporTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/400
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/sportv2.png" group-title="Canais @ Esportes",SporTV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31861
+#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="http://static.esrv.cc/logos/canais/sportv2.png" group-title="Canais @ Esportes",SporTV 2 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/392
+#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="http://static.esrv.cc/logos/canais/sportv2.png" group-title="Canais @ Esportes",SporTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/393
+#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="http://static.esrv.cc/logos/canais/sportv2.png" group-title="Canais @ Esportes",SporTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/394
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="http://static.esrv.cc/logos/canais/sportv3.png" group-title="Canais @ Esportes",SporTV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31504
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="http://static.esrv.cc/logos/canais/sportv3.png" group-title="Canais @ Esportes",SporTV 3 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/395
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="http://static.esrv.cc/logos/canais/sportv3.png" group-title="Canais @ Esportes",SporTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/396
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="http://static.esrv.cc/logos/canais/sportv3.png" group-title="Canais @ Esportes",SporTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/397
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais @ Pay-Per-View",Star + 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41850
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais @ Pay-Per-View",Star + 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/65899
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais @ Pay-Per-View",Star + 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/65900
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais @ Pay-Per-View",Star + 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/65901
+#EXTINF:-1 tvg-id="Eurochannel HD" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais @ 4K (FHDR)",Star Channel 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41447
+#EXTINF:-1 tvg-id="Fox Channel" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais @ Filmes e Séries",Star Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31886
+#EXTINF:-1 tvg-id="Fox Channel" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais @ Filmes e Séries",Star Channel FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/161
+#EXTINF:-1 tvg-id="Paamount Network" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais @ Legendados",Star Channel FHD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40013
+#EXTINF:-1 tvg-id="Fox Channel" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais @ Filmes e Séries",Star Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/162
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais @ Legendados",Star Channel HD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40012
+#EXTINF:-1 tvg-id="Fox Channel" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais @ Filmes e Séries",Star Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/175
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais @ Legendados",Star Channel SD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40011
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-logo="x" group-title="Canais @ Pay-Per-View",Paulistao 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31887
+#EXTINF:-1 tvg-id="TV Senado" tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais @ 4K (FHDR)",Star Life 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41444
+#EXTINF:-1 tvg-id="Fox Life" tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais @ Variedades",Star Life FHD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31891
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais @ Variedades",Star Life FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/163
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais @ Variedades",Star Life HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/164
+#EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Canais @ Variedades",Star Life SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/165
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="http://static.esrv.cc/logos/canais/studiouniversal.png" group-title="Canais @ 4K (FHDR)",Studio Universal 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41443
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="http://static.esrv.cc/logos/canais/studiouniversal.png" group-title="Canais @ Filmes e Séries",Studio Universal FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31895
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="http://static.esrv.cc/logos/canais/studiouniversal.png" group-title="Canais @ Filmes e Séries",Studio Universal FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/401
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="http://static.esrv.cc/logos/canais/studiouniversal.png" group-title="Canais @ Filmes e Séries",Studio Universal HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/402
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="http://static.esrv.cc/logos/canais/studiouniversal.png" group-title="Canais @ Filmes e Séries",Studio Universal SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/403
+#EXTINF:-1 tvg-id="Syfy" tvg-logo="http://static.esrv.cc/logos/canais/syfy.png" group-title="Canais @ 4K (FHDR)",SYFY 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41442
+#EXTINF:-1 tvg-id="Syfy" tvg-logo="http://static.esrv.cc/logos/canais/syfy.png" group-title="Canais @ Filmes e Séries",Syfy FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31896
+#EXTINF:-1 tvg-id="Syfy" tvg-logo="http://static.esrv.cc/logos/canais/syfy.png" group-title="Canais @ Filmes e Séries",Syfy FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/404
+#EXTINF:-1 tvg-id="Syfy" tvg-logo="http://static.esrv.cc/logos/canais/syfy.png" group-title="Canais @ Filmes e Séries",Syfy HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/405
+#EXTINF:-1 tvg-id="Syfy" tvg-logo="http://static.esrv.cc/logos/canais/syfy.png" group-title="Canais @ Filmes e Séries",Syfy SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/406
+#EXTINF:-1 tvg-id="TBS" tvg-logo="http://static.esrv.cc/logos/canais/tbs.png" group-title="Canais @ 4K (FHDR)",TBS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41441
+#EXTINF:-1 tvg-id="TBS" tvg-logo="http://static.esrv.cc/logos/canais/tbs.png" group-title="Canais @ Filmes e Séries",TBS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31505
+#EXTINF:-1 tvg-id="TBS" tvg-logo="http://static.esrv.cc/logos/canais/tbs.png" group-title="Canais @ Filmes e Séries",TBS FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/407
+#EXTINF:-1 tvg-id="TBS" tvg-logo="http://static.esrv.cc/logos/canais/tbs.png" group-title="Canais @ Filmes e Séries",TBS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/408
+#EXTINF:-1 tvg-id="TBS" tvg-logo="http://static.esrv.cc/logos/canais/tbs.png" group-title="Canais @ Filmes e Séries",TBS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/409
+#EXTINF:-1 tvg-id="TCM" tvg-logo="http://static.esrv.cc/logos/canais/tcm.png" group-title="Canais @ Filmes e Séries",TCM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/411
+#EXTINF:-1 tvg-id="TCM" tvg-logo="http://static.esrv.cc/logos/canais/tcm.png" group-title="Canais @ Filmes e Séries",TCM SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/412
+#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="http://static.esrv.cc/logos/canais/telecineaction.png" group-title="Canais @ 4K (FHDR)",Telecine Action 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41440
+#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="http://static.esrv.cc/logos/canais/telecineaction.png" group-title="Canais @ Telecine",Telecine Action FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31900
+#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="http://static.esrv.cc/logos/canais/telecineaction.png" group-title="Canais @ Telecine",Telecine Action FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/413
+#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="http://static.esrv.cc/logos/canais/telecineaction.png" group-title="Canais @ Legendados",Telecine Action FHD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40004
+#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="http://static.esrv.cc/logos/canais/telecineaction.png" group-title="Canais @ Telecine",Telecine Action HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/414
+#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="http://static.esrv.cc/logos/canais/telecineaction.png" group-title="Canais @ Legendados",Telecine Action HD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40003
+#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="http://static.esrv.cc/logos/canais/telecineaction.png" group-title="Canais @ Telecine",Telecine Action SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/415
+#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="http://static.esrv.cc/logos/canais/telecineaction.png" group-title="Canais @ Legendados",Telecine Action SD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40002
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-logo=""http://static.esrv.cc/logos/canais/telecinecult.png" group-title="Canais @ 4K (FHDR)",Telecine Cult 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41439
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-logo="http://static.esrv.cc/logos/canais/telecinecult.png" group-title="Canais @ Telecine",Telecine Cult FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31507
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-logo="http://static.esrv.cc/logos/canais/telecinecult.png" group-title="Canais @ Telecine",Telecine Cult FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/416
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-logo="http://static.esrv.cc/logos/canais/telecinecult.png" group-title="Canais @ Legendados",Telecine Cult FHD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40001
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-logo="http://static.esrv.cc/logos/canais/telecinecult.png" group-title="Canais @ Telecine",Telecine Cult HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/417
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-logo="http://static.esrv.cc/logos/canais/telecinecult.png" group-title="Canais @ Legendados",Telecine Cult HD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/40000
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-logo="http://static.esrv.cc/logos/canais/telecinecult.png" group-title="Canais @ Telecine",Telecine Cult SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/418
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-logo="http://static.esrv.cc/logos/canais/telecinecult.png" group-title="Canais @ Legendados",Telecine Cult SD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39999
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="http://static.esrv.cc/logos/canais/telecinefun.png" group-title="Canais @ 4K (FHDR)",Telecine Fun 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41438
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="http://static.esrv.cc/logos/canais/telecinefun.png" group-title="Canais @ Telecine",Telecine Fun FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31508
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="http://static.esrv.cc/logos/canais/telecinefun.png" group-title="Canais @ Telecine",Telecine Fun FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/419
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="http://static.esrv.cc/logos/canais/telecinefun.png" group-title="Canais @ Legendados",Telecine Fun FHD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39998
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="http://static.esrv.cc/logos/canais/telecinefun.png" group-title="Canais @ Telecine",Telecine Fun HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/420
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="http://static.esrv.cc/logos/canais/telecinefun.png" group-title="Canais @ Legendados",Telecine Fun HD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39997
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="http://static.esrv.cc/logos/canais/telecinefun.png" group-title="Canais @ Telecine",Telecine Fun SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/421
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="http://static.esrv.cc/logos/canais/telecinefun.png" group-title="Canais @ Legendados",Telecine Fun SD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39996
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-logo="http://static.esrv.cc/logos/canais/telecinepipoca.png" group-title="Canais @ 4K (FHDR)",Telecine Pipoca 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41437
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-logo="http://static.esrv.cc/logos/canais/telecinepipoca.png" group-title="Canais @ Telecine",Telecine Pipoca FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31901
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-logo="http://static.esrv.cc/logos/canais/telecinepipoca.png" group-title="Canais @ Telecine",Telecine Pipoca FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/422
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-logo="http://static.esrv.cc/logos/canais/telecinepipoca.png" group-title="Canais @ Legendados",Telecine Pipoca FHD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39995
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-logo="http://static.esrv.cc/logos/canais/telecinepipoca.png" group-title="Canais @ Telecine",Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/423
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-logo="http://static.esrv.cc/logos/canais/telecinepipoca.png" group-title="Canais @ Legendados",Telecine Pipoca HD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39994
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-logo="http://static.esrv.cc/logos/canais/telecinepipoca.png" group-title="Canais @ Telecine",Telecine Pipoca SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/424
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-logo="http://static.esrv.cc/logos/canais/telecinepipoca.png" group-title="Canais @ Legendados",Telecine Pipoca SD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39993
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="http://static.esrv.cc/logos/canais/telecinepremium.png" group-title="Canais @ 4K (FHDR)",Telecine Premium 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41436
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="http://static.esrv.cc/logos/canais/telecinepremium.png" group-title="Canais @ Telecine",Telecine Premium FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31902
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="http://static.esrv.cc/logos/canais/telecinepremium.png" group-title="Canais @ Telecine",Telecine Premium FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/425
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="http://static.esrv.cc/logos/canais/telecinepremium.png" group-title="Canais @ Legendados",Telecine Premium FHD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39992
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="http://static.esrv.cc/logos/canais/telecinepremium.png" group-title="Canais @ Telecine",Telecine Premium HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/426
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="http://static.esrv.cc/logos/canais/telecinepremium.png" group-title="Canais @ Legendados",Telecine Premium HD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39991
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="http://static.esrv.cc/logos/canais/telecinepremium.png" group-title="Canais @ Telecine",Telecine Premium SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/427
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="http://static.esrv.cc/logos/canais/telecinepremium.png" group-title="Canais @ Legendados",Telecine Premium SD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39990
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="http://static.esrv.cc/logos/canais/telecinetouch.png" group-title="Canais @ 4K (FHDR)",Telecine Touch 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41435
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="http://static.esrv.cc/logos/canais/telecinetouch.png" group-title="Canais @ Telecine",Telecine Touch FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31904
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="http://static.esrv.cc/logos/canais/telecinetouch.png" group-title="Canais @ Telecine",Telecine Touch FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/428
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="http://static.esrv.cc/logos/canais/telecinetouch.png" group-title="Canais @ Legendados",Telecine Touch FHD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39989
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="http://static.esrv.cc/logos/canais/telecinetouch.png" group-title="Canais @ Telecine",Telecine Touch HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/429
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="http://static.esrv.cc/logos/canais/telecinetouch.png" group-title="Canais @ Legendados",Telecine Touch HD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39988
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="http://static.esrv.cc/logos/canais/telecinetouch.png" group-title="Canais @ Telecine",Telecine Touch SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/430
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="http://static.esrv.cc/logos/canais/telecinetouch.png" group-title="Canais @ Legendados",Telecine Touch SD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39987
+#EXTINF:-1 tvg-id="TLC" tvg-logo=""http://static.esrv.cc/logos/canais/tlc.png" group-title="Canais @ 4K (FHDR)",TLC 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41434
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://static.esrv.cc/logos/canais/tlc.png" group-title="Canais @ Variedades",TLC FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31927
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://static.esrv.cc/logos/canais/tlc.png" group-title="Canais @ Variedades",TLC FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/431
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://static.esrv.cc/logos/canais/tlc.png" group-title="Canais @ Variedades",TLC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/432
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://static.esrv.cc/logos/canais/tlc.png" group-title="Canais @ Variedades",TLC SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/433
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://static.esrv.cc/logos/canais/tnt.png" group-title="Canais @ 4K (FHDR)",TNT 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41433
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://static.esrv.cc/logos/canais/tnt.png" group-title="Canais @ Filmes e Séries",TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31509
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/tnt.png" group-title="Canais @ Filmes e Séries",TNT FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/434
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://static.esrv.cc/logos/canais/tnt.png" group-title="Canais @ Legendados",TNT FHD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39986
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/tnt.png" group-title="Canais @ Filmes e Séries",TNT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/435
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://static.esrv.cc/logos/canais/tnt.png" group-title="Canais @ Legendados",TNT HD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39985
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://static.esrv.cc/logos/canais/tnt.png" group-title="Canais @ Filmes e Séries",TNT SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/436
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://static.esrv.cc/logos/canais/tnt.png" group-title="Canais @ Legendados",TNT SD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39984
+#EXTINF:-1 tvg-id="TNT SÉRIES HD" tvg-logo="http://static.esrv.cc/logos/canais/tntseries.png" group-title="Canais @ 4K (FHDR)",TNT Series 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41432
+#EXTINF:-1 tvg-id="TNT Séries" tvg-logo="http://static.esrv.cc/logos/canais/tntseries.png" group-title="Canais @ Filmes e Séries",TNT Series FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31510
+#EXTINF:-1 tvg-id="TNT Séries" tvg-logo="http://static.esrv.cc/logos/canais/tntseries.png" group-title="Canais @ Filmes e Séries",TNT Series FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/437
+#EXTINF:-1 tvg-id="TNT Séries oi" tvg-logo="http://static.esrv.cc/logos/canais/tntseries.png" group-title="Canais @ Legendados",TNT Series FHD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39983
+#EXTINF:-1 tvg-id="TNT Séries" tvg-logo="http://static.esrv.cc/logos/canais/tntseries.png" group-title="Canais @ Filmes e Séries",TNT Series HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/438
+#EXTINF:-1 tvg-id="TNT SÉRIES HD" tvg-logo="http://static.esrv.cc/logos/canais/tntseries.png" group-title="Canais @ Legendados",TNT Series HD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39982
+#EXTINF:-1 tvg-id="TNT Séries" tvg-logo="http://static.esrv.cc/logos/canais/tntseries.png" group-title="Canais @ Filmes e Séries",TNT Series SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/439
+#EXTINF:-1 tvg-id="TNT SÉRIES HD" tvg-logo="http://static.esrv.cc/logos/canais/tntseries.png" group-title="Canais @ Legendados",TNT Series SD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39981
+#EXTINF:-1 tvg-id="Tooncast" tvg-logo="http://static.esrv.cc/logos/canais/tooncast.png" group-title="Canais @ Infantis",Tooncast HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/441
+#EXTINF:-1 tvg-id="Tooncast" tvg-logo="http://static.esrv.cc/logos/canais/tooncast.png" group-title="Canais @ Infantis",Tooncast SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/442
+#EXTINF:-1 tvg-id="Trace Brazuca HD" tvg-logo="" group-title="Canais @ 4K (FHDR)",Trace Brazuca 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41431
+#EXTINF:-1 tvg-id="Travel Box Brasil HD" tvg-logo="http://static.esrv.cc/logos/canais/premiere.png" group-title="Canais @ 4K (FHDR)",Travel Box Brazil 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41430
+#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-logo="http://a5.vc/4vg" group-title="Canais @ Variedades",Travel Box Brazil FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31511
+#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-logo="http://a5.vc/4vg" group-title="Canais @ Variedades",Travel Box Brazil FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31930
+#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-logo="http://a5.vc/4vg" group-title="Canais @ Variedades",Travel Box Brazil HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31928
+#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-logo="http://a5.vc/4vg" group-title="Canais @ Variedades",Travel Box Brazil SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31929
+#EXTINF:-1 tvg-id="TruTV" tvg-logo="http://static.esrv.cc/logos/canais/trutv.png" group-title="Canais @ Documentários",Tru TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/445
+#EXTINF:-1 tvg-id="Tv Aparecida" tvg-logo="" group-title="Canais @ 4K (FHDR)",TV Aparecida 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41429
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-logo="" group-title="Canais @ Abertos",TV Aparecida FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32017
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-logo="" group-title="Canais @ Abertos",TV Aparecida HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/32019
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ Abertos",TV Aparecida SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/14065
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/TxS" group-title="Canais @ Abertos",TV Aratu SBT Bahia HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31641
+#EXTINF:-1 tvg-id="TV Brasil" tvg-logo="http://a5.vc/iGX" group-title="Canais @ 4K (FHDR)",TV Brasil 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41428
+#EXTINF:-1 tvg-id="TV Brasil" tvg-logo="http://a5.vc/iGX" group-title="Canais @ Abertos",TV Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31512
+#EXTINF:-1 tvg-id="TV Brasil" tvg-logo="http://a5.vc/iGX" group-title="Canais @ Abertos",TV Brasil FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31933
+#EXTINF:-1 tvg-id="TV Brasil" tvg-logo="http://a5.vc/iGX" group-title="Canais @ Abertos",TV Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31932
+#EXTINF:-1 tvg-id="TV Brasil" tvg-logo="http://a5.vc/iGX" group-title="Canais @ Abertos",TV Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31931
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ Abertos",TV Camara SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/18068
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ 4K (FHDR)",TV Cidade - RECORDTV 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41427
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ 4K (FHDR)",TV Diario 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41426
+#EXTINF:-1 tvg-id="TV Diário" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Abertos",TV Diario FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/234
+#EXTINF:-1 tvg-id="TV Diário" tvg-logo="http://static.esrv.cc/logos/canais/globo.png" group-title="Canais @ Abertos",TV Diario HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/235
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ Pay-Per-View",TV Furacao HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41721
+#EXTINF:-1 tvg-id="Gazeta" tvg-logo="http://static.esrv.cc/logos/canais/tvgazeta.png" group-title="Canais @ Abertos",TV Gazeta HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/446
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://static.esrv.cc/logos/canais/sbt.png" group-title="Canais @ Abertos",TV Jangadeiro - SBT FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39836
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://static.esrv.cc/logos/canais/sbt.png" group-title="Canais @ Abertos",TV Jangadeiro - SBT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39837
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://static.esrv.cc/logos/canais/sbt.png" group-title="Canais @ Abertos",TV Jangadeiro - SBT SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39838
+#EXTINF:-1 tvg-id="" tvg-logo="http://a5.vc/6j9" group-title="Canais @ Abertos",TV Novo Tempo FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31513
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ Abertos",TV Novo Tempo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/14072
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ Abertos",TV Novo Tempo SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/14073
+#EXTINF:-1 tvg-id="TV Rá-Tim-Bum" tvg-logo="http://static.esrv.cc/logos/canais/ratimbum.png" group-title="Canais @ Infantis",TV Ra-Tim-Bum FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31514
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/ratimbum.png" group-title="Canais @ Infantis",TV Ra-Tim-Bum FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/447
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/ratimbum.png" group-title="Canais @ Infantis",TV Ra-Tim-Bum HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/448
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.esrv.cc/logos/canais/ratimbum.png" group-title="Canais @ Infantis",TV Ra-Tim-Bum SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/449
+#EXTINF:-1 tvg-id="TV Rá Tim Bum" tvg-logo="http://static.esrv.cc/logos/canais/ratimbum.png" group-title="Canais @ 4K (FHDR)",TV Ra Tim Bum 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41425
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ Abertos",TV Senado SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/18066
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ 4K (FHDR)",TV Uniao 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41424
+#EXTINF:-1 tvg-id="Universal TV" tvg-logo="http://static.esrv.cc/logos/canais/universalchannel.png" group-title="Canais @ Filmes e Séries",Universal Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31906
+#EXTINF:-1 tvg-id="Universal TV" tvg-logo="http://static.esrv.cc/logos/canais/universalchannel.png" group-title="Canais @ Filmes e Séries",Universal Channel FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/452
+#EXTINF:-1 tvg-id="Universal TV" tvg-logo="http://static.esrv.cc/logos/canais/universalchannel.png" group-title="Canais @ Filmes e Séries",Universal Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/453
+#EXTINF:-1 tvg-id="Universal TV" tvg-logo="http://static.esrv.cc/logos/canais/universalchannel.png" group-title="Canais @ Filmes e Séries",Universal Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/454
+#EXTINF:-1 tvg-id="Universal TV" tvg-logo="http://static.esrv.cc/logos/canais/universalchannel.png" group-title="Canais @ 4K (FHDR)",Universal TV 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41423
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/EpP2RKY" group-title="Canais @ Pay-Per-View",Vasco TV  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31466
+#EXTINF:-1 tvg-id="Viva" tvg-logo="http://static.esrv.cc/logos/canais/viva.png" group-title="Canais @ 4K (FHDR)",Viva 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41421
+#EXTINF:-1 tvg-id="Viva" tvg-logo="http://static.esrv.cc/logos/canais/viva.png" group-title="Canais @ Variedades",Viva FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31515
+#EXTINF:-1 tvg-id="Viva" tvg-logo="http://static.esrv.cc/logos/canais/viva.png" group-title="Canais @ Variedades",Viva FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/458
+#EXTINF:-1 tvg-id="Viva" tvg-logo="http://static.esrv.cc/logos/canais/viva.png" group-title="Canais @ Variedades",Viva HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/459
+#EXTINF:-1 tvg-id="Viva" tvg-logo="http://static.esrv.cc/logos/canais/viva.png" group-title="Canais @ Variedades",Viva SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/460
+#EXTINF:-1 tvg-id="Warner" tvg-logo="http://static.esrv.cc/logos/canais/warner.png" group-title="Canais @ 4K (FHDR)",Warner Channel 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41420
+#EXTINF:-1 tvg-id="Warner Channel" tvg-logo="http://static.esrv.cc/logos/canais/warner.png" group-title="Canais @ Filmes e Séries",Warner Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31907
+#EXTINF:-1 tvg-id="Warner Channel" tvg-logo="http://static.esrv.cc/logos/canais/warner.png" group-title="Canais @ Filmes e Séries",Warner Channel FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/461
+#EXTINF:-1 tvg-id="Warner" tvg-logo="http://static.esrv.cc/logos/canais/tntseries.png" group-title="Canais @ Legendados",Warner Channel FHD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39980
+#EXTINF:-1 tvg-id="Warner Channel" tvg-logo="http://static.esrv.cc/logos/canais/warner.png" group-title="Canais @ Filmes e Séries",Warner Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/462
+#EXTINF:-1 tvg-id="Warner" tvg-logo="http://static.esrv.cc/logos/canais/warner.png" group-title="Canais @ Legendados",Warner Channel HD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39979
+#EXTINF:-1 tvg-id="Warner Channel" tvg-logo="http://static.esrv.cc/logos/canais/warner.png" group-title="Canais @ Filmes e Séries",Warner Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/463
+#EXTINF:-1 tvg-id="Warner" tvg-logo="http://static.esrv.cc/logos/canais/warner.png" group-title="Canais @ Legendados",Warner Channel SD (Legendado)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39978
+#EXTINF:-1 tvg-id="Woohoo HD" tvg-logo="http://static.esrv.cc/logos/canais/woohoo.png" group-title="Canais @ 4K (FHDR)",Woohoo 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/41419
+#EXTINF:-1 tvg-id="Woohoo" tvg-logo="http://static.esrv.cc/logos/canais/woohoo.png" group-title="Canais @ Variedades",WooHoo FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31516
+#EXTINF:-1 tvg-id="Woohoo" tvg-logo="http://static.esrv.cc/logos/canais/woohoo.png" group-title="Canais @ Variedades",Woohoo FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/464
+#EXTINF:-1 tvg-id="Woohoo" tvg-logo="http://static.esrv.cc/logos/canais/woohoo.png" group-title="Canais @ Variedades",WooHoo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31937
+#EXTINF:-1 tvg-id="Woohoo" tvg-logo="http://static.esrv.cc/logos/canais/woohoo.png" group-title="Canais @ Variedades",WooHoo SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/31936
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes @ Acao",
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=GAVIÃO PLAY;&buffer=60000;url=http://esrv.cc:80/movie/duoprimelive/Duosat2022/57941.mp4
