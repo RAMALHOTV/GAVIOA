@@ -5,7 +5,7 @@
 
 
 #EXTM3U
-#EXTINF:-1, [B][COLOR  yellow] RamalhoIPTV[/B][/COLOR]  [B][COLOR lime] -SERVIDOR 02[/B][/COLOR]
+#EXTINF:-1,[B][COLOR  yellow] RamalhoIPTV[/B][/COLOR]  [B][COLOR lime] -SERVIDOR 02[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://canais.servidor
 
 
