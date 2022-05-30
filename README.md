@@ -7,2240 +7,901 @@
 
 
 
+
+
+
 #EXTM3U
 #EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR]  [B][COLOR lime] -SERVIDOR 02[/B][/COLOR]
 http://canais.servidor
-
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | 4K [FHDR]",A&E 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90647.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71760.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71761.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71762.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71763.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | 4K [FHDR]",AgroMais 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103532.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",AgroMais FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71764.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",AgroMais FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71765.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",AgroMais HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71766.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",AgroMais SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71767.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | 4K [FHDR]",AMC 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90646.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71768.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71769.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71770.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71771.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | 4K [FHDR]",Animal Planet 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71774.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71772.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71773.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71775.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71776.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | 4K [FHDR]",Arte 1 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103531.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71777.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71778.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71779.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71780.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | 4K [FHDR]",AXN 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90645.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71781.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71782.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Legendados",AXN FHD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90716.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71783.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Legendados",AXN HD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90715.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71784.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Legendados",AXN SD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90714.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/3e5cbbd49e8dad2d9537969a29346afd.png" group-title="Canais | Infantis",Baby TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/130198.ts
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" group-title="Canais | Abertos",Band BA SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72620.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Maringa FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71785.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Maringa FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71786.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Maringa HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71787.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band Maringa SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71788.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | 4K [FHDR]",Band News 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103526.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | Notícias",Band News FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71789.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | Notícias",Band News FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71790.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Canais | Notícias",Band News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71791.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Notícias",Band News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71792.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band SP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/79311.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band SP FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104943.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72597.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",Band SP SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/79312.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | 4K [FHDR]",Band Sports 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103525.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",Band Sports FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71801.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",Band Sports FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71802.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",Band Sports HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71803.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",Band Sports SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71804.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",BBC SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71805.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | 4K [FHDR]",BIS 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103527.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71806.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71807.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71808.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71809.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",Bloomberg SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71810.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/boavontade.png" group-title="Canais | Religiosos",Boa Vontade TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71811.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/92d69464653edd96a2bbae09d3d3e98c.png" group-title="Canais | Campeonatos Estaduais",Campeonato Carioca 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/96513.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/92d69464653edd96a2bbae09d3d3e98c.png" group-title="Canais | Campeonatos Estaduais",Campeonato Carioca 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/96515.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/92d69464653edd96a2bbae09d3d3e98c.png" group-title="Canais | Campeonatos Estaduais",Campeonato Carioca 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/96516.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/92d69464653edd96a2bbae09d3d3e98c.png" group-title="Canais | Campeonatos Estaduais",Campeonato Carioca 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/96517.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/92d69464653edd96a2bbae09d3d3e98c.png" group-title="Canais | Campeonatos Estaduais",Campeonato Carioca 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/96519.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/92d69464653edd96a2bbae09d3d3e98c.png" group-title="Canais | Campeonatos Estaduais",Campeonato Carioca 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/96520.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/bdd64e8228f6dc5a3ab9aa96a3ace700.jpg" group-title="Canais | Campeonatos Estaduais",Campeonato Paranaense 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/111408.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/bdd64e8228f6dc5a3ab9aa96a3ace700.jpg" group-title="Canais | Campeonatos Estaduais",Campeonato Paranaense 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/111409.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/bdd64e8228f6dc5a3ab9aa96a3ace700.jpg" group-title="Canais | Campeonatos Estaduais",Campeonato Paranaense 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/111410.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | 4K [FHDR]",Canal Brasil 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103518.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries",Canal Brasil FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71816.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries",Canal Brasil FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71817.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries",Canal Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71818.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Canais | Filmes e Séries",Canal Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71819.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="Canais | 4K [FHDR]",Canal do Boi 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103516.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71820.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71821.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/bK3" group-title="Canais | Abertos",Canal do Boi SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71822.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/canalrural.png" group-title="Canais | Abertos",Canal Rural SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71823.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | 4K [FHDR]",Canal Sony 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103517.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries",Canal Sony FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71824.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries",Canal Sony FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71825.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Legendados",Canal Sony FHD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90713.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries",Canal Sony HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71826.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Legendados",Canal Sony HD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90712.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries",Canal Sony SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71827.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Legendados",Canal Sony SD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90711.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | 4K [FHDR]",Cartoon Network 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71830.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71828.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71829.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71831.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71832.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | 4K [FHDR]",Cartoonito 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90644.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Cartoonito FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71812.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Cartoonito FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71813.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Cartoonito HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71814.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Cartoonito SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71815.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72994.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 10 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/73003.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72995.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72996.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72997.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72998.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 6 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72999.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 7 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/73000.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 8 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/73001.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 9 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/73002.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | 4K [FHDR]",Cinemax 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90643.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries",Cinemax FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71833.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries",Cinemax FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71834.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries",Cinemax HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71835.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries",Cinemax SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71836.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | 4K [FHDR]",CNN Brasil 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71798.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71837.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71838.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71839.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71840.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN International SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71841.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | 4K [FHDR]",Combate 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71844.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71842.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71843.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71845.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71846.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | 4K [FHDR]",Comedy Central 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90642.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades",Comedy Central FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71847.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades",Comedy Central FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71848.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades",Comedy Central HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71849.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades",Comedy Central SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71850.ts
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | 4K [FHDR]",CONMEBOL TV 1 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103524.ts
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72977.ts
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72978.ts
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72979.ts
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72980.ts
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | 4K [FHDR]",CONMEBOL TV 2 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103523.ts
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72981.ts
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72982.ts
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72983.ts
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72984.ts
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | 4K [FHDR]",CONMEBOL TV 3 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103522.ts
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72985.ts
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72986.ts
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72987.ts
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72988.ts
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | 4K [FHDR]",CONMEBOL TV 4 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103521.ts
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72989.ts
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72990.ts
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72991.ts
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72992.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/7c28af49d4e840b8e55f03c6f78f6018.jpg" group-title="Canais | Campeonatos Estaduais",Copa Catarinense 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/96011.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/7c28af49d4e840b8e55f03c6f78f6018.jpg" group-title="Canais | Campeonatos Estaduais",Copa Catarinense 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/96012.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/7c28af49d4e840b8e55f03c6f78f6018.jpg" group-title="Canais | Campeonatos Estaduais",Copa Catarinense 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/96013.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/7c28af49d4e840b8e55f03c6f78f6018.jpg" group-title="Canais | Campeonatos Estaduais",Copa Catarinense 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/147527.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | PPV",Copa do Brasil 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/150498.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | PPV",Copa do Brasil 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/150499.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | PPV",Copa do Brasil 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/150500.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | PPV",Copa do Brasil 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/150501.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | PPV",Copa do Brasil 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/150502.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | PPV",Copa do Brasil 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/150503.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | 4K [FHDR]",Copa do Nordeste 1 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103515.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/96505.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 1 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/96506.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/96507.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/96508.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | 4K [FHDR]",Copa do Nordeste 2 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103514.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/96509.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 2 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/96510.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/96511.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/96512.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/101617.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/101618.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/101619.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 6 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/101620.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 7 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/101621.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | 4K [FHDR]",Cultura 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103513.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71851.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71852.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71853.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Abertos",Cultura SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71854.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários",Curta FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71855.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários",Curta FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71856.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários",Curta HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71857.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários",Curta SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71858.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | 4K [FHDR]",Curta! 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103512.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71860.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72630.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71861.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71859.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | 4K [FHDR]",Discovery Channel 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71864.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71862.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71863.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71865.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71866.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | 4K [FHDR]",Discovery H&H 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90251.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades",Discovery H&H FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71867.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades",Discovery H&H FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71868.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades",Discovery H&H HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71869.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades",Discovery H&H SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71870.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | 4K [FHDR]",Discovery Kids 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90250.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71871.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71872.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71873.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71874.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | 4K [FHDR]",Discovery Science 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103511.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71875.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71876.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71877.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71878.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | 4K [FHDR]",Discovery Theater 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103510.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",Discovery Theater FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71879.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",Discovery Theater FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71880.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",Discovery Theater HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71881.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",Discovery Theater SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71882.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | 4K [FHDR]",Discovery Turbo 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90641.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades",Discovery Turbo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71883.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades",Discovery Turbo FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71884.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades",Discovery Turbo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71885.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades",Discovery Turbo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71886.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | 4K [FHDR]",Discovery World 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103509.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71887.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71888.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71889.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71890.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | 4K [FHDR]",Disney Channel 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103508.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71891.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71892.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71893.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71894.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Dog TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/76922.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",DOG TV FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104909.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Dog TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/76923.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Dog TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104908.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",DW (Deutsch+) SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104940.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | 4K [FHDR]",E! 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103506.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",E! FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71900.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",E! FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71901.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",E! HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71902.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",E! SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71903.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | 4K [FHDR]",ESPN 2 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71921.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71919.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71920.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71922.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71923.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | 4K [FHDR]",ESPN 3 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103504.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71907.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN 3 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71908.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71909.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71910.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | 4K [FHDR]",ESPN 4 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71959.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | ESPN",ESPN 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71957.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | ESPN",ESPN 4 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71958.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | ESPN",ESPN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71960.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | ESPN",ESPN 4 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71961.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | 4K [FHDR]",ESPN 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90640.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | 4K [FHDR]",ESPN Extra 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103505.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71915.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71916.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71917.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="Canais | ESPN",ESPN Extra SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71918.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71911.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71912.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71913.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71914.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",Estádio TNT Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/76671.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",Estádio TNT Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/76672.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",Eurochannel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104910.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",Eurochannel FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104913.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",Eurochannel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104911.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",Eurochannel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104912.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Facebook Watch
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/73005.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Facebook Watch 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/79316.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Facebook Watch 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/79317.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | 4K [FHDR]",Fashion TV 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103503.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71924.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71925.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71926.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71927.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Film&Arts FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104914.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Film&Arts FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104920.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Film&Arts HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104915.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Film&Arts SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104916.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Canais | 4K [FHDR]",Fish TV 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103502.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades",Fish TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71928.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades",Fish TV FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71929.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades",Fish TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71930.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades",Fish TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71931.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | 4K [FHDR]",Food Network 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103501.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades",Food Network FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71932.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades",Food Network FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71933.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades",Food Network HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71934.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades",Food Network SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71935.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Formula 1 TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/98395.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | 4K [FHDR]",Fox Sports 2 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71954.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71952.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71953.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71955.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71956.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | 4K [FHDR]",France 24 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103500.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",France 24 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104906.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",France 24 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104942.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",France 24 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104907.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",France 24 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104941.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Furacao Live FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/142040.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Furacao Live HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/105789.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Furacao Live SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/142041.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Canais | 4K [FHDR]",Futura 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103499.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Canais | Abertos",Futura FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71962.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Canais | Abertos",Futura FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71963.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Canais | Abertos",Futura HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71964.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Canais | Abertos",Futura SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71965.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | 4K [FHDR]",FX 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90639.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries",FX FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71966.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries",FX FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71967.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Legendados",FX FHD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90710.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries",FX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71968.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Legendados",FX HD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90709.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries",FX SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71969.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Legendados",FX SD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90708.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Brasilia FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131151.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Brasilia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131164.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Brasilia SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131116.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Campinas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131150.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Campinas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71977.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Campinas SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131210.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Ribeirao Preto FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131172.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Ribeirao Preto HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131178.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Ribeirao Preto SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131202.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sao Carlos FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131141.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sao Carlos HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131129.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sao Carlos SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72592.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sul de Minas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71979.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sul de Minas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71980.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sul de Minas SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131201.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Alto Litoral FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71982.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Alto Litoral HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71983.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Alto Litoral SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131131.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Cabugi FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71985.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Cabugi HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71986.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Cabugi SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131186.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV dos Vales FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131143.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV dos Vales HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71989.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV dos Vales SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71990.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Grande Minas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71991.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Grande Minas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131115.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Grande Minas SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131114.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Serra Mar FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71994.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Serra Mar HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71995.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Serra Mar SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71996.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Minas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131200.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Minas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131159.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Minas SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131209.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | 4K [FHDR]",Globo News 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90248.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71997.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71998.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71999.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Notícias",Globo News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131112.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Nordeste FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72001.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Nordeste HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131157.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Nordeste SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72003.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Blumenau FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72004.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Blumenau HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72005.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Blumenau SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131192.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Centro Oeste FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/135432.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Centro Oeste HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/135433.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Centro Oeste SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/135434.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Chapeco FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131174.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Chapeco HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72008.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Chapeco SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131190.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Criciuma FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/135426.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Criciuma HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/135427.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Criciuma SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/135428.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Florianopolis FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72010.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Florianopolis HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131183.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Florianopolis SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131144.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Joinville FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/91034.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Joinville HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131167.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Joinville SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/91032.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Caxias do Sul FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131160.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Caxias do Sul HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72014.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Caxias do Sul SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131130.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Passo Fundo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/133064.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Passo Fundo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/133065.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Passo Fundo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/133066.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Pelotas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72617.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Pelotas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131121.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Pelotas SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131207.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Porto Alegre FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131102.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Porto Alegre HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72017.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Porto Alegre SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131198.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Santa Maria FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/135423.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Santa Maria HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/135424.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Santa Maria SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/135425.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Amapa FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/133055.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Amapa HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/133056.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Amapa SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/133057.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Boa Vista FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131185.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Boa Vista HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/93588.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Boa Vista SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/93589.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Manaus FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72019.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Manaus HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72020.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Manaus SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72021.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Porto Velho FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/108684.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Porto Velho HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/93592.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Porto Velho SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131184.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Rio Branco FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131148.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Rio Branco HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131162.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Rio Branco SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131111.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Bahia FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131213.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Bahia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131123.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Bahia SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72024.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RJ FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72025.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RJ HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131163.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RJ SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131182.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Cascavel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/133058.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Cascavel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/133059.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Cascavel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/133060.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Londrina FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/133061.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Londrina HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/133062.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Londrina SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/133063.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Paranavai FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72028.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Paranavai HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131170.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Paranavai SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131197.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Curitiba FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131199.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Curitiba HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72626.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Curitiba SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131127.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Foz do Iguacu FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131149.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Foz do Iguacu HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72033.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Foz do Iguacu SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131206.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Maringa FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131101.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Maringa HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/96888.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Maringa SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131125.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Ponta Grossa FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131133.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Ponta Grossa HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72037.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Ponta Grossa SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131189.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo SP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72040.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo SP FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131215.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131212.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo SP SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72042.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Anhanguera FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72043.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Anhanguera HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131166.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Anhanguera SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131124.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Asa Branca FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/102554.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Asa Branca HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/102555.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Asa Branca SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131180.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Cabo Branco FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131146.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Cabo Branco HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131110.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Cabo Branco SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131179.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Centro America FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72049.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Centro America HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72050.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Centro America SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72051.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Clube Teresina FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131105.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Clube Teresina HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72053.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Clube Teresina SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131196.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Diario Mogi das Cruzes FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131100.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Diario Mogi das Cruzes HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/97596.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Diario Mogi das Cruzes SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/97597.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Fronteira Presidente Prudente FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/97587.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Fronteira Presidente Prudente HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/97588.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Fronteira Presidente Prudente SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131177.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Alagoas FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131158.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Alagoas HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131214.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Alagoas SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131142.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Sul FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131099.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Sul HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72059.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Sul SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72060.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Vitoria FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72061.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Vitoria HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131154.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Vitoria SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131175.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Araxa FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131203.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Araxa HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131126.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Araxa SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131140.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Juiz de Fora FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72067.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Juiz de Fora HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72068.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Juiz de Fora SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131106.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Uberaba FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/133052.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Uberaba HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/133053.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Uberaba SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/133054.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Uberlandia FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/133051.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Liberal Belem FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131152.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Liberal Belem HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72071.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Liberal Belem SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72072.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Mirante Cocais FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/133050.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Mirante Sao Luis FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131103.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Mirante Sao Luis HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72074.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Mirante Sao Luis SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131195.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Morena FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72076.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Morena HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131169.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Morena SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131122.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Rio Sul FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72079.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Rio Sul HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131128.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Rio Sul SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72082.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Santa Cruz FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/135420.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Santa Cruz HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/135421.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Santa Cruz SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/135422.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sergipe FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131156.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sergipe HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131181.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sergipe SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131139.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Subae  HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/133068.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Subae FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/133067.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Subae SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/133069.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sudoeste FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72092.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sudoeste HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72093.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sudoeste SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72094.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV TEM Bauru FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/91431.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV TEM Bauru HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/91432.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV TEM Bauru SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131120.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV TEM Itapetininga FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/91435.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV TEM Itapetininga HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/91436.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV TEM Itapetininga SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131119.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV TEM Sao Jose do Rio Preto FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131155.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV TEM Sao Jose do Rio Preto HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/91434.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV TEM Sao Jose do Rio Preto SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131205.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV TEM Sorocaba FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131191.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV TEM Sorocaba HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/91439.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV TEM Sorocaba SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131194.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Tribuna Santos FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131135.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Tribuna Santos HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131165.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Tribuna Santos SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131109.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Vanguarda S.J dos Campos FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131211.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Vanguarda S.J dos Campos HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/144027.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Vanguarda S.J dos Campos SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72624.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Vanguarda Taubate FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/100375.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Vanguarda Taubate HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/93605.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Vanguarda Taubate SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131187.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | 4K [FHDR]",Globo TV Verdes Mares 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72080.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV Verdes Mares Cariri FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/91440.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV Verdes Mares Cariri HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/91441.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo TV Verdes Mares Cariri SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/91442.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Verdes Mares FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131161.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Verdes Mares HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72096.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Verdes Mares SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131137.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | 4K [FHDR]",Gloob 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103498.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131153.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72099.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72100.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131117.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais | 4K [FHDR]",Gloobinho 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103497.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90631.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90630.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90629.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131173.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Canais | 4K [FHDR]",GNT 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90638.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades",GNT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72102.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades",GNT FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72103.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades",GNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72104.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | 4K [FHDR]",H2 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90245.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários",H2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72106.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários",H2 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72107.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários",H2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72108.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários",H2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72109.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | 4K [FHDR]",HBO 2 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90246.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO",HBO 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72110.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO",HBO 2 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72111.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO",HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72112.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO",HBO 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72113.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | 4K [FHDR]",HBO 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90247.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Canais | 4K [FHDR]",HBO Family 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90637.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO",HBO Family FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72114.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO",HBO Family FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72115.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO",HBO Family HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72116.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO",HBO Family SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72117.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO",HBO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72118.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO",HBO FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72119.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | Legendados",HBO FHD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90698.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO",HBO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72120.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | Legendados",HBO HD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90697.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/140504.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71904.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/140510.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/140505.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71905.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/140511.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/140506.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71906.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/140512.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/140507.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/76673.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 4 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/140513.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/140508.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/130196.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 5 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/140514.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/140509.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 6 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/130197.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | Champions League",HBO Max 6 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/140515.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | 4K [FHDR]",HBO MUNDI 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103496.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72121.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72122.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | Legendados",HBO Mundi FHD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90695.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72123.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | Legendados",HBO Mundi HD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90694.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72124.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | Legendados",HBO Mundi SD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90693.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | 4K [FHDR]",HBO Plus 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90635.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO",HBO Plus FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72125.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO",HBO Plus FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72126.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | Legendados",HBO Plus FHD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90692.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO",HBO Plus HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72127.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | Legendados",HBO Plus HD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90691.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO",HBO Plus SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72128.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | Legendados",HBO Plus SD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90690.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | 4K [FHDR]",HBO POP 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103495.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72129.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72130.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | Legendados",HBO Pop FHD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90689.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72131.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | Legendados",HBO Pop HD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90688.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72132.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | Legendados",HBO Pop SD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90687.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO",HBO SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72133.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | Legendados",HBO SD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90696.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | 4K [FHDR]",HBO Signature 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103494.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO",HBO Signature FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72134.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO",HBO Signature FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72135.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | Legendados",HBO Signature FHD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90686.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO",HBO Signature HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72136.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | Legendados",HBO Signature HD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90685.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO",HBO Signature SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72137.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | Legendados",HBO Signature SD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90684.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | 4K [FHDR]",HBO Xtreme 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90636.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72138.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72139.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | Legendados",HBO Xtreme FHD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90683.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72140.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | Legendados",HBO Xtreme HD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90682.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72141.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | Legendados",HBO Xtreme SD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90681.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Canais | 4K [FHDR]",HGTV 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103493.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Canais | Documentários",HGTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72142.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Canais | Documentários",HGTV FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72143.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Canais | Documentários",HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72144.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Canais | Documentários",HGTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72145.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Canais | 4K [FHDR]",History 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90244.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários",History FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72146.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários",History FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72147.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários",History HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72148.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários",History SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72149.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Canais | 4K [FHDR]",ID 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90243.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários",ID FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72150.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários",ID FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72151.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários",ID HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72152.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Canais | Documentários",ID SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72153.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2FLFlC5.png" group-title="Canais | 4K [FHDR]",Jovem Pan News 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/134021.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/1cd8c9455f7b030e1f95b27253dd070b.png" group-title="Canais | Notícias",Jovem Pan News FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/134023.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2FLFlC5.png" group-title="Canais | Notícias",Jovem Pan News FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/134022.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/1cd8c9455f7b030e1f95b27253dd070b.png" group-title="Canais | Notícias",Jovem Pan News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/134024.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/1cd8c9455f7b030e1f95b27253dd070b.png" group-title="Canais | Notícias",Jovem Pan News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/134025.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Canais | 4K [FHDR]",Lifetime 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103492.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades",Lifetime FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72154.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades",Lifetime FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72155.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades",Lifetime HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72156.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Canais | Variedades",Lifetime SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72157.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/96c7b35001b7a7a692e26d0331429b2b.jpg" group-title="Canais | PPV",Liga Futsal 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/109225.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/96c7b35001b7a7a692e26d0331429b2b.jpg" group-title="Canais | PPV",Liga Futsal 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/73006.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | 4K [FHDR]",Like 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103491.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | Variedades",Like FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72158.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | Variedades",Like FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72159.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | Variedades",Like HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72160.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Canais | Variedades",Like SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72161.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Loading FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104923.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Loading TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104921.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Loading TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104922.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Loading TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/89700.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Love Nature FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/73004.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Canais | 4K [FHDR]",Mais na Tela 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103488.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades",Mais na Tela FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72162.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades",Mais na Tela FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72163.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades",Mais na Tela HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72164.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Canais | Variedades",Mais na Tela SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72165.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Mega TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104924.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Mega TV FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104933.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Mega TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104925.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Mega TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104926.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | 4K [FHDR]",Megapix 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131104.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries",Megapix FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72166.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries",Megapix FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72167.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Legendados",Megapix FHD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90680.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries",Megapix HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72169.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Legendados",Megapix HD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131118.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Filmes e Séries",Megapix SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131204.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Canais | Legendados",Megapix SD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131171.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | 4K [FHDR]",MTV 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103490.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades",MTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72171.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades",MTV FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72172.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades",MTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72173.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | 4K [FHDR]",MTV LIVE 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103489.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades",MTV Live FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72174.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades",MTV Live FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72175.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Canais | Variedades",MTV Live HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72176.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/cnP" group-title="Canais | Variedades",MTV Live SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72177.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/cnP" group-title="Canais | Variedades",MTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72178.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Canais | 4K [FHDR]",MTVs 00 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103451.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Canais | Variedades",MTVs 00 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72423.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Canais | Variedades",MTVs 00 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72424.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Canais | Variedades",MTVs 00 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72425.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Canais | Variedades",MTVs 00 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72426.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | 4K [FHDR]",Multishow 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131138.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades",Multishow FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131193.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades",Multishow FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131107.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades",Multishow HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72182.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Canais | Variedades",Multishow SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131134.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Canais | 4K [FHDR]",Music Box Brazil 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103487.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Canais | Variedades",Music Box Brazil FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72184.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Canais | Variedades",Music Box Brazil FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72185.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Canais | Variedades",Music Box Brazil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72186.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Canais | Variedades",Music Box Brazil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72187.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",MyCujoo TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/75026.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",MyCujoo TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/77583.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",MyCujoo TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/77584.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | 4K [FHDR]",National Geographic 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72198.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",National Geographic FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72196.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",National Geographic FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72197.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72199.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Canais | Documentários",National Geographic SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72200.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/140516.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/140517.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/140518.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/140519.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/140520.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/140521.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/140522.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/140523.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/140524.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/140525.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/140526.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 4 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/140527.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/141487.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/141488.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 5 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/141489.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/141490.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 6 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/141491.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="Canais | PPV",NBA League Pass 6 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/141492.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Notícias",NHK SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/91990.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis",Nick Jr FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72201.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis",Nick Jr FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72202.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis",Nick Jr HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72203.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis",Nick Jr SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72204.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | 4K [FHDR]",Nick Jr. 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103485.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | 4K [FHDR]",Nickelodeon 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90241.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72205.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72206.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72207.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72208.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/a/Egct9qz" group-title="Canais | Campeonatos Estaduais",O Tempo Sports FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/147524.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/a/Egct9qz" group-title="Canais | Campeonatos Estaduais",O Tempo Sports HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/147525.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/a/Egct9qz" group-title="Canais | Campeonatos Estaduais",O Tempo Sports SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/147526.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Canais | 4K [FHDR]",OFF 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90240.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades",OFF FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72209.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades",OFF FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72210.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades",OFF HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72211.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Canais | Variedades",OFF SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72212.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Canais | 4K [FHDR]",Pai Eterno 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103484.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/94e056ce2525d0336871da9d31d41e85.png" group-title="Canais | Religiosos",Pai Eterno FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72213.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tn1y7Bh.png" group-title="Canais | Religiosos",Pai Eterno FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72216.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/94e056ce2525d0336871da9d31d41e85.png" group-title="Canais | Religiosos",Pai Eterno HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72214.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/94e056ce2525d0336871da9d31d41e85.png" group-title="Canais | Religiosos",Pai Eterno SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72215.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Canais | 4K [FHDR]",Paramount Channel 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90634.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries",Paramount Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72217.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries",Paramount Channel FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72218.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries",Paramount Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72219.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Canais | Filmes e Séries",Paramount Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72220.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/2a4233924990eb4358d1d193bed38c22.jpg" group-title="Canais | Campeonatos Estaduais",Paulistao 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/147528.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/2a4233924990eb4358d1d193bed38c22.jpg" group-title="Canais | Campeonatos Estaduais",Paulistao 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/147529.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/2a4233924990eb4358d1d193bed38c22.jpg" group-title="Canais | Campeonatos Estaduais",Paulistao 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/147530.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/2a4233924990eb4358d1d193bed38c22.jpg" group-title="Canais | Campeonatos Estaduais",Paulistao 2  FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71943.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/2a4233924990eb4358d1d193bed38c22.jpg" group-title="Canais | Campeonatos Estaduais",Paulistao 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71945.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/2a4233924990eb4358d1d193bed38c22.jpg" group-title="Canais | Campeonatos Estaduais",Paulistao 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71946.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Polishop TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104927.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 2 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103482.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72237.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72238.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72239.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72240.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 3 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103481.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72241.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72242.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72243.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72244.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 4 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103480.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72245.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72246.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72247.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72248.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 5 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103479.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72249.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72250.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72251.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72252.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 6 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103478.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72253.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72254.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72255.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72256.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere 7 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103477.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72257.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72258.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72259.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72260.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 8 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72261.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere Clubes 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72264.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72262.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72263.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72265.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72266.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Canais | 4K [FHDR]",Prime Box Brazil 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103476.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Canais | Variedades",Prime Box Brazil FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72267.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Canais | Variedades",Prime Box Brazil FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72268.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Canais | Variedades",Prime Box Brazil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72269.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Canais | Variedades",Prime Box Brazil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72270.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DPD" group-title="Canais | Notícias",Record News FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72271.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DPD" group-title="Canais | Notícias",Record News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72272.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DPD" group-title="Canais | Notícias",Record News SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72273.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Atalaia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/111242.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",RecordTV BA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72976.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Belem FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/102254.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Belem HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/96523.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",RecordTV Belem SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/73262.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Brasilia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72629.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Brasilia SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/96524.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Cabrália HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72275.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV GO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/102253.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV GO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72278.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV GO SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72279.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Interior RJ FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/102255.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Interior RJ HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/102256.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Interior RJ SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/102257.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Interior SP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/102258.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Interior SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/102259.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Interior SP SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/102260.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Itapoan HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72284.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Itapoan SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72285.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Litoral/Vale do Paraiba FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/102261.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Litoral/Vale do Paraiba HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/102262.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Litoral/Vale do Paraiba SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/102263.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV MG FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/102252.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV MG HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72619.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV MG SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/96525.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV RJ FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/106638.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV RJ HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72594.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV RJ SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/96526.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV RS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/102251.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV RS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72974.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV RS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72975.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Sao Jose do Rio Preto FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/102264.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Sao Jose do Rio Preto HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/102265.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV Sao Jose do Rio Preto SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/102266.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV SP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/77654.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV SP FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72595.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72973.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",RecordTV SP SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/96522.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Rede 21 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104928.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Rede Gospel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104929.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Rede Gospel FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104932.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Rede Gospel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104930.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",Rede Gospel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104931.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Canais | 4K [FHDR]",Rede Vida 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103475.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Canais | Religiosos",Rede Vida FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72293.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Canais | Religiosos",Rede Vida FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72294.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Canais | Religiosos",Rede Vida HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72295.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Canais | Religiosos",Rede Vida SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72296.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Canais | Abertos",RedeTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72297.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Canais | Abertos",RedeTV FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72298.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Canais | Abertos",RedeTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72299.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="Canais | Abertos",RedeTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72300.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/4Ve" group-title="Canais | Religiosos",RIT TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72301.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | 4K [FHDR]",Sabor & Arte 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/112013.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Sabor & Arte FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/112017.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Sabor & Arte FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/112014.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Sabor & Arte HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/112016.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Sabor & Arte SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/112015.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT Rede Massa PR FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72303.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT Rede Massa PR HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72305.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT Rede Massa PR SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72306.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT RJ FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/108681.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT RJ HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/108682.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT RJ SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/108683.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT RS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/75028.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT SP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/77963.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT SP FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104939.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72598.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT SP SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/77964.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",SBT TV Alterosa HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72621.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Shoptime SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72311.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/sic.png" group-title="Canais | Variedades",SIC Internacional SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72312.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Canais | 4K [FHDR]",Smithsonian 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103473.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Canais | Filmes e Séries",Smithsonian FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72313.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Canais | Filmes e Séries",Smithsonian FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72314.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Canais | Filmes e Séries",Smithsonian HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72315.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Canais | Filmes e Séries",Smithsonian SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72316.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Canais | 4K [FHDR]",Space 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90633.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Filmes e Séries",Space FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72317.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Filmes e Séries",Space FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72318.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Legendados",Space FHD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90677.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Filmes e Séries",Space HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72319.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Legendados",Space HD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90676.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Filmes e Séries",Space SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72320.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Canais | Legendados",Space SD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90675.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | 4K [FHDR]",SporTV 2 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103472.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72321.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131147.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131176.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72324.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72325.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72326.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131113.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131108.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | 4K [FHDR]",SporTV 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131188.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72329.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72330.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72332.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/131132.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | 4K [FHDR]",SporTV3 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103471.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | PPV",Star + 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/142032.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | PPV",Star + 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/128347.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | PPV",Star + 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/142033.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | PPV",Star + 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/142034.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | PPV",Star + 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/129345.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | PPV",Star + 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/142035.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | PPV",Star + 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/142036.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | PPV",Star + 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/129346.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | PPV",Star + 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/142037.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | PPV",Star + 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/142038.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | PPV",Star + 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/129347.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | PPV",Star + 4 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/142039.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | 4K [FHDR]",Star Channel 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90249.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71936.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71937.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Legendados",Star Channel FHD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90707.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71938.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Legendados",Star Channel HD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90706.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Filmes e Séries",Star Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/71951.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="Canais | Legendados",Star Channel SD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90705.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Canais | 4K [FHDR]",Studio Universal 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103467.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries",Studio Universal FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72334.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries",Studio Universal FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72335.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries",Studio Universal HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72336.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries",Studio Universal SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72337.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Canais | 4K [FHDR]",SYFY 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103474.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries",SyFy FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72338.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries",SyFy FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72339.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries",SyFy HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72340.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Canais | Filmes e Séries",SyFy SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72341.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Canais | 4K [FHDR]",TBS 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103466.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries",TBS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72342.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries",TBS FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72343.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries",TBS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72344.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Crr" group-title="Canais | Filmes e Séries",TBS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72345.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",TCM FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/73251.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",TCM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/73252.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",TCM SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/73253.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Canais | 4K [FHDR]",Telecine Action 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90239.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Telecine",Telecine Action FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72346.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Telecine",Telecine Action FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72347.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Legendados",Telecine Action FHD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90668.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Telecine",Telecine Action HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72348.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Legendados",Telecine Action HD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90667.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72349.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Legendados",Telecine Action SD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90666.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Canais | 4K [FHDR]",Telecine Cult 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103456.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Telecine",Telecine Cult FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72350.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Telecine",Telecine Cult FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72351.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Legendados",Telecine Cult FHD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90665.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Telecine",Telecine Cult HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72352.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Legendados",Telecine Cult HD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90664.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Telecine",Telecine Cult SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72353.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Legendados",Telecine Cult SD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90663.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Canais | 4K [FHDR]",Telecine Fun 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103455.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Telecine",Telecine Fun FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72354.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Telecine",Telecine Fun FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72355.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Legendados",Telecine Fun FHD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90662.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Telecine",Telecine Fun HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72356.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Legendados",Telecine Fun HD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90661.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Telecine",Telecine Fun SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72357.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Canais | Legendados",Telecine Fun SD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90660.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Canais | 4K [FHDR]",Telecine Pipoca 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90238.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Telecine",Telecine Pipoca FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72358.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Telecine",Telecine Pipoca FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72359.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Legendados",Telecine Pipoca FHD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90659.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Telecine",Telecine Pipoca HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72360.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Legendados",Telecine Pipoca HD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90658.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Telecine",Telecine Pipoca SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72361.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Canais | Legendados",Telecine Pipoca SD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90657.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Canais | 4K [FHDR]",Telecine Premium 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90237.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Telecine",Telecine Premium FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72362.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Telecine",Telecine Premium FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72363.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Legendados",Telecine Premium FHD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90656.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Telecine",Telecine Premium HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72364.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Legendados",Telecine Premium HD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90655.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Telecine",Telecine Premium SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72365.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Canais | Legendados",Telecine Premium SD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90654.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Canais | 4K [FHDR]",Telecine Touch 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103454.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine",Telecine Touch FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72366.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine",Telecine Touch FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72367.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Legendados",Telecine Touch FHD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90653.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine",Telecine Touch HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72368.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Legendados",Telecine Touch HD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90652.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Telecine",Telecine Touch SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72369.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Canais | Legendados",Telecine Touch SD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90651.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/uYJ" group-title="Canais | Abertos",Terra Viva SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72370.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Canais | 4K [FHDR]",TLC 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103465.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Canais | Variedades",TLC FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72371.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Canais | Variedades",TLC FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72372.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Canais | Variedades",TLC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72373.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Canais | Variedades",TLC SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72374.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | 4K [FHDR]",TNT 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72377.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries",TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72375.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries",TNT FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72376.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Legendados",TNT FHD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90674.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries",TNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72378.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Legendados",TNT HD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90673.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Filmes e Séries",TNT SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72379.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Canais | Legendados",TNT SD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90672.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | 4K [FHDR]",TNT Series 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72382.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries",TNT Series FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72380.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries",TNT Series FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72381.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Legendados",TNT Series FHD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90671.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries",TNT Series HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72383.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Legendados",TNT Series HD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90670.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Filmes e Séries",TNT Series SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72384.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Canais | Legendados",TNT Series SD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90669.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/R28" group-title="Canais | Infantis",Tooncast SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72385.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="Canais | 4K [FHDR]",Trace Brazuca 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103453.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="Canais | Variedades",Trace Brazuca FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72386.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="Canais | Variedades",Trace Brazuca FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72387.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="Canais | Variedades",Trace Brazuca HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72388.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="Canais | Variedades",Trace Brazuca SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72389.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/4vg" group-title="Canais | 4K [FHDR]",Travel Box Brazil 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103452.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/4vg" group-title="Canais | Variedades",Travel Box Brazil FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72390.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/4vg" group-title="Canais | Variedades",Travel Box Brazil FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72391.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/4vg" group-title="Canais | Variedades",Travel Box Brazil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72392.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/4vg" group-title="Canais | Variedades",Travel Box Brazil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72393.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/a34029a486c85185ec68bcc24872f728.png" group-title="Canais | Documentários",TruTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/76668.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/a34029a486c85185ec68bcc24872f728.png" group-title="Canais | Documentários",TruTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/76669.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/a34029a486c85185ec68bcc24872f728.png" group-title="Canais | Documentários",TruTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/76670.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Canais | 4K [FHDR]",TV Aparecida 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103464.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Canais | Religiosos",TV Aparecida FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72394.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Canais | Religiosos",TV Aparecida FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72395.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Canais | Religiosos",TV Aparecida HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72396.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/RbB" group-title="Canais | Religiosos",TV Aparecida SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72397.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Aratu SBT Bahia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/73260.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos",TV Brasil 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72398.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | 4K [FHDR]",TV Brasil 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103463.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos",TV Brasil FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72399.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos",TV Brasil FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72400.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos",TV Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72401.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Canais | Abertos",TV Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72402.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/kpT" group-title="Canais | Abertos",TV Camara SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72403.ts
-#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/images/5559747da880013a0b1d0380839e9f90.png" group-title="Canais | Religiosos",TV Cancao Nova SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72404.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | 4K [FHDR]",TV Cidade - RECORDTV 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103462.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/DRX0wcK" group-title="Canais | Abertos",TV Cidade RecordTV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/92666.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/DRX0wcK" group-title="Canais | Abertos",TV Cidade RecordTV FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/92667.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/DRX0wcK" group-title="Canais | Abertos",TV Cidade RecordTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/92668.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/DRX0wcK" group-title="Canais | Abertos",TV Cidade RecordTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/92669.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",TV Coxa HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/105790.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/E6gPoqS" group-title="Canais | 4K [FHDR]",TV Diario 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103461.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/E6gPoqS" group-title="Canais | Abertos",TV Diario Fortaleza FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/92670.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Diario Fortaleza HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72593.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/E6gPoqS" group-title="Canais | Abertos",TV Diario Fortaleza SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/92671.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",TV Evangelizar SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72628.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Canais | Abertos",TV Gazeta FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104919.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Canais | Abertos",TV Gazeta SP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104917.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Canais | Abertos",TV Gazeta SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72406.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Canais | Notícias",TV Gazeta SP SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104918.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Guarapari FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/79313.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Guarapari HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/79314.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Guarapari SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/79315.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | 4K [FHDR]",TV Jangadeiro - SBT 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103460.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Jangadeiro - SBT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/100416.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",TV Jangadeiro - SBT FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/100417.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",TV Jangadeiro - SBT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/100418.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Canais | Abertos",TV Jangadeiro - SBT SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/100419.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Justiça SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/77620.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/6j9" group-title="Canais | 4K [FHDR]",TV Novo Tempo 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103459.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/6j9" group-title="Canais | Religiosos",TV Novo Tempo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72408.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/6j9" group-title="Canais | Religiosos",TV Novo Tempo FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72409.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/6j9" group-title="Canais | Religiosos",TV Novo Tempo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72410.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/6j9" group-title="Canais | Religiosos",TV Novo Tempo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72411.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | 4K [FHDR]",TV Ra Tim Bum 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103458.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra-Tim-Bum FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72412.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra-Tim-Bum FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72413.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra-Tim-Bum HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72414.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra-Tim-Bum SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72415.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/hNk" group-title="Canais | Abertos",TV Senado SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72416.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | 4K [FHDR]",TV Uniao 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103457.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Uniao Fortaleza FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/100420.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Uniao Fortaleza FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/100422.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Uniao Fortaleza HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/100423.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TV Uniao Fortaleza SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/100424.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",TV WA SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72417.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",TV5 Monde SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72418.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Canais | 4K [FHDR]",Universal TV 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90632.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries",Universal TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72419.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries",Universal TV FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72420.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries",Universal TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72421.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Canais | Filmes e Séries",Universal TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72422.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Canais | 4K [FHDR]",Viva 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103450.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Canais | Variedades",Viva FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72427.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Canais | Variedades",Viva FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72428.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Canais | Variedades",Viva HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72429.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Canais | Variedades",Viva SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72430.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | 4K [FHDR]",Warner Channel 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90236.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72431.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72432.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Legendados",Warner Channel FHD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90650.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72433.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Legendados",Warner Channel HD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90649.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72434.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Legendados",Warner Channel SD [LEG]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/90648.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Canais | 4K [FHDR]",Woohoo 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/103449.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades",WooHoo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72435.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades",WooHoo FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72436.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades",WooHoo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72437.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades",WooHoo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/72438.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Zoomoo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104934.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Zoomoo FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104937.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Zoomoo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104935.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",Zoomoo SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR red]BrazilTV[/COLOR];&buffer=60000;url=http://ccdn.ai:80/33429500428/snakeplay/104936.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Terror 01 - HD" tvg-logo="http://cdnbr.me/logos/img/cineterror.png" group-title="- Cine Sky",Cine Terror 01 - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/93434
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 - SD" tvg-logo="http://dgbr.io:80/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="- Esportes",Fox Sports 2 - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24595
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 - HD" tvg-logo="http://cdnbr.me/logos/img/foxsports2.png" group-title="- Esportes",Fox Sports 2 - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24593
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 - FHD" tvg-logo="http://cdnbr.me/logos/img/foxsports2.png" group-title="- Esportes",Fox Sports 2 - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24591
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports - SD" tvg-logo="http://dgbr.io:80/images/b92ca3bd619bfa5d2eed95d39938653d.png" group-title="- Esportes",Band Sports - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24635
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports -  HD" tvg-logo="http://cdnbr.me/logos/img/bandsports.png" group-title="- Esportes",Band Sports -  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24633
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports - FHD" tvg-logo="http://cdnbr.me/logos/img/bandsports.png" group-title="- Esportes",Band Sports - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24631
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 01 - HD (B)" tvg-logo="http://xsrv.me/logos/img/dazn.png" group-title="- Dazn",Dazn 01 - HD (B)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24578
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 02 - HD (B)" tvg-logo="http://xsrv.me/logos/img/dazn.png" group-title="- Dazn",Dazn 02 - HD (B)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24577
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 03 - HD (B)" tvg-logo="http://xsrv.me/logos/img/dazn.png" group-title="- Dazn",Dazn 03 - HD (B)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/85984
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Dazn 04 - HD (B)" tvg-logo="http://xsrv.me/logos/img/dazn.png" group-title="- Dazn",Dazn 04 - HD (B)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/85986
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E - SD" tvg-logo="http://dgbr.io:80/images/b6bb43df4525b928a105fb5741bddbea.png" group-title="- Filmes e Series",A&E - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24802
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E - HD" tvg-logo="http://dgbr.io:80/images/b6bb43df4525b928a105fb5741bddbea.png" group-title="- Filmes e Series",A&E - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24800
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E - FHD" tvg-logo="http://xsrv.me/logos/img/ae.png" group-title="- Filmes e Series",A&E - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24798
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dabi Sports - 01 HD" tvg-logo="https://i.imgur.com/z9519hO.png" group-title="- Esportes",Abu Dabi Sports - 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/81499
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dabi Sports - 02 HD" tvg-logo="http://sa.heytv.org/wp-content/uploads/2019/03/abu-dhabi-sports-2.png" group-title="- Esportes",Abu Dabi Sports - 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/81500
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dabi Sports - 03 HD" tvg-logo="https://i.imgur.com/z9519hO.png" group-title="- Esportes",Abu Dabi Sports - 03 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/81501
+#EXTINF:-1 tvg-id="" tvg-name="ALL Sports" tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="- Esportes",ALL Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/59589
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC - SD" tvg-logo="http://dgbr.io:80/images/3654b34017508a963ccce2426e91e4cd.png" group-title="- Filmes e Series",AMC - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24809
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC - HD" tvg-logo="http://dgbr.io:80/images/3654b34017508a963ccce2426e91e4cd.png" group-title="- Filmes e Series",AMC - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24807
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC - FHD" tvg-logo="http://xsrv.me/logos/img/amc.png" group-title="- Filmes e Series",AMC - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24805
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet - 4K" tvg-logo="http://xsrv.me/logos/img/animalplanet.png" group-title="- Documentários",Animal Planet - 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33800
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet - SD" tvg-logo="http://dgbr.io:80/images/37288e62601868f21fc4f7a49f23e4e5.png" group-title="- Documentários",Animal Planet - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24959
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet - HD" tvg-logo="http://cdnbr.me/logos/img/animalplanet.png" group-title="- Documentários",Animal Planet - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24957
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet - FHD" tvg-logo="http://cdnbr.me/logos/img/animalplanet.png" group-title="- Documentários",Animal Planet - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24955
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 - SD" tvg-logo="http://dgbr.io:80/images/0c1dbecee0f9e99f78d5014b07684068.png" group-title="- Variedades",Arte 1 - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25160
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1  - HD" tvg-logo="http://dgbr.io:80/images/0c1dbecee0f9e99f78d5014b07684068.png" group-title="- Variedades",Arte 1  - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25159
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN - SD" tvg-logo="http://xsrv.me/logos/img/axn.png" group-title="- Filmes e Series",AXN - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24815
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN - HD" tvg-logo="http://dgbr.io:80/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="- Filmes e Series",AXN - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24813
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN - FHD" tvg-logo="http://xsrv.me/logos/img/axn.png" group-title="- Filmes e Series",AXN - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24812
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="Baby TV - SD" tvg-logo="http://dgbr.io:80/images/45914664eafc286fb139a5036f142106.png" group-title="- Infantil",Baby TV - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25094
+#EXTINF:-1 tvg-id="Band.br(m3u4u)" tvg-name="Band SP - São Paulo SD" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band SP - São Paulo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24548
+#EXTINF:-1 tvg-id="Band.br(m3u4u)" tvg-name="Band SP - São Paulo SD²" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band SP - São Paulo SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/134455
+#EXTINF:-1 tvg-id="Band.br(m3u4u)" tvg-name="Band SP - São Paulo HD" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band SP - São Paulo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24545
+#EXTINF:-1 tvg-id="Band.br(m3u4u)" tvg-name="Band SP - São Paulo HD²" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band SP - São Paulo HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/134454
+#EXTINF:-1 tvg-id="Band.br(m3u4u)" tvg-name="Band SP - São Paulo FHD" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band SP - São Paulo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24544
+#EXTINF:-1 tvg-id="Band.br(m3u4u)" tvg-name="Band SP - São Paulo 4K" tvg-logo="http://xsrv.me/logos/img/band.png" group-title="- Band [Cortesia]",Band SP - São Paulo 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33801
+#EXTINF:-1 tvg-id="BandRJ.br(m3u4u)" tvg-name="Band RJ - Rio de Janeiro" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band RJ - Rio de Janeiro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/84865
+#EXTINF:-1 tvg-id="BandRioGrandedoSul.br(m3u4u)" tvg-name="Band RS - Porto Alegre" tvg-logo="http://dgbr.io:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="- Band [Cortesia]",Band RS - Porto Alegre
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/99398
+#EXTINF:-1 tvg-id="BandBrasilia.br(m3u4u)" tvg-name="Band DF - Brasília" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band DF - Brasília
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/84864
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News - SD" tvg-logo="http://dgbr.io:80/images/ecde17229a3d07369de3b9bb5ba43bc6.png" group-title="- News",Band News - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24554
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News - HD" tvg-logo="http://dgbr.io:80/images/ecde17229a3d07369de3b9bb5ba43bc6.png" group-title="- News",Band News - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24552
+#EXTINF:-1 tvg-id="bis.br" tvg-name="Bis - SD" tvg-logo="http://dgbr.io:80/images/227cee183f9b009e2f81f2f8339e281b.png" group-title="- Variedades",Bis - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25121
+#EXTINF:-1 tvg-id="bis.br" tvg-name="Bis - HD" tvg-logo="http://dgbr.io:80/images/227cee183f9b009e2f81f2f8339e281b.png" group-title="- Variedades",Bis - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25119
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito - SD" tvg-logo="http://dgbr.io:80/images/21b0019f5d4469c50dbc40960c035934.png" group-title="- Infantil",Cartoonito - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25089
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito - HD" tvg-logo="http://dgbr.io:80/images/21b0019f5d4469c50dbc40960c035934.png" group-title="- Infantil",Cartoonito - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25088
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito - FHD" tvg-logo="http://dgbr.io:80/images/21b0019f5d4469c50dbc40960c035934.png" group-title="- Infantil",Cartoonito - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29898
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV SP - São Paulo SD" tvg-logo="http://dgbr.io:80/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="- Abertos [Cortesia]",RedeTV SP - São Paulo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24559
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV SP - São Paulo HD" tvg-logo="http://cdnbr.me/logos/img/redetv.png" group-title="- Abertos [Cortesia]",RedeTV SP - São Paulo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24558
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV SP - São Paulo FHD" tvg-logo="http://cdnbr.me/logos/img/redetv.png" group-title="- Abertos [Cortesia]",RedeTV SP - São Paulo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24557
+#EXTINF:-1 tvg-id="TVPampa.br(m3u4u)" tvg-name="RedeTV RS - Porto Alegre HD" tvg-logo="http://dgbr.io:80/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="- Abertos [Cortesia]",RedeTV RS - Porto Alegre HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/97418
+#EXTINF:-1 tvg-id="ConmebolTV1.br(m3u4u)" tvg-name="TV Conmebol 1 - HD" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 1 - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86077
+#EXTINF:-1 tvg-id="ConmebolTV1.br(m3u4u)" tvg-name="TV Conmebol 01 - HD²" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 01 - HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/103840
+#EXTINF:-1 tvg-id="ConmebolTV1.br(m3u4u)" tvg-name="TV Conmebol 01 - HD³" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 01 - HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/107524
+#EXTINF:-1 tvg-id="ConmebolTV2.br(m3u4u)" tvg-name="TV Conmebol 2 - HD" tvg-logo="http://dgbr.io:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="- Conmebol",TV Conmebol 2 - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86078
+#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 02 - HD²" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 02 - HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/103841
+#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 02 - HD³" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 02 - HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/107525
+#EXTINF:-1 tvg-id="ConmebolTV3.br(m3u4u)" tvg-name="TV Conmebol 3 - HD" tvg-logo="http://dgbr.io:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="- Conmebol",TV Conmebol 3 - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86079
+#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 03 - HD²" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 03 - HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/103842
+#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 03 - HD³" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 03 - HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/107526
+#EXTINF:-1 tvg-id="ConmebolTV4.br(m3u4u)" tvg-name="TV Conmebol 4 - HD" tvg-logo="http://dgbr.io:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="- Conmebol",TV Conmebol 4 - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86080
+#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 04 - HD²" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 04 - HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/103843
+#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 04 - HD³" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 04 - HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/107527
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil - SD" tvg-logo="http://dgbr.io:80/images/6e9236ab3e71fd6f578d57db5855f7aa.png" group-title="- Abertos [Cortesia]",Canal Brasil - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24564
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil - HD" tvg-logo="http://cdnbr.me/logos/img/canalbrasil.png" group-title="- Abertos [Cortesia]",Canal Brasil - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24562
+#EXTINF:-1 tvg-id="CanaldoBoi.br(m3u4u)" tvg-name="CANAL DO BOI" tvg-logo="http://dgbr.io:80/images/62cb19c8de3b1ae6482f3e8bacdf9a59.png" group-title="- Abertos [Cortesia]",CANAL DO BOI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33563
+#EXTINF:-1 tvg-id="CanalRural.br(m3u4u)" tvg-name="CANAL RURAL" tvg-logo="http://dgbr.io:80/images/bf1cb768332244e3a68070bd82bd2540.png" group-title="- Abertos [Cortesia]",CANAL RURAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/35033
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony - SD" tvg-logo="http://dgbr.io:80/images/33561003f44d374c719506bef4faeba4.png" group-title="- Filmes e Series",Canal Sony - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24822
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony - HD" tvg-logo="http://xsrv.me/logos/img/sony.png" group-title="- Filmes e Series",Canal Sony - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24820
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony - FHD" tvg-logo="http://xsrv.me/logos/img/sony.png" group-title="- Filmes e Series",Canal Sony - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24818
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova - SD" tvg-logo="http://xsrv.me/logos/img/cancaonova.png" group-title="- Religiosos",Canção Nova - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25201
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova - HD" tvg-logo="http://dgbr.io:80/images/b1e41da6725a105391a0159d25f4ff30.png" group-title="- Religiosos",Canção Nova - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25200
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network - 4K" tvg-logo="http://dgbr.io:80/images/87dfc97a7654b4b7ad9f04767361eca9.png" group-title="- Infantil",Cartoon Network - 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33802
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network - SD" tvg-logo="http://dgbr.io:80/images/87dfc97a7654b4b7ad9f04767361eca9.png" group-title="- Infantil",Cartoon Network - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25069
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network - HD" tvg-logo="http://xsrv.me/logos/img/cartoonnetwork.png" group-title="- Infantil",Cartoon Network - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25068
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network - FHD" tvg-logo="http://xsrv.me/logos/img/cartoonnetwork.png" group-title="- Infantil",Cartoon Network - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25065
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 01" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86130
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 02" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86131
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 03" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86132
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 04" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86133
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 05" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86134
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 06" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86135
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 07" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86136
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 08" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86137
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 09" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86138
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 10" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86139
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 11" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86140
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 12" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86141
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 13" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86142
+#EXTINF:-1 tvg-id="5f36f2346ede750007332d11" tvg-name="Cine Pipoca - 14" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86143
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 01" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/59512
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 02" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/59513
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 03" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/59514
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 04" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/59515
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 05" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/59516
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 06" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/81504
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 07" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/81505
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 08" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/81506
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 09" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/81507
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 10" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/81508
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax - SD" tvg-logo="http://dgbr.io:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="- Filmes e Series",Cinemax - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24828
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax - HD" tvg-logo="http://dgbr.io:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="- Filmes e Series",Cinemax - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24826
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax - FHD" tvg-logo="http://xsrv.me/logos/img/cinemax.png" group-title="- Filmes e Series",Cinemax - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24824
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil - SD" tvg-logo="http://xsrv.me/logos/img/cnnbrasil.png" group-title="- News",CNN Brasil - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30277
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil - HD" tvg-logo="http://103.195.103.33:80/images/ea2c92ca5bfbef90b6a6a2e8bb68b1f7.png" group-title="- News",CNN Brasil - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30278
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil - FHD" tvg-logo="http://xsrv.me/logos/img/cnnbrasil.png" group-title="- News",CNN Brasil - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30373
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN Internacional*" tvg-logo="http://dgbr.io:80/images/6dbb369ffc1366d269fdd4d95f3f80e2.png" group-title="- News",CNN Internacional*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/59511
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate - 4K" tvg-logo="http://xsrv.me/logos/img/combate.png" group-title="- Esportes",Combate - 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33820
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate - SD" tvg-logo="http://dgbr.io:80/images/758d8b1cbf0b6cee37110825fead0f77.png" group-title="- Esportes",Combate - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24603
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate - HD" tvg-logo="http://dgbr.io:80/images/758d8b1cbf0b6cee37110825fead0f77.png" group-title="- Esportes",Combate - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24600
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate - FHD" tvg-logo="http://cdnbr.me/logos/img/combate.png" group-title="- Esportes",Combate - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24598
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central - SD" tvg-logo="http://dgbr.io:80/images/f7029e67f22d8a43ab8d1b3deb896249.png" group-title="- Variedades",Comedy Central - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25127
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central - HD" tvg-logo="http://dgbr.io:80/images/f7029e67f22d8a43ab8d1b3deb896249.png" group-title="- Variedades",Comedy Central - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25126
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central - FHD" tvg-logo="http://xsrv.me/logos/img/comedycentral.png" group-title="- Variedades",Comedy Central - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33616
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Canal Curta - SD" tvg-logo="http://dgbr.io:80/images/c5a8d9f69131ab90d35f659348bafd6a.png" group-title="- Variedades",Canal Curta - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25166
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Canal Curta - HD " tvg-logo="http://dgbr.io:80/images/c5a8d9f69131ab90d35f659348bafd6a.png" group-title="- Variedades",Canal Curta - HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25165
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel - SD" tvg-logo="http://dgbr.io:80/images/2bffe8e99bded440c9a326cd6751a23d.png" group-title="- Discovery",Discovery Channel - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24968
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel - HD" tvg-logo="http://dgbr.io:80/images/2bffe8e99bded440c9a326cd6751a23d.png" group-title="- Discovery",Discovery Channel - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24966
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel - FHD" tvg-logo="http://cdnbr.me/logos/img/discoverychannel.png" group-title="- Discovery",Discovery Channel - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29896
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery H&H - SD" tvg-logo="http://dgbr.io:80/images/2e70bc7037125933a803b1dd4c3853b9.png" group-title="- Discovery",Discovery H&H - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24977
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery H&H - HD" tvg-logo="http://cdnbr.me/logos/img/discoveryheh.png" group-title="- Discovery",Discovery H&H - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24975
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery H&H - FHD" tvg-logo="http://cdnbr.me/logos/img/discoveryheh.png" group-title="- Discovery",Discovery H&H - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29897
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="Discovery HGTV - SD" tvg-logo="http://dgbr.io:80/images/585c4d2eec6882f5f38e151afee72a82.png" group-title="- Discovery",Discovery HGTV - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29391
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="Discovery HGTV - HD" tvg-logo="http://dgbr.io:80/images/585c4d2eec6882f5f38e151afee72a82.png" group-title="- Discovery",Discovery HGTV - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29390
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="Discovery HGTV - FHD" tvg-logo="http://cdnbr.me/logos/img/discoveryhgtv.png" group-title="- Discovery",Discovery HGTV - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33515
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids - SD" tvg-logo="http://dgbr.io:80/images/7ec7090630903c76f7c4d1771c873b1f.png" group-title="- Infantil",Discovery Kids - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25038
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids - HD" tvg-logo="http://dgbr.io:80/images/7ec7090630903c76f7c4d1771c873b1f.png" group-title="- Infantil",Discovery Kids - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25036
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids - FHD" tvg-logo="http://xsrv.me/logos/img/discoverykids.png" group-title="- Infantil",Discovery Kids - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29894
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science - SD" tvg-logo="http://dgbr.io:80/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="- Discovery",Discovery Science - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24982
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science - HD" tvg-logo="http://dgbr.io:80/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="- Discovery",Discovery Science - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24980
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science - FHD" tvg-logo="http://cdnbr.me/logos/img/discoveryscience.png" group-title="- Discovery",Discovery Science - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29893
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater - SD" tvg-logo="http://dgbr.io:80/images/c02e20b3a5e776914050a01c27e07146.png" group-title="- Discovery",Discovery Theater - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24985
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater - HD" tvg-logo="http://dgbr.io:80/images/c02e20b3a5e776914050a01c27e07146.png" group-title="- Discovery",Discovery Theater - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24983
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater - FHD" tvg-logo="http://cdnbr.me/logos/img/discoverytheater.png" group-title="- Discovery",Discovery Theater - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29892
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="Discovery TLC - SD" tvg-logo="http://dgbr.io:80/images/017a544acb713ac3b4c46402c94a07fc.png" group-title="- Discovery",Discovery TLC - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29902
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="Discovery TLC - HD" tvg-logo="http://dgbr.io:80/images/017a544acb713ac3b4c46402c94a07fc.png" group-title="- Discovery",Discovery TLC - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29903
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="Discovery TLC - FHD" tvg-logo="http://cdnbr.me/logos/img/tlc.png" group-title="- Discovery",Discovery TLC - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29891
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo - SD" tvg-logo="http://dgbr.io:80/images/c5e6bf72241158f09aa30e9c966269a3.png" group-title="- Discovery",Discovery Turbo - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24991
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo - HD" tvg-logo="http://cdnbr.me/logos/img/discoveryturbo.png" group-title="- Discovery",Discovery Turbo - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24989
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo - FHD" tvg-logo="http://cdnbr.me/logos/img/discoveryturbo.png" group-title="- Discovery",Discovery Turbo - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29890
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World - SD" tvg-logo="http://dgbr.io:80/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="- Discovery",Discovery World - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24994
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World - HD" tvg-logo="http://dgbr.io:80/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="- Discovery",Discovery World - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24992
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World -FHD" tvg-logo="http://cdnbr.me/logos/img/discoveryworld.png" group-title="- Discovery",Discovery World -FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29889
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel - 4K" tvg-logo="http://xsrv.me/logos/img/discoverychannel.png" group-title="- Discovery",Discovery Channel - 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33803
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel - SD" tvg-logo="http://dgbr.io:80/images/6bee7677af2813c27e06499b0ac63cce.png" group-title="- Infantil",Disney Channel - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25046
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel - HD" tvg-logo="http://dgbr.io:80/images/6bee7677af2813c27e06499b0ac63cce.png" group-title="- Infantil",Disney Channel - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25044
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel - FHD" tvg-logo="http://xsrv.me/logos/img/disneychannel.png" group-title="- Infantil",Disney Channel - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25041
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! Entertainment - SD" tvg-logo="http://dgbr.io:80/images/e1671797c52e15f763380b45e841ec32.png" group-title="- Variedades",E! Entertainment - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25169
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! Entertainment - HD" tvg-logo="http://dgbr.io:80/images/e1671797c52e15f763380b45e841ec32.png" group-title="- Variedades",E! Entertainment - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25168
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! Entertainment - FHD " tvg-logo="http://xsrv.me/logos/img/e.png" group-title="- Variedades",E! Entertainment - FHD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33617
+#EXTINF:-1 tvg-id="aande.br" tvg-name="TNT Sports - 01 HD" tvg-logo="http://cdnbr.me/logos/img/tntsports.png" group-title="- TNT Sports",TNT Sports - 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24579
+#EXTINF:-1 tvg-id="aande.br" tvg-name="TNT Sports - 02 HD" tvg-logo="http://cdnbr.me/logos/img/tntsports.png" group-title="- TNT Sports",TNT Sports - 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29704
+#EXTINF:-1 tvg-id="aande.br" tvg-name="TNT Sports - 03 HD" tvg-logo="http://cdnbr.me/logos/img/tntsports.png" group-title="- TNT Sports",TNT Sports - 03 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29705
+#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="Fashion TV - FHD" tvg-logo="http://xsrv.me/logos/img/fashiontv.png" group-title="- Variedades",Fashion TV - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33888
+#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="Fashion TV - HD" tvg-logo="http://dgbr.io:80/images/96c644d5b2c6070213e3b722e7966e8f.png" group-title="- Variedades",Fashion TV - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33889
+#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="Film & Arts - SD" tvg-logo="http://xsrv.me/logos/img/film&arts.png" group-title="- Variedades",Film & Arts - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25197
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV - SD" tvg-logo="http://dgbr.io:80/images/4d2187339c2c0f316b0849a8b027c40c.png" group-title="- Variedades",Fish TV - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25173
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV - HD" tvg-logo="http://dgbr.io:80/images/4d2187339c2c0f316b0849a8b027c40c.png" group-title="- Variedades",Fish TV - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25171
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV - FHD" tvg-logo="http://xsrv.me/logos/img/fishtv.png" group-title="- Variedades",Fish TV - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33618
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network - SD" tvg-logo="http://dgbr.io:80/images/5382b51ca47c88d283e818ad2d1e3aca.png" group-title="- Variedades",Food Network - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25132
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network - HD" tvg-logo="http://dgbr.io:80/images/5382b51ca47c88d283e818ad2d1e3aca.png" group-title="- Variedades",Food Network - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25131
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network - FHD" tvg-logo="http://xsrv.me/logos/img/foodnetwork.png" group-title="- Variedades",Food Network - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33619
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="Star - SD" tvg-logo="http://dgbr.io:80/images/cc2998d18e00a85ee236f747c3bb340a.png" group-title="- Filmes e Series",Star - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24835
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="Star - HD" tvg-logo="http://dgbr.io:80/images/cc2998d18e00a85ee236f747c3bb340a.png" group-title="- Filmes e Series",Star - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24834
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Star - FHD" tvg-logo="http://xsrv.me/logos/img/starchannel.png" group-title="- Filmes e Series",Star - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24831
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="Star Life - SD" tvg-logo="http://dgbr.io:80/images/068f42fbe36132ae7fdd488ef4f14cf2.png" group-title="- Filmes e Series",Star Life - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24842
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="Star Life - HD" tvg-logo="http://dgbr.io:80/images/068f42fbe36132ae7fdd488ef4f14cf2.png" group-title="- Filmes e Series",Star Life - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24840
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="Star Life - FHD" tvg-logo="http://dgbr.io:80/images/068f42fbe36132ae7fdd488ef4f14cf2.png" group-title="- Filmes e Series",Star Life - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24838
+#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA - HD" tvg-logo="http://cdnbr.me/logos/img/futura.png" group-title="- Abertos [Cortesia]",FUTURA - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24568
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX - SD" tvg-logo="http://dgbr.io:80/images/c3f9558d681bac963339b7c69894c4f7.png" group-title="- Filmes e Series",FX - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24860
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX - HD" tvg-logo="http://dgbr.io:80/images/c3f9558d681bac963339b7c69894c4f7.png" group-title="- Filmes e Series",FX - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24859
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX - FHD" tvg-logo="http://103.195.103.33:80/images/c3f9558d681bac963339b7c69894c4f7.png" group-title="- Filmes e Series",FX - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24857
+#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - São Paulo SD" tvg-logo="http://dgbr.io:80/images/cc47870e439055bfefe058a7ce35d4c2.png" group-title="- Globo [Cortesia]",Globo SP - São Paulo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30673
+#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - São Paulo HD" tvg-logo="http://dgbr.io:80/images/cc47870e439055bfefe058a7ce35d4c2.png" group-title="- Globo [Cortesia]",Globo SP - São Paulo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30674
+#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - São Paulo FHD" tvg-logo="http://cdnbr.me/logos/img/globosp.png" group-title="- Globo [Cortesia]",Globo SP - São Paulo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30675
+#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - São Paulo 4K" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - São Paulo 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33615
+#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - Santos HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - Santos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24459
+#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - São José Dos Campos HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - São José Dos Campos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/126105
+#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - Bauru - HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - Bauru - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24452
+#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - Sococaba HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - Sococaba HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24455
+#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - Campinas HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/32987
+#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - Araraquara HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - Araraquara HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/34641
+#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - Mogi (Tv Diario) HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - Mogi (Tv Diario) HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/34643
+#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - Campinas SD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - Campinas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/32986
+#EXTINF:-1 tvg-id="GloboRio.br(m3u4u)" tvg-name="Globo RJ - Rio de Janeiro SD" tvg-logo="http://cdnbr.me/logos/img/globorio.png" group-title="- Globo [Cortesia]",Globo RJ - Rio de Janeiro SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30676
+#EXTINF:-1 tvg-id="GloboRio.br(m3u4u)" tvg-name="Globo RJ - Rio de Janeiro HD" tvg-logo="http://dgbr.io:80/images/57600acf19ae6801c42d74244e846091.png" group-title="- Globo [Cortesia]",Globo RJ - Rio de Janeiro HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30677
+#EXTINF:-1 tvg-id="GloboRio.br(m3u4u)" tvg-name="Globo RJ - Rio de Janeiro FHD" tvg-logo="http://cdnbr.me/logos/img/globorio.png" group-title="- Globo [Cortesia]",Globo RJ - Rio de Janeiro FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30678
+#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo RJ - Resende HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo RJ - Resende HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33504
+#EXTINF:-1 tvg-id="InterTVAltoLiteral.br(m3u4u)" tvg-name="Globo RJ - Cabo Frio HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo RJ - Cabo Frio HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/35048
+#EXTINF:-1 tvg-id="GloboBeloHorizonte.br(m3u4u)" tvg-name="Globo MG - Belo Horizonte SD" tvg-logo="http://dgbr.io:80/images/75b511c187030c20313e2f121f23f479.png" group-title="- Globo [Cortesia]",Globo MG - Belo Horizonte SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30679
+#EXTINF:-1 tvg-id="GloboBeloHorizonte.br(m3u4u)" tvg-name="Globo MG - Belo Horizonte HD" tvg-logo="http://cdnbr.me/logos/img/globominas.png" group-title="- Globo [Cortesia]",Globo MG - Belo Horizonte HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30680
+#EXTINF:-1 tvg-id="GloboBeloHorizonte.br(m3u4u)" tvg-name="Globo MG - Belo Horizonte FHD" tvg-logo="http://cdnbr.me/logos/img/globominas.png" group-title="- Globo [Cortesia]",Globo MG - Belo Horizonte FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30681
+#EXTINF:-1 tvg-id="GloboBeloHorizonte.br(m3u4u)" tvg-name="Globo MG - Sul de Minas HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo MG - Sul de Minas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/91821
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo MG - InterTV dos Vales HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo MG - InterTV dos Vales HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24465
+#EXTINF:-1 tvg-id="GloboBrasilia.br(m3u4u)" tvg-name="Globo DF - Brasília SD" tvg-logo="http://dgbr.io:80/images/0f126e6a5cd84261e5e7a82314424b44.png" group-title="- Globo [Cortesia]",Globo DF - Brasília SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30682
+#EXTINF:-1 tvg-id="GloboBrasilia.br(m3u4u)" tvg-name="Globo DF - Brasília HD" tvg-logo="http://dgbr.io:80/images/0f126e6a5cd84261e5e7a82314424b44.png" group-title="- Globo [Cortesia]",Globo DF - Brasília HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30684
+#EXTINF:-1 tvg-id="GloboNordeste.br(m3u4u)" tvg-name="Globo PE - Nordeste SD" tvg-logo="http://cdnbr.me/logos/img/globonordeste.png" group-title="- Globo [Cortesia]",Globo PE - Nordeste SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30685
+#EXTINF:-1 tvg-id="GloboNordeste.br(m3u4u)" tvg-name="Globo PE - Nordeste HD" tvg-logo="http://dgbr.io:80/images/dc86f438edb3590affeb0158d490328b.png" group-title="- Globo [Cortesia]",Globo PE - Nordeste HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30686
+#EXTINF:-1 tvg-id="GloboNordeste.br(m3u4u)" tvg-name="Globo PE - Nordeste FHD" tvg-logo="http://cdnbr.me/logos/img/globonordeste.png" group-title="- Globo [Cortesia]",Globo PE - Nordeste FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30687
+#EXTINF:-1 tvg-id="RPCCuritiba.br(m3u4u)" tvg-name="Globo PR - Curitiba SD" tvg-logo="http://dgbr.io:80/images/7ceef5ab43f03b38ca74842d036a0a5d.png" group-title="- Globo [Cortesia]",Globo PR - Curitiba SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33414
+#EXTINF:-1 tvg-id="RPCCuritiba.br(m3u4u)" tvg-name="Globo PR - Curitiba HD" tvg-logo="http://dgbr.io:80/images/7ceef5ab43f03b38ca74842d036a0a5d.png" group-title="- Globo [Cortesia]",Globo PR - Curitiba HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33415
+#EXTINF:-1 tvg-id="TVBahia.br(m3u4u)" tvg-name="Globo BA - Salvador SD" tvg-logo="http://dgbr.io:80/images/0a6066b5227cfa7b1c35929d493f5ba9.png" group-title="- Globo [Cortesia]",Globo BA - Salvador SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/90709
+#EXTINF:-1 tvg-id="TVBahia.br(m3u4u)" tvg-name="Globo BA - Salvador HD" tvg-logo="http://dgbr.io:80/images/0a6066b5227cfa7b1c35929d493f5ba9.png" group-title="- Globo [Cortesia]",Globo BA - Salvador HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29628
+#EXTINF:-1 tvg-id="TVAnhanguera.br(m3u4u)" tvg-name="Globo GO - Goiânia HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo GO - Goiânia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/38471
+#EXTINF:-1 tvg-id="TVAnhanguera.br(m3u4u)" tvg-name="Globo GO - Goiânia SD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo GO - Goiânia SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/38470
+#EXTINF:-1 tvg-id="RPCMaringa.br(m3u4u)" tvg-name="Globo PR - Maringá HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo PR - Maringá HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/94879
+#EXTINF:-1 tvg-id="RPCFozdoIguacu.br(m3u4u)" tvg-name="Globo PR - Foz do Iguaçu HD" tvg-logo="http://dgbr.io:80/images/7ceef5ab43f03b38ca74842d036a0a5d.png" group-title="- Globo [Cortesia]",Globo PR - Foz do Iguaçu HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/130990
+#EXTINF:-1 tvg-id="RPCPontaGrossa.br(m3u4u)" tvg-name="Globo PR - Ponta Grossa HD" tvg-logo="http://dgbr.io:80/images/7ceef5ab43f03b38ca74842d036a0a5d.png" group-title="- Globo [Cortesia]",Globo PR - Ponta Grossa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/130991
+#EXTINF:-1 tvg-id="RPCParanavai.br(m3u4u)" tvg-name="Globo PR - Paranavaí HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo PR - Paranavaí HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/34642
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo SE - Sergipe HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SE - Sergipe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/94878
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo SE - Sergipe FHD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SE - Sergipe FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/34646
+#EXTINF:-1 tvg-id="NSCTVJoinville.br(m3u4u)" tvg-name="Globo SC - Joinville HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SC - Joinville HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/114911
+#EXTINF:-1 tvg-id="NSCTVFlorianopolis.br(m3u4u)" tvg-name="Globo SC - Florianópolis HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SC - Florianópolis HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33502
+#EXTINF:-1 tvg-id="NSCTVCriciuma.br(m3u4u)" tvg-name="Globo SC - Criciuma HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SC - Criciuma HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/130993
+#EXTINF:-1 tvg-id="NSCTVChapeco.br(m3u4u)" tvg-name="Globo SC - Chapecó HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SC - Chapecó HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/130994
+#EXTINF:-1 tvg-id="NSCTVBlumenau.br(m3u4u)" tvg-name="Globo SC - Bluemenau HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SC - Bluemenau HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33503
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br(m3u4u)" tvg-name="Globo RS - Porto Alegre HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo RS - Porto Alegre HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/38473
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br(m3u4u)" tvg-name="Globo RS - Porto Alegre SD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo RS - Porto Alegre SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/38472
+#EXTINF:-1 tvg-id="RBSTVSantaMaria.br(m3u4u)" tvg-name="Globo RS - Santa Maria HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo RS - Santa Maria HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/130992
+#EXTINF:-1 tvg-id="RBSTVRioGrande.br(m3u4u)" tvg-name="Globo RS - Caxias do Sul HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo RS - Caxias do Sul HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/91342
+#EXTINF:-1 tvg-id="RBSTVRioGrande.br(m3u4u)" tvg-name="Globo RS - Pelotas HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo RS - Pelotas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/91344
+#EXTINF:-1 tvg-id="RedeAmazonicaManaus.br(m3u4u)" tvg-name="Globo AM - Manaus HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo AM - Manaus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33506
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="Globo AM - Boa Vista SD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo AM - Boa Vista SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29626
+#EXTINF:-1 tvg-id="TVCentroAmericaCuiaba.br(m3u4u)" tvg-name="Globo MT - Cuiabá SD²" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo MT - Cuiabá SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24462
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Globo MT - Cuiabá SD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo MT - Cuiabá SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30683
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="Globo AL - Alagoas HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo AL - Alagoas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24571
+#EXTINF:-1 tvg-id="TVVerdesMares.br(m3u4u)" tvg-name="Globo CE - Fortaleza HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo CE - Fortaleza HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24456
+#EXTINF:-1 tvg-id="TVGazeta.br(m3u4u)" tvg-name="Globo ES - Vitória HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo ES - Vitória HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/95942
+#EXTINF:-1 tvg-id="TVGazeta.br(m3u4u)" tvg-name="Globo ES - Itapemirim HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo ES - Itapemirim HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24572
+#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo MA - São Luís - Mirante" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo MA - São Luís - Mirante
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33505
+#EXTINF:-1 tvg-id="TVMorena.br(m3u4u)" tvg-name="Globo MS - Tv Morena HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo MS - Tv Morena HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/114812
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="Globo PA - Belém HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo PA - Belém HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24481
+#EXTINF:-1 tvg-id="TVCaboBranco.br(m3u4u)" tvg-name="Globo PB - Cabo Branco HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo PB - Cabo Branco HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/120135
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo PI - Teresina HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo PI - Teresina HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/97439
+#EXTINF:-1 tvg-id="InterTVCabugi.br(m3u4u)" tvg-name="Globo RN - Cabugí HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo RN - Cabugí HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30441
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob - SD" tvg-logo="http://dgbr.io:80/images/5e2247ab07fc3f9f14af2655d76039a6.png" group-title="- Infantil",Gloob - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25076
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob - HD" tvg-logo="http://dgbr.io:80/images/5e2247ab07fc3f9f14af2655d76039a6.png" group-title="- Infantil",Gloob - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25073
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob - FHD" tvg-logo="http://xsrv.me/logos/img/gloob.png" group-title="- Infantil",Gloob - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29899
+#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="Gloobinho - SD" tvg-logo="http://dgbr.io:80/images/50e9728503a9bffabe5e07c912b38f89.png" group-title="- Infantil",Gloobinho - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25103
+#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="Gloobinho - HD" tvg-logo="http://dgbr.io:80/images/50e9728503a9bffabe5e07c912b38f89.png" group-title="- Infantil",Gloobinho - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25102
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT - SD" tvg-logo="http://dgbr.io:80/images/a5e669e9a3073f1384994f3b02576748.png" group-title="- Variedades",GNT - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25145
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT - HD" tvg-logo="http://dgbr.io:80/images/a5e669e9a3073f1384994f3b02576748.png" group-title="- Variedades",GNT - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25143
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT - FHD" tvg-logo="http://xsrv.me/logos/img/gnt.png" group-title="- Variedades",GNT - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25141
+#EXTINF:-1 tvg-id="history2.br" tvg-name="History 2 - SD" tvg-logo="http://dgbr.io:80/images/b5035b385b4983d6acc8ef1e3f497ad9.png" group-title="- Documentários",History 2 - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25008
+#EXTINF:-1 tvg-id="history2.br" tvg-name="History 2 - HD" tvg-logo="http://cdnbr.me/logos/img/history2.png" group-title="- Documentários",History 2 - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25007
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News - HD" tvg-logo="http://dgbr.io:80/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="- News",Globo News - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24485
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News - SD" tvg-logo="http://xsrv.me/logos/img/globonews.png" group-title="- News",Globo News - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24488
+#EXTINF:-1 tvg-id="maisnatela.br" tvg-name="Mais GloboSat - HD" tvg-logo="http://dgbr.io:80/images/345a207ebc8e683898c0ff52a5f4837c.png" group-title="- Variedades",Mais GloboSat - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25136
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Mais GloboSat - SD" tvg-logo="http://dgbr.io:80/images/345a207ebc8e683898c0ff52a5f4837c.png" group-title="- Variedades",Mais GloboSat - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25138
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO - 4K" tvg-logo="http://xsrv.me/logos/img/hbo.png" group-title="- HBO",HBO - 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33807
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO - SD" tvg-logo="http://dgbr.io:80/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="- HBO",HBO - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24732
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO - HD" tvg-logo="http://dgbr.io:80/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="- HBO",HBO - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24730
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO - FHD" tvg-logo="http://xsrv.me/logos/img/hbo.png" group-title="- HBO",HBO - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24728
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 - SD" tvg-logo="http://dgbr.io:80/images/a7f9c898c812805f26c4ea1e490201da.png" group-title="- HBO",HBO 2 - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24739
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 - HD" tvg-logo="http://dgbr.io:80/images/a7f9c898c812805f26c4ea1e490201da.png" group-title="- HBO",HBO 2 - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24737
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 - FHD" tvg-logo="http://xsrv.me/logos/img/hbo2.png" group-title="- HBO",HBO 2 - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24735
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family - SD" tvg-logo="http://dgbr.io:80/images/7ac60ed5d6e929c81d0885b615c5fd60.png" group-title="- HBO",HBO Family - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24745
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family - HD" tvg-logo="http://dgbr.io:80/images/7ac60ed5d6e929c81d0885b615c5fd60.png" group-title="- HBO",HBO Family - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24744
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family - FHD" tvg-logo="http://xsrv.me/logos/img/hbofamily.png" group-title="- HBO",HBO Family - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24742
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus - SD" tvg-logo="http://dgbr.io:80/images/025d07370cb9c98aacd83e78e8b3a1a3.png" group-title="- HBO",HBO Plus - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24751
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus - HD" tvg-logo="http://dgbr.io:80/images/025d07370cb9c98aacd83e78e8b3a1a3.png" group-title="- HBO",HBO Plus - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24749
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus - FHD" tvg-logo="http://xsrv.me/logos/img/hboplus.png" group-title="- HBO",HBO Plus - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24747
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature - SD" tvg-logo="http://dgbr.io:80/images/59c79fdb9059ea5288761dc1878f0298.png" group-title="- HBO",HBO Signature - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24758
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature - HD" tvg-logo="http://xsrv.me/logos/img/hbosignature.png" group-title="- HBO",HBO Signature - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24756
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature - FHD" tvg-logo="http://xsrv.me/logos/img/hbosignature.png" group-title="- HBO",HBO Signature - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24754
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi -  HD" tvg-logo="http://dgbr.io:80/images/e71a5a4ebc1215861f316cdb11241e9b.png" group-title="- HBO",HBO Mundi -  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33510
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi - FHD" tvg-logo="http://dgbr.io:80/images/e71a5a4ebc1215861f316cdb11241e9b.png" group-title="- HBO",HBO Mundi - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33866
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop - HD" tvg-logo="http://dgbr.io:80/images/bc1b7a80d163878a56648878626e9a49.png" group-title="- HBO",HBO Pop - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33512
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop - FHD" tvg-logo="http://dgbr.io:80/images/bc1b7a80d163878a56648878626e9a49.png" group-title="- HBO",HBO Pop - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33865
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme - HD" tvg-logo="http://dgbr.io:80/images/bd10dac6ef63bf5209ac397b222b5ab5.png" group-title="- HBO",HBO Xtreme - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33511
+#EXTINF:-1 tvg-id="aande.br" tvg-name="HBO Xtreme - FHD" tvg-logo="http://xsrv.me/logos/img/hbo_xtreme.png" group-title="- HBO",HBO Xtreme - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33864
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel - SD" tvg-logo="http://dgbr.io:80/images/3cd15f8f2940aff879df34df4e5c2cd1.png" group-title="- Documentários",History Channel - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25002
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel - HD" tvg-logo="http://cdnbr.me/logos/img/history.png" group-title="- Documentários",History Channel - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25000
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel - FHD" tvg-logo="http://cdnbr.me/logos/img/history.png" group-title="- Documentários",History Channel - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24998
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigação Discovery - SD" tvg-logo="http://dgbr.io:80/images/5a6898640e865b337ed19248dd0cafde.png" group-title="- Discovery",Investigação Discovery - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24996
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigação Discovery - HD" tvg-logo="http://dgbr.io:80/images/5a6898640e865b337ed19248dd0cafde.png" group-title="- Discovery",Investigação Discovery - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24995
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigação Discovery - FHD" tvg-logo="http://cdnbr.me/logos/img/discoveryid.png" group-title="- Discovery",Investigação Discovery - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29900
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Kids" tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="- Infantil",Kuriakos Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/59588
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime - SD" tvg-logo="http://dgbr.io:80/images/79f3a982fd2496a50c5ec8f88e9b608f.png" group-title="- Filmes e Series",Lifetime - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24867
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime - HD" tvg-logo="http://dgbr.io:80/images/79f3a982fd2496a50c5ec8f88e9b608f.png" group-title="- Filmes e Series",Lifetime - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24865
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime - FHD" tvg-logo="http://xsrv.me/logos/img/lifetime.png" group-title="- Filmes e Series",Lifetime - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24863
+#EXTINF:-1 tvg-id="vh1megahits.br" tvg-name="VH1 Mega Hits - SD" tvg-logo="http://dgbr.io:80/images/dad8ee483cc9a336cde702e9aa0b0954.png" group-title="- Variedades",VH1 Mega Hits - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25195
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix - 4K" tvg-logo="http://xsrv.me/logos/img/megapix.png" group-title="- Filmes e Series",Megapix - 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33808
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix - SD" tvg-logo="http://dgbr.io:80/images/06853ea758cbc3864417bd2927656aef.png" group-title="- Filmes e Series",Megapix - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24893
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix - HD" tvg-logo="http://dgbr.io:80/images/06853ea758cbc3864417bd2927656aef.png" group-title="- Filmes e Series",Megapix - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24892
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix - FHD" tvg-logo="http://dgbr.io:80/images/06853ea758cbc3864417bd2927656aef.png" group-title="- Filmes e Series",Megapix - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24890
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV - SD" tvg-logo="http://dgbr.io:80/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="- Variedades",MTV - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25152
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV - HD" tvg-logo="http://dgbr.io:80/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="- Variedades",MTV - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25148
+#EXTINF:-1 tvg-id="aande.br" tvg-name="MTV - LIVE HD" tvg-logo="http://xsrv.me/logos/img/mtv.png" group-title="- Variedades",MTV - LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25150
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow - 4K" tvg-logo="http://xsrv.me/logos/img/multishow.png" group-title="- Variedades",Multishow - 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33809
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow - SD" tvg-logo="http://dgbr.io:80/images/d86c2455f7248a0bd12945187439ec01.png" group-title="- Variedades",Multishow - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25179
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow - HD" tvg-logo="http://103.195.103.33:80/images/d86c2455f7248a0bd12945187439ec01.png" group-title="- Variedades",Multishow - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25176
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="Music Box Brasil - SD" tvg-logo="http://103.195.103.33:80/images/a80277cecc0a4ecdb0c72dc05ac6ecb3.png" group-title="- Variedades",Music Box Brasil - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25190
+#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NatGeo Wild - SD" tvg-logo="http://dgbr.io:80/images/757a717ee2ade661c665276734c83b16.png" group-title="- Documentários",NatGeo Wild - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25013
+#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NatGeo Wild - HD" tvg-logo="http://cdnbr.me/logos/img/natgeowild.png" group-title="- Documentários",NatGeo Wild - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25012
+#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NatGeo Wild - FHD" tvg-logo="http://cdnbr.me/logos/img/natgeowild.png" group-title="- Documentários",NatGeo Wild - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25010
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic - SD" tvg-logo="http://dgbr.io:80/images/f91c676cbee8fc9aa708334fcf26d981.png" group-title="- Documentários",National Geographic - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25020
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic - HD" tvg-logo="http://cdnbr.me/logos/img/natgeo.png" group-title="- Documentários",National Geographic - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25019
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic - FHD" tvg-logo="http://cdnbr.me/logos/img/natgeo.png" group-title="- Documentários",National Geographic - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25017
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick Jr. - SD" tvg-logo="http://dgbr.io:80/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="- Infantil",Nick Jr. - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25026
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick Jr. - HD" tvg-logo="http://dgbr.io:80/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="- Infantil",Nick Jr. - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25024
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon - SD" tvg-logo="http://dgbr.io:80/images/e2e42a07550863f8b67f5eb252581f6d.png" group-title="- Infantil",Nickelodeon - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25032
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon - HD" tvg-logo="http://dgbr.io:80/images/e2e42a07550863f8b67f5eb252581f6d.png" group-title="- Infantil",Nickelodeon - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25031
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon - FHD" tvg-logo="http://dgbr.io:80/images/e2e42a07550863f8b67f5eb252581f6d.png" group-title="- Infantil",Nickelodeon - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25029
+#EXTINF:-1 tvg-id="" tvg-name="Nova Era TV" tvg-logo="http://xsrv.me/logos/img/novaera.png" group-title="- Religiosos",Nova Era TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25203
+#EXTINF:-1 tvg-id="" tvg-name="TV Novo Tempo" tvg-logo="http://xsrv.me/logos/img/tvnovotempo.png" group-title="- Religiosos",TV Novo Tempo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25206
+#EXTINF:-1 tvg-id="off.br" tvg-name="Canal Off - SD" tvg-logo="http://dgbr.io:80/images/3262d48df5d75e3452f0f16b313b7808.png" group-title="- Variedades",Canal Off - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25116
+#EXTINF:-1 tvg-id="off.br" tvg-name="Canal Off - HD" tvg-logo="http://dgbr.io:80/images/3262d48df5d75e3452f0f16b313b7808.png" group-title="- Variedades",Canal Off - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25114
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel - SD" tvg-logo="http://dgbr.io:80/images/db84fd722b09a6787fd09b7eb55ff6ab.png" group-title="- Filmes e Series",Paramount Channel - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24899
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel - HD" tvg-logo="http://dgbr.io:80/images/db84fd722b09a6787fd09b7eb55ff6ab.png" group-title="- Filmes e Series",Paramount Channel - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24898
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel - FHD" tvg-logo="http://xsrv.me/logos/img/paramountchannel.png" group-title="- Filmes e Series",Paramount Channel - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24896
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes SD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - Clubes SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24677
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes HD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - Clubes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24674
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes HD²  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - Clubes HD²  [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/95729
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes HD³  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - Clubes HD³  [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/120127
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes FHD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - Clubes FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24671
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes 4K" tvg-logo="http://xsrv.me/logos/img/premiere.png" group-title="- Premiere",Premiere - Clubes 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33811
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere - 2 SD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24682
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere - 2 HD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24679
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere - 02 HD²  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 02 HD²  [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/120128
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere - 02 HD³  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 02 HD³  [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/120129
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere - 2 FHD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/34645
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere - 3 SD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24692
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere - 3 HD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24689
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere - 03 HD²  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 03 HD²  [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/120130
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere - 03 HD³  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 03 HD³  [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/120131
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere - 3 FHD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24686
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere - 4 SD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24700
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere - 4 HD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24697
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere - 04 HD²  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 04 HD²  [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/120132
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere - 04 HD³  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 04 HD³  [Alter]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/120133
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere - 4 FHD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24694
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere - 5 SD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24708
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere - 5 HD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24706
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere - 6 SD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24715
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere - 6 HD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24713
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere - 7 SD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24721
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere - 7 HD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24720
+#EXTINF:-1 tvg-id="premiere8.br" tvg-name="Premiere - 8 - SD *" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 8 - SD *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24724
+#EXTINF:-1 tvg-id="" tvg-name="RAI Internacional - HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/260px-Rai_1_-_Logo_2016.svg.png" group-title="- Esportes",RAI Internacional - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/71930
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br(m3u4u)" tvg-name="Record SP - São Paulo 4K" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record SP - São Paulo 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33812
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br(m3u4u)" tvg-name="Record SP - São Paulo SD" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record SP - São Paulo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24499
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br(m3u4u)" tvg-name="Record SP - São Paulo HD" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record SP - São Paulo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24498
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br(m3u4u)" tvg-name="Record SP - São Paulo FHD" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record SP - São Paulo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/84950
+#EXTINF:-1 tvg-id="RecordTVRio.br(m3u4u)" tvg-name="Record RJ - Rio de Janeiro SD" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record RJ - Rio de Janeiro SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24511
+#EXTINF:-1 tvg-id="RecordTVRio.br(m3u4u)" tvg-name="Record RJ - Rio de Janeiro HD" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record RJ - Rio de Janeiro HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24513
+#EXTINF:-1 tvg-id="RecordTVItapoan.br(m3u4u)" tvg-name="Record BA - Salvador" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record BA - Salvador
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24502
+#EXTINF:-1 tvg-id="RecordTVBrasilia.br(m3u4u)" tvg-name="Record DF - Brasília" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record DF - Brasília
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24509
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News - HD" tvg-logo="http://dgbr.io:80/images/f79701acef6cbb6ee6a0cb89c090f3bb.png" group-title="- News",Record News - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24517
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Record News - SD" tvg-logo="http://xsrv.me/logos/img/recordnews.png" group-title="- News",Record News - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29805
+#EXTINF:-1 tvg-id="" tvg-name="RedBull TV" tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/s320/Screenshot_2019-06-28-14-19-55.png" group-title="- Esportes",RedBull TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/62196
+#EXTINF:-1 tvg-id="Rede Gospel" tvg-name="Rede Gospel" tvg-logo="http://xsrv.me/logos/img/redegospel.png" group-title="- Religiosos",Rede Gospel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25204
+#EXTINF:-1 tvg-id="RedeSuper.br(m3u4u)" tvg-name="Rede Super" tvg-logo="http://dgbr.io:80/images/e5f8d22cd35c01d5f1febb62f4ae512c.png" group-title="- Abertos [Cortesia]",Rede Super
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/83925
+#EXTINF:-1 tvg-id="" tvg-name="Rede Século 21" tvg-logo="http://xsrv.me/logos/img/seculo21.png" group-title="- Religiosos",Rede Século 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25207
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede Tv! - 4K" tvg-logo="http://xsrv.me/logos/img/redetv.png" group-title="- Abertos [Cortesia]",Rede Tv! - 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33813
+#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida - SD" tvg-logo="http://xsrv.me/logos/img/redevida.png" group-title="- Religiosos",Rede Vida - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33613
+#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida - HD" tvg-logo="http://dgbr.io:80/images/ae081082e12d6f0631dea5e748033ab1.png" group-title="- Religiosos",Rede Vida - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33614
+#EXTINF:-1 tvg-id="" tvg-name="Rit TV" tvg-logo="http://xsrv.me/logos/img/ritgospel.png" group-title="- Religiosos",Rit TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25208
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT - 4K" tvg-logo="http://xsrv.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT - 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33798
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP - São Paulo SD" tvg-logo="http://cdnbr.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT SP - São Paulo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/28183
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP - São Paulo HD" tvg-logo="http://cdnbr.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT SP - São Paulo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/28180
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP - São Paulo FHD" tvg-logo="http://cdnbr.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT SP - São Paulo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/28179
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RJ - Rio de Janeiro" tvg-logo="http://cdnbr.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT RJ - Rio de Janeiro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/85762
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space - FHD" tvg-logo="http://xsrv.me/logos/img/space.png" group-title="- Filmes e Series",Space - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24903
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space - HD" tvg-logo="http://dgbr.io:80/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="- Filmes e Series",Space - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24905
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space - SD" tvg-logo="http://dgbr.io:80/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="- Filmes e Series",Space - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24906
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTv - 4K" tvg-logo="http://xsrv.me/logos/img/sportv.png" group-title="- SporTV",SporTv - 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33815
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTv - SD" tvg-logo="http://dgbr.io:80/images/43c36900b0aa86ded24077870df74926.png" group-title="- SporTV",SporTv - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24613
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTv - HD" tvg-logo="http://xsrv.me/logos/img/sportv.png" group-title="- SporTV",SporTv - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24610
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTv - FHD" tvg-logo="http://xsrv.me/logos/img/sportv.png" group-title="- SporTV",SporTv - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24607
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTv 2 - SD" tvg-logo="http://dgbr.io:80/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="- SporTV",SporTv 2 - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24620
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTv 2 - HD" tvg-logo="http://dgbr.io:80/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="- SporTV",SporTv 2 - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24617
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTv 2 - FHD" tvg-logo="http://dgbr.io:80/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="- SporTV",SporTv 2 - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24615
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTv  3 - SD" tvg-logo="http://dgbr.io:80/images/365fc6d09ecab42eb99b787a6df6477b.png" group-title="- SporTV",SporTv  3 - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24628
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTv 3 - HD" tvg-logo="http://dgbr.io:80/images/365fc6d09ecab42eb99b787a6df6477b.png" group-title="- SporTV",SporTv 3 - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24625
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTv 3 - FHD" tvg-logo="http://xsrv.me/logos/img/sportv3.png" group-title="- SporTV",SporTv 3 - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24623
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal - SD" tvg-logo="http://dgbr.io:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="- Filmes e Series",Studio Universal - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24910
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal - HD" tvg-logo="http://dgbr.io:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="- Filmes e Series",Studio Universal - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24909
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal - FHD" tvg-logo="http://xsrv.me/logos/img/studiouniversal.png" group-title="- Filmes e Series",Studio Universal - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24908
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy - SD" tvg-logo="http://dgbr.io:80/images/14831b3a087423067dd5af937a12204b.png" group-title="- Filmes e Series",Syfy - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24917
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy - HD" tvg-logo="http://dgbr.io:80/images/14831b3a087423067dd5af937a12204b.png" group-title="- Filmes e Series",Syfy - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24915
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy - FHD" tvg-logo="http://xsrv.me/logos/img/syfy.png" group-title="- Filmes e Series",Syfy - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24913
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS - SD" tvg-logo="http://dgbr.io:80/images/9f0f0a28dccf5dfd1976ed455fd0f4f4.png" group-title="- Filmes e Series",TBS - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24923
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS - HD" tvg-logo="http://dgbr.io:80/images/9f0f0a28dccf5dfd1976ed455fd0f4f4.png" group-title="- Filmes e Series",TBS - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24921
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS - FHD" tvg-logo="http://xsrv.me/logos/img/tbs.png" group-title="- Filmes e Series",TBS - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24919
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TC - Action - SD" tvg-logo="http://dgbr.io:80/images/fd202b72de997ce6dc7807da3d679a50.png" group-title="- Telecine",TC - Action - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24765
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TC - Action - HD" tvg-logo="http://dgbr.io:80/images/fd202b72de997ce6dc7807da3d679a50.png" group-title="- Telecine",TC - Action - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24763
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TC - Action - FHD" tvg-logo="http://xsrv.me/logos/img/tcaction.png" group-title="- Telecine",TC - Action - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24760
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TC - Cult - SD" tvg-logo="http://dgbr.io:80/images/c5372122b9131d1b90975111d44ebd1a.png" group-title="- Telecine",TC - Cult - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24770
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TC - Cult - HD" tvg-logo="http://dgbr.io:80/images/c5372122b9131d1b90975111d44ebd1a.png" group-title="- Telecine",TC - Cult - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24769
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TC - Cult - FHD" tvg-logo="http://dgbr.io:80/images/c5372122b9131d1b90975111d44ebd1a.png" group-title="- Telecine",TC - Cult - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29901
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TC - Fun -  SD" tvg-logo="http://dgbr.io:80/images/83f09c01bd2b5a76aa9d588db9b47bae.png" group-title="- Telecine",TC - Fun -  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24777
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TC - Fun -  HD" tvg-logo="http://dgbr.io:80/images/83f09c01bd2b5a76aa9d588db9b47bae.png" group-title="- Telecine",TC - Fun -  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24775
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TC - Fun -  FHD" tvg-logo="http://xsrv.me/logos/img/tcfun.png" group-title="- Telecine",TC - Fun -  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24773
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TC - Pipoca - SD" tvg-logo="http://dgbr.io:80/images/03ec906cf5f40009fccaef4fb276d889.png" group-title="- Telecine",TC - Pipoca - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24784
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TC - Pipoca - HD" tvg-logo="http://dgbr.io:80/images/03ec906cf5f40009fccaef4fb276d889.png" group-title="- Telecine",TC - Pipoca - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24782
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TC - Pipoca - FHD" tvg-logo="http://xsrv.me/logos/img/tcpipoca.png" group-title="- Telecine",TC - Pipoca - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24780
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TC - Premium - SD" tvg-logo="http://dgbr.io:80/images/dfbcc2a4c6f845ce11cb689f9e792779.png" group-title="- Telecine",TC - Premium - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24790
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TC - Premium - HD" tvg-logo="http://dgbr.io:80/images/dfbcc2a4c6f845ce11cb689f9e792779.png" group-title="- Telecine",TC - Premium - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24788
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TC - Premium - FHD" tvg-logo="http://xsrv.me/logos/img/tcpremium.png" group-title="- Telecine",TC - Premium - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24786
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TC - Touch - SD" tvg-logo="http://dgbr.io:80/images/fb59e5b4ee8c51a84af3de3ef833a6bb.png" group-title="- Telecine",TC - Touch - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24796
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TC - Touch - HD" tvg-logo="http://xsrv.me/logos/img/tctouch.png" group-title="- Telecine",TC - Touch - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24794
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TC - Touch - FHD" tvg-logo="http://xsrv.me/logos/img/tctouch.png" group-title="- Telecine",TC - Touch - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24792
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM - SD" tvg-logo="http://dgbr.io:80/images/a005a08d7cc59163d7f4de2b7fdbc147.png" group-title="- Filmes e Series",TCM - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25162
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM - HD" tvg-logo="http://dgbr.io:80/images/a005a08d7cc59163d7f4de2b7fdbc147.png" group-title="- Filmes e Series",TCM - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25161
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM - FHD" tvg-logo="http://xsrv.me/logos/img/tcm.png" group-title="- Filmes e Series",TCM - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/34647
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TC - Premium - 4K" tvg-logo="http://xsrv.me/logos/img/tcpremium.png" group-title="- Telecine",TC - Premium - 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33816
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT - 4K" tvg-logo="http://xsrv.me/logos/img/tnt.png" group-title="- Filmes e Series",TNT - 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33817
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT - SD" tvg-logo="http://dgbr.io:80/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="- Filmes e Series",TNT - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24931
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT - HD" tvg-logo="http://dgbr.io:80/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="- Filmes e Series",TNT - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24929
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT - FHD" tvg-logo="http://xsrv.me/logos/img/tnt.png" group-title="- Filmes e Series",TNT - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24927
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series - SD" tvg-logo="http://xsrv.me/logos/img/tntseries.png" group-title="- Filmes e Series",TNT Series - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24939
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series - HD" tvg-logo="http://xsrv.me/logos/img/tntseries.png" group-title="- Filmes e Series",TNT Series - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24937
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series - FHD" tvg-logo="http://xsrv.me/logos/img/tntseries.png" group-title="- Filmes e Series",TNT Series - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24934
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series - 4K" tvg-logo="http://xsrv.me/logos/img/tntseries.png" group-title="- Filmes e Series",TNT Series - 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33818
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="ToonCast - SD" tvg-logo="http://dgbr.io:80/images/842bb72b9cc9ef8c86459a5101fb8673.png" group-title="- Infantil",ToonCast - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25183
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="ToonCast - HD" tvg-logo="http://dgbr.io:80/images/842bb72b9cc9ef8c86459a5101fb8673.png" group-title="- Infantil",ToonCast - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25182
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida - SD" tvg-logo="http://103.195.103.33:80/images/ddd1e2ef454b515b6c47f6fb8ed106e9.png" group-title="- Religiosos",TV Aparecida - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25199
+#EXTINF:-1 tvg-id="TVAparecida.br(m3u4u)" tvg-name="TV Aparecida - HD" tvg-logo="http://dgbr.io:80/images/ddd1e2ef454b515b6c47f6fb8ed106e9.png" group-title="- Religiosos",TV Aparecida - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25198
+#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida - FHD" tvg-logo="http://xsrv.me/logos/img/tvaparecida.png" group-title="- Religiosos",TV Aparecida - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33882
+#EXTINF:-1 tvg-id="TV Assembleia PR" tvg-name="TV Assembleia" tvg-logo="https://4.bp.blogspot.com/-IBw75oJvHK8/XpYdS3OMZgI/AAAAAAAACxY/KL2KzKA8cwsY09k22eN702DDLEWrwkRNgCK4BGAYYCw/s400/TV%2BASEMBLEIA.png" group-title="- Religiosos",TV Assembleia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33959
+#EXTINF:-1 tvg-id="" tvg-name="TV Boa Vontade" tvg-logo="http://xsrv.me/logos/img/boavontade.png" group-title="- Religiosos",TV Boa Vontade
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25205
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA - SD" tvg-logo="http://dgbr.io:80/images/e6da8e51b4510f9c253957d20dfd3090.png" group-title="- Abertos [Cortesia]",TV CULTURA - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/34632
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA - HD" tvg-logo="http://cdnbr.me/logos/img/cultura.png" group-title="- Abertos [Cortesia]",TV CULTURA - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/34633
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA - FHD" tvg-logo="http://cdnbr.me/logos/img/cultura.png" group-title="- Abertos [Cortesia]",TV CULTURA - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/34634
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar" tvg-logo="https://1.bp.blogspot.com/-U4SJ0QX3lts/XpYaGWWXXRI/AAAAAAAACxA/NZM1vivsHpM4tvgvlqrw8lfUWydFBkdlgCK4BGAYYCw/s400/tv%2Bevangeliz.png" group-title="- Religiosos",TV Evangelizar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33958
+#EXTINF:-1 tvg-id="Gazeta.br(m3u4u)" tvg-name="TV Gazeta - HD" tvg-logo="http://dgbr.io:80/images/ab81a01d70dfed850894655b5903e732.png" group-title="- Abertos [Cortesia]",TV Gazeta - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/84949
+#EXTINF:-1 tvg-id="TVJUSTICA.br(m3u4u)" tvg-name="TV JUSTIÇA - HD" tvg-logo="http://dgbr.io:80/images/66d1529c54974f2615ef37366717c913.png" group-title="- Abertos [Cortesia]",TV JUSTIÇA - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33884
+#EXTINF:-1 tvg-id="" tvg-name="TV Mundial - HD" tvg-logo="http://xsrv.me/logos/img/tvmundial.png" group-title="- Religiosos",TV Mundial - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33885
+#EXTINF:-1 tvg-id="TVNovoTempo.br(m3u4u)" tvg-name="TV Novo Tempo - FHD" tvg-logo="http://xsrv.me/logos/img/tvnovotempo.png" group-title="- Religiosos",TV Novo Tempo - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33886
+#EXTINF:-1 tvg-id="TV Pai Eterno" tvg-name="TV Pai Eterno" tvg-logo="http://mytv.tv.br/canais/tvpaieterno.png" group-title="- Religiosos",TV Pai Eterno
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33957
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV Rá-Tim-Bum - SD" tvg-logo="http://dgbr.io:80/images/33e61c2b80c89a89beb2f542949754aa.png" group-title="- Infantil",TV Rá-Tim-Bum - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25099
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV Rá-Tim-Bum - HD" tvg-logo="http://dgbr.io:80/images/33e61c2b80c89a89beb2f542949754aa.png" group-title="- Infantil",TV Rá-Tim-Bum - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25097
+#EXTINF:-1 tvg-id="" tvg-name="TV Rede Super" tvg-logo="http://xsrv.me/logos/img/redesuper.png" group-title="- Religiosos",TV Rede Super
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/83926
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Universal Channel - SD" tvg-logo="http://dgbr.io:80/images/34fce4ec35078fca713ab7294593bda8.png" group-title="- Filmes e Series",Universal Channel - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24945
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal Channel - HD" tvg-logo="http://xsrv.me/logos/img/universalchannel.png" group-title="- Filmes e Series",Universal Channel - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24944
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Universal Channel - FHD" tvg-logo="http://xsrv.me/logos/img/universalchannel.png" group-title="- Filmes e Series",Universal Channel - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24941
+#EXTINF:-1 tvg-id="" tvg-name="Universal TV" tvg-logo="http://dgbr.io:80/images/1a1edeb459447f3ea216409405d996b0.png" group-title="- Religiosos",Universal TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/83924
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Canal Viva - SD" tvg-logo="http://dgbr.io:80/images/6cabf345f46690846b7f20b7c8a83f93.png" group-title="- Variedades",Canal Viva - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25157
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Canal Viva - HD" tvg-logo="http://103.195.103.33:80/images/6cabf345f46690846b7f20b7c8a83f93.png" group-title="- Variedades",Canal Viva - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25155
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel - SD" tvg-logo="http://dgbr.io:80/images/2a6d61f2db2620999ceeb10ef97ab0e8.png" group-title="- Filmes e Series",Warner Channel - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24952
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel - HD" tvg-logo="http://xsrv.me/logos/img/warnerchannel.png" group-title="- Filmes e Series",Warner Channel - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24950
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel - FHD" tvg-logo="http://xsrv.me/logos/img/warnerchannel.png" group-title="- Filmes e Series",Warner Channel - FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24947
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo - SD" tvg-logo="http://dgbr.io:80/images/a059ca3d96c5513a8967079ded23d020.png" group-title="- Esportes",Woohoo - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25189
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo - SD" tvg-logo="http://dgbr.io:80/images/54395cbe5010a9b4a488a30f24a97471.png" group-title="- Infantil",Zoomoo - SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25105
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo - HD" tvg-logo="http://dgbr.io:80/images/54395cbe5010a9b4a488a30f24a97471.png" group-title="- Infantil",Zoomoo - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25104
