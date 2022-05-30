@@ -13,895 +13,1605 @@
 #EXTM3U
 #EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR]  [B][COLOR lime] -SERVIDOR 02[/B][/COLOR]
 http://canais.servidor
-#EXTINF:-1 tvg-id="" tvg-name="Cine Terror 01 - HD" tvg-logo="http://cdnbr.me/logos/img/cineterror.png" group-title="- Cine Sky",Cine Terror 01 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/93434
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 - SD" tvg-logo="http://dgbr.io:80/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="- Esportes",Fox Sports 2 - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24595
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 - HD" tvg-logo="http://cdnbr.me/logos/img/foxsports2.png" group-title="- Esportes",Fox Sports 2 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24593
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 - FHD" tvg-logo="http://cdnbr.me/logos/img/foxsports2.png" group-title="- Esportes",Fox Sports 2 - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24591
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports - SD" tvg-logo="http://dgbr.io:80/images/b92ca3bd619bfa5d2eed95d39938653d.png" group-title="- Esportes",Band Sports - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24635
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports -  HD" tvg-logo="http://cdnbr.me/logos/img/bandsports.png" group-title="- Esportes",Band Sports -  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24633
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports - FHD" tvg-logo="http://cdnbr.me/logos/img/bandsports.png" group-title="- Esportes",Band Sports - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24631
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 01 - HD (B)" tvg-logo="http://xsrv.me/logos/img/dazn.png" group-title="- Dazn",Dazn 01 - HD (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24578
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 02 - HD (B)" tvg-logo="http://xsrv.me/logos/img/dazn.png" group-title="- Dazn",Dazn 02 - HD (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24577
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 03 - HD (B)" tvg-logo="http://xsrv.me/logos/img/dazn.png" group-title="- Dazn",Dazn 03 - HD (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/85984
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Dazn 04 - HD (B)" tvg-logo="http://xsrv.me/logos/img/dazn.png" group-title="- Dazn",Dazn 04 - HD (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/85986
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E - SD" tvg-logo="http://dgbr.io:80/images/b6bb43df4525b928a105fb5741bddbea.png" group-title="- Filmes e Series",A&E - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24802
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E - HD" tvg-logo="http://dgbr.io:80/images/b6bb43df4525b928a105fb5741bddbea.png" group-title="- Filmes e Series",A&E - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24800
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E - FHD" tvg-logo="http://xsrv.me/logos/img/ae.png" group-title="- Filmes e Series",A&E - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24798
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dabi Sports - 01 HD" tvg-logo="https://i.imgur.com/z9519hO.png" group-title="- Esportes",Abu Dabi Sports - 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/81499
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dabi Sports - 02 HD" tvg-logo="http://sa.heytv.org/wp-content/uploads/2019/03/abu-dhabi-sports-2.png" group-title="- Esportes",Abu Dabi Sports - 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/81500
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dabi Sports - 03 HD" tvg-logo="https://i.imgur.com/z9519hO.png" group-title="- Esportes",Abu Dabi Sports - 03 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/81501
-#EXTINF:-1 tvg-id="" tvg-name="ALL Sports" tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="- Esportes",ALL Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/59589
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC - SD" tvg-logo="http://dgbr.io:80/images/3654b34017508a963ccce2426e91e4cd.png" group-title="- Filmes e Series",AMC - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24809
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC - HD" tvg-logo="http://dgbr.io:80/images/3654b34017508a963ccce2426e91e4cd.png" group-title="- Filmes e Series",AMC - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24807
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC - FHD" tvg-logo="http://xsrv.me/logos/img/amc.png" group-title="- Filmes e Series",AMC - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24805
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet - 4K" tvg-logo="http://xsrv.me/logos/img/animalplanet.png" group-title="- Documentários",Animal Planet - 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33800
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet - SD" tvg-logo="http://dgbr.io:80/images/37288e62601868f21fc4f7a49f23e4e5.png" group-title="- Documentários",Animal Planet - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24959
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet - HD" tvg-logo="http://cdnbr.me/logos/img/animalplanet.png" group-title="- Documentários",Animal Planet - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24957
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet - FHD" tvg-logo="http://cdnbr.me/logos/img/animalplanet.png" group-title="- Documentários",Animal Planet - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24955
-#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 - SD" tvg-logo="http://dgbr.io:80/images/0c1dbecee0f9e99f78d5014b07684068.png" group-title="- Variedades",Arte 1 - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25160
-#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1  - HD" tvg-logo="http://dgbr.io:80/images/0c1dbecee0f9e99f78d5014b07684068.png" group-title="- Variedades",Arte 1  - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25159
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN - SD" tvg-logo="http://xsrv.me/logos/img/axn.png" group-title="- Filmes e Series",AXN - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24815
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN - HD" tvg-logo="http://dgbr.io:80/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="- Filmes e Series",AXN - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24813
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN - FHD" tvg-logo="http://xsrv.me/logos/img/axn.png" group-title="- Filmes e Series",AXN - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24812
-#EXTINF:-1 tvg-id="babytv.br" tvg-name="Baby TV - SD" tvg-logo="http://dgbr.io:80/images/45914664eafc286fb139a5036f142106.png" group-title="- Infantil",Baby TV - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25094
-#EXTINF:-1 tvg-id="Band.br(m3u4u)" tvg-name="Band SP - São Paulo SD" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band SP - São Paulo SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24548
-#EXTINF:-1 tvg-id="Band.br(m3u4u)" tvg-name="Band SP - São Paulo SD²" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band SP - São Paulo SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/134455
-#EXTINF:-1 tvg-id="Band.br(m3u4u)" tvg-name="Band SP - São Paulo HD" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band SP - São Paulo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24545
-#EXTINF:-1 tvg-id="Band.br(m3u4u)" tvg-name="Band SP - São Paulo HD²" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band SP - São Paulo HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/134454
-#EXTINF:-1 tvg-id="Band.br(m3u4u)" tvg-name="Band SP - São Paulo FHD" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band SP - São Paulo FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24544
-#EXTINF:-1 tvg-id="Band.br(m3u4u)" tvg-name="Band SP - São Paulo 4K" tvg-logo="http://xsrv.me/logos/img/band.png" group-title="- Band [Cortesia]",Band SP - São Paulo 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33801
-#EXTINF:-1 tvg-id="BandRJ.br(m3u4u)" tvg-name="Band RJ - Rio de Janeiro" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band RJ - Rio de Janeiro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/84865
-#EXTINF:-1 tvg-id="BandRioGrandedoSul.br(m3u4u)" tvg-name="Band RS - Porto Alegre" tvg-logo="http://dgbr.io:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="- Band [Cortesia]",Band RS - Porto Alegre
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/99398
-#EXTINF:-1 tvg-id="BandBrasilia.br(m3u4u)" tvg-name="Band DF - Brasília" tvg-logo="http://cdnbr.me/logos/img/band.png" group-title="- Band [Cortesia]",Band DF - Brasília
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/84864
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News - SD" tvg-logo="http://dgbr.io:80/images/ecde17229a3d07369de3b9bb5ba43bc6.png" group-title="- News",Band News - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24554
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News - HD" tvg-logo="http://dgbr.io:80/images/ecde17229a3d07369de3b9bb5ba43bc6.png" group-title="- News",Band News - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24552
-#EXTINF:-1 tvg-id="bis.br" tvg-name="Bis - SD" tvg-logo="http://dgbr.io:80/images/227cee183f9b009e2f81f2f8339e281b.png" group-title="- Variedades",Bis - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25121
-#EXTINF:-1 tvg-id="bis.br" tvg-name="Bis - HD" tvg-logo="http://dgbr.io:80/images/227cee183f9b009e2f81f2f8339e281b.png" group-title="- Variedades",Bis - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25119
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito - SD" tvg-logo="http://dgbr.io:80/images/21b0019f5d4469c50dbc40960c035934.png" group-title="- Infantil",Cartoonito - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25089
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito - HD" tvg-logo="http://dgbr.io:80/images/21b0019f5d4469c50dbc40960c035934.png" group-title="- Infantil",Cartoonito - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25088
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito - FHD" tvg-logo="http://dgbr.io:80/images/21b0019f5d4469c50dbc40960c035934.png" group-title="- Infantil",Cartoonito - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29898
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV SP - São Paulo SD" tvg-logo="http://dgbr.io:80/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="- Abertos [Cortesia]",RedeTV SP - São Paulo SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24559
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV SP - São Paulo HD" tvg-logo="http://cdnbr.me/logos/img/redetv.png" group-title="- Abertos [Cortesia]",RedeTV SP - São Paulo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24558
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV SP - São Paulo FHD" tvg-logo="http://cdnbr.me/logos/img/redetv.png" group-title="- Abertos [Cortesia]",RedeTV SP - São Paulo FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24557
-#EXTINF:-1 tvg-id="TVPampa.br(m3u4u)" tvg-name="RedeTV RS - Porto Alegre HD" tvg-logo="http://dgbr.io:80/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="- Abertos [Cortesia]",RedeTV RS - Porto Alegre HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/97418
-#EXTINF:-1 tvg-id="ConmebolTV1.br(m3u4u)" tvg-name="TV Conmebol 1 - HD" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 1 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86077
-#EXTINF:-1 tvg-id="ConmebolTV1.br(m3u4u)" tvg-name="TV Conmebol 01 - HD²" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 01 - HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/103840
-#EXTINF:-1 tvg-id="ConmebolTV1.br(m3u4u)" tvg-name="TV Conmebol 01 - HD³" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 01 - HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/107524
-#EXTINF:-1 tvg-id="ConmebolTV2.br(m3u4u)" tvg-name="TV Conmebol 2 - HD" tvg-logo="http://dgbr.io:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="- Conmebol",TV Conmebol 2 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86078
-#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 02 - HD²" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 02 - HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/103841
-#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 02 - HD³" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 02 - HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/107525
-#EXTINF:-1 tvg-id="ConmebolTV3.br(m3u4u)" tvg-name="TV Conmebol 3 - HD" tvg-logo="http://dgbr.io:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="- Conmebol",TV Conmebol 3 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86079
-#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 03 - HD²" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 03 - HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/103842
-#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 03 - HD³" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 03 - HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/107526
-#EXTINF:-1 tvg-id="ConmebolTV4.br(m3u4u)" tvg-name="TV Conmebol 4 - HD" tvg-logo="http://dgbr.io:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="- Conmebol",TV Conmebol 4 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86080
-#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 04 - HD²" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 04 - HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/103843
-#EXTINF:-1 tvg-id="" tvg-name="TV Conmebol 04 - HD³" tvg-logo="http://cdnbr.me/logos/img/conmebol.png" group-title="- Conmebol",TV Conmebol 04 - HD³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/107527
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil - SD" tvg-logo="http://dgbr.io:80/images/6e9236ab3e71fd6f578d57db5855f7aa.png" group-title="- Abertos [Cortesia]",Canal Brasil - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24564
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil - HD" tvg-logo="http://cdnbr.me/logos/img/canalbrasil.png" group-title="- Abertos [Cortesia]",Canal Brasil - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24562
-#EXTINF:-1 tvg-id="CanaldoBoi.br(m3u4u)" tvg-name="CANAL DO BOI" tvg-logo="http://dgbr.io:80/images/62cb19c8de3b1ae6482f3e8bacdf9a59.png" group-title="- Abertos [Cortesia]",CANAL DO BOI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33563
-#EXTINF:-1 tvg-id="CanalRural.br(m3u4u)" tvg-name="CANAL RURAL" tvg-logo="http://dgbr.io:80/images/bf1cb768332244e3a68070bd82bd2540.png" group-title="- Abertos [Cortesia]",CANAL RURAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/35033
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony - SD" tvg-logo="http://dgbr.io:80/images/33561003f44d374c719506bef4faeba4.png" group-title="- Filmes e Series",Canal Sony - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24822
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony - HD" tvg-logo="http://xsrv.me/logos/img/sony.png" group-title="- Filmes e Series",Canal Sony - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24820
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony - FHD" tvg-logo="http://xsrv.me/logos/img/sony.png" group-title="- Filmes e Series",Canal Sony - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24818
-#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova - SD" tvg-logo="http://xsrv.me/logos/img/cancaonova.png" group-title="- Religiosos",Canção Nova - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25201
-#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova - HD" tvg-logo="http://dgbr.io:80/images/b1e41da6725a105391a0159d25f4ff30.png" group-title="- Religiosos",Canção Nova - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25200
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network - 4K" tvg-logo="http://dgbr.io:80/images/87dfc97a7654b4b7ad9f04767361eca9.png" group-title="- Infantil",Cartoon Network - 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33802
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network - SD" tvg-logo="http://dgbr.io:80/images/87dfc97a7654b4b7ad9f04767361eca9.png" group-title="- Infantil",Cartoon Network - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25069
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network - HD" tvg-logo="http://xsrv.me/logos/img/cartoonnetwork.png" group-title="- Infantil",Cartoon Network - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25068
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network - FHD" tvg-logo="http://xsrv.me/logos/img/cartoonnetwork.png" group-title="- Infantil",Cartoon Network - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25065
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 01" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86130
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 02" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86131
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 03" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86132
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 04" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86133
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 05" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86134
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 06" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86135
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 07" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86136
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 08" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86137
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 09" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86138
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 10" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86139
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 11" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86140
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 12" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86141
-#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca - 13" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86142
-#EXTINF:-1 tvg-id="5f36f2346ede750007332d11" tvg-name="Cine Pipoca - 14" tvg-logo="http://cdnbr.me/logos/img/cinepipoca.png" group-title="- Cine Sky",Cine Pipoca - 14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/86143
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 01" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/59512
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 02" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/59513
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 03" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/59514
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 04" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/59515
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 05" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/59516
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 06" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/81504
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 07" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/81505
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 08" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/81506
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 09" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/81507
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky - 10" tvg-logo="http://cdnbr.me/logos/img/cinesky.png" group-title="- Cine Sky",Cine Sky - 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/81508
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax - SD" tvg-logo="http://dgbr.io:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="- Filmes e Series",Cinemax - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24828
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax - HD" tvg-logo="http://dgbr.io:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="- Filmes e Series",Cinemax - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24826
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax - FHD" tvg-logo="http://xsrv.me/logos/img/cinemax.png" group-title="- Filmes e Series",Cinemax - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24824
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil - SD" tvg-logo="http://xsrv.me/logos/img/cnnbrasil.png" group-title="- News",CNN Brasil - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30277
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil - HD" tvg-logo="http://103.195.103.33:80/images/ea2c92ca5bfbef90b6a6a2e8bb68b1f7.png" group-title="- News",CNN Brasil - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30278
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil - FHD" tvg-logo="http://xsrv.me/logos/img/cnnbrasil.png" group-title="- News",CNN Brasil - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30373
-#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN Internacional*" tvg-logo="http://dgbr.io:80/images/6dbb369ffc1366d269fdd4d95f3f80e2.png" group-title="- News",CNN Internacional*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/59511
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate - 4K" tvg-logo="http://xsrv.me/logos/img/combate.png" group-title="- Esportes",Combate - 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33820
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate - SD" tvg-logo="http://dgbr.io:80/images/758d8b1cbf0b6cee37110825fead0f77.png" group-title="- Esportes",Combate - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24603
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate - HD" tvg-logo="http://dgbr.io:80/images/758d8b1cbf0b6cee37110825fead0f77.png" group-title="- Esportes",Combate - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24600
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate - FHD" tvg-logo="http://cdnbr.me/logos/img/combate.png" group-title="- Esportes",Combate - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24598
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central - SD" tvg-logo="http://dgbr.io:80/images/f7029e67f22d8a43ab8d1b3deb896249.png" group-title="- Variedades",Comedy Central - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25127
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central - HD" tvg-logo="http://dgbr.io:80/images/f7029e67f22d8a43ab8d1b3deb896249.png" group-title="- Variedades",Comedy Central - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25126
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central - FHD" tvg-logo="http://xsrv.me/logos/img/comedycentral.png" group-title="- Variedades",Comedy Central - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33616
-#EXTINF:-1 tvg-id="curta.br" tvg-name="Canal Curta - SD" tvg-logo="http://dgbr.io:80/images/c5a8d9f69131ab90d35f659348bafd6a.png" group-title="- Variedades",Canal Curta - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25166
-#EXTINF:-1 tvg-id="curta.br" tvg-name="Canal Curta - HD " tvg-logo="http://dgbr.io:80/images/c5a8d9f69131ab90d35f659348bafd6a.png" group-title="- Variedades",Canal Curta - HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25165
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel - SD" tvg-logo="http://dgbr.io:80/images/2bffe8e99bded440c9a326cd6751a23d.png" group-title="- Discovery",Discovery Channel - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24968
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel - HD" tvg-logo="http://dgbr.io:80/images/2bffe8e99bded440c9a326cd6751a23d.png" group-title="- Discovery",Discovery Channel - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24966
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel - FHD" tvg-logo="http://cdnbr.me/logos/img/discoverychannel.png" group-title="- Discovery",Discovery Channel - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29896
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery H&H - SD" tvg-logo="http://dgbr.io:80/images/2e70bc7037125933a803b1dd4c3853b9.png" group-title="- Discovery",Discovery H&H - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24977
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery H&H - HD" tvg-logo="http://cdnbr.me/logos/img/discoveryheh.png" group-title="- Discovery",Discovery H&H - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24975
-#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery H&H - FHD" tvg-logo="http://cdnbr.me/logos/img/discoveryheh.png" group-title="- Discovery",Discovery H&H - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29897
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="Discovery HGTV - SD" tvg-logo="http://dgbr.io:80/images/585c4d2eec6882f5f38e151afee72a82.png" group-title="- Discovery",Discovery HGTV - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29391
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="Discovery HGTV - HD" tvg-logo="http://dgbr.io:80/images/585c4d2eec6882f5f38e151afee72a82.png" group-title="- Discovery",Discovery HGTV - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29390
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="Discovery HGTV - FHD" tvg-logo="http://cdnbr.me/logos/img/discoveryhgtv.png" group-title="- Discovery",Discovery HGTV - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33515
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids - SD" tvg-logo="http://dgbr.io:80/images/7ec7090630903c76f7c4d1771c873b1f.png" group-title="- Infantil",Discovery Kids - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25038
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids - HD" tvg-logo="http://dgbr.io:80/images/7ec7090630903c76f7c4d1771c873b1f.png" group-title="- Infantil",Discovery Kids - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25036
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids - FHD" tvg-logo="http://xsrv.me/logos/img/discoverykids.png" group-title="- Infantil",Discovery Kids - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29894
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science - SD" tvg-logo="http://dgbr.io:80/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="- Discovery",Discovery Science - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24982
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science - HD" tvg-logo="http://dgbr.io:80/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="- Discovery",Discovery Science - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24980
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science - FHD" tvg-logo="http://cdnbr.me/logos/img/discoveryscience.png" group-title="- Discovery",Discovery Science - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29893
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater - SD" tvg-logo="http://dgbr.io:80/images/c02e20b3a5e776914050a01c27e07146.png" group-title="- Discovery",Discovery Theater - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24985
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater - HD" tvg-logo="http://dgbr.io:80/images/c02e20b3a5e776914050a01c27e07146.png" group-title="- Discovery",Discovery Theater - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24983
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater - FHD" tvg-logo="http://cdnbr.me/logos/img/discoverytheater.png" group-title="- Discovery",Discovery Theater - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29892
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="Discovery TLC - SD" tvg-logo="http://dgbr.io:80/images/017a544acb713ac3b4c46402c94a07fc.png" group-title="- Discovery",Discovery TLC - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29902
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="Discovery TLC - HD" tvg-logo="http://dgbr.io:80/images/017a544acb713ac3b4c46402c94a07fc.png" group-title="- Discovery",Discovery TLC - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29903
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="Discovery TLC - FHD" tvg-logo="http://cdnbr.me/logos/img/tlc.png" group-title="- Discovery",Discovery TLC - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29891
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo - SD" tvg-logo="http://dgbr.io:80/images/c5e6bf72241158f09aa30e9c966269a3.png" group-title="- Discovery",Discovery Turbo - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24991
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo - HD" tvg-logo="http://cdnbr.me/logos/img/discoveryturbo.png" group-title="- Discovery",Discovery Turbo - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24989
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo - FHD" tvg-logo="http://cdnbr.me/logos/img/discoveryturbo.png" group-title="- Discovery",Discovery Turbo - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29890
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World - SD" tvg-logo="http://dgbr.io:80/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="- Discovery",Discovery World - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24994
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World - HD" tvg-logo="http://dgbr.io:80/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="- Discovery",Discovery World - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24992
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World -FHD" tvg-logo="http://cdnbr.me/logos/img/discoveryworld.png" group-title="- Discovery",Discovery World -FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29889
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel - 4K" tvg-logo="http://xsrv.me/logos/img/discoverychannel.png" group-title="- Discovery",Discovery Channel - 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33803
-#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel - SD" tvg-logo="http://dgbr.io:80/images/6bee7677af2813c27e06499b0ac63cce.png" group-title="- Infantil",Disney Channel - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25046
-#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel - HD" tvg-logo="http://dgbr.io:80/images/6bee7677af2813c27e06499b0ac63cce.png" group-title="- Infantil",Disney Channel - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25044
-#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel - FHD" tvg-logo="http://xsrv.me/logos/img/disneychannel.png" group-title="- Infantil",Disney Channel - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25041
-#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! Entertainment - SD" tvg-logo="http://dgbr.io:80/images/e1671797c52e15f763380b45e841ec32.png" group-title="- Variedades",E! Entertainment - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25169
-#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! Entertainment - HD" tvg-logo="http://dgbr.io:80/images/e1671797c52e15f763380b45e841ec32.png" group-title="- Variedades",E! Entertainment - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25168
-#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! Entertainment - FHD " tvg-logo="http://xsrv.me/logos/img/e.png" group-title="- Variedades",E! Entertainment - FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33617
-#EXTINF:-1 tvg-id="aande.br" tvg-name="TNT Sports - 01 HD" tvg-logo="http://cdnbr.me/logos/img/tntsports.png" group-title="- TNT Sports",TNT Sports - 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24579
-#EXTINF:-1 tvg-id="aande.br" tvg-name="TNT Sports - 02 HD" tvg-logo="http://cdnbr.me/logos/img/tntsports.png" group-title="- TNT Sports",TNT Sports - 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29704
-#EXTINF:-1 tvg-id="aande.br" tvg-name="TNT Sports - 03 HD" tvg-logo="http://cdnbr.me/logos/img/tntsports.png" group-title="- TNT Sports",TNT Sports - 03 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29705
-#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="Fashion TV - FHD" tvg-logo="http://xsrv.me/logos/img/fashiontv.png" group-title="- Variedades",Fashion TV - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33888
-#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="Fashion TV - HD" tvg-logo="http://dgbr.io:80/images/96c644d5b2c6070213e3b722e7966e8f.png" group-title="- Variedades",Fashion TV - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33889
-#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="Film & Arts - SD" tvg-logo="http://xsrv.me/logos/img/film&arts.png" group-title="- Variedades",Film & Arts - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25197
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV - SD" tvg-logo="http://dgbr.io:80/images/4d2187339c2c0f316b0849a8b027c40c.png" group-title="- Variedades",Fish TV - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25173
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV - HD" tvg-logo="http://dgbr.io:80/images/4d2187339c2c0f316b0849a8b027c40c.png" group-title="- Variedades",Fish TV - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25171
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV - FHD" tvg-logo="http://xsrv.me/logos/img/fishtv.png" group-title="- Variedades",Fish TV - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33618
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network - SD" tvg-logo="http://dgbr.io:80/images/5382b51ca47c88d283e818ad2d1e3aca.png" group-title="- Variedades",Food Network - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25132
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network - HD" tvg-logo="http://dgbr.io:80/images/5382b51ca47c88d283e818ad2d1e3aca.png" group-title="- Variedades",Food Network - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25131
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network - FHD" tvg-logo="http://xsrv.me/logos/img/foodnetwork.png" group-title="- Variedades",Food Network - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33619
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="Star - SD" tvg-logo="http://dgbr.io:80/images/cc2998d18e00a85ee236f747c3bb340a.png" group-title="- Filmes e Series",Star - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24835
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="Star - HD" tvg-logo="http://dgbr.io:80/images/cc2998d18e00a85ee236f747c3bb340a.png" group-title="- Filmes e Series",Star - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24834
-#EXTINF:-1 tvg-id="fox.br" tvg-name="Star - FHD" tvg-logo="http://xsrv.me/logos/img/starchannel.png" group-title="- Filmes e Series",Star - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24831
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="Star Life - SD" tvg-logo="http://dgbr.io:80/images/068f42fbe36132ae7fdd488ef4f14cf2.png" group-title="- Filmes e Series",Star Life - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24842
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="Star Life - HD" tvg-logo="http://dgbr.io:80/images/068f42fbe36132ae7fdd488ef4f14cf2.png" group-title="- Filmes e Series",Star Life - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24840
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="Star Life - FHD" tvg-logo="http://dgbr.io:80/images/068f42fbe36132ae7fdd488ef4f14cf2.png" group-title="- Filmes e Series",Star Life - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24838
-#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA - HD" tvg-logo="http://cdnbr.me/logos/img/futura.png" group-title="- Abertos [Cortesia]",FUTURA - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24568
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX - SD" tvg-logo="http://dgbr.io:80/images/c3f9558d681bac963339b7c69894c4f7.png" group-title="- Filmes e Series",FX - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24860
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX - HD" tvg-logo="http://dgbr.io:80/images/c3f9558d681bac963339b7c69894c4f7.png" group-title="- Filmes e Series",FX - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24859
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX - FHD" tvg-logo="http://103.195.103.33:80/images/c3f9558d681bac963339b7c69894c4f7.png" group-title="- Filmes e Series",FX - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24857
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - São Paulo SD" tvg-logo="http://dgbr.io:80/images/cc47870e439055bfefe058a7ce35d4c2.png" group-title="- Globo [Cortesia]",Globo SP - São Paulo SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30673
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - São Paulo HD" tvg-logo="http://dgbr.io:80/images/cc47870e439055bfefe058a7ce35d4c2.png" group-title="- Globo [Cortesia]",Globo SP - São Paulo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30674
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - São Paulo FHD" tvg-logo="http://cdnbr.me/logos/img/globosp.png" group-title="- Globo [Cortesia]",Globo SP - São Paulo FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30675
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - São Paulo 4K" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - São Paulo 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33615
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - Santos HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - Santos HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24459
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - São José Dos Campos HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - São José Dos Campos HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/126105
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - Bauru - HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - Bauru - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24452
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - Sococaba HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - Sococaba HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24455
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - Campinas HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - Campinas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/32987
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - Araraquara HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - Araraquara HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/34641
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - Mogi (Tv Diario) HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - Mogi (Tv Diario) HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/34643
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br(m3u4u)" tvg-name="Globo SP - Campinas SD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SP - Campinas SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/32986
-#EXTINF:-1 tvg-id="GloboRio.br(m3u4u)" tvg-name="Globo RJ - Rio de Janeiro SD" tvg-logo="http://cdnbr.me/logos/img/globorio.png" group-title="- Globo [Cortesia]",Globo RJ - Rio de Janeiro SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30676
-#EXTINF:-1 tvg-id="GloboRio.br(m3u4u)" tvg-name="Globo RJ - Rio de Janeiro HD" tvg-logo="http://dgbr.io:80/images/57600acf19ae6801c42d74244e846091.png" group-title="- Globo [Cortesia]",Globo RJ - Rio de Janeiro HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30677
-#EXTINF:-1 tvg-id="GloboRio.br(m3u4u)" tvg-name="Globo RJ - Rio de Janeiro FHD" tvg-logo="http://cdnbr.me/logos/img/globorio.png" group-title="- Globo [Cortesia]",Globo RJ - Rio de Janeiro FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30678
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo RJ - Resende HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo RJ - Resende HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33504
-#EXTINF:-1 tvg-id="InterTVAltoLiteral.br(m3u4u)" tvg-name="Globo RJ - Cabo Frio HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo RJ - Cabo Frio HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/35048
-#EXTINF:-1 tvg-id="GloboBeloHorizonte.br(m3u4u)" tvg-name="Globo MG - Belo Horizonte SD" tvg-logo="http://dgbr.io:80/images/75b511c187030c20313e2f121f23f479.png" group-title="- Globo [Cortesia]",Globo MG - Belo Horizonte SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30679
-#EXTINF:-1 tvg-id="GloboBeloHorizonte.br(m3u4u)" tvg-name="Globo MG - Belo Horizonte HD" tvg-logo="http://cdnbr.me/logos/img/globominas.png" group-title="- Globo [Cortesia]",Globo MG - Belo Horizonte HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30680
-#EXTINF:-1 tvg-id="GloboBeloHorizonte.br(m3u4u)" tvg-name="Globo MG - Belo Horizonte FHD" tvg-logo="http://cdnbr.me/logos/img/globominas.png" group-title="- Globo [Cortesia]",Globo MG - Belo Horizonte FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30681
-#EXTINF:-1 tvg-id="GloboBeloHorizonte.br(m3u4u)" tvg-name="Globo MG - Sul de Minas HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo MG - Sul de Minas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/91821
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo MG - InterTV dos Vales HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo MG - InterTV dos Vales HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24465
-#EXTINF:-1 tvg-id="GloboBrasilia.br(m3u4u)" tvg-name="Globo DF - Brasília SD" tvg-logo="http://dgbr.io:80/images/0f126e6a5cd84261e5e7a82314424b44.png" group-title="- Globo [Cortesia]",Globo DF - Brasília SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30682
-#EXTINF:-1 tvg-id="GloboBrasilia.br(m3u4u)" tvg-name="Globo DF - Brasília HD" tvg-logo="http://dgbr.io:80/images/0f126e6a5cd84261e5e7a82314424b44.png" group-title="- Globo [Cortesia]",Globo DF - Brasília HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30684
-#EXTINF:-1 tvg-id="GloboNordeste.br(m3u4u)" tvg-name="Globo PE - Nordeste SD" tvg-logo="http://cdnbr.me/logos/img/globonordeste.png" group-title="- Globo [Cortesia]",Globo PE - Nordeste SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30685
-#EXTINF:-1 tvg-id="GloboNordeste.br(m3u4u)" tvg-name="Globo PE - Nordeste HD" tvg-logo="http://dgbr.io:80/images/dc86f438edb3590affeb0158d490328b.png" group-title="- Globo [Cortesia]",Globo PE - Nordeste HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30686
-#EXTINF:-1 tvg-id="GloboNordeste.br(m3u4u)" tvg-name="Globo PE - Nordeste FHD" tvg-logo="http://cdnbr.me/logos/img/globonordeste.png" group-title="- Globo [Cortesia]",Globo PE - Nordeste FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30687
-#EXTINF:-1 tvg-id="RPCCuritiba.br(m3u4u)" tvg-name="Globo PR - Curitiba SD" tvg-logo="http://dgbr.io:80/images/7ceef5ab43f03b38ca74842d036a0a5d.png" group-title="- Globo [Cortesia]",Globo PR - Curitiba SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33414
-#EXTINF:-1 tvg-id="RPCCuritiba.br(m3u4u)" tvg-name="Globo PR - Curitiba HD" tvg-logo="http://dgbr.io:80/images/7ceef5ab43f03b38ca74842d036a0a5d.png" group-title="- Globo [Cortesia]",Globo PR - Curitiba HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33415
-#EXTINF:-1 tvg-id="TVBahia.br(m3u4u)" tvg-name="Globo BA - Salvador SD" tvg-logo="http://dgbr.io:80/images/0a6066b5227cfa7b1c35929d493f5ba9.png" group-title="- Globo [Cortesia]",Globo BA - Salvador SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/90709
-#EXTINF:-1 tvg-id="TVBahia.br(m3u4u)" tvg-name="Globo BA - Salvador HD" tvg-logo="http://dgbr.io:80/images/0a6066b5227cfa7b1c35929d493f5ba9.png" group-title="- Globo [Cortesia]",Globo BA - Salvador HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29628
-#EXTINF:-1 tvg-id="TVAnhanguera.br(m3u4u)" tvg-name="Globo GO - Goiânia HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo GO - Goiânia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/38471
-#EXTINF:-1 tvg-id="TVAnhanguera.br(m3u4u)" tvg-name="Globo GO - Goiânia SD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo GO - Goiânia SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/38470
-#EXTINF:-1 tvg-id="RPCMaringa.br(m3u4u)" tvg-name="Globo PR - Maringá HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo PR - Maringá HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/94879
-#EXTINF:-1 tvg-id="RPCFozdoIguacu.br(m3u4u)" tvg-name="Globo PR - Foz do Iguaçu HD" tvg-logo="http://dgbr.io:80/images/7ceef5ab43f03b38ca74842d036a0a5d.png" group-title="- Globo [Cortesia]",Globo PR - Foz do Iguaçu HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/130990
-#EXTINF:-1 tvg-id="RPCPontaGrossa.br(m3u4u)" tvg-name="Globo PR - Ponta Grossa HD" tvg-logo="http://dgbr.io:80/images/7ceef5ab43f03b38ca74842d036a0a5d.png" group-title="- Globo [Cortesia]",Globo PR - Ponta Grossa HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/130991
-#EXTINF:-1 tvg-id="RPCParanavai.br(m3u4u)" tvg-name="Globo PR - Paranavaí HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo PR - Paranavaí HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/34642
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo SE - Sergipe HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SE - Sergipe HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/94878
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo SE - Sergipe FHD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SE - Sergipe FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/34646
-#EXTINF:-1 tvg-id="NSCTVJoinville.br(m3u4u)" tvg-name="Globo SC - Joinville HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SC - Joinville HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/114911
-#EXTINF:-1 tvg-id="NSCTVFlorianopolis.br(m3u4u)" tvg-name="Globo SC - Florianópolis HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SC - Florianópolis HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33502
-#EXTINF:-1 tvg-id="NSCTVCriciuma.br(m3u4u)" tvg-name="Globo SC - Criciuma HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SC - Criciuma HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/130993
-#EXTINF:-1 tvg-id="NSCTVChapeco.br(m3u4u)" tvg-name="Globo SC - Chapecó HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SC - Chapecó HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/130994
-#EXTINF:-1 tvg-id="NSCTVBlumenau.br(m3u4u)" tvg-name="Globo SC - Bluemenau HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo SC - Bluemenau HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33503
-#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br(m3u4u)" tvg-name="Globo RS - Porto Alegre HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo RS - Porto Alegre HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/38473
-#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br(m3u4u)" tvg-name="Globo RS - Porto Alegre SD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo RS - Porto Alegre SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/38472
-#EXTINF:-1 tvg-id="RBSTVSantaMaria.br(m3u4u)" tvg-name="Globo RS - Santa Maria HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo RS - Santa Maria HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/130992
-#EXTINF:-1 tvg-id="RBSTVRioGrande.br(m3u4u)" tvg-name="Globo RS - Caxias do Sul HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo RS - Caxias do Sul HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/91342
-#EXTINF:-1 tvg-id="RBSTVRioGrande.br(m3u4u)" tvg-name="Globo RS - Pelotas HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo RS - Pelotas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/91344
-#EXTINF:-1 tvg-id="RedeAmazonicaManaus.br(m3u4u)" tvg-name="Globo AM - Manaus HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo AM - Manaus HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33506
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="Globo AM - Boa Vista SD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo AM - Boa Vista SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29626
-#EXTINF:-1 tvg-id="TVCentroAmericaCuiaba.br(m3u4u)" tvg-name="Globo MT - Cuiabá SD²" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo MT - Cuiabá SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24462
-#EXTINF:-1 tvg-id="aande.br" tvg-name="Globo MT - Cuiabá SD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo MT - Cuiabá SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30683
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="Globo AL - Alagoas HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo AL - Alagoas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24571
-#EXTINF:-1 tvg-id="TVVerdesMares.br(m3u4u)" tvg-name="Globo CE - Fortaleza HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo CE - Fortaleza HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24456
-#EXTINF:-1 tvg-id="TVGazeta.br(m3u4u)" tvg-name="Globo ES - Vitória HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo ES - Vitória HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/95942
-#EXTINF:-1 tvg-id="TVGazeta.br(m3u4u)" tvg-name="Globo ES - Itapemirim HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo ES - Itapemirim HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24572
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="Globo MA - São Luís - Mirante" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo MA - São Luís - Mirante
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33505
-#EXTINF:-1 tvg-id="TVMorena.br(m3u4u)" tvg-name="Globo MS - Tv Morena HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo MS - Tv Morena HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/114812
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="Globo PA - Belém HD" tvg-logo="http://xsrv.me/logos/img/globo.png" group-title="- Globo [Cortesia]",Globo PA - Belém HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24481
-#EXTINF:-1 tvg-id="TVCaboBranco.br(m3u4u)" tvg-name="Globo PB - Cabo Branco HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo PB - Cabo Branco HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/120135
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo PI - Teresina HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo PI - Teresina HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/97439
-#EXTINF:-1 tvg-id="InterTVCabugi.br(m3u4u)" tvg-name="Globo RN - Cabugí HD" tvg-logo="http://dgbr.io:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="- Globo [Cortesia]",Globo RN - Cabugí HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/30441
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob - SD" tvg-logo="http://dgbr.io:80/images/5e2247ab07fc3f9f14af2655d76039a6.png" group-title="- Infantil",Gloob - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25076
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob - HD" tvg-logo="http://dgbr.io:80/images/5e2247ab07fc3f9f14af2655d76039a6.png" group-title="- Infantil",Gloob - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25073
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob - FHD" tvg-logo="http://xsrv.me/logos/img/gloob.png" group-title="- Infantil",Gloob - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29899
-#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="Gloobinho - SD" tvg-logo="http://dgbr.io:80/images/50e9728503a9bffabe5e07c912b38f89.png" group-title="- Infantil",Gloobinho - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25103
-#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="Gloobinho - HD" tvg-logo="http://dgbr.io:80/images/50e9728503a9bffabe5e07c912b38f89.png" group-title="- Infantil",Gloobinho - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25102
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT - SD" tvg-logo="http://dgbr.io:80/images/a5e669e9a3073f1384994f3b02576748.png" group-title="- Variedades",GNT - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25145
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT - HD" tvg-logo="http://dgbr.io:80/images/a5e669e9a3073f1384994f3b02576748.png" group-title="- Variedades",GNT - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25143
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT - FHD" tvg-logo="http://xsrv.me/logos/img/gnt.png" group-title="- Variedades",GNT - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25141
-#EXTINF:-1 tvg-id="history2.br" tvg-name="History 2 - SD" tvg-logo="http://dgbr.io:80/images/b5035b385b4983d6acc8ef1e3f497ad9.png" group-title="- Documentários",History 2 - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25008
-#EXTINF:-1 tvg-id="history2.br" tvg-name="History 2 - HD" tvg-logo="http://cdnbr.me/logos/img/history2.png" group-title="- Documentários",History 2 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25007
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News - HD" tvg-logo="http://dgbr.io:80/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="- News",Globo News - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24485
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News - SD" tvg-logo="http://xsrv.me/logos/img/globonews.png" group-title="- News",Globo News - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24488
-#EXTINF:-1 tvg-id="maisnatela.br" tvg-name="Mais GloboSat - HD" tvg-logo="http://dgbr.io:80/images/345a207ebc8e683898c0ff52a5f4837c.png" group-title="- Variedades",Mais GloboSat - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25136
-#EXTINF:-1 tvg-id="aande.br" tvg-name="Mais GloboSat - SD" tvg-logo="http://dgbr.io:80/images/345a207ebc8e683898c0ff52a5f4837c.png" group-title="- Variedades",Mais GloboSat - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25138
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO - 4K" tvg-logo="http://xsrv.me/logos/img/hbo.png" group-title="- HBO",HBO - 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33807
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO - SD" tvg-logo="http://dgbr.io:80/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="- HBO",HBO - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24732
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO - HD" tvg-logo="http://dgbr.io:80/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="- HBO",HBO - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24730
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO - FHD" tvg-logo="http://xsrv.me/logos/img/hbo.png" group-title="- HBO",HBO - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24728
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 - SD" tvg-logo="http://dgbr.io:80/images/a7f9c898c812805f26c4ea1e490201da.png" group-title="- HBO",HBO 2 - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24739
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 - HD" tvg-logo="http://dgbr.io:80/images/a7f9c898c812805f26c4ea1e490201da.png" group-title="- HBO",HBO 2 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24737
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 - FHD" tvg-logo="http://xsrv.me/logos/img/hbo2.png" group-title="- HBO",HBO 2 - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24735
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family - SD" tvg-logo="http://dgbr.io:80/images/7ac60ed5d6e929c81d0885b615c5fd60.png" group-title="- HBO",HBO Family - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24745
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family - HD" tvg-logo="http://dgbr.io:80/images/7ac60ed5d6e929c81d0885b615c5fd60.png" group-title="- HBO",HBO Family - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24744
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family - FHD" tvg-logo="http://xsrv.me/logos/img/hbofamily.png" group-title="- HBO",HBO Family - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24742
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus - SD" tvg-logo="http://dgbr.io:80/images/025d07370cb9c98aacd83e78e8b3a1a3.png" group-title="- HBO",HBO Plus - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24751
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus - HD" tvg-logo="http://dgbr.io:80/images/025d07370cb9c98aacd83e78e8b3a1a3.png" group-title="- HBO",HBO Plus - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24749
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus - FHD" tvg-logo="http://xsrv.me/logos/img/hboplus.png" group-title="- HBO",HBO Plus - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24747
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature - SD" tvg-logo="http://dgbr.io:80/images/59c79fdb9059ea5288761dc1878f0298.png" group-title="- HBO",HBO Signature - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24758
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature - HD" tvg-logo="http://xsrv.me/logos/img/hbosignature.png" group-title="- HBO",HBO Signature - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24756
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature - FHD" tvg-logo="http://xsrv.me/logos/img/hbosignature.png" group-title="- HBO",HBO Signature - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24754
-#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi -  HD" tvg-logo="http://dgbr.io:80/images/e71a5a4ebc1215861f316cdb11241e9b.png" group-title="- HBO",HBO Mundi -  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33510
-#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi - FHD" tvg-logo="http://dgbr.io:80/images/e71a5a4ebc1215861f316cdb11241e9b.png" group-title="- HBO",HBO Mundi - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33866
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop - HD" tvg-logo="http://dgbr.io:80/images/bc1b7a80d163878a56648878626e9a49.png" group-title="- HBO",HBO Pop - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33512
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop - FHD" tvg-logo="http://dgbr.io:80/images/bc1b7a80d163878a56648878626e9a49.png" group-title="- HBO",HBO Pop - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33865
-#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme - HD" tvg-logo="http://dgbr.io:80/images/bd10dac6ef63bf5209ac397b222b5ab5.png" group-title="- HBO",HBO Xtreme - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33511
-#EXTINF:-1 tvg-id="aande.br" tvg-name="HBO Xtreme - FHD" tvg-logo="http://xsrv.me/logos/img/hbo_xtreme.png" group-title="- HBO",HBO Xtreme - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33864
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel - SD" tvg-logo="http://dgbr.io:80/images/3cd15f8f2940aff879df34df4e5c2cd1.png" group-title="- Documentários",History Channel - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25002
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel - HD" tvg-logo="http://cdnbr.me/logos/img/history.png" group-title="- Documentários",History Channel - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25000
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel - FHD" tvg-logo="http://cdnbr.me/logos/img/history.png" group-title="- Documentários",History Channel - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24998
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigação Discovery - SD" tvg-logo="http://dgbr.io:80/images/5a6898640e865b337ed19248dd0cafde.png" group-title="- Discovery",Investigação Discovery - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24996
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigação Discovery - HD" tvg-logo="http://dgbr.io:80/images/5a6898640e865b337ed19248dd0cafde.png" group-title="- Discovery",Investigação Discovery - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24995
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigação Discovery - FHD" tvg-logo="http://cdnbr.me/logos/img/discoveryid.png" group-title="- Discovery",Investigação Discovery - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29900
-#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Kids" tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="- Infantil",Kuriakos Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/59588
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime - SD" tvg-logo="http://dgbr.io:80/images/79f3a982fd2496a50c5ec8f88e9b608f.png" group-title="- Filmes e Series",Lifetime - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24867
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime - HD" tvg-logo="http://dgbr.io:80/images/79f3a982fd2496a50c5ec8f88e9b608f.png" group-title="- Filmes e Series",Lifetime - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24865
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime - FHD" tvg-logo="http://xsrv.me/logos/img/lifetime.png" group-title="- Filmes e Series",Lifetime - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24863
-#EXTINF:-1 tvg-id="vh1megahits.br" tvg-name="VH1 Mega Hits - SD" tvg-logo="http://dgbr.io:80/images/dad8ee483cc9a336cde702e9aa0b0954.png" group-title="- Variedades",VH1 Mega Hits - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25195
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix - 4K" tvg-logo="http://xsrv.me/logos/img/megapix.png" group-title="- Filmes e Series",Megapix - 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33808
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix - SD" tvg-logo="http://dgbr.io:80/images/06853ea758cbc3864417bd2927656aef.png" group-title="- Filmes e Series",Megapix - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24893
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix - HD" tvg-logo="http://dgbr.io:80/images/06853ea758cbc3864417bd2927656aef.png" group-title="- Filmes e Series",Megapix - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24892
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix - FHD" tvg-logo="http://dgbr.io:80/images/06853ea758cbc3864417bd2927656aef.png" group-title="- Filmes e Series",Megapix - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24890
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV - SD" tvg-logo="http://dgbr.io:80/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="- Variedades",MTV - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25152
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV - HD" tvg-logo="http://dgbr.io:80/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="- Variedades",MTV - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25148
-#EXTINF:-1 tvg-id="aande.br" tvg-name="MTV - LIVE HD" tvg-logo="http://xsrv.me/logos/img/mtv.png" group-title="- Variedades",MTV - LIVE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25150
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow - 4K" tvg-logo="http://xsrv.me/logos/img/multishow.png" group-title="- Variedades",Multishow - 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33809
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow - SD" tvg-logo="http://dgbr.io:80/images/d86c2455f7248a0bd12945187439ec01.png" group-title="- Variedades",Multishow - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25179
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow - HD" tvg-logo="http://103.195.103.33:80/images/d86c2455f7248a0bd12945187439ec01.png" group-title="- Variedades",Multishow - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25176
-#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="Music Box Brasil - SD" tvg-logo="http://103.195.103.33:80/images/a80277cecc0a4ecdb0c72dc05ac6ecb3.png" group-title="- Variedades",Music Box Brasil - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25190
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NatGeo Wild - SD" tvg-logo="http://dgbr.io:80/images/757a717ee2ade661c665276734c83b16.png" group-title="- Documentários",NatGeo Wild - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25013
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NatGeo Wild - HD" tvg-logo="http://cdnbr.me/logos/img/natgeowild.png" group-title="- Documentários",NatGeo Wild - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25012
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NatGeo Wild - FHD" tvg-logo="http://cdnbr.me/logos/img/natgeowild.png" group-title="- Documentários",NatGeo Wild - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25010
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic - SD" tvg-logo="http://dgbr.io:80/images/f91c676cbee8fc9aa708334fcf26d981.png" group-title="- Documentários",National Geographic - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25020
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic - HD" tvg-logo="http://cdnbr.me/logos/img/natgeo.png" group-title="- Documentários",National Geographic - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25019
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic - FHD" tvg-logo="http://cdnbr.me/logos/img/natgeo.png" group-title="- Documentários",National Geographic - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25017
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick Jr. - SD" tvg-logo="http://dgbr.io:80/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="- Infantil",Nick Jr. - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25026
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick Jr. - HD" tvg-logo="http://dgbr.io:80/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="- Infantil",Nick Jr. - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25024
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon - SD" tvg-logo="http://dgbr.io:80/images/e2e42a07550863f8b67f5eb252581f6d.png" group-title="- Infantil",Nickelodeon - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25032
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon - HD" tvg-logo="http://dgbr.io:80/images/e2e42a07550863f8b67f5eb252581f6d.png" group-title="- Infantil",Nickelodeon - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25031
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon - FHD" tvg-logo="http://dgbr.io:80/images/e2e42a07550863f8b67f5eb252581f6d.png" group-title="- Infantil",Nickelodeon - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25029
-#EXTINF:-1 tvg-id="" tvg-name="Nova Era TV" tvg-logo="http://xsrv.me/logos/img/novaera.png" group-title="- Religiosos",Nova Era TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25203
-#EXTINF:-1 tvg-id="" tvg-name="TV Novo Tempo" tvg-logo="http://xsrv.me/logos/img/tvnovotempo.png" group-title="- Religiosos",TV Novo Tempo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25206
-#EXTINF:-1 tvg-id="off.br" tvg-name="Canal Off - SD" tvg-logo="http://dgbr.io:80/images/3262d48df5d75e3452f0f16b313b7808.png" group-title="- Variedades",Canal Off - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25116
-#EXTINF:-1 tvg-id="off.br" tvg-name="Canal Off - HD" tvg-logo="http://dgbr.io:80/images/3262d48df5d75e3452f0f16b313b7808.png" group-title="- Variedades",Canal Off - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25114
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel - SD" tvg-logo="http://dgbr.io:80/images/db84fd722b09a6787fd09b7eb55ff6ab.png" group-title="- Filmes e Series",Paramount Channel - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24899
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel - HD" tvg-logo="http://dgbr.io:80/images/db84fd722b09a6787fd09b7eb55ff6ab.png" group-title="- Filmes e Series",Paramount Channel - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24898
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel - FHD" tvg-logo="http://xsrv.me/logos/img/paramountchannel.png" group-title="- Filmes e Series",Paramount Channel - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24896
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes SD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - Clubes SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24677
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes HD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - Clubes HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24674
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes HD²  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - Clubes HD²  [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/95729
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes HD³  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - Clubes HD³  [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/120127
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes FHD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - Clubes FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24671
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere - Clubes 4K" tvg-logo="http://xsrv.me/logos/img/premiere.png" group-title="- Premiere",Premiere - Clubes 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33811
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere - 2 SD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24682
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere - 2 HD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24679
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere - 02 HD²  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 02 HD²  [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/120128
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere - 02 HD³  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 02 HD³  [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/120129
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere - 2 FHD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/34645
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere - 3 SD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24692
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere - 3 HD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24689
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere - 03 HD²  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 03 HD²  [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/120130
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere - 03 HD³  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 03 HD³  [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/120131
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere - 3 FHD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24686
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere - 4 SD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24700
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere - 4 HD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24697
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere - 04 HD²  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 04 HD²  [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/120132
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere - 04 HD³  [Alter]" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 04 HD³  [Alter]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/120133
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere - 4 FHD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24694
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere - 5 SD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24708
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere - 5 HD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24706
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere - 6 SD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 6 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24715
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere - 6 HD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24713
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere - 7 SD" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 7 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24721
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere - 7 HD" tvg-logo="http://cdnbr.me/logos/img/premiere.png" group-title="- Premiere",Premiere - 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24720
-#EXTINF:-1 tvg-id="premiere8.br" tvg-name="Premiere - 8 - SD *" tvg-logo="http://dgbr.io:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="- Premiere",Premiere - 8 - SD *
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24724
-#EXTINF:-1 tvg-id="" tvg-name="RAI Internacional - HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/260px-Rai_1_-_Logo_2016.svg.png" group-title="- Esportes",RAI Internacional - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/71930
-#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br(m3u4u)" tvg-name="Record SP - São Paulo 4K" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record SP - São Paulo 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33812
-#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br(m3u4u)" tvg-name="Record SP - São Paulo SD" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record SP - São Paulo SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24499
-#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br(m3u4u)" tvg-name="Record SP - São Paulo HD" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record SP - São Paulo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24498
-#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br(m3u4u)" tvg-name="Record SP - São Paulo FHD" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record SP - São Paulo FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/84950
-#EXTINF:-1 tvg-id="RecordTVRio.br(m3u4u)" tvg-name="Record RJ - Rio de Janeiro SD" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record RJ - Rio de Janeiro SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24511
-#EXTINF:-1 tvg-id="RecordTVRio.br(m3u4u)" tvg-name="Record RJ - Rio de Janeiro HD" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record RJ - Rio de Janeiro HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24513
-#EXTINF:-1 tvg-id="RecordTVItapoan.br(m3u4u)" tvg-name="Record BA - Salvador" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record BA - Salvador
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24502
-#EXTINF:-1 tvg-id="RecordTVBrasilia.br(m3u4u)" tvg-name="Record DF - Brasília" tvg-logo="http://dgbr.io:80/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="- Record [Cortesia]",Record DF - Brasília
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24509
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News - HD" tvg-logo="http://dgbr.io:80/images/f79701acef6cbb6ee6a0cb89c090f3bb.png" group-title="- News",Record News - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24517
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Record News - SD" tvg-logo="http://xsrv.me/logos/img/recordnews.png" group-title="- News",Record News - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29805
-#EXTINF:-1 tvg-id="" tvg-name="RedBull TV" tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/s320/Screenshot_2019-06-28-14-19-55.png" group-title="- Esportes",RedBull TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/62196
-#EXTINF:-1 tvg-id="Rede Gospel" tvg-name="Rede Gospel" tvg-logo="http://xsrv.me/logos/img/redegospel.png" group-title="- Religiosos",Rede Gospel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25204
-#EXTINF:-1 tvg-id="RedeSuper.br(m3u4u)" tvg-name="Rede Super" tvg-logo="http://dgbr.io:80/images/e5f8d22cd35c01d5f1febb62f4ae512c.png" group-title="- Abertos [Cortesia]",Rede Super
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/83925
-#EXTINF:-1 tvg-id="" tvg-name="Rede Século 21" tvg-logo="http://xsrv.me/logos/img/seculo21.png" group-title="- Religiosos",Rede Século 21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25207
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede Tv! - 4K" tvg-logo="http://xsrv.me/logos/img/redetv.png" group-title="- Abertos [Cortesia]",Rede Tv! - 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33813
-#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida - SD" tvg-logo="http://xsrv.me/logos/img/redevida.png" group-title="- Religiosos",Rede Vida - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33613
-#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida - HD" tvg-logo="http://dgbr.io:80/images/ae081082e12d6f0631dea5e748033ab1.png" group-title="- Religiosos",Rede Vida - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33614
-#EXTINF:-1 tvg-id="" tvg-name="Rit TV" tvg-logo="http://xsrv.me/logos/img/ritgospel.png" group-title="- Religiosos",Rit TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25208
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT - 4K" tvg-logo="http://xsrv.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT - 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33798
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP - São Paulo SD" tvg-logo="http://cdnbr.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT SP - São Paulo SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/28183
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP - São Paulo HD" tvg-logo="http://cdnbr.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT SP - São Paulo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/28180
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP - São Paulo FHD" tvg-logo="http://cdnbr.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT SP - São Paulo FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/28179
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RJ - Rio de Janeiro" tvg-logo="http://cdnbr.me/logos/img/sbt.png" group-title="- SBT [Cortesia]",SBT RJ - Rio de Janeiro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/85762
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space - FHD" tvg-logo="http://xsrv.me/logos/img/space.png" group-title="- Filmes e Series",Space - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24903
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space - HD" tvg-logo="http://dgbr.io:80/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="- Filmes e Series",Space - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24905
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space - SD" tvg-logo="http://dgbr.io:80/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="- Filmes e Series",Space - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24906
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTv - 4K" tvg-logo="http://xsrv.me/logos/img/sportv.png" group-title="- SporTV",SporTv - 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33815
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTv - SD" tvg-logo="http://dgbr.io:80/images/43c36900b0aa86ded24077870df74926.png" group-title="- SporTV",SporTv - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24613
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTv - HD" tvg-logo="http://xsrv.me/logos/img/sportv.png" group-title="- SporTV",SporTv - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24610
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTv - FHD" tvg-logo="http://xsrv.me/logos/img/sportv.png" group-title="- SporTV",SporTv - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24607
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTv 2 - SD" tvg-logo="http://dgbr.io:80/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="- SporTV",SporTv 2 - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24620
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTv 2 - HD" tvg-logo="http://dgbr.io:80/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="- SporTV",SporTv 2 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24617
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTv 2 - FHD" tvg-logo="http://dgbr.io:80/images/f5b2ef313381b86b721488d22a3ef3d8.png" group-title="- SporTV",SporTv 2 - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24615
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTv  3 - SD" tvg-logo="http://dgbr.io:80/images/365fc6d09ecab42eb99b787a6df6477b.png" group-title="- SporTV",SporTv  3 - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24628
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTv 3 - HD" tvg-logo="http://dgbr.io:80/images/365fc6d09ecab42eb99b787a6df6477b.png" group-title="- SporTV",SporTv 3 - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24625
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTv 3 - FHD" tvg-logo="http://xsrv.me/logos/img/sportv3.png" group-title="- SporTV",SporTv 3 - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24623
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal - SD" tvg-logo="http://dgbr.io:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="- Filmes e Series",Studio Universal - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24910
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal - HD" tvg-logo="http://dgbr.io:80/images/953583e7a85584ee2dd4269a888b23e5.png" group-title="- Filmes e Series",Studio Universal - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24909
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal - FHD" tvg-logo="http://xsrv.me/logos/img/studiouniversal.png" group-title="- Filmes e Series",Studio Universal - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24908
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy - SD" tvg-logo="http://dgbr.io:80/images/14831b3a087423067dd5af937a12204b.png" group-title="- Filmes e Series",Syfy - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24917
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy - HD" tvg-logo="http://dgbr.io:80/images/14831b3a087423067dd5af937a12204b.png" group-title="- Filmes e Series",Syfy - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24915
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy - FHD" tvg-logo="http://xsrv.me/logos/img/syfy.png" group-title="- Filmes e Series",Syfy - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24913
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS - SD" tvg-logo="http://dgbr.io:80/images/9f0f0a28dccf5dfd1976ed455fd0f4f4.png" group-title="- Filmes e Series",TBS - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24923
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS - HD" tvg-logo="http://dgbr.io:80/images/9f0f0a28dccf5dfd1976ed455fd0f4f4.png" group-title="- Filmes e Series",TBS - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24921
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS - FHD" tvg-logo="http://xsrv.me/logos/img/tbs.png" group-title="- Filmes e Series",TBS - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24919
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TC - Action - SD" tvg-logo="http://dgbr.io:80/images/fd202b72de997ce6dc7807da3d679a50.png" group-title="- Telecine",TC - Action - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24765
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TC - Action - HD" tvg-logo="http://dgbr.io:80/images/fd202b72de997ce6dc7807da3d679a50.png" group-title="- Telecine",TC - Action - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24763
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TC - Action - FHD" tvg-logo="http://xsrv.me/logos/img/tcaction.png" group-title="- Telecine",TC - Action - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24760
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TC - Cult - SD" tvg-logo="http://dgbr.io:80/images/c5372122b9131d1b90975111d44ebd1a.png" group-title="- Telecine",TC - Cult - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24770
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TC - Cult - HD" tvg-logo="http://dgbr.io:80/images/c5372122b9131d1b90975111d44ebd1a.png" group-title="- Telecine",TC - Cult - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24769
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TC - Cult - FHD" tvg-logo="http://dgbr.io:80/images/c5372122b9131d1b90975111d44ebd1a.png" group-title="- Telecine",TC - Cult - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/29901
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TC - Fun -  SD" tvg-logo="http://dgbr.io:80/images/83f09c01bd2b5a76aa9d588db9b47bae.png" group-title="- Telecine",TC - Fun -  SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24777
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TC - Fun -  HD" tvg-logo="http://dgbr.io:80/images/83f09c01bd2b5a76aa9d588db9b47bae.png" group-title="- Telecine",TC - Fun -  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24775
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TC - Fun -  FHD" tvg-logo="http://xsrv.me/logos/img/tcfun.png" group-title="- Telecine",TC - Fun -  FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24773
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TC - Pipoca - SD" tvg-logo="http://dgbr.io:80/images/03ec906cf5f40009fccaef4fb276d889.png" group-title="- Telecine",TC - Pipoca - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24784
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TC - Pipoca - HD" tvg-logo="http://dgbr.io:80/images/03ec906cf5f40009fccaef4fb276d889.png" group-title="- Telecine",TC - Pipoca - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24782
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TC - Pipoca - FHD" tvg-logo="http://xsrv.me/logos/img/tcpipoca.png" group-title="- Telecine",TC - Pipoca - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24780
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TC - Premium - SD" tvg-logo="http://dgbr.io:80/images/dfbcc2a4c6f845ce11cb689f9e792779.png" group-title="- Telecine",TC - Premium - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24790
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TC - Premium - HD" tvg-logo="http://dgbr.io:80/images/dfbcc2a4c6f845ce11cb689f9e792779.png" group-title="- Telecine",TC - Premium - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24788
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TC - Premium - FHD" tvg-logo="http://xsrv.me/logos/img/tcpremium.png" group-title="- Telecine",TC - Premium - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24786
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TC - Touch - SD" tvg-logo="http://dgbr.io:80/images/fb59e5b4ee8c51a84af3de3ef833a6bb.png" group-title="- Telecine",TC - Touch - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24796
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TC - Touch - HD" tvg-logo="http://xsrv.me/logos/img/tctouch.png" group-title="- Telecine",TC - Touch - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24794
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TC - Touch - FHD" tvg-logo="http://xsrv.me/logos/img/tctouch.png" group-title="- Telecine",TC - Touch - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24792
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM - SD" tvg-logo="http://dgbr.io:80/images/a005a08d7cc59163d7f4de2b7fdbc147.png" group-title="- Filmes e Series",TCM - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25162
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM - HD" tvg-logo="http://dgbr.io:80/images/a005a08d7cc59163d7f4de2b7fdbc147.png" group-title="- Filmes e Series",TCM - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25161
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM - FHD" tvg-logo="http://xsrv.me/logos/img/tcm.png" group-title="- Filmes e Series",TCM - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/34647
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TC - Premium - 4K" tvg-logo="http://xsrv.me/logos/img/tcpremium.png" group-title="- Telecine",TC - Premium - 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33816
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT - 4K" tvg-logo="http://xsrv.me/logos/img/tnt.png" group-title="- Filmes e Series",TNT - 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33817
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT - SD" tvg-logo="http://dgbr.io:80/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="- Filmes e Series",TNT - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24931
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT - HD" tvg-logo="http://dgbr.io:80/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="- Filmes e Series",TNT - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24929
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT - FHD" tvg-logo="http://xsrv.me/logos/img/tnt.png" group-title="- Filmes e Series",TNT - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24927
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series - SD" tvg-logo="http://xsrv.me/logos/img/tntseries.png" group-title="- Filmes e Series",TNT Series - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24939
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series - HD" tvg-logo="http://xsrv.me/logos/img/tntseries.png" group-title="- Filmes e Series",TNT Series - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24937
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series - FHD" tvg-logo="http://xsrv.me/logos/img/tntseries.png" group-title="- Filmes e Series",TNT Series - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24934
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series - 4K" tvg-logo="http://xsrv.me/logos/img/tntseries.png" group-title="- Filmes e Series",TNT Series - 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33818
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="ToonCast - SD" tvg-logo="http://dgbr.io:80/images/842bb72b9cc9ef8c86459a5101fb8673.png" group-title="- Infantil",ToonCast - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25183
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="ToonCast - HD" tvg-logo="http://dgbr.io:80/images/842bb72b9cc9ef8c86459a5101fb8673.png" group-title="- Infantil",ToonCast - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25182
-#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida - SD" tvg-logo="http://103.195.103.33:80/images/ddd1e2ef454b515b6c47f6fb8ed106e9.png" group-title="- Religiosos",TV Aparecida - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25199
-#EXTINF:-1 tvg-id="TVAparecida.br(m3u4u)" tvg-name="TV Aparecida - HD" tvg-logo="http://dgbr.io:80/images/ddd1e2ef454b515b6c47f6fb8ed106e9.png" group-title="- Religiosos",TV Aparecida - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25198
-#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida - FHD" tvg-logo="http://xsrv.me/logos/img/tvaparecida.png" group-title="- Religiosos",TV Aparecida - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33882
-#EXTINF:-1 tvg-id="TV Assembleia PR" tvg-name="TV Assembleia" tvg-logo="https://4.bp.blogspot.com/-IBw75oJvHK8/XpYdS3OMZgI/AAAAAAAACxY/KL2KzKA8cwsY09k22eN702DDLEWrwkRNgCK4BGAYYCw/s400/TV%2BASEMBLEIA.png" group-title="- Religiosos",TV Assembleia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33959
-#EXTINF:-1 tvg-id="" tvg-name="TV Boa Vontade" tvg-logo="http://xsrv.me/logos/img/boavontade.png" group-title="- Religiosos",TV Boa Vontade
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25205
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA - SD" tvg-logo="http://dgbr.io:80/images/e6da8e51b4510f9c253957d20dfd3090.png" group-title="- Abertos [Cortesia]",TV CULTURA - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/34632
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA - HD" tvg-logo="http://cdnbr.me/logos/img/cultura.png" group-title="- Abertos [Cortesia]",TV CULTURA - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/34633
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA - FHD" tvg-logo="http://cdnbr.me/logos/img/cultura.png" group-title="- Abertos [Cortesia]",TV CULTURA - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/34634
-#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar" tvg-logo="https://1.bp.blogspot.com/-U4SJ0QX3lts/XpYaGWWXXRI/AAAAAAAACxA/NZM1vivsHpM4tvgvlqrw8lfUWydFBkdlgCK4BGAYYCw/s400/tv%2Bevangeliz.png" group-title="- Religiosos",TV Evangelizar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33958
-#EXTINF:-1 tvg-id="Gazeta.br(m3u4u)" tvg-name="TV Gazeta - HD" tvg-logo="http://dgbr.io:80/images/ab81a01d70dfed850894655b5903e732.png" group-title="- Abertos [Cortesia]",TV Gazeta - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/84949
-#EXTINF:-1 tvg-id="TVJUSTICA.br(m3u4u)" tvg-name="TV JUSTIÇA - HD" tvg-logo="http://dgbr.io:80/images/66d1529c54974f2615ef37366717c913.png" group-title="- Abertos [Cortesia]",TV JUSTIÇA - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33884
-#EXTINF:-1 tvg-id="" tvg-name="TV Mundial - HD" tvg-logo="http://xsrv.me/logos/img/tvmundial.png" group-title="- Religiosos",TV Mundial - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33885
-#EXTINF:-1 tvg-id="TVNovoTempo.br(m3u4u)" tvg-name="TV Novo Tempo - FHD" tvg-logo="http://xsrv.me/logos/img/tvnovotempo.png" group-title="- Religiosos",TV Novo Tempo - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33886
-#EXTINF:-1 tvg-id="TV Pai Eterno" tvg-name="TV Pai Eterno" tvg-logo="http://mytv.tv.br/canais/tvpaieterno.png" group-title="- Religiosos",TV Pai Eterno
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/33957
-#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV Rá-Tim-Bum - SD" tvg-logo="http://dgbr.io:80/images/33e61c2b80c89a89beb2f542949754aa.png" group-title="- Infantil",TV Rá-Tim-Bum - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25099
-#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV Rá-Tim-Bum - HD" tvg-logo="http://dgbr.io:80/images/33e61c2b80c89a89beb2f542949754aa.png" group-title="- Infantil",TV Rá-Tim-Bum - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25097
-#EXTINF:-1 tvg-id="" tvg-name="TV Rede Super" tvg-logo="http://xsrv.me/logos/img/redesuper.png" group-title="- Religiosos",TV Rede Super
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/83926
-#EXTINF:-1 tvg-id="aande.br" tvg-name="Universal Channel - SD" tvg-logo="http://dgbr.io:80/images/34fce4ec35078fca713ab7294593bda8.png" group-title="- Filmes e Series",Universal Channel - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24945
-#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal Channel - HD" tvg-logo="http://xsrv.me/logos/img/universalchannel.png" group-title="- Filmes e Series",Universal Channel - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24944
-#EXTINF:-1 tvg-id="aande.br" tvg-name="Universal Channel - FHD" tvg-logo="http://xsrv.me/logos/img/universalchannel.png" group-title="- Filmes e Series",Universal Channel - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24941
-#EXTINF:-1 tvg-id="" tvg-name="Universal TV" tvg-logo="http://dgbr.io:80/images/1a1edeb459447f3ea216409405d996b0.png" group-title="- Religiosos",Universal TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/83924
-#EXTINF:-1 tvg-id="viva.br" tvg-name="Canal Viva - SD" tvg-logo="http://dgbr.io:80/images/6cabf345f46690846b7f20b7c8a83f93.png" group-title="- Variedades",Canal Viva - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25157
-#EXTINF:-1 tvg-id="viva.br" tvg-name="Canal Viva - HD" tvg-logo="http://103.195.103.33:80/images/6cabf345f46690846b7f20b7c8a83f93.png" group-title="- Variedades",Canal Viva - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25155
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel - SD" tvg-logo="http://dgbr.io:80/images/2a6d61f2db2620999ceeb10ef97ab0e8.png" group-title="- Filmes e Series",Warner Channel - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24952
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel - HD" tvg-logo="http://xsrv.me/logos/img/warnerchannel.png" group-title="- Filmes e Series",Warner Channel - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24950
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel - FHD" tvg-logo="http://xsrv.me/logos/img/warnerchannel.png" group-title="- Filmes e Series",Warner Channel - FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/24947
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo - SD" tvg-logo="http://dgbr.io:80/images/a059ca3d96c5513a8967079ded23d020.png" group-title="- Esportes",Woohoo - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25189
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo - SD" tvg-logo="http://dgbr.io:80/images/54395cbe5010a9b4a488a30f24a97471.png" group-title="- Infantil",Zoomoo - SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25105
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo - HD" tvg-logo="http://dgbr.io:80/images/54395cbe5010a9b4a488a30f24a97471.png" group-title="- Infantil",Zoomoo - HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://psrv.com:80/smith2022/2022smith/25104
+
+
+#EXTINF:-1,A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113737
+#EXTINF:-1,A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113738
+#EXTINF:-1,A&E SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113739
+#EXTINF:-1,Agro Canal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113740
+#EXTINF:-1,Agro+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113741
+#EXTINF:-1,AgroBrasil TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113742
+#EXTINF:-1,All KPOP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113743
+#EXTINF:-1,All Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113744
+#EXTINF:-1,AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113745
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113746
+#EXTINF:-1,AMC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113747
+#EXTINF:-1,Animal Planet 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113748
+#EXTINF:-1,Animal Planet FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113749
+#EXTINF:-1,Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113750
+#EXTINF:-1,Animal Planet SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113751
+#EXTINF:-1,Arte 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113752
+#EXTINF:-1,Arte 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113753
+#EXTINF:-1,Arte 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113754
+#EXTINF:-1,As Aventuras de Jackie Chan (PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113755
+#EXTINF:-1,As Pistas de Blue (PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113756
+#EXTINF:-1,AXN 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113757
+#EXTINF:-1,AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113758
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113759
+#EXTINF:-1,AXN HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113760
+#EXTINF:-1,AXN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113761
+#EXTINF:-1,Baby TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113762
+#EXTINF:-1,Baby TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113763
+#EXTINF:-1,Babyfirst(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113764
+#EXTINF:-1,Bah! TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113765
+#EXTINF:-1,Band Bahia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113766
+#EXTINF:-1,Band Brasilia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113767
+#EXTINF:-1,Band Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113768
+#EXTINF:-1,Band CE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113769
+#EXTINF:-1,Band FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113770
+#EXTINF:-1,Band HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113771
+#EXTINF:-1,Band MG FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113772
+#EXTINF:-1,Band News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113773
+#EXTINF:-1,Band News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113774
+#EXTINF:-1,Band News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113775
+#EXTINF:-1,Band PA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113776
+#EXTINF:-1,Band RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113777
+#EXTINF:-1,Band RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113778
+#EXTINF:-1,Band RS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113779
+#EXTINF:-1,Band SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113780
+#EXTINF:-1,Band SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113781
+#EXTINF:-1,Band SP 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113782
+#EXTINF:-1,Band SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113783
+#EXTINF:-1,Band SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113784
+#EXTINF:-1,Band Sports FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113785
+#EXTINF:-1,Band Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113786
+#EXTINF:-1,Band Sports SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113787
+#EXTINF:-1,BET Being Mary Jane(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113788
+#EXTINF:-1,BET Pluto TV(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113789
+#EXTINF:-1,BIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113790
+#EXTINF:-1,BIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113791
+#EXTINF:-1,BIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113792
+#EXTINF:-1,Bloomberg Brasil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113793
+#EXTINF:-1,Bloomberg HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113794
+#EXTINF:-1,Boa Vontade TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113795
+#EXTINF:-1,Boa Vontade TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113796
+#EXTINF:-1,Boas Novas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113797
+#EXTINF:-1,Box Kids TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113798
+#EXTINF:-1,Brasileirão-C Dazn|TVNsports 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113799
+#EXTINF:-1,Brasileirão-C Dazn|TVNsports 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113800
+#EXTINF:-1,Brasileirão-C Dazn|TVNsports 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113801
+#EXTINF:-1,Brasileirão-C Dazn|TVNsports 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113802
+#EXTINF:-1,Canal Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113803
+#EXTINF:-1,Canal Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113804
+#EXTINF:-1,Canal Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113805
+#EXTINF:-1,Canal do Boi FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113806
+#EXTINF:-1,Canal Rural FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113807
+#EXTINF:-1,Canção Nova FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113808
+#EXTINF:-1,Canção Nova HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113809
+#EXTINF:-1,Cartoon Network 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113810
+#EXTINF:-1,Cartoon Network FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113811
+#EXTINF:-1,Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113812
+#EXTINF:-1,Cartoon Network SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113813
+#EXTINF:-1,Cartoonito FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113814
+#EXTINF:-1,Cartoonito FHD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113815
+#EXTINF:-1,Cartoonito HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113816
+#EXTINF:-1,Cartoonito SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113817
+#EXTINF:-1,CATVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113818
+#EXTINF:-1,CBN Rio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113819
+#EXTINF:-1,CBN São Paulo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113820
+#EXTINF:-1,Central|Top TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113821
+#EXTINF:-1,CINE SKY Aventura
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113822
+#EXTINF:-1,CINE SKY Ação
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113823
+#EXTINF:-1,CINE SKY Comédia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113824
+#EXTINF:-1,CINE SKY Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113825
+#EXTINF:-1,CINE SKY Faroeste
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113826
+#EXTINF:-1,CINE SKY Ficção
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113827
+#EXTINF:-1,CINE SKY Infantil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113828
+#EXTINF:-1,CINE SKY Policial
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113829
+#EXTINF:-1,CINE SKY Suspense
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113830
+#EXTINF:-1,CINE SKY Terror
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113831
+#EXTINF:-1,CineCanal FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113832
+#EXTINF:-1,CineCanal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113833
+#EXTINF:-1,CineCanal SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113834
+#EXTINF:-1,Cinemax FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113835
+#EXTINF:-1,Cinemax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113836
+#EXTINF:-1,Cinemax SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113837
+#EXTINF:-1,Classic Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113838
+#EXTINF:-1,CNN Brasil 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113839
+#EXTINF:-1,CNN Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113840
+#EXTINF:-1,CNN Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113841
+#EXTINF:-1,CNN Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113842
+#EXTINF:-1,CNN Espanhol FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113843
+#EXTINF:-1,CNN Espanhol HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113844
+#EXTINF:-1,CNN Espanhol SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113845
+#EXTINF:-1,CNN Internacional FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113846
+#EXTINF:-1,CNN Internacional HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113847
+#EXTINF:-1,CNN Internacional SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113848
+#EXTINF:-1,CNN Portugal FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113849
+#EXTINF:-1,CNN Portugal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113850
+#EXTINF:-1,CNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113851
+#EXTINF:-1,COM Brasil TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113852
+#EXTINF:-1,Combate 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113853
+#EXTINF:-1,Combate FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113854
+#EXTINF:-1,Combate HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113855
+#EXTINF:-1,Combate SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113856
+#EXTINF:-1,Comedy Central 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113857
+#EXTINF:-1,Comedy Central FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113858
+#EXTINF:-1,Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113859
+#EXTINF:-1,Comedy Central Pluto TV(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113860
+#EXTINF:-1,Comedy Central SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113861
+#EXTINF:-1,Comedy Central South Park[Not 24/7](PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113862
+#EXTINF:-1,Conmebol 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113863
+#EXTINF:-1,Conmebol 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113864
+#EXTINF:-1,Conmebol 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113865
+#EXTINF:-1,Conmebol 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113866
+#EXTINF:-1,Copa do Brasil | Prime Video 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113867
+#EXTINF:-1,Copa do Brasil | Prime Video 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113868
+#EXTINF:-1,Curta! FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113869
+#EXTINF:-1,Curta! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113870
+#EXTINF:-1,Curta! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113871
+#EXTINF:-1,Dark Matter TV Brazil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113872
+#EXTINF:-1,DAZN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113873
+#EXTINF:-1,DAZN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113874
+#EXTINF:-1,DAZN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113875
+#EXTINF:-1,DAZN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113876
+#EXTINF:-1,DAZN 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113877
+#EXTINF:-1,Discovery Channel 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113878
+#EXTINF:-1,Discovery Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113879
+#EXTINF:-1,Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113880
+#EXTINF:-1,Discovery Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113881
+#EXTINF:-1,Discovery H&H 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113882
+#EXTINF:-1,Discovery H&H FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113883
+#EXTINF:-1,Discovery H&H HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113884
+#EXTINF:-1,Discovery H&H SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113885
+#EXTINF:-1,Discovery ID FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113886
+#EXTINF:-1,Discovery ID HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113887
+#EXTINF:-1,Discovery ID SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113888
+#EXTINF:-1,Discovery Kids FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113889
+#EXTINF:-1,Discovery Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113890
+#EXTINF:-1,Discovery Kids SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113891
+#EXTINF:-1,Discovery Science FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113892
+#EXTINF:-1,Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113893
+#EXTINF:-1,Discovery Science SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113894
+#EXTINF:-1,Discovery Theather FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113895
+#EXTINF:-1,Discovery Theather HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113896
+#EXTINF:-1,Discovery Theather SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113897
+#EXTINF:-1,Discovery Turbo 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113898
+#EXTINF:-1,Discovery Turbo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113899
+#EXTINF:-1,Discovery Turbo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113900
+#EXTINF:-1,Discovery Turbo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113901
+#EXTINF:-1,Discovery World FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113902
+#EXTINF:-1,Discovery World HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113903
+#EXTINF:-1,Discovery World SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113904
+#EXTINF:-1,Disney Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113905
+#EXTINF:-1,Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113906
+#EXTINF:-1,Disney Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113907
+#EXTINF:-1,DJTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113908
+#EXTINF:-1,Dog TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113909
+#EXTINF:-1,E! FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113910
+#EXTINF:-1,E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113911
+#EXTINF:-1,E! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113912
+#EXTINF:-1,Eleven Sports 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113913
+#EXTINF:-1,Eleven Sports 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113914
+#EXTINF:-1,Eleven Sports 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113915
+#EXTINF:-1,Eleven Sports 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113916
+#EXTINF:-1,Eleven Sports 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113917
+#EXTINF:-1,ESPN 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113932
+#EXTINF:-1,ESPN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113933
+#EXTINF:-1,ESPN 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113934
+#EXTINF:-1,ESPN 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113918
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113919
+#EXTINF:-1,ESPN 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113920
+#EXTINF:-1,ESPN 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113921
+#EXTINF:-1,ESPN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113922
+#EXTINF:-1,ESPN 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113923
+#EXTINF:-1,ESPN 4 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113924
+#EXTINF:-1,ESPN 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113925
+#EXTINF:-1,ESPN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113926
+#EXTINF:-1,ESPN 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113927
+#EXTINF:-1,ESPN 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113928
+#EXTINF:-1,ESPN Extra FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113929
+#EXTINF:-1,ESPN Extra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113930
+#EXTINF:-1,ESPN Extra SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113931
+#EXTINF:-1,Euronews en Español HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113935
+#EXTINF:-1,Euronews English HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113936
+#EXTINF:-1,Euronews Português HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113937
+#EXTINF:-1,FailArmy(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113938
+#EXTINF:-1,Fashion TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113939
+#EXTINF:-1,FILM & ARTS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113940
+#EXTINF:-1,FILM & ARTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113941
+#EXTINF:-1,Filmes Suspense(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113942
+#EXTINF:-1,Filmon 360 Experimental[Not 24/7](PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113943
+#EXTINF:-1,Fish TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113944
+#EXTINF:-1,Fish TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113945
+#EXTINF:-1,Fish TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113946
+#EXTINF:-1,Food Network FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113947
+#EXTINF:-1,Food Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113948
+#EXTINF:-1,Food Network SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113949
+#EXTINF:-1,Formula 1 | F1 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113950
+#EXTINF:-1,Fox News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113951
+#EXTINF:-1,Fox News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113952
+#EXTINF:-1,Fox News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113953
+#EXTINF:-1,Fox Sports 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113954
+#EXTINF:-1,Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113955
+#EXTINF:-1,Fox Sports 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113956
+#EXTINF:-1,FUEL TV (PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113957
+#EXTINF:-1,Furacão Live TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113958
+#EXTINF:-1,Futura FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113959
+#EXTINF:-1,Futura HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113960
+#EXTINF:-1,FX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113961
+#EXTINF:-1,FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113962
+#EXTINF:-1,FX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113963
+#EXTINF:-1,Globo Amazonica FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113964
+#EXTINF:-1,Globo Amazonica HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113965
+#EXTINF:-1,Globo Amazonica SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113966
+#EXTINF:-1,Globo Boa Vista Roraima HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113967
+#EXTINF:-1,Globo Centro America FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113968
+#EXTINF:-1,Globo Centro America HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113969
+#EXTINF:-1,Globo Centro America SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113970
+#EXTINF:-1,Globo EPTV Campinas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113971
+#EXTINF:-1,Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113972
+#EXTINF:-1,Globo EPTV Campinas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113973
+#EXTINF:-1,Globo EPTV Ribeirão Preto HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113974
+#EXTINF:-1,Globo EPTV Sul de Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113975
+#EXTINF:-1,Globo EPTV Sul de Minas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113976
+#EXTINF:-1,Globo EPTV São Carlos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113977
+#EXTINF:-1,Globo Integração Uberlândia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113978
+#EXTINF:-1,Globo Inter Cabugi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113979
+#EXTINF:-1,Globo Inter Cabugi RN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113980
+#EXTINF:-1,Globo Inter PT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113981
+#EXTINF:-1,Globo Inter PT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113982
+#EXTINF:-1,Globo Inter TV Alto Litoral FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113983
+#EXTINF:-1,Globo Inter TV dos Vales HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113984
+#EXTINF:-1,Globo Inter TV Grande Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113985
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113986
+#EXTINF:-1,Globo Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113987
+#EXTINF:-1,Globo Minas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113988
+#EXTINF:-1,Globo Minas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113989
+#EXTINF:-1,Globo Nacional FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113990
+#EXTINF:-1,Globo News 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113991
+#EXTINF:-1,Globo News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113992
+#EXTINF:-1,Globo News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113993
+#EXTINF:-1,Globo News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113994
+#EXTINF:-1,Globo Nordeste FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113995
+#EXTINF:-1,Globo Nordeste HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113996
+#EXTINF:-1,Globo Nordeste SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113997
+#EXTINF:-1,Globo NOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113998
+#EXTINF:-1,Globo NSC Centro Oeste FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/113999
+#EXTINF:-1,Globo NSC Florianopolis FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114000
+#EXTINF:-1,Globo NSC Florianopolis HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114001
+#EXTINF:-1,Globo NSC Florianopolis SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114002
+#EXTINF:-1,Globo NSC TV Blumenau FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114003
+#EXTINF:-1,Globo NSC TV Blumenau HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114004
+#EXTINF:-1,Globo NSC TV Chapeco FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114005
+#EXTINF:-1,Globo NSC TV Criciuma FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114006
+#EXTINF:-1,Globo NSC TV Joinville FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114007
+#EXTINF:-1,Globo RBS Passo Fundo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114008
+#EXTINF:-1,Globo RBS TV Caxias do Sul FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114009
+#EXTINF:-1,Globo RBS TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114010
+#EXTINF:-1,Globo RBS TV Pelotas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114011
+#EXTINF:-1,Globo RBS TV POA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114012
+#EXTINF:-1,Globo RBS TV POA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114013
+#EXTINF:-1,Globo RBS TV POA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114014
+#EXTINF:-1,Globo RBS TV Santa Maria FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114015
+#EXTINF:-1,Globo RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114016
+#EXTINF:-1,Globo RJ FHD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114018
+#EXTINF:-1,Globo RJ H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114017
+#EXTINF:-1,Globo RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114019
+#EXTINF:-1,Globo RJ HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114020
+#EXTINF:-1,Globo RJ HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114021
+#EXTINF:-1,Globo RJ Interior FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114022
+#EXTINF:-1,Globo RJ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114023
+#EXTINF:-1,Globo RJ SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114024
+#EXTINF:-1,Globo RPC Curitiba FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114025
+#EXTINF:-1,Globo RPC Curitiba HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114026
+#EXTINF:-1,Globo RPC Curitiba SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114027
+#EXTINF:-1,Globo RPC Foz do Iguaçu FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114028
+#EXTINF:-1,Globo RPC Maringa FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114029
+#EXTINF:-1,Globo RPC Maringa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114030
+#EXTINF:-1,Globo RPC Ponta Grossa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114031
+#EXTINF:-1,Globo SJ do Rio Preto HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114032
+#EXTINF:-1,Globo SJ do Rio Preto HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114033
+#EXTINF:-1,Globo SJ do Rio Preto SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114034
+#EXTINF:-1,Globo SP 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114035
+#EXTINF:-1,GLOBO SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114036
+#EXTINF:-1,GLOBO SP H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114037
+#EXTINF:-1,Globo SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114038
+#EXTINF:-1,Globo SP HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114039
+#EXTINF:-1,Globo SP HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114040
+#EXTINF:-1,Globo SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114041
+#EXTINF:-1,Globo Sudoeste Bahia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114042
+#EXTINF:-1,Globo TV Anhanguera  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114043
+#EXTINF:-1,Globo TV Anhanguera FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114044
+#EXTINF:-1,Globo TV Anhanguera Goiania HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114045
+#EXTINF:-1,Globo TV Asa Branca FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114046
+#EXTINF:-1,Globo TV Bahia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114047
+#EXTINF:-1,Globo TV Bahia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114048
+#EXTINF:-1,Globo Tv Bahia SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114049
+#EXTINF:-1,Globo TV Belem HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114050
+#EXTINF:-1,Globo TV Belem HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114051
+#EXTINF:-1,Globo TV Brasilia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114052
+#EXTINF:-1,Globo TV Brasilia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114053
+#EXTINF:-1,Globo TV Brasilia SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114054
+#EXTINF:-1,Globo TV Cabo Branco FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114055
+#EXTINF:-1,Globo TV Cabo Branco HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114056
+#EXTINF:-1,Globo TV Clube Piauí FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114057
+#EXTINF:-1,Globo TV Clube Piauí HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114058
+#EXTINF:-1,Globo TV Fronteira Paulista HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114059
+#EXTINF:-1,Globo TV Gazeta Alagoas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114060
+#EXTINF:-1,Globo TV Gazeta Alagoas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114061
+#EXTINF:-1,Globo TV Integração JF FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114062
+#EXTINF:-1,Globo TV Liberal Belem
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114063
+#EXTINF:-1,Globo TV Mirante Cocais FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114064
+#EXTINF:-1,Globo TV Mirante São Luis FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114065
+#EXTINF:-1,Globo TV Mirante São Luis HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114066
+#EXTINF:-1,Globo TV Morena FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114067
+#EXTINF:-1,Globo TV Morena HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114068
+#EXTINF:-1,Globo TV Morena SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114069
+#EXTINF:-1,Globo TV Porto Velho HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114070
+#EXTINF:-1,Globo TV Recife FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114071
+#EXTINF:-1,Globo TV Recife HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114072
+#EXTINF:-1,Globo TV Rio Sul HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114073
+#EXTINF:-1,Globo TV Santa Cruz FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114074
+#EXTINF:-1,Globo TV Santa Cruz HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114075
+#EXTINF:-1,Globo TV Serra Mar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114076
+#EXTINF:-1,Globo TV Tem Itapetininga HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114077
+#EXTINF:-1,Globo TV TEM Sorocaba HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114078
+#EXTINF:-1,Globo TV TEM Sorocaba SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114079
+#EXTINF:-1,Globo TV Tem Taubaté HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114080
+#EXTINF:-1,Globo TV Tribuna Santos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114081
+#EXTINF:-1,Globo TV Tribuna Santos SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114082
+#EXTINF:-1,Globo TV Vanguarda SJ Campos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114083
+#EXTINF:-1,Globo TV Verdes Mares CE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114084
+#EXTINF:-1,Globo TV Verdes Mares CE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114085
+#EXTINF:-1,Globo TV Verdes Mares CE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114086
+#EXTINF:-1,Gloob FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114087
+#EXTINF:-1,Gloob HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114088
+#EXTINF:-1,Gloob SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114089
+#EXTINF:-1,Gloobinho FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114090
+#EXTINF:-1,Gloobinho HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114091
+#EXTINF:-1,Gloobinho SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114092
+#EXTINF:-1,GNT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114093
+#EXTINF:-1,GNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114094
+#EXTINF:-1,GNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114095
+#EXTINF:-1,GNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114096
+#EXTINF:-1,Guia de Canais(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114097
+#EXTINF:-1,H2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114098
+#EXTINF:-1,H2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114099
+#EXTINF:-1,H2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114100
+#EXTINF:-1,HBO 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114105
+#EXTINF:-1,HBO 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114110
+#EXTINF:-1,HBO 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114111
+#EXTINF:-1,HBO 1 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114112
+#EXTINF:-1,HBO 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114132
+#EXTINF:-1,HBO 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114101
+#EXTINF:-1,HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114102
+#EXTINF:-1,HBO 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114103
+#EXTINF:-1,HBO 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114104
+#EXTINF:-1,HBO Family FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114106
+#EXTINF:-1,HBO Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114107
+#EXTINF:-1,HBO Family HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114108
+#EXTINF:-1,HBO Family SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114109
+#EXTINF:-1,HBO Max 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114113
+#EXTINF:-1,HBO Max 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114114
+#EXTINF:-1,HBO Max 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114115
+#EXTINF:-1,HBO Max 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114116
+#EXTINF:-1,HBO Max 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114117
+#EXTINF:-1,HBO Max 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114118
+#EXTINF:-1,HBO Max 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114119
+#EXTINF:-1,HBO Mundi FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114120
+#EXTINF:-1,HBO Mundi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114121
+#EXTINF:-1,HBO Mundi HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114122
+#EXTINF:-1,HBO Mundi SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114123
+#EXTINF:-1,HBO Plus+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114124
+#EXTINF:-1,HBO Plus+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114125
+#EXTINF:-1,HBO Plus+ HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114126
+#EXTINF:-1,HBO Plus+ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114127
+#EXTINF:-1,HBO Pop FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114128
+#EXTINF:-1,HBO Pop HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114129
+#EXTINF:-1,HBO Pop HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114130
+#EXTINF:-1,HBO Pop SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114131
+#EXTINF:-1,HBO Signature FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114133
+#EXTINF:-1,HBO Signature HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114134
+#EXTINF:-1,HBO Signature HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114135
+#EXTINF:-1,HBO Signature SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114136
+#EXTINF:-1,HBO Xtreme FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114137
+#EXTINF:-1,HBO Xtreme HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114138
+#EXTINF:-1,HBO Xtreme HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114139
+#EXTINF:-1,HBO Xtreme SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114140
+#EXTINF:-1,Heavy Metal TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114141
+#EXTINF:-1,HGTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114142
+#EXTINF:-1,HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114143
+#EXTINF:-1,HGTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114144
+#EXTINF:-1,Igreja Mundial IMPD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114145
+#EXTINF:-1,Igreja Universal FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114146
+#EXTINF:-1,Igreja Universal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114147
+#EXTINF:-1,Inter TV Grande Minas SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114148
+#EXTINF:-1,Jeannie é um Gênio(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114149
+#EXTINF:-1,Jovem Pan News 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114150
+#EXTINF:-1,Jovem Pan News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114151
+#EXTINF:-1,Jovem Pan News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114152
+#EXTINF:-1,Jovem Pan Pluto TV (PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114153
+#EXTINF:-1,KPOP TV SY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114154
+#EXTINF:-1,Lifetime FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114155
+#EXTINF:-1,Lifetime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114156
+#EXTINF:-1,Lifetime SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114157
+#EXTINF:-1,LIGA FUTSAL 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114158
+#EXTINF:-1,LIGA FUTSAL 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114159
+#EXTINF:-1,LIGA FUTSAL 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114160
+#EXTINF:-1,LIGA FUTSAL 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114161
+#EXTINF:-1,Like HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114162
+#EXTINF:-1,Loupe (PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114163
+#EXTINF:-1,Love Nature FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114164
+#EXTINF:-1,Master Show TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114165
+#EXTINF:-1,MasterChef (PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114166
+#EXTINF:-1,Megapix 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114167
+#EXTINF:-1,Megapix FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114168
+#EXTINF:-1,Megapix HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114169
+#EXTINF:-1,Megapix SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114170
+#EXTINF:-1,Modo Viagem FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114171
+#EXTINF:-1,Modo Viagem HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114172
+#EXTINF:-1,Modo Viagem SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114173
+#EXTINF:-1,MTV 00s HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114174
+#EXTINF:-1,MTV Are you the One? (PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114175
+#EXTINF:-1,MTV Biggest Pop (PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114176
+#EXTINF:-1,MTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114177
+#EXTINF:-1,MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114178
+#EXTINF:-1,MTV Live FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114179
+#EXTINF:-1,MTV Live HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114180
+#EXTINF:-1,MTV Pluto TV(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114181
+#EXTINF:-1,MTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114182
+#EXTINF:-1,MTV Spankin' New (PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114183
+#EXTINF:-1,Multishow 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114184
+#EXTINF:-1,Multishow FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114185
+#EXTINF:-1,Multishow HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114186
+#EXTINF:-1,Multishow SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114187
+#EXTINF:-1,Music Box Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114188
+#EXTINF:-1,Music Box Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114189
+#EXTINF:-1,Music Box Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114190
+#EXTINF:-1,Music Top HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114191
+#EXTINF:-1,MyTime Movie Network Brazil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114192
+#EXTINF:-1,Naruto (PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114193
+#EXTINF:-1,Natgeo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114194
+#EXTINF:-1,Natgeo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114195
+#EXTINF:-1,Natgeo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114196
+#EXTINF:-1,Nick Clássico(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114197
+#EXTINF:-1,Nick FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114198
+#EXTINF:-1,Nick HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114199
+#EXTINF:-1,Nick JR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114200
+#EXTINF:-1,Nick JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114201
+#EXTINF:-1,Nick JR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114202
+#EXTINF:-1,Nick Jr. Club (PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114203
+#EXTINF:-1,Nick SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114204
+#EXTINF:-1,Nick Teen(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114205
+#EXTINF:-1,Nosey Casos (PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114206
+#EXTINF:-1,Nosey Escândalos(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114207
+#EXTINF:-1,O Encantador de Cães (PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114208
+#EXTINF:-1,O Reino Infantil (PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114209
+#EXTINF:-1,OFF FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114210
+#EXTINF:-1,OFF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114211
+#EXTINF:-1,OFF SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114212
+#EXTINF:-1,Paramount Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114213
+#EXTINF:-1,Paramount Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114214
+#EXTINF:-1,Paramount Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114215
+#EXTINF:-1,Paramount+ Apresenta(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114216
+#EXTINF:-1,People are Awesome(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114217
+#EXTINF:-1,Pluto TV Anime (PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114218
+#EXTINF:-1,Pluto TV Anime Ação (PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114219
+#EXTINF:-1,Pluto TV Cine Clássicos (PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114220
+#EXTINF:-1,Pluto TV Cine Comédia (PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114221
+#EXTINF:-1,Pluto TV Cine Drama(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114222
+#EXTINF:-1,Pluto TV Cine Família(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114223
+#EXTINF:-1,Pluto TV Cine Romance(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114224
+#EXTINF:-1,Pluto TV Cine Sucessos(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114225
+#EXTINF:-1,Pluto TV Cine Terror(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114226
+#EXTINF:-1,Pluto TV Comédia(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114227
+#EXTINF:-1,Pluto TV Estilo de Vida (PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114228
+#EXTINF:-1,Pluto TV Fashionbox(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114229
+#EXTINF:-1,Pluto TV Filmes Ação(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114230
+#EXTINF:-1,Pluto TV Filmes Nacionais(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114231
+#EXTINF:-1,Pluto TV Investigação(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114232
+#EXTINF:-1,Pluto TV Junior(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114233
+#EXTINF:-1,Pluto TV Karaokê por Stingray (PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114234
+#EXTINF:-1,Pluto TV Kids (PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114235
+#EXTINF:-1,Pluto TV Mistérios(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114236
+#EXTINF:-1,Pluto TV Natureza(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114237
+#EXTINF:-1,Pluto TV Paisagens por Stingray (PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114238
+#EXTINF:-1,Pluto TV Record News (PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114239
+#EXTINF:-1,Pluto TV Retrô(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114240
+#EXTINF:-1,Pluto TV Shows por Stingray(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114241
+#EXTINF:-1,Pluto TV Séries(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114242
+#EXTINF:-1,Pluto TV Vida Real(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114243
+#EXTINF:-1,Polishop FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114244
+#EXTINF:-1,Porta dos Fundos[Not 24/7](PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114245
+#EXTINF:-1,Power Couple 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114246
+#EXTINF:-1,Power Couple HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114247
+#EXTINF:-1,Premiere 1 Clubes 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114267
+#EXTINF:-1,Premiere 1 Clubes FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114268
+#EXTINF:-1,Premiere 1 Clubes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114269
+#EXTINF:-1,Premiere 1 Clubes SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114270
+#EXTINF:-1,Premiere 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114248
+#EXTINF:-1,Premiere 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114249
+#EXTINF:-1,Premiere 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114250
+#EXTINF:-1,Premiere 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114251
+#EXTINF:-1,Premiere 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114252
+#EXTINF:-1,Premiere 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114253
+#EXTINF:-1,Premiere 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114254
+#EXTINF:-1,Premiere 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114255
+#EXTINF:-1,Premiere 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114256
+#EXTINF:-1,Premiere 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114257
+#EXTINF:-1,Premiere 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114258
+#EXTINF:-1,Premiere 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114259
+#EXTINF:-1,Premiere 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114260
+#EXTINF:-1,Premiere 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114261
+#EXTINF:-1,Premiere 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114262
+#EXTINF:-1,Premiere 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114263
+#EXTINF:-1,Premiere 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114264
+#EXTINF:-1,Premiere 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114265
+#EXTINF:-1,Premiere 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114266
+#EXTINF:-1,Prime Box Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114271
+#EXTINF:-1,Prime Box Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114272
+#EXTINF:-1,Prime Box Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114273
+#EXTINF:-1,RBC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114274
+#EXTINF:-1,RBTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114275
+#EXTINF:-1,Record AL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114276
+#EXTINF:-1,Record Belém HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114277
+#EXTINF:-1,Record Brasília HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114278
+#EXTINF:-1,Record ES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114279
+#EXTINF:-1,Record Goiás HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114280
+#EXTINF:-1,Record Itapoan BA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114281
+#EXTINF:-1,Record Manaus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114282
+#EXTINF:-1,Record Minas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114283
+#EXTINF:-1,Record News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114284
+#EXTINF:-1,Record News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114285
+#EXTINF:-1,Record News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114286
+#EXTINF:-1,Record PA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114287
+#EXTINF:-1,Record Rio RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114288
+#EXTINF:-1,Record RN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114289
+#EXTINF:-1,Record RS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114290
+#EXTINF:-1,Record SC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114291
+#EXTINF:-1,Record SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114292
+#EXTINF:-1,Record SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114293
+#EXTINF:-1,Record SD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114294
+#EXTINF:-1,Record SP 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114295
+#EXTINF:-1,Record SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114296
+#EXTINF:-1,Record SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114297
+#EXTINF:-1,Record SP HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114298
+#EXTINF:-1,Redbull TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114299
+#EXTINF:-1,Rede Brasil TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114300
+#EXTINF:-1,Rede Familia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114301
+#EXTINF:-1,Rede Genesis HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114302
+#EXTINF:-1,Rede Gospel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114303
+#EXTINF:-1,Rede Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114304
+#EXTINF:-1,Rede Super HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114305
+#EXTINF:-1,Rede TV FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114307
+#EXTINF:-1,Rede TV Gospel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114308
+#EXTINF:-1,Rede TV H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114306
+#EXTINF:-1,Rede TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114309
+#EXTINF:-1,Rede TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114310
+#EXTINF:-1,Rede TV! 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114311
+#EXTINF:-1,Rede Vida HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114312
+#EXTINF:-1,Retro Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114313
+#EXTINF:-1,RIT TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114314
+#EXTINF:-1,Rock TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114315
+#EXTINF:-1,RS21 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114316
+#EXTINF:-1,Runtime Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114317
+#EXTINF:-1,Sabor & Arte HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114318
+#EXTINF:-1,Santuário de Fátima FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114319
+#EXTINF:-1,SBT BA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114320
+#EXTINF:-1,SBT Brasilia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114321
+#EXTINF:-1,SBT GO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114322
+#EXTINF:-1,SBT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114323
+#EXTINF:-1,SBT Int SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114324
+#EXTINF:-1,SBT Jangadeiro CE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114325
+#EXTINF:-1,SBT MA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114326
+#EXTINF:-1,SBT MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114327
+#EXTINF:-1,SBT MT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114328
+#EXTINF:-1,SBT Nacional FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114329
+#EXTINF:-1,SBT PE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114330
+#EXTINF:-1,SBT PI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114331
+#EXTINF:-1,SBT PR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114332
+#EXTINF:-1,SBT RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114333
+#EXTINF:-1,SBT RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114334
+#EXTINF:-1,SBT RS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114335
+#EXTINF:-1,SBT SC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114336
+#EXTINF:-1,SBT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114337
+#EXTINF:-1,SBT SP 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114338
+#EXTINF:-1,SBT SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114339
+#EXTINF:-1,SBT SP H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114340
+#EXTINF:-1,SBT SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114341
+#EXTINF:-1,Series Clássicas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114342
+#EXTINF:-1,SescTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114343
+#EXTINF:-1,Shoptime FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114344
+#EXTINF:-1,Shoptime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114345
+#EXTINF:-1,Smithsonian BR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114346
+#EXTINF:-1,Sony FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114347
+#EXTINF:-1,Sony HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114348
+#EXTINF:-1,Sony HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114349
+#EXTINF:-1,Sony SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114350
+#EXTINF:-1,Space FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114351
+#EXTINF:-1,Space HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114352
+#EXTINF:-1,Space SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114353
+#EXTINF:-1,SporTV 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114364
+#EXTINF:-1,SporTV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114365
+#EXTINF:-1,SporTV 1 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114366
+#EXTINF:-1,SporTV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114367
+#EXTINF:-1,SporTV 1 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114368
+#EXTINF:-1,SporTV 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114369
+#EXTINF:-1,SporTV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114354
+#EXTINF:-1,SporTV 2 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114355
+#EXTINF:-1,SporTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114356
+#EXTINF:-1,SporTV 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114357
+#EXTINF:-1,Sportv 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114358
+#EXTINF:-1,SporTV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114359
+#EXTINF:-1,SporTV 3 H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114360
+#EXTINF:-1,SporTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114361
+#EXTINF:-1,SporTV 3 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114362
+#EXTINF:-1,SporTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114363
+#EXTINF:-1,Star Channel 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114370
+#EXTINF:-1,Star FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114371
+#EXTINF:-1,Star H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114372
+#EXTINF:-1,Star HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114373
+#EXTINF:-1,Star SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114374
+#EXTINF:-1,STAR+ 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114375
+#EXTINF:-1,STAR+ 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114376
+#EXTINF:-1,STAR+ 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114377
+#EXTINF:-1,STAR+ 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114378
+#EXTINF:-1,STAR+ 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114379
+#EXTINF:-1,STAR+ 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114380
+#EXTINF:-1,STAR+ 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114381
+#EXTINF:-1,STAR+ 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114382
+#EXTINF:-1,Studio Universal FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114383
+#EXTINF:-1,Studio Universal H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114384
+#EXTINF:-1,Studio Universal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114385
+#EXTINF:-1,Studio Universal SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114386
+#EXTINF:-1,SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114387
+#EXTINF:-1,SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114388
+#EXTINF:-1,SYFY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114389
+#EXTINF:-1,Taormina TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114390
+#EXTINF:-1,Tastemade BR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114391
+#EXTINF:-1,Tastemade(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114392
+#EXTINF:-1,TBS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114393
+#EXTINF:-1,TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114394
+#EXTINF:-1,TBS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114395
+#EXTINF:-1,TC Action 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114396
+#EXTINF:-1,TC Action FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114397
+#EXTINF:-1,TC Action H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114398
+#EXTINF:-1,TC Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114399
+#EXTINF:-1,TC Action HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114400
+#EXTINF:-1,TC Action SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114401
+#EXTINF:-1,TC Cult FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114402
+#EXTINF:-1,TC Cult H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114403
+#EXTINF:-1,TC Cult HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114404
+#EXTINF:-1,TC Cult HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114405
+#EXTINF:-1,TC Cult SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114406
+#EXTINF:-1,TC Fun FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114407
+#EXTINF:-1,TC Fun H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114408
+#EXTINF:-1,TC Fun HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114409
+#EXTINF:-1,TC Fun HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114410
+#EXTINF:-1,Tc Fun SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114411
+#EXTINF:-1,TC Pipoca 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114412
+#EXTINF:-1,TC Pipoca FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114413
+#EXTINF:-1,TC Pipoca H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114414
+#EXTINF:-1,TC Pipoca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114415
+#EXTINF:-1,TC Pipoca HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114416
+#EXTINF:-1,TC Pipoca SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114417
+#EXTINF:-1,TC Premium 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114418
+#EXTINF:-1,TC Premium FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114419
+#EXTINF:-1,TC Premium H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114420
+#EXTINF:-1,TC Premium HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114421
+#EXTINF:-1,TC Premium HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114422
+#EXTINF:-1,TC Premium SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114423
+#EXTINF:-1,TC Touch FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114424
+#EXTINF:-1,TC Touch H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114425
+#EXTINF:-1,TC Touch HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114426
+#EXTINF:-1,TC Touch HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114427
+#EXTINF:-1,TC Touch SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114428
+#EXTINF:-1,TCM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114429
+#EXTINF:-1,TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114430
+#EXTINF:-1,TCM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114431
+#EXTINF:-1,Terra Viva FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114432
+#EXTINF:-1,Terra Viva HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114433
+#EXTINF:-1,The History FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114434
+#EXTINF:-1,The History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114435
+#EXTINF:-1,The History SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114436
+#EXTINF:-1,TLC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114437
+#EXTINF:-1,TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114438
+#EXTINF:-1,TLC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114439
+#EXTINF:-1,TNT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114440
+#EXTINF:-1,TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114441
+#EXTINF:-1,TNT H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114442
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114443
+#EXTINF:-1,TNT HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114444
+#EXTINF:-1,TNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114445
+#EXTINF:-1,TNT Series 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114446
+#EXTINF:-1,TNT Series FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114447
+#EXTINF:-1,TNT Series HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114448
+#EXTINF:-1,TNT Series HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114449
+#EXTINF:-1,TNT Series SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114450
+#EXTINF:-1,TNT Sports Estadio 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114451
+#EXTINF:-1,TNT Sports Estadio 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114452
+#EXTINF:-1,TNT Sports Estadio 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114453
+#EXTINF:-1,TNT Sports Estadio 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114454
+#EXTINF:-1,TNT Sports Estadio 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114455
+#EXTINF:-1,TNT Sports Estadio 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114456
+#EXTINF:-1,Tokusato(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114457
+#EXTINF:-1,Toon Goggles FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114458
+#EXTINF:-1,Tooncast FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114459
+#EXTINF:-1,Tooncast HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114460
+#EXTINF:-1,Tooncast SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114461
+#EXTINF:-1,Trace Brazuca FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114462
+#EXTINF:-1,Travel Box Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114463
+#EXTINF:-1,Travel Box Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114464
+#EXTINF:-1,Tru TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114465
+#EXTINF:-1,Tru TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114466
+#EXTINF:-1,Tru TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114467
+#EXTINF:-1,TST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114540
+#EXTINF:-1,Turma da Mônica(PlutoTV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114468
+#EXTINF:-1,TV Aparecida FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114469
+#EXTINF:-1,TV Brasil 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114470
+#EXTINF:-1,TV Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114471
+#EXTINF:-1,TV Camara FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114472
+#EXTINF:-1,TV Carioca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114473
+#EXTINF:-1,TV Cultura FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114474
+#EXTINF:-1,TV Cultura HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114475
+#EXTINF:-1,TV das Artes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114476
+#EXTINF:-1,Tv Diario FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114477
+#EXTINF:-1,Tv Diario HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114478
+#EXTINF:-1,Tv Diario SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114479
+#EXTINF:-1,TV Diário do Sertão HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114480
+#EXTINF:-1,TV Escola HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114481
+#EXTINF:-1,TV Evangelizar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114482
+#EXTINF:-1,TV Gazeta FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114483
+#EXTINF:-1,TV Gazeta HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114484
+#EXTINF:-1,TV Gazeta Sul ES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114485
+#EXTINF:-1,TV Gazeta Vitória ES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114486
+#EXTINF:-1,TV Gazeta Vitória ES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114487
+#EXTINF:-1,TV Gideoes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114488
+#EXTINF:-1,TV Guajará HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114489
+#EXTINF:-1,TV Imaculada FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114490
+#EXTINF:-1,TV Justiça HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114491
+#EXTINF:-1,TV MaisNews|Cultura FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114492
+#EXTINF:-1,TV Maná BR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114493
+#EXTINF:-1,TV Mundo Maior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114494
+#EXTINF:-1,TV Novo Tempo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114495
+#EXTINF:-1,TV Novo Tempo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114496
+#EXTINF:-1,TV Pai Eterno HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114497
+#EXTINF:-1,TV Pampa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114498
+#EXTINF:-1,TV Ra Tim Bum FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114499
+#EXTINF:-1,TV Ra Tim Bum HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114500
+#EXTINF:-1,TV Ra Tim Bum SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114501
+#EXTINF:-1,TV Rio Sul HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114502
+#EXTINF:-1,TV Senado HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114503
+#EXTINF:-1,TV Sergipe FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114504
+#EXTINF:-1,TV Sergipe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114505
+#EXTINF:-1,TV Tem Bauru FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114506
+#EXTINF:-1,TV Tem Bauru HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114507
+#EXTINF:-1,TV Tem Bauru SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114508
+#EXTINF:-1,TV UAI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114509
+#EXTINF:-1,TVE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114510
+#EXTINF:-1,TVE FHD ²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114511
+#EXTINF:-1,Universal 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114512
+#EXTINF:-1,Universal FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114513
+#EXTINF:-1,Universal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114514
+#EXTINF:-1,Universal HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114515
+#EXTINF:-1,Universal SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114516
+#EXTINF:-1,Urban Docs HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114517
+#EXTINF:-1,Urban Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114518
+#EXTINF:-1,Urban Movies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114519
+#EXTINF:-1,Urban Series HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114520
+#EXTINF:-1,Urban Turbo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114521
+#EXTINF:-1,Urban TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114522
+#EXTINF:-1,Viva 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114523
+#EXTINF:-1,Viva FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114524
+#EXTINF:-1,Viva HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114525
+#EXTINF:-1,Viva SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114526
+#EXTINF:-1,VRT Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114527
+#EXTINF:-1,Warner Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114528
+#EXTINF:-1,Warner Channel H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114529
+#EXTINF:-1,Warner Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114530
+#EXTINF:-1,Warner Channel HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114531
+#EXTINF:-1,Warner Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114532
+#EXTINF:-1,Wohoo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114533
+#EXTINF:-1,Wohoo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114534
+#EXTINF:-1,Wohoo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]BrazilTV[/COLOR]&amp;buffer=99999&amp;url=http://c.cteam.me:80/romario2022/2022romario/114535
