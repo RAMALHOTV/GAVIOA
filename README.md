@@ -1,1666 +1,1773 @@
+
 #EXTM3U
 
-#PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=TV ONLINE para PlaylisTV/RamalhoRamalhoRamalhoIPTV " pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
+#PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=TV ONLINE para PlaylisTV/RamalhoIPTV " pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
 
 ################################################################################# Informações da Lista
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",downloadsdefimes.blogspot.com https://www.youtube.com/channel/UCoj
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",downloadsdefimes.blogspot.com
+ https://www.youtube.com/channel/UCoj
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",youtube.com/matamataxiterbr https://www.youtube.co
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",youtube.com/matamataxiterbr
+ https://www.youtube.co
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado:30/08/2022 https://www.youtube.c
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado:15/09/2022
+ https://www.youtube.c
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RamalhoIPTV https://www.youtube.co
+#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RamalhoIPTV
+ https://www.youtube.co
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos! https://www.youtube.com/
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos! 
+https://www.youtube.com/
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4xQxZ5g.png" group-title="Informações da Lista",(44)91045772 https://www.youtube.co
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4xQxZ5g.png" group-title="Informações da Lista",(44)91045772 
+https://www.youtube.co
+
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png" group-title="CANAIS | FILMES & SERIES",A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5189
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461945
+#EXTINF:-1 tvg-id="AEBrazil.br" tvg-name="A&E FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AE.png" group-title="CANAIS | H265",A&E FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461882
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png" group-title="CANAIS | FILMES & SERIES",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5040
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png" group-title="CANAIS | FILMES & SERIES",A&E SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5394
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="AGRO + FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/htkAmM.png" group-title="CANAIS | ABERTOS",AGRO + FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/373934
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="AGRO + HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/htkAmM.png" group-title="CANAIS | ABERTOS",AGRO + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/373933
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/NWiwiv.png" group-title="CANAIS | FILMES & SERIES",AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5190
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/NWiwiv.png" group-title="CANAIS | FILMES & SERIES",AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5041
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/NWiwiv.png" group-title="CANAIS | FILMES & SERIES",AMC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5395
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5191
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5042
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5396
-#EXTINF:-1 tvg-id="" tvg-name="ARG NEWS | TN NOTICIAS" tvg-logo="" group-title=" PERU",ARG NEWS | TN NOTICIAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/998257
-#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/HARV4n.png" group-title="CANAIS | FILMES & SERIES",ARTE 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/38424
-#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 FHD (ALT)" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/HARV4n.png" group-title="CANAIS | FILMES & SERIES",ARTE 1 FHD (ALT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923900
-#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/HARV4n.png" group-title="CANAIS | FILMES & SERIES",ARTE 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/17923
-#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/HARV4n.png" group-title="CANAIS | FILMES & SERIES",ARTE 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923561
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/tPqcjh.png" group-title="CANAIS | FILMES & SERIES",AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5192
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/tPqcjh.png" group-title="CANAIS | FILMES & SERIES",AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5043
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/tPqcjh.png" group-title="CANAIS | FILMES & SERIES",AXN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5397
-#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/dKjnsR.png" group-title="CANAIS | INFANTIS",BABY TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/38437
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND BAHIA HD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND BAHIA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/32955
-#EXTINF:-1 tvg-id="band.campinas.br" tvg-name="BAND CAMPINAS FHD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND CAMPINAS FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/453189
-#EXTINF:-1 tvg-id="band.campinas.br" tvg-name="BAND CAMPINAS HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923302
-#EXTINF:-1 tvg-id="band.campinas.br" tvg-name="BAND CAMPINAS HD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND CAMPINAS HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/453182
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND ES HD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png " group-title="CANAIS | ABERTOS",BAND ES HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/453194
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND FHD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5289
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND HD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/68519
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png" group-title="CANAIS | JORNALISMO",BAND NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5193
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png" group-title="CANAIS | JORNALISMO",BAND NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5160
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png" group-title="CANAIS | JORNALISMO",BAND NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5401
-#EXTINF:-1 tvg-id="band.porto.alegre.br" tvg-name="BAND PR HD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND PR HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/453190
-#EXTINF:-1 tvg-id="band.rio.br" tvg-name="BAND RJ FHD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND RJ FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/453180
-#EXTINF:-1 tvg-id="band.rio.br" tvg-name="BAND RJ HD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND RJ HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/453183
-#EXTINF:-1 tvg-id="BandRioGrandedoSulHD.br" tvg-name="BAND RS HD 1" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND RS HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/892776
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND RS HD 2" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND RS HD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1008938
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND RS HD 3" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND RS HD 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1008937
-#EXTINF:-1 tvg-id="BandRioGrandedoSulHD.br" tvg-name="BAND RS HD 4" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND RS HD 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1008936
-#EXTINF:-1 tvg-id="band.rio.br" tvg-name="BAND RS HD 5" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND RS HD 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1008935
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/453195
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP HD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rQV80O.png" group-title="CANAIS | ABERTOS",BAND SP HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/453186
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/WHWkVN.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5194
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/WHWkVN.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5044
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/WHWkVN.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5402
-#EXTINF:-1 tvg-id="" tvg-name="BIGASS HD" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="CANAIS | XXX +18 ADULTOS",BIGASS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/368829
-#EXTINF:-1 tvg-id="" tvg-name="BIGDICK HD" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="CANAIS | XXX +18 ADULTOS",BIGDICK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/368830
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD" tvg-logo="http://logocanais.ddns.net/Logo/Bis1.png" group-title="CANAIS | MUSICA",BIS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5195
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="http://logocanais.ddns.net/Logo/Bis1.png" group-title="CANAIS | MUSICA",BIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5045
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD" tvg-logo="http://logocanais.ddns.net/Logo/Bis1.png" group-title="CANAIS | MUSICA",BIS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5403
-#EXTINF:-1 tvg-id="" tvg-name="BLOWJOB HD" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="CANAIS | XXX +18 ADULTOS",BLOWJOB HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/368832
-#EXTINF:-1 tvg-id="boa.vontade.br" tvg-name="BOA VONTADE SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/boavontadetv.png" group-title="CANAIS | RELIGIOSOS",BOA VONTADE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923562
-#EXTINF:-1 tvg-id="rede.boas.novas.br" tvg-name="BOAS NOVAS SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Aco1pK.png" group-title="CANAIS | RELIGIOSOS",BOAS NOVAS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/374354
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="CANAIS | INFANTIS",BOOMERANG FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923848
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SEIRE C ( JOGO 1)" tvg-logo="http://dns.cdnfc.xyz:80/images/d8811c44e7c92b1705f849f4ca582d0a.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",BRASILEIRÃO SEIRE C ( JOGO 1)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/442417
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SEIRE C ( JOGO 1)" tvg-logo="https://i.imgur.com/oBefMHX.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",BRASILEIRÃO SEIRE C ( JOGO 1)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923307
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE C ( JOGO 4)" tvg-logo="https://i.imgur.com/oBefMHX.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",BRASILEIRÃO SERIE C ( JOGO 4)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923083
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE C (JOGO 2)" tvg-logo="https://i.imgur.com/oBefMHX.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",BRASILEIRÃO SERIE C (JOGO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923308
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="BRASILEIRÃO SERIE C (JOGO 3)" tvg-logo="https://i.imgur.com/oBefMHX.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",BRASILEIRÃO SERIE C (JOGO 3)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/442145
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE C (JOGO 3)" tvg-logo="https://i.imgur.com/oBefMHX.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",BRASILEIRÃO SERIE C (JOGO 3)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923309
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO 1)" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMQEhMQERIVFhUXFxUVGRgYFxcXGxcXFxYYFxYVGRcYHiggGBooHRgVITEhJSkrLjouGB8zODMtNygtLisBCgoKDg0OGxAQGy0mICYtLy0tLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAPQAzwMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABgcCBAUBAwj/xABHEAABAwIDBAcECAQEAwkAAAABAAIDBBEFEiEGMUFRBxMiYXGBkTJSobEUI0JicoLB0RUzkrI1Q3OiU3TSFiU0g7PD0+Lx/8QAGgEBAAMBAQEAAAAAAAAAAAAAAAECAwQFBv/EADIRAAIBAgQDBwMEAgMAAAAAAAABAgMRBBIhMUFRcRMiYYGhsfAykdEFQuHxFMEjYnL/2gAMAwEAAhEDEQA/ALwREQBERAEREARa9XVsibmebDhzPcBxUdmxeWpeIoewDp324kngPBYVcRCno9XyW5WU1EkZqW5sgN3chqQOZ5ea+61KChbC3K3fvJ4uPMrbWsc1u9uSr8QvlPTtkFntBX1RS1ck4c2zUTnAgvaOIBvfzOoXSpKGOL2G28SSfUraRVjThF3SKKnFapBERXLmD5ALXIF9BfieXis1854WvaWPALSLEHionU101BJkJMkJ1bmOtuQdzHoqylYyqVez1ltz5dSYItHDMTjqG5o3a8WnQt8R+q3lZO5ommroIiISEREAREQBERAEREAXOxXFGwC2953N/U9y6JWtDRMaS613He46k/t5LOoptWhp48vL86EO/Aipoamodnc068XdkAcgDw8Fv4cyOiJ6946xw0ADnWb4gcT8lJFBtoJc1RJ3EN9AP1uuGpRjh7VFrK/EwmuzWZbkqixmB26VvndvzW5FI1wu0gju1+SrYr1jy03aSDzBt8khjpfuj89Sn+S+KLLRQek2jmj0cQ8fe3/1D9brv0O0UMlgTkdydu8nbvWy66eIhPw6/LGsK8JeHX5Y7KItKuxKKD+Y8A8t5PkNVs3bc1bS1ZuoolW7XndFH5v/AOkfuuLU49USb5SByb2flqs3Wic08ZTjtr0LGvbeuLtJTtqIS1ha6RvaaARc23gDwuoFLI53tOJ8ST819sLkyzRu5Pb/AHC/wUdpfSxzSxqn3XHR6b/wY/W07g+zo3DcSC357/BTfZ7aBtSMj7NlA3cHd7f2XaljDhZwBHIi49FwMR2WjceshJieDcW3X8OHl6K6i47GkcPVoO9N3XFbfxf7EiRc7Dp5CMkzcsjd5G5495p+Y3jzC6Kud0ZJq6CIiEhERAEREARFrsnzPcwfZAv4uubeg+KhuwNhERSAq9xJ15ZD9939xVhKuq/+bJ+N39xXDj/pj1ObEvRGuViSvSsVwJHE2eFbNBh8k5tG2/MnQDxP6LtYRs0XWfPcDgzifxHh4b/BSqKJrAGtAAG4DQLtpYZvWWnubU8M5ay0Rq4RQ9RE2MuzWub+PAdyhuN4NLC5zzd7CSc/HX3uXjuVgLw66LsnSjJJctjpqUIzio7W2KoK8KmGNbLh1309gd5ZwP4eR7t3gofLGWktcCCNCDoQudwcXqeTWpSpu0jEpE6zmn7w+axK9jF3NHePmrpHM2W4iIuk+ne4RF85ZQ21+JA8zoPjYeaENn0REQBERAEREB855QxrnncASfJcfZmUvEr3b3PvfxG5b2KxGRgibpncATyaNSfgB5rZghaxoY0WA0CwcZSqp8EvV/he5Vp5j6oiLcsFX+Msyzyj75Prr+qsBRrFcBfNOXggMda54iwsdOO5cuKpynFZeZhiIOUVYjdJSvlcGRtufl3k8Apjg2CMgs53ak58B3NH6reoKFkDcjBbmeJPMlbSmjh1DV7kUqCjq9wiIuk6AiIgC5eMYNHUjtdl43PG8dx5juXUS6NXKygpK0loVZieHSU78kg8CNzhzBXzwxmaaJvN7R8QrOraNkzDHI24PwPMHgVFaLZeSKpY64dE12bNcA6DQFvO9u75LPJbY8mrgpQmnDVXXl1/JM0RFoewFwtspiykkIve8diOBD2kHu3LurCWMOBa4AgixB3EHgpRnVhnhKF7XTX3NbCawTwxyj7TQT3Hc4et1uLi4DSfRzLT65GuD4yfdfvHiHNPqOa7SMUpSlBOW/Hrx9QiIoNAiIgCIiAIi5+MYk2nZmOrjo0czz8AolJRV2Q2krswxnFm07ebzub+p5Bamy9e+YS9Y65BB8A6+g7tFEaiZ0ji95u46krsbHzWmcz3mH1aQfldcMK7nVXI4413KquRNFFcS2kkincwNaWtNuNzoOPDXuUqUdq9mBLI6R0zruN/ZGnIb+AsF11c9u6b11UaWTc1mbYe9D6P/cLowbS07rXeWk8HA6eJGnndcybY4/Ym9W/qCuLXYFPETdhcBrmbqLfMLLNVjucrq4inq1f19jexfaWVznsiLWs1aHN1JHvB3C65H8Um0PWv03dp37rUuvCq3berOCdecndt/c26/FZp7CSQkDS24eJA3lTHYuLLTB1753Od4WOW3+1QEqcbEzDqervcguPg0mw15kgraG+ptgpZq95b2ZJlpYtiDaaIyuBIFhYbySbALdUP6QKqzYohxJcfACw+Z9FqeliavZ0pSRI8KxOOpYJIz3EHe08iFuqpsKxJ9NIJGeDm8HDkf3Vn4dWsnjbLGbg+oPEHvClmODxarKz+pb+PijaREUHaY5Be/G1vI2/YLJEQBERAEREBoNqbVBiP2mtc3xFw4egHoVvqMbVExyxSt0IBt4tN/wBV3cOq2zRiRvHeOR4hYU6nflTe6foZxleTifaaUMaXONgAST3BV/ida6eQvO7c0cm8Au/tfW2a2Efa7TvAbh6/JRQrlxVTNLItl7nNiamuU8K2sJqOrnjfwDgD4Hsn4ErVKwKwjo7o481ndFqItPCanrYY5OJaL+I0PxBW4vXTuro9hNNXQREUkkX2m2fD2umhbZ41c0faHEge98/FQx8bhva4eIIVtrkbTVr4YHOjvmJA9nNYfaPIac1RwW55+JwkHepe3PS5WxVhbHUuSma4jV9z5Zjl/U+a5Gz2ywe1stRex1DN1xwJ4+X/AOKYxMDQGtAAAsANAAOACmKsUwOGlF9pLlofRVntfWdbVPtuZZg/L7X+4lWDidYIIpJT9lpI7zuaPM2CqR7iSSTcnUnmTvKuin6pVtGNNcdfnn7HhK7eyeM/Rpcrj9W8gO+6dwd+h7vBcMrArS1zxoVZU5Kcd0XWi4Gx2JdfTgOPbj7Lu8fZPp8QV2aiZrGue8gNaCSTwA3rNqzsfV06sakFNbNX+dDUrK3LNBCN7y5x7mtaT87ehXRUG2arDV18k50DWHKPdFw0DxsST3kqcqZK2hlha3bRc1s27dFp7psIiKp0hERAcHa6G8TX+674O0+eVR/CMSdA/QXa6wLefIjvU1rqfrY3x+8CPPgfWyglAz66Np99gI/MAQvOxMXGqpR4/wBHHXTjNSXE3dqKeQTOkcOybBp4WAtbuO9cUqznxhwIcAQd4OoK4GIbLsfcxOyHkdW/uFerhnmcokVsPJtuJDisSupV4DUR/wCWXDmztfDf8Fyngg2IseR0WWVrc4Zpx0krEv2JqrtfCfsnMPA6H4j4qTqt8BrepnY47icrvB2nwNj5KyF3UXeNuR6OEqZqduQREWp1BERAERYSvDQXONgASTyA1JQER2/xCwZTg7+07wGjR63PkFCCtzFq41Ez5T9o6Dk0aNHotElaRR8ri66q1XPhw6I9KwK6VJgVRN7ELrczoPU2v5KR4ZsNudUSfkb+rj+g81dSS3K08JWqvuxfV6L7/i7OZsJVllQWWORzXZ+TcoJBPLcR+ZebU7SfSfqoriMG99xcRuJHAcgrApaCOJhjYwNaRqBx8TvJ8VThFtOWnophaTudWLVTC4eNHNo81/TTpq349NCd9HNLZksvvlrR4AXP93wUzXM2fofo8EcR3gXd+JxufibeS6axm7ts9rCUuyoxg+WvV6sIiKp0BERAFFMYourq4pR7L3tJ7nBwv67/AFUrWtW0olZlO+4cDycDcFZ1YZ101M6sM0TZREWhoF85YmvFnNDhyIB+a+iIDnSYJTu3wt8hb5Ln4/j76aRrBGHNLb3Jtc3II05aeqkK4u1OG9fCS0dtnab3+83zHxAVWrLQwrRkoN09H4W1OUzbXnB6P/8Aqvp/21ZxiP8AUFCyViVRSZ5P+dWXH0X4Jsdto/8AhO9QvmduG8IHf1D9lDCViVoijx9fn6Il8m3TuEA83n/pXa2fxF1ZC90sYAJLbC5DhbXf42Vd0NI6aRsTN7jbw5k9wGqtahpGwxsiZ7LRYd/MnvJuVZnXgatetJynK8V4Lf7cFuaMWzVKzdA38xc7+4lb8FIyP2GNb4NA+QWwiXPSjThH6Ul0VvYIiKC4VYbIYb9Iqc5HYjOc95vdrfX4Aqx6x5bG8tFzlNgOJtoB5rS2dwoUsDY97t7jzP7DcPBXjKyZxYjD9tWp32jdv0svT0OqiIqHaEREAREQBERAERaVcZWjPEA629h0zfhdwPjohDdlc3UXIw7Ho5n9VlcyTXsuHEbxfn+y66hNPVEQnGavFhERSWK92twnqJOsaPq3m/4TvLfDiPPkuAVbNZStmY6N4u1wt+xHeqzxnDH0smR2oOrXcHD9+YVbWPEx2H7OWeOz9H/PA0CsCV6Spdsls4SW1E7dN7GH4OI5ch5q6Vjio0Z1pZY/0dHY/BeoZ1sg+seNAfsjl4nefJSZEUH0lKlGlBQjsgiIhoEXNq8ap4r55mgg2IHaN91rC5v3LZppS/tFhaDuDt9uZH2fDfztuU24lFOLdk9fn28zZREUFwiIgCIiAIiIAiIgCIiA5eKYQ2YiRpyStsWvHMbsw+0Ft0kjyLSNs8b7atPe08u46rZRRbW5RQSd1x3CIufXVkkfswPkH3XN+RN/gpLSkoq7OgtWvoWTsMcjbg+oPMHgVE8Q2vmZp1AjP3iT8NFH6/HJ57h8rre6BlHgQ3f5qVqefW/UaKTjv4be5KME2cp2yuJlEpYdGadnvIB1PwUuVMskLSHNJBG4gkEeBG5d2i2xqI9HFsg7xY/1D9bq2VvY5sN+oUaayuOXpr/Pv5FkoojQ7btebGB9/uWf8NCpJR1fWC+R7fxix9LqrTW56dLE0qusJX+eJtLm4nPI1uSFuaV2g5M+848AOA3n1XSRQayTasnYj2AbMx03beesl35juBO+wPHvOqkKIpbbd2VpUoUo5IKy+fLhERQaBERAEREAREQBERAEREAREQBERAeOAOh1WpLhkLvahjPi0fstxEIaT3Od/Aqb/gM9FnHhMDfZhjH5G/Oy3kQr2cFwX2RhHGGizQAO4WWaIhcIiIAiIgCIiAIiIAiIgCKhtp8VqsXr3UsLnZOsdFFGHFrLMveR1tDfKXXN9NAt+LotxGHtQzxMd9yWVhv4hivk5sw7Zt92N0XUi1DN1MOeU/y48zzf3W3cb+RX5uqppqjr6sl1usBf2j2TKXuaPDsuHkFEY3LVauS2lz9OIq7mp5sZwenED2iW7M5c5zReLMx+rQTckX81Wu1GztThzo2TyNJkDnDI97tGkA3uBzClRuROs4620P0cipHZzo/rpPo1WJIurcYZrGSTNkJa+xGS17cLr6dKVZJV4kyjhJJYGRAAkXkk7R3dxZ6Jl10ZHbNRu49PEupFVPQjipd9IpXOJ9mZtzf7j9/5PVbPTg4iKlsSPrH7jb7AUZe9Yt2v/HnsWai/P+EbEV1VTNrIXsLHB5DS94ecjnNItlte7TbXkpH0PbRzPmfRyyOkjMZkZnJcWOaWgtBOuUh277um8qXDTcrGtdpNWuW6ionAJXfx0DMbfSp9Lm3+ZwXvSjVyRYo98b3Nc1sLmkE6ODQQbeKZNbB17RbtxsXqij+ye0LcQpBOLB4BbI33ZANfI6EdxCqzockca/VxP1Um8k8WKFHcu6ivFLiXmioTbPEKqtxKSlbI6wm6mKMOLWixy3I3XJuSSt9nRvirfZlYPCaQfJqnJzZTtm27RbLsRVL0mU8sGG0EUriZGODXkOJu4RG5zHU68St/oh2o62M0MzrvjGaIk6uj4s7y0/Ajkoy6XLdqs+VlloqI6SpHDFngOIF4NxPuMXe6Y9opopI6SKR0bOr6x5aS0uu5wDSRrlGU6cbqcmxDrJXuti2UVIUvRXX2EgkhY4gG3WPDhfXUtZvU+o21OGYTIZnh88Mczg7M6QXLnGPV4BIALdO6yhpcGTGpJ/VGxMUX51wPCq7FpJTHKXvYGue6SVw9smwG/k7QC2ikMfR3izfZnaPCeUfJqnIuZVVpPVRZodE3+JsvvyS+uXX9VfCoHaGjqcHxB1RG0hokfJE8tJY5j79g25BxaRcHS/JdZvS5Vu0ZTwl3cJHXP4Q66mUXLVGdOrGmnGW9yadLGJ9Rh72A9qZzYR4HtP8ALK1w/MoDgApf4NWRyVETZ5XGRrC9of8AU2MbbE3uS11vxL7dMOLGaeng4xxB7gL/AMyWxy27g1v9S69P0PgtaX1bg4gEgRg2NtRfNzUqyWoledR5VfS33PehDE7tqKQncWzN8Hdl/wAQ3+pafTn/ADqT/Tl/uYuJsk84ZjDYXnQSvp3HddrzZju656ty7fTn/OpP9OX+5iW75VyvQafD8lhbKShmHUr3GzW00TieQEQJKqPYfEYpcVNbUysjbeaa8jg0Zn9lrLniA8n8qmW0eJ/R8AgAPamgp4R4OjBf/sD1FNiOj/8AiMDqh8xiGcsaAwOzBoF3akcSR5KEtG2XqNucYx4anxwKvjpMazRPa6F07ow5pBaY5j2dRpYFzf6VKunP+TSf6kn9gUL282POGOiDZTI2QOs7LlLXNI00J4EFSHpMxL6Xh+HVHF+Yu7nhgDx5ODgptqmjO9oTi+pxsI27rKOjZTRQsEYD2tlc15N3uc42Nw0kEut4LvdDOz8nWOr3WEeR0UeoJc4uGZ3cBlI1337tevs7g4rdn2U/2i2ZzO6Rs8jmfEW8CVxehjGzHLLQSXAfeRgPCRotIzxLQDb7jkezsWgrThmeltDkbP8A+Pj/AJqo/wDcXnSoL4q8HcWwj/aEwD/Hh/zVR85F70p/4q7wg+QU/u8isn3H/wCjfp3vwDEnxOJNLMN++8euR3e5hJB7iTxC0uhsf94f+VL82KztvdmxiFK5jQOuZd8R+9bVhPJw09DwVZ9EDC3EsrgQRFKCDoQQWAg96hO8WWlFwqRXC+nmcnH3SjFZzT3676Q/q8oBOfMbWB0upPSVW0WZtxNlzC946fdfXe3kuDtjHPQYpJUZbHruvjc4XY4E5hrx4gi9966bel2uO6KmPgyX/wCRS09LIonFN5pNa8CR9OP/AIem/wBY/wDpuUGjwmWlo6PGKYkEPeJPuubM9rHfhc3sEeHNSfpOrX1GGUE8gAfI4PcACAC6IkgAkkDxKk3RtRsnweKGRuZj/pDXA8QZpAVCdomko56jXgVXtVi7K2uFSzQPEFx7rg1gc3vsQRdT7pX2Rnq3x1VMzrC1nVvYCM1gS5rmg7/acCN+5VzjuBPoKz6O+5Aewsd77C7su8eB7wVanSFtnU4dNGyGKN7HR5iXtfo7MRbM1wG4DRHpaxWNmpZ+f5IFNjmNUjA6R9RGxtm3kjBA4AFz2G/mVNItpHYjglZJIAJGMkjfbQEhocHAcLhw05gqF7QdI1TXwupTHE1r7Zsgc5xs4OAFzpqBwUu2Q2Znbg1XE5hbLUCRzGO0NurDWAg7iS07+YRrTUmm7yai21biV/sjLiDTL/DesvZnWZGsdp2sl84Nvt/FWXsFLi7qgjEOs6nqnWzNhb9ZmZl1YA7dn7lWeze09RhL5erYwOeGteyVrrgsJtoHNIPad6qRx9LVc72Yac+Ecp+UimSbKUpwja7f+i6XNB0IuvGRNG5oHgAFmixO8xLAeA9FkiIDEsG+w9ELQd4CyRAYlo3WC9AtuXqIDxzQd4uvMg3WHooXtpt83DZmwdQZHFgkvnDQAXOFtxN+yVHYOmPtDrKPs8cstz5AsAPqFZQbM3WgnZstcC25eBg32HouRJtJTto/p5f9TkDwbam5sG297N2bc1XsvTGbnJRjLwzTWPmAyyhRb2EqsY7stnIN9h6IWA7wPRQDZTpMjrJm00sPUufoxwfnaXb8p0BaTwX32x6RG4fOaYU5kcGtffOGjtXsNxPBMrvYdrC2a+hOl4GjfYKqqXpi7Q62js3iWS5iPItAPqFPMS2jggpPpznF0Ra1zco1fntkaAeJvx3a33I4tExqxktGdhzAdCAfHVeNiaNzQPIKp5emN1zlo224XmN/OzF3tj+keOvmFNJCYZHA5O1na4gXLb2BBsCfJS4Mqq8G7J+5PHNB3i6AW3L1FU1MS0HeAvSL716iA+bYmjUNA8gvoiID5uiadS0E94CyawDcAFkiC4REQBERAEREAREQHPrcGpp3Z5qeGRwFsz42PNtTa7hu1Pqqp6XqeigMMNPFFHMLuf1bWsswjsh4bpcnUX1sDzUy6QNtW0DOqis6peLtG8Rg/wCY79Bx8FXuw+HUs8prcRq4faLhHJK3NI+/tyAm+W/Dj4b9Ip7nNWafcVr+x18VpHw7NwMkBBMjX2PBskzpGg+RBXR6HcKglpJZJIY3u65zcz2NccoZGQ0XGgu4nzW50o4hFUYW98EjJGiaJpcxwcAQRpccdR6haHRBjNPBSSxzTxxv65z7Pe1pLTHGARc6i7T6J+3zIVlVS/6kSxOnbFjgZG0Ma2rp7NaLAXfGdANwuSrsrcEpZ3dZNTQyOsBmfGxxsNwu4XsqSxCqZPjYkicHsdV0+Vw1Bs+MXB4i4KsPpE25FC000BBqXDfvETTucebuQ8zyKSvawpyjFSb5kN6XYaOKaKKmijjka1xl6toaADlyBwbpm9o87Ecwt/bSkfBgeHxSAhwljzA8M0czsp8Lj0XO6P8ADaNz/puIVcObMXMjklbmc+9+tlub79QD4lSbperI6jDopIZGyM+kN7TCHDSKYHUd+inikVWsZT5rY+nRLhNPJQdZJBE9xlkBc5jXGwIAFyN3coTQQtix1rIwGtbVua0DQAZjoBwHCymXRRjlNDQ9VLURRvEkhLXva02cQQe0dQobh07ZsdbJGczXVbnNI3FuYm47rapxYdskPIvxERZHYEREAREQBERAEREAREQBERAEREBSvSnRtfiDiSf5ce63I9yh/wDDm83fD9kRbx2PPmlnfUtTo3weKowyoppQXRvmffXUdiMgg8CCAR3hVRjtC2nqJIGklrSbF1r+dgB8ERRHdk1V3I9CfdEGzsMrjVvzF8TrMFxlBLfata9xrbW2u7cuZ0k0TX4lOST/AJW63/CZ3LxE/cWaXZeZGP4e3m74fsrZ2LwKGqwj6NKCWOfIbg2c0h9wWngQURRIUUs3kynsSpRHI9gJs12hNr+dgrL6HtnoXXrnZjK27WgkZW3BaXAWve1xe/EoimX0lKK76LXREWJ6AREQBERAEREB/9k=" group-title="CANAIS | ESPORTES PAY-PER-VIEW",CAMPEONATO CATARINENSE (JOGO 1)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923116
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO2)" tvg-logo="https://app.maisbolao.com.br/arquivos/campeonato/97b047d5-a698-41bc-894c-36e43455058c_large.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",CAMPEONATO CATARINENSE (JOGO2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923068
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO3)" tvg-logo="https://app.maisbolao.com.br/arquivos/campeonato/97b047d5-a698-41bc-894c-36e43455058c_large.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",CAMPEONATO CATARINENSE (JOGO3)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923069
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO4)" tvg-logo="https://app.maisbolao.com.br/arquivos/campeonato/97b047d5-a698-41bc-894c-36e43455058c_large.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",CAMPEONATO CATARINENSE (JOGO4)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923070
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO MINEIRO 2022 JOGO 1" tvg-logo="https://aposta10.com/app/webroot/files/editor/images/CAMPEONATO-MINEIROII.jpg" group-title="CANAIS | ESPORTES PAY-PER-VIEW",CAMPEONATO MINEIRO 2022 JOGO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923184
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARAIBANO 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d3/Paraibano2020.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",CAMPEONATO PARAIBANO 2022
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923186
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARANAENSE 2022  JOGO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/ParanaenseFutebol.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",CAMPEONATO PARANAENSE 2022  JOGO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923182
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO PARANAENSE 2022 JOGO 1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/ParanaenseFutebol.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",CAMPEONATO PARANAENSE 2022 JOGO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923181
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 13 CHILE CL" tvg-logo="" group-title="CHILE",CANAL 13 CHILE CL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997577
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/n0LDHU.png" group-title="CANAIS | FILMES & SERIES",CANAL BRASIL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5197
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL FHD (ALT)" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/n0LDHU.png" group-title="CANAIS | FILMES & SERIES",CANAL BRASIL FHD (ALT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923907
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/n0LDHU.png" group-title="CANAIS | FILMES & SERIES",CANAL BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/68534
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL SD (ALT)" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/n0LDHU.png" group-title="CANAIS | FILMES & SERIES",CANAL BRASIL SD (ALT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923415
-#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/9FKnAq.png" group-title="CANAIS | ABERTOS",CANAL DO BOI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/45307
-#EXTINF:-1 tvg-id="canal.rural.br" tvg-name="CANAL RURAL HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dPo0pf.png" group-title="CANAIS | ABERTOS",CANAL RURAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/373935
-#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/u4sccn.png" group-title="CANAIS | FILMES & SERIES",CANAL SONY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/373238
-#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/u4sccn.png" group-title="CANAIS | FILMES & SERIES",CANAL SONY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5046
-#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/u4sccn.png" group-title="CANAIS | FILMES & SERIES",CANAL SONY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5407
-#EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="CANCAO NOVA HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/z3y92T.png" group-title="CANAIS | RELIGIOSOS",CANCAO NOVA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/45249
-#EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="CANÇÃO NOVA FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/z3y92T.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5384
-#EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="CANÇÃO NOVA SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/z3y92T.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5408
-#EXTINF:-1 tvg-id="" tvg-name="CARIOCAO 2022 JOGO 2" tvg-logo="https://i.imgur.com/D59QKXP.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",CARIOCAO 2022 JOGO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923114
-#EXTINF:-1 tvg-id="" tvg-name="CARIOCÃO ( JOGO  2 )" tvg-logo="https://i.imgur.com/D59QKXP.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",CARIOCÃO ( JOGO  2 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/457836
-#EXTINF:-1 tvg-id="" tvg-name="CARIOCÃO ( JOGO 1 )" tvg-logo="https://i.imgur.com/D59QKXP.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",CARIOCÃO ( JOGO 1 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/457835
-#EXTINF:-1 tvg-id="" tvg-name="CARIOCÃO 2022 HD JOGO 1" tvg-logo="https://i.imgur.com/D59QKXP.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",CARIOCÃO 2022 HD JOGO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923115
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="http://logocanais.ddns.net/Logo/CartoonNetwork1.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5199
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://logocanais.ddns.net/Logo/CartoonNetwork1.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5047
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO FHD" tvg-logo="https://abral.org.br/wp-content/uploads/2021/12/Cartonito1.png" group-title="CANAIS | INFANTIS",CARTOONITO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5196
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO HD" tvg-logo="https://abral.org.br/wp-content/uploads/2021/12/Cartonito1.png" group-title="CANAIS | INFANTIS",CARTOONITO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/17924
-#EXTINF:-1 tvg-id="" tvg-name="CHILE  | Canal 13 SD" tvg-logo="" group-title="CHILE",CHILE  | Canal 13 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997570
-#EXTINF:-1 tvg-id="" tvg-name="CHILE  | Chilevision FHD" tvg-logo="" group-title="CHILE",CHILE  | Chilevision FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997567
-#EXTINF:-1 tvg-id="" tvg-name="CHILE  | Emol TV" tvg-logo="" group-title="CHILE",CHILE  | Emol TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997572
-#EXTINF:-1 tvg-id="" tvg-name="CHILE  | La Red HD" tvg-logo="" group-title=" PERU",CHILE  | La Red HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/998255
-#EXTINF:-1 tvg-id="" tvg-name="CHILE  | Mega FHD" tvg-logo="" group-title="CHILE",CHILE  | Mega FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997574
-#EXTINF:-1 tvg-id="" tvg-name="CHILE  | Mega HD" tvg-logo="" group-title="CHILE",CHILE  | Mega HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997573
-#EXTINF:-1 tvg-id="" tvg-name="CHILE  | T13 Noticias" tvg-logo="" group-title="CHILE",CHILE  | T13 Noticias
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997571
-#EXTINF:-1 tvg-id="" tvg-name="CHILE  | Teletrak chile" tvg-logo="" group-title="CHILE",CHILE  | Teletrak chile
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997575
-#EXTINF:-1 tvg-id="" tvg-name="CHILE  | TVN Culto (GEO)" tvg-logo="" group-title="CHILE",CHILE  | TVN Culto (GEO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997568
-#EXTINF:-1 tvg-id="" tvg-name="CHILE  | TVN HD" tvg-logo="" group-title="CHILE",CHILE  | TVN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997569
-#EXTINF:-1 tvg-id="" tvg-name="Chile | CANAL 13 C HD" tvg-logo="" group-title="CHILE",Chile | CANAL 13 C HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997582
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | CANAL 13 FHD" tvg-logo="" group-title="CHILE",CHILE | CANAL 13 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997580
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | Chilevision HD" tvg-logo="" group-title="CHILE",CHILE | Chilevision HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997566
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | ETC TV CHILE" tvg-logo="" group-title="CHILE",CHILE | ETC TV CHILE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997586
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | Mega HD OPC 2" tvg-logo="" group-title="CHILE",CHILE | Mega HD OPC 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997578
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | Mega SD" tvg-logo="" group-title="CHILE",CHILE | Mega SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997579
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | REC TV" tvg-logo="" group-title="CHILE",CHILE | REC TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997584
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | TNT SPORTS  HD (E)" tvg-logo="" group-title="CHILE",CHILE | TNT SPORTS  HD (E)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997564
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | TNT SPORTS BASICO HD" tvg-logo="" group-title="CHILE",CHILE | TNT SPORTS BASICO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997576
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | TNT SPORTS PREMIUM HD" tvg-logo="" group-title="CHILE",CHILE | TNT SPORTS PREMIUM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997565
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | TV+" tvg-logo="" group-title="CHILE",CHILE | TV+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997585
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | TVN SD" tvg-logo="" group-title="CHILE",CHILE | TVN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997583
-#EXTINF:-1 tvg-id="" tvg-name="Chile | TVU Concepcion" tvg-logo="" group-title="CHILE",Chile | TVU Concepcion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997581
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="CINE CANAL HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/KYN8MN.png" group-title="CANAIS | FILMES & SERIES",CINE CANAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923563
-#EXTINF:-1 tvg-id="" tvg-name="Cine Comédia" tvg-logo="https://imgur.com/fUCGYqp.png" group-title="CANAIS | PLUTO TV",Cine Comédia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/393030
-#EXTINF:-1 tvg-id="" tvg-name="Cine Drama" tvg-logo="http://images.pluto.tv/channels/5f171f988ab9780007fa95ea/solidLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/393031
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | AMC HD" tvg-logo="http://visi4k.site:8080/images/dfafaad29af470741b4e9f61a0d1f09c.jpg" group-title="CINE HD ESP",CINE HD | AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002353
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | AZ CINEMA HD" tvg-logo="http://visi4k.site:8080/images/64db272cd975f37071e4e7903e19a52b.jpg" group-title="CINE HD ESP",CINE HD | AZ CINEMA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002360
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | CINECANAL HD" tvg-logo="http://visi4k.site:8080/images/ba0d3c520488a08cf0d9ba8f5eb182d3.png" group-title="CINE HD ESP",CINE HD | CINECANAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002361
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | CINEMAX (MX) HD" tvg-logo="http://visi4k.site:8080/images/f349c2b1ba9bfbb70ee4615b1939a3a6.png" group-title="CINE HD ESP",CINE HD | CINEMAX (MX) HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002392
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | DE PELICULA" tvg-logo="http://visi4k.site:8080/images/65b5b6137e5786a0097d7580dcee7480.png" group-title="CINE HD ESP",CINE HD | DE PELICULA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002399
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | DE PELICULA CLASICO" tvg-logo="" group-title=" PERU",CINE HD | DE PELICULA CLASICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/998248
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | DE PELICULA PLUS HD" tvg-logo="https://i.imgur.com/eZXf8fL.jpg" group-title="CINE HD ESP",CINE HD | DE PELICULA PLUS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002362
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | FX (MX) FHD" tvg-logo="http://visi4k.site:8080/images/aa6bee50eced2aca4bcfa63962662feb.jpg" group-title="CINE HD ESP",CINE HD | FX (MX) FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002354
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | FX FHD ( DUAL AUDIO)" tvg-logo="http://visi4k.site:8080/images/62d6db4705dbc517ea3cc001996089d8.png" group-title="CINE HD ESP",CINE HD | FX FHD ( DUAL AUDIO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002404
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | FXM HD" tvg-logo="http://visi4k.site:8080/images/b83c382ac192ece5a9f20755c72678ec.jpg" group-title="CINE HD ESP",CINE HD | FXM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002367
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | GOLDEN PLUS HD" tvg-logo="http://visi4k.site:8080/images/15c8caae5a195cfebe9a802c35187926.png" group-title="CINE HD ESP",CINE HD | GOLDEN PLUS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002368
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | GOLDEN PREMIER (L)" tvg-logo="http://visi4k.site:8080/images/0d1cb7a35144bd9008065449330999ea.jpg" group-title="CINE HD ESP",CINE HD | GOLDEN PREMIER (L)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002405
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | GOLDEN PREMIER HD" tvg-logo="http://visi4k.site:8080/images/0d1cb7a35144bd9008065449330999ea.jpg" group-title="CINE HD ESP",CINE HD | GOLDEN PREMIER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002369
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO 2 HD" tvg-logo="http://visi4k.site:8080/images/d0d402185a4d2a6fe7f512e0c624afc8.png" group-title="CINE HD ESP",CINE HD | HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002371
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO FAMILY" tvg-logo="http://visi4k.site:8080/images/88805386a04b3043f8d511e50b8c1916.png" group-title="CINE HD ESP",CINE HD | HBO FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002395
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO HD (LAT)" tvg-logo="http://visi4k.site:8080/images/d125c86a8e07ea7e518160444f9bc4fd.jpg" group-title="CINE HD ESP",CINE HD | HBO HD (LAT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002370
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO HD Latino ( Dual audio)" tvg-logo="http://visi4k.site:8080/images/d125c86a8e07ea7e518160444f9bc4fd.jpg" group-title="CINE HD ESP",CINE HD | HBO HD Latino ( Dual audio)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002401
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO Plus" tvg-logo="http://visi4k.site:8080/images/c8d3a30b15f49d7dd7996472a13e0dd7.png" group-title="CINE HD ESP",CINE HD | HBO Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002394
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO Pop" tvg-logo="http://visi4k.site:8080/images/f1de6be8471f2365dfe5abff2ab70aae.png" group-title="CINE HD ESP",CINE HD | HBO Pop
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002396
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO SIGNATURE" tvg-logo="http://visi4k.site:8080/images/cd6055d89726db58b8283e800a502697.png" group-title="CINE HD ESP",CINE HD | HBO SIGNATURE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002393
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO Xtreme HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/HBO_Xtreme.png/revision/latest?cb=20200129203206" group-title="CINE HD ESP",CINE HD | HBO Xtreme HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002402
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | MOREMAX" tvg-logo="http://visi4k.site:8080/images/dc740d2074693e92c2b3d6c872ee5ff2.png" group-title="CINE HD ESP",CINE HD | MOREMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002386
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | OUTERMAX" tvg-logo="http://visi4k.site:8080/images/c58481ec8747c70ac16417a9e0aac4e9.png" group-title="CINE HD ESP",CINE HD | OUTERMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002385
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | PARAMOUNT CHANNEL HD" tvg-logo="http://visi4k.site:8080/images/73f6a6e66de394622d82573625eca71e.jpg" group-title="CINE HD ESP",CINE HD | PARAMOUNT CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002355
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | SHOWTIME BEYOND" tvg-logo="http://visi4k.site:8080/images/3cfb0bc63003d6204a57544772e3c189.png" group-title="CINE HD ESP",CINE HD | SHOWTIME BEYOND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002384
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | SHOWTIME HD" tvg-logo="http://visi4k.site:8080/images/1cd504c9124e6c1f3987aab4750f43ad.png" group-title="CINE HD ESP",CINE HD | SHOWTIME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002383
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | SONY HD" tvg-logo="http://visi4k.site:8080/images/e08368d62ee551b3b712f76c67eeffbf.jpg" group-title="CINE HD ESP",CINE HD | SONY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002356
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | SPACE HD" tvg-logo="http://visi4k.site:8080/images/9ad23317fd3d3bdab7a5634d279c2f02.jpg" group-title="CINE HD ESP",CINE HD | SPACE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002357
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR ACTION (Dual audio)" tvg-logo="http://visi4k.site:8080/images/056fe92146c166978c1f294914f1e9fe.png" group-title="CINE HD ESP",CINE HD | STAR ACTION (Dual audio)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002363
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR CHANNEL HD" tvg-logo="https://imgur.com/a/QQ56fFl" group-title="CINE HD ESP",CINE HD | STAR CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002387
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR CINEMA HD" tvg-logo="http://visi4k.site:8080/images/7947f8d004ceb162e6175955b1752b46.png" group-title="CINE HD ESP",CINE HD | STAR CINEMA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002364
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR CLASSICS" tvg-logo="http://visi4k.site:8080/images/6b585f063e334d22b2be149863c14e61.png" group-title="CINE HD ESP",CINE HD | STAR CLASSICS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002391
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR COMEDY ( Dual audio)" tvg-logo="http://visi4k.site:8080/images/d4bea2bad9421cbf5757a8791b76ce4d.png" group-title="CINE HD ESP",CINE HD | STAR COMEDY ( Dual audio)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002390
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR FUN" tvg-logo="http://visi4k.site:8080/images/1a387fd0193c7d8deeeef9d3218aa3bf.png" group-title="CINE HD ESP",CINE HD | STAR FUN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002388
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR FUN (Dual audio)" tvg-logo="http://visi4k.site:8080/images/d69ab3ab8f8e0794d50de0ce548693e5.png" group-title="CINE HD ESP",CINE HD | STAR FUN (Dual audio)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002365
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR HITS HD" tvg-logo="http://visi4k.site:8080/images/caaf58fe5be2ec6541cea70fec99408c.png" group-title="CINE HD ESP",CINE HD | STAR HITS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002366
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR SERIES HD" tvg-logo="http://visi4k.site:8080/images/e74fb776cb10555f2ddcd0c2386fbdd8.png" group-title="CINE HD ESP",CINE HD | STAR SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002389
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ BLACK" tvg-logo="http://visi4k.site:8080/images/a42060ed224434fc2df443df41887f69.png" group-title="CINE HD ESP",CINE HD | STARZ BLACK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002382
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ CINEMA HD" tvg-logo="http://visi4k.site:8080/images/add55753552367ae70c37c3d35fcfc0c.png" group-title="CINE HD ESP",CINE HD | STARZ CINEMA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002381
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ EDGE" tvg-logo="http://visi4k.site:8080/images/96ffc2af3cb4c84f07ba5a211a95c613.png" group-title="CINE HD ESP",CINE HD | STARZ EDGE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002379
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ ENCORE ACTION" tvg-logo="http://visi4k.site:8080/images/1478d08b8b4a150df4ee8a2c8fa9eb60.png" group-title="CINE HD ESP",CINE HD | STARZ ENCORE ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002378
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ ENCORE CLASSIC" tvg-logo="http://visi4k.site:8080/images/425c238d5e9e7cb6617db9d461fc3dcd.png" group-title="CINE HD ESP",CINE HD | STARZ ENCORE CLASSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002377
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ ENCORE FAMILY HD" tvg-logo="http://visi4k.site:8080/images/a3fd0d1f00181cf7ba107f1433021a63.png" group-title="CINE HD ESP",CINE HD | STARZ ENCORE FAMILY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002376
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ ENCORE SUSPENSE" tvg-logo="http://visi4k.site:8080/images/f423f6304583fd948901376de8cc167d.png" group-title="CINE HD ESP",CINE HD | STARZ ENCORE SUSPENSE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002375
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ ENCORE WESTERN" tvg-logo="http://visi4k.site:8080/images/f45c8cb33898ea3bc2896975d50a823e.png" group-title="CINE HD ESP",CINE HD | STARZ ENCORE WESTERN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002374
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ HD" tvg-logo="http://visi4k.site:8080/images/3136cc4ae1b9c264770cdf11aba09a8a.png" group-title="CINE HD ESP",CINE HD | STARZ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002380
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | Studio Universal HD" tvg-logo="http://visi4k.site:8080/images/06cbb735a81a0f4c24e816331cceba92.png" group-title="CINE HD ESP",CINE HD | Studio Universal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002398
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | SyFy FHD" tvg-logo="http://visi4k.site:8080/images/2a87ae53260f6aadbae1e707641d042f.png" group-title="CINE HD ESP",CINE HD | SyFy FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002400
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | TBS HD" tvg-logo="http://visi4k.site:8080/images/24b5c960a75c38cf4b46caa87f382293.png" group-title="CINE HD ESP",CINE HD | TBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002397
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | TNT (L)" tvg-logo="http://visi4k.site:8080/images/e14d4b09d3c55a1b969234e6c6822912.jpg" group-title="CINE HD ESP",CINE HD | TNT (L)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002406
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | TNT HD Dual" tvg-logo="http://visi4k.site:8080/images/e14d4b09d3c55a1b969234e6c6822912.jpg" group-title="CINE HD ESP",CINE HD | TNT HD Dual
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002372
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | TNT SERIES HD" tvg-logo="http://visi4k.site:8080/images/62274046f4640081510ae7e97123dffb.png" group-title="CINE HD ESP",CINE HD | TNT SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002358
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | UNIVERSAL CHANNEL (MX)" tvg-logo="http://visi4k.site:8080/images/9a948a08d28afc62256bcdd249d7fff0.png" group-title="CINE HD ESP",CINE HD | UNIVERSAL CHANNEL (MX)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002373
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | WARNER CHANNEL HD (Dual Audio)" tvg-logo="http://visi4k.site:8080/images/afe147236d3d4f86aace6bf131e828e2.png" group-title="CINE HD ESP",CINE HD | WARNER CHANNEL HD (Dual Audio)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002359
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | Zee Mundo HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/ZeeMundo2018.png/revision/latest?cb=20180106235144" group-title="CINE HD ESP",CINE HD | Zee Mundo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002403
-#EXTINF:-1 tvg-id="" tvg-name="Cine Romance" tvg-logo="http://images.pluto.tv/channels/5f171f988ab9780007fa95ea/solidLogoPNG.png" group-title="CANAIS | PLUTO TV",Cine Romance
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/393032
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1  FHD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="CINE SKY",CINE SKY 1  FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923651
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2 FHD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="CINE SKY",CINE SKY 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923652
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 3  FHD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="CINE SKY",CINE SKY 3  FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923653
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4 FHD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="CINE SKY",CINE SKY 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923654
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5 FHD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/925b6247503993.588f6e3466c6a.jpg" group-title="CINE SKY",CINE SKY 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923655
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sucessos" tvg-logo="https://imgur.com/6k7cOAE.png" group-title="CANAIS | PLUTO TV",Cine Sucessos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/393028
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://imagizer.imageshack.com/img921/4025/uUdg5m.png" group-title="CANAIS | FILMES & SERIES",CINEMAX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5200
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://imagizer.imageshack.com/img921/4025/uUdg5m.png" group-title="CANAIS | FILMES & SERIES",CINEMAX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5048
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://imagizer.imageshack.com/img921/4025/uUdg5m.png" group-title="CANAIS | FILMES & SERIES",CINEMAX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5410
-#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/TplZPj.png" group-title="CANAIS | JORNALISMO",CNN BRASIL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5285
-#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/TplZPj.png" group-title="CANAIS | JORNALISMO",CNN BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5158
-#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/TplZPj.png" group-title="CANAIS | JORNALISMO",CNN BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5540
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | Cable Noticias HD" tvg-logo="" group-title="COLOMBIA",COLOMBIA | Cable Noticias HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997534
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | Canal Capital HD" tvg-logo="" group-title="COLOMBIA",COLOMBIA | Canal Capital HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997557
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | Canal Uno HD" tvg-logo="" group-title="COLOMBIA",COLOMBIA | Canal Uno HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997533
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | Cantinazo HD" tvg-logo="" group-title="COLOMBIA",COLOMBIA | Cantinazo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997558
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | Caracol FHD" tvg-logo="" group-title="COLOMBIA",COLOMBIA | Caracol FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997536
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | Caracol FHD OPC 2" tvg-logo="" group-title="COLOMBIA",COLOMBIA | Caracol FHD OPC 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997551
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | Caracol FHD OPC 3" tvg-logo="" group-title="COLOMBIA",COLOMBIA | Caracol FHD OPC 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997555
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | Caracol HD" tvg-logo="" group-title="COLOMBIA",COLOMBIA | Caracol HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997552
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | Caracol Internacional HD" tvg-logo="" group-title="COLOMBIA",COLOMBIA | Caracol Internacional HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997537
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | City TV" tvg-logo="" group-title="COLOMBIA",COLOMBIA | City TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997538
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | Cosmovision" tvg-logo="" group-title="COLOMBIA",COLOMBIA | Cosmovision
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997539
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | El Tiempo" tvg-logo="" group-title="COLOMBIA",COLOMBIA | El Tiempo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997541
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | La Kalle HD" tvg-logo="" group-title="COLOMBIA",COLOMBIA | La Kalle HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997535
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | RCN FHD" tvg-logo="" group-title="COLOMBIA",COLOMBIA | RCN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997542
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | RCN HD" tvg-logo="" group-title="COLOMBIA",COLOMBIA | RCN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997532
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | RCN HD OPC 2" tvg-logo="" group-title="COLOMBIA",COLOMBIA | RCN HD OPC 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997543
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | RCN Internacional" tvg-logo="" group-title="COLOMBIA",COLOMBIA | RCN Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997563
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | RCN Novelas" tvg-logo="" group-title="COLOMBIA",COLOMBIA | RCN Novelas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997562
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | RCN SD" tvg-logo="" group-title="COLOMBIA",COLOMBIA | RCN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997556
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | Senal Colombia HD" tvg-logo="" group-title="COLOMBIA",COLOMBIA | Senal Colombia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997544
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | TeleAntioquia HD" tvg-logo="" group-title="COLOMBIA",COLOMBIA | TeleAntioquia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997545
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | TeleCafe" tvg-logo="" group-title="COLOMBIA",COLOMBIA | TeleCafe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997546
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | Telecaribe HD" tvg-logo="" group-title="COLOMBIA",COLOMBIA | Telecaribe HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997547
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | TeleEnvigado HD" tvg-logo="" group-title="COLOMBIA",COLOMBIA | TeleEnvigado HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997540
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | TeleMedellin HD" tvg-logo="" group-title="COLOMBIA",COLOMBIA | TeleMedellin HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997554
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | TelePacifico HD" tvg-logo="" group-title="COLOMBIA",COLOMBIA | TelePacifico HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997548
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | WIN SPORTS + HD OPC 1 (E)" tvg-logo="" group-title="COLOMBIA",COLOMBIA | WIN SPORTS + HD OPC 1 (E)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997560
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | WIN SPORTS + HD OPC 2" tvg-logo="" group-title="COLOMBIA",COLOMBIA | WIN SPORTS + HD OPC 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997561
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | WIN SPORTS + HD OPC 3" tvg-logo="" group-title="COLOMBIA",COLOMBIA | WIN SPORTS + HD OPC 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997559
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | WinSports FHD" tvg-logo="" group-title="COLOMBIA",COLOMBIA | WinSports FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997553
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | WinSports FHD OPC 2" tvg-logo="" group-title="COLOMBIA",COLOMBIA | WinSports FHD OPC 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997550
-#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA | WinSports HD" tvg-logo="" group-title="COLOMBIA",COLOMBIA | WinSports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/997549
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE FHD" tvg-logo="https://imagizer.imageshack.com/img923/8510/tM7GEt.png" group-title="CANAIS | ESPORTES",COMBATE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5201
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE HD" tvg-logo="https://imagizer.imageshack.com/img923/8510/tM7GEt.png" group-title="CANAIS | ESPORTES",COMBATE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5049
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE SD" tvg-logo="https://imagizer.imageshack.com/img923/8510/tM7GEt.png" group-title="CANAIS | ESPORTES",COMBATE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5411
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://uploaddeimagens.com.br/images/003/647/048/full/comedy_central_2018_logo-removebg-preview.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5202
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://uploaddeimagens.com.br/images/003/647/048/full/comedy_central_2018_logo-removebg-preview.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5050
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://uploaddeimagens.com.br/images/003/647/048/full/comedy_central_2018_logo-removebg-preview.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5412
-#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL TV FHD (JOGO 1)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",CONMEBOL TV FHD (JOGO 1)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923087
-#EXTINF:-1 tvg-id="conmebol.2.br" tvg-name="CONMEBOL TV FHD (JOGO 2)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",CONMEBOL TV FHD (JOGO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923088
-#EXTINF:-1 tvg-id="conmebol.3.br" tvg-name="CONMEBOL TV FHD (JOGO 3)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",CONMEBOL TV FHD (JOGO 3)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923091
-#EXTINF:-1 tvg-id="conmebol.4.br" tvg-name="CONMEBOL TV FHD (JOGO 4 )" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",CONMEBOL TV FHD (JOGO 4 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923118
-#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL TV HD (JOGO 1)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",CONMEBOL TV HD (JOGO 1)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/465348
-#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL TV HD (JOGO 1)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",CONMEBOL TV HD (JOGO 1)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923089
-#EXTINF:-1 tvg-id="conmebol.2.br" tvg-name="CONMEBOL TV HD (JOGO 2)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",CONMEBOL TV HD (JOGO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/465350
-#EXTINF:-1 tvg-id="conmebol.2.br" tvg-name="CONMEBOL TV HD (JOGO 2)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",CONMEBOL TV HD (JOGO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923090
-#EXTINF:-1 tvg-id="conmebol.3.br" tvg-name="CONMEBOL TV HD (JOGO 3)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",CONMEBOL TV HD (JOGO 3)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/465352
-#EXTINF:-1 tvg-id="conmebol.3.br" tvg-name="CONMEBOL TV HD (JOGO 3)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",CONMEBOL TV HD (JOGO 3)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923092
-#EXTINF:-1 tvg-id="conmebol.4.br" tvg-name="CONMEBOL TV HD (JOGO 4)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",CONMEBOL TV HD (JOGO 4)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/465354
-#EXTINF:-1 tvg-id="conmebol.4.br" tvg-name="CONMEBOL TV HD (JOGO 4)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-0.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",CONMEBOL TV HD (JOGO 4)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923117
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL ( JOGO 1 )" tvg-logo="http://dns.cdnfc.xyz:80/images/cc2051782e13a90e1aef7bc53c012e60.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",COPA DO BRASIL ( JOGO 1 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/465131
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL ( JOGO 2 )" tvg-logo="http://dns.cdnfc.xyz:80/images/cc2051782e13a90e1aef7bc53c012e60.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",COPA DO BRASIL ( JOGO 2 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/465132
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL PRIME VIDEO 1" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/06/07/615x300/1_fukjchyxwambfqb-21168906.jpg" group-title="CANAIS | ESPORTES PAY-PER-VIEW",COPA DO BRASIL PRIME VIDEO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923188
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL PRIME VIDEO 2" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/06/07/615x300/1_fukjchyxwambfqb-21168906.jpg" group-title="CANAIS | ESPORTES PAY-PER-VIEW",COPA DO BRASIL PRIME VIDEO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923189
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2022 ( JOGO 5 )" tvg-logo="https://app.maisbolao.com.br/arquivos/campeonato/97b047d5-a698-41bc-894c-36e43455058c_large.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",COPA DO NORDESTE 2022 ( JOGO 5 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923081
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2022 (JOGO 2)" tvg-logo="https://app.maisbolao.com.br/arquivos/campeonato/97b047d5-a698-41bc-894c-36e43455058c_large.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",COPA DO NORDESTE 2022 (JOGO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923071
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2022 (JOGO 3)" tvg-logo="https://app.maisbolao.com.br/arquivos/campeonato/97b047d5-a698-41bc-894c-36e43455058c_large.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",COPA DO NORDESTE 2022 (JOGO 3)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/466241
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2022 (JOGO 3)" tvg-logo="https://app.maisbolao.com.br/arquivos/campeonato/97b047d5-a698-41bc-894c-36e43455058c_large.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",COPA DO NORDESTE 2022 (JOGO 3)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923072
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2022 (JOGO 4)" tvg-logo="https://app.maisbolao.com.br/arquivos/campeonato/97b047d5-a698-41bc-894c-36e43455058c_large.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",COPA DO NORDESTE 2022 (JOGO 4)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/466242
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2022 (JOGO 4)" tvg-logo="https://app.maisbolao.com.br/arquivos/campeonato/97b047d5-a698-41bc-894c-36e43455058c_large.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",COPA DO NORDESTE 2022 (JOGO 4)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923073
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2022 (JOGO 6)" tvg-logo="https://app.maisbolao.com.br/arquivos/campeonato/97b047d5-a698-41bc-894c-36e43455058c_large.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",COPA DO NORDESTE 2022 (JOGO 6)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923082
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2022 (JOGO 7)" tvg-logo="https://app.maisbolao.com.br/arquivos/campeonato/97b047d5-a698-41bc-894c-36e43455058c_large.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",COPA DO NORDESTE 2022 (JOGO 7)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923193
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2022 (JOGO 8)" tvg-logo="https://app.maisbolao.com.br/arquivos/campeonato/97b047d5-a698-41bc-894c-36e43455058c_large.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",COPA DO NORDESTE 2022 (JOGO 8)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923194
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2022 (JOGO1 )" tvg-logo="https://app.maisbolao.com.br/arquivos/campeonato/97b047d5-a698-41bc-894c-36e43455058c_large.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",COPA DO NORDESTE 2022 (JOGO1 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/442419
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2022 (JOGO1)" tvg-logo="https://app.maisbolao.com.br/arquivos/campeonato/97b047d5-a698-41bc-894c-36e43455058c_large.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",COPA DO NORDESTE 2022 (JOGO1)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923067
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA | ABN TV" tvg-logo="" group-title=" PERU",COSTA RICA | ABN TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/998216
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA | Aliento Vision" tvg-logo="" group-title=" PERU",COSTA RICA | Aliento Vision
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/998215
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA | EWTN" tvg-logo="" group-title=" PERU",COSTA RICA | EWTN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/998208
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA | Solidaria TV" tvg-logo="" group-title=" PERU",COSTA RICA | Solidaria TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/998217
-#EXTINF:-1 tvg-id="" tvg-name="CR | ESPERANZA TV OPC 1" tvg-logo="" group-title=" PERU",CR | ESPERANZA TV OPC 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/998201
-#EXTINF:-1 tvg-id="" tvg-name="CUCKOLD HD" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="CANAIS | XXX +18 ADULTOS",CUCKOLD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/368833
-#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! SD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="CANAIS | VARIEDADES",CURTA! SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5413
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY DMAX | HD" tvg-logo="" group-title=" PERU",DE: SKY DMAX | HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/998252
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/AIpj9X.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5203
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/AIpj9X.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5051
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/AIpj9X.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5414
-#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/HlY8PW.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5205
-#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/HlY8PW.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5053
-#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/HlY8PW.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5415
-#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryKids1.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5206
-#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryKids1.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5054
-#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoverykids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/922991
-#EXTINF:-1 tvg-id="discovery.sciene.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KGY4Ms.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5207
-#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KGY4Ms.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5055
-#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/oZHa2I.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5208
-#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/oZHa2I.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5056
-#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/uyPnmV.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5209
-#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/uyPnmV.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5057
-#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dyuGgl.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5210
-#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dyuGgl.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5058
-#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL FHD" tvg-logo="http://logocanais.ddns.net/Logo/disney1.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5211
-#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://logocanais.ddns.net/Logo/disney1.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5059
-#EXTINF:-1 tvg-id="e.br" tvg-name="E! FHD" tvg-logo="https://static1.squarespace.com/static/5134d411e4b027b1c0564b1e/51968996e4b0af15cc44e4e0/519a8072e4b08ccdf8f320e9/1369079923811/e_logo.png" group-title="CANAIS | VARIEDADES",E! FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5213
-#EXTINF:-1 tvg-id="e.br" tvg-name="E! FHD" tvg-logo="https://static1.squarespace.com/static/5134d411e4b027b1c0564b1e/51968996e4b0af15cc44e4e0/519a8072e4b08ccdf8f320e9/1369079923811/e_logo.png" group-title="CANAIS | VARIEDADES",E! FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923888
-#EXTINF:-1 tvg-id="e.br" tvg-name="E! HD" tvg-logo="https://static1.squarespace.com/static/5134d411e4b027b1c0564b1e/51968996e4b0af15cc44e4e0/519a8072e4b08ccdf8f320e9/1369079923811/e_logo.png" group-title="CANAIS | VARIEDADES",E! HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/45328
-#EXTINF:-1 tvg-id="e.br" tvg-name="E! SD" tvg-logo="https://static1.squarespace.com/static/5134d411e4b027b1c0564b1e/51968996e4b0af15cc44e4e0/519a8072e4b08ccdf8f320e9/1369079923811/e_logo.png" group-title="CANAIS | VARIEDADES",E! SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5421
-#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2 FHD" tvg-logo="https://imagizer.imageshack.com/img923/3127/lvs3XC.png" group-title="CANAIS | ESPORTES",ESPN 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5216
-#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2 HD" tvg-logo="https://imagizer.imageshack.com/img923/3127/lvs3XC.png" group-title="CANAIS | ESPORTES",ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5062
-#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2 SD" tvg-logo="https://imagizer.imageshack.com/img923/3127/lvs3XC.png" group-title="CANAIS | ESPORTES",ESPN 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5426
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 3 FHD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Qy3Pvx.png" group-title="CANAIS | ESPORTES",ESPN 3 FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/465905
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 3 HD" tvg-logo="https://imagizer.imageshack.com/img922/1584/5vkptX.png" group-title="CANAIS | ESPORTES",ESPN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/465906
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN 4 FHD" tvg-logo="https://imagizer.imageshack.com/img922/9148/ZWlkp3.png" group-title="CANAIS | ESPORTES",ESPN 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/465908
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN 4 HD" tvg-logo="https://imagizer.imageshack.com/img922/9148/ZWlkp3.png" group-title="CANAIS | ESPORTES",ESPN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/465909
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/UAoPlB.png" group-title="CANAIS | ESPORTES",ESPN EXTRA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5214
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/UAoPlB.png" group-title="CANAIS | ESPORTES",ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5065
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD" tvg-logo="https://imagizer.imageshack.com/img921/9168/ZCxqJS.png" group-title="CANAIS | ESPORTES",ESPN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5215
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://imagizer.imageshack.com/img921/9168/ZCxqJS.png" group-title="CANAIS | ESPORTES",ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5064
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN SD" tvg-logo="https://imagizer.imageshack.com/img921/9168/ZCxqJS.png" group-title="CANAIS | ESPORTES",ESPN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5425
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS  ( JOGO 4 )" tvg-logo="https://i.imgur.com/FWulsmb.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",ESTADIO TNT SPORTS  ( JOGO 4 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/457935
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS (JOGO 1)" tvg-logo="https://i.imgur.com/FWulsmb.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",ESTADIO TNT SPORTS (JOGO 1)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923310
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS (JOGO 2)" tvg-logo="https://i.imgur.com/FWulsmb.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",ESTADIO TNT SPORTS (JOGO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923311
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS (JOGO 3)" tvg-logo="https://i.imgur.com/FWulsmb.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",ESTADIO TNT SPORTS (JOGO 3)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923312
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS (JOGO 4)" tvg-logo="https://i.imgur.com/FWulsmb.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",ESTADIO TNT SPORTS (JOGO 4)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923313
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESTADIO TNT SPORTS HD" tvg-logo="https://i.imgur.com/FWulsmb.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",ESTADIO TNT SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923314
-#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT SPORTS  ( JOGO 2 )" tvg-logo="https://i.imgur.com/FWulsmb.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",ESTÁDIO TNT SPORTS  ( JOGO 2 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/442150
-#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT SPORTS  ( JOGO 3 )" tvg-logo="https://i.imgur.com/FWulsmb.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",ESTÁDIO TNT SPORTS  ( JOGO 3 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/442151
-#EXTINF:-1 tvg-id="" tvg-name="ESTÁDIO TNT SPORTS ( JOGO 1 )" tvg-logo="https://i.imgur.com/FWulsmb.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",ESTÁDIO TNT SPORTS ( JOGO 1 )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/442149
-#EXTINF:-1 tvg-id="fashion.br" tvg-name="FASHION TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="CANAIS | VARIEDADES",FASHION TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923898
-#EXTINF:-1 tvg-id="food.network.brasil.br" tvg-name="FOOD NETWORK FHD" tvg-logo="http://logocanais.ddns.net/Logo/FoodNetwork1.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5219
-#EXTINF:-1 tvg-id="food.network.brasil.br" tvg-name="FOOD NETWORK HD" tvg-logo="http://logocanais.ddns.net/Logo/FoodNetwork1.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5066
-#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWORK SD" tvg-logo="http://logocanais.ddns.net/Logo/FoodNetwork1.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5430
-#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/bbuhzx.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5224
-#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/bbuhzx.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5071
-#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/bbuhzx.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/68533
-#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/O6JzS4.png" group-title="CANAIS | DOCUMENTÁRIOS",Futura FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/477014
-#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/O6JzS4.png" group-title="CANAIS | DOCUMENTÁRIOS",Futura HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/477013
-#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/O6JzS4.png" group-title="CANAIS | DOCUMENTÁRIOS",FUTURA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/373197
-#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA SD " tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/O6JzS4.png" group-title="CANAIS | DOCUMENTÁRIOS",FUTURA SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923443
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/iQmTZB.png" group-title="CANAIS | FILMES & SERIES",FX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5225
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/iQmTZB.png" group-title="CANAIS | FILMES & SERIES",FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5073
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/iQmTZB.png" group-title="CANAIS | FILMES & SERIES",FX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5436
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLBO JUIZ DE FORA FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLBO JUIZ DE FORA FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/376154
-#EXTINF:-1 tvg-id="nsc.joinville.br" tvg-name="GLOBO  NSC TV JOINVILLE FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO  NSC TV JOINVILLE FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/71720
-#EXTINF:-1 tvg-id="rede.amazonica.rio.branco.br" tvg-name="GLOBO AMAZONICA RIO BRANCO HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO AMAZONICA RIO BRANCO HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/373941
-#EXTINF:-1 tvg-id="rede.amazonica.rio.branco.br" tvg-name="GLOBO AMAZONICA RIO BRANCO HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO AMAZONICA RIO BRANCO HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/466237
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO ASA BRANCA  HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO ASA BRANCA  HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/71741
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO ASA BRANCA FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO ASA BRANCA FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/117045
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO BAHIA FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO BAHIA FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/68520
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO BAHIA HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO BAHIA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/68521
-#EXTINF:-1 tvg-id="globo.belem.liberal.br" tvg-name="GLOBO BELEM  FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO BELEM  FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/466234
-#EXTINF:-1 tvg-id="globo.belo.horizonte.br" tvg-name="GLOBO BELO HORIZONTE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO BELO HORIZONTE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002204
-#EXTINF:-1 tvg-id="globo.belo.horizonte.br" tvg-name="GLOBO BELO HORIZONTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO BELO HORIZONTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002203
-#EXTINF:-1 tvg-id="globo.belo.horizonte.br" tvg-name="GLOBO BELO HORIZONTE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO BELO HORIZONTE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002202
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO BLUMENAL HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO BLUMENAL HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/767644
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO BLUMENAU FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO BLUMENAU FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/380572
-#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="GLOBO BRASILIA HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5353
-#EXTINF:-1 tvg-id="tv.cabo.branco.br" tvg-name="GLOBO CABO BRANCO FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO CABO BRANCO FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/362651
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO CENTRO AMERICA FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO CENTRO AMERICA FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/380556
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO CHAPECO FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO CHAPECO FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/767646
-#EXTINF:-1 tvg-id="nsc.chapeco.br" tvg-name="GLOBO CHAPECO HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO CHAPECO HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/380570
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO CHAPECO HD  " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO CHAPECO HD  
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/767647
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO EPTV COMPINAS HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV COMPINAS HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/362702
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRAO PRETO FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/374282
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRÃO PRETO HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/71698
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO EPTV SUL DE MINAS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV SUL DE MINAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/376148
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO EPTV SUL DE MINAS HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV SUL DE MINAS HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/376147
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO ES FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO ES FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/776527
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO ES HD  " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO ES HD  
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/776526
-#EXTINF:-1 tvg-id="rpc.foz.do.iguacu.br" tvg-name="GLOBO FOZ IGUAÇU FHD (" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO FOZ IGUAÇU FHD (
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/362659
-#EXTINF:-1 tvg-id="tv.mar.alagoas.br" tvg-name="GLOBO GAZETA ALAGOAS FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO GAZETA ALAGOAS FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/380743
-#EXTINF:-1 tvg-id="tv.mar.alagoas.br" tvg-name="GLOBO GAZETA ALAGOAS HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO GAZETA ALAGOAS HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/465157
-#EXTINF:-1 tvg-id="intertv.cabugi.br" tvg-name="GLOBO INTER CABUGI FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO INTER CABUGI FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/362679
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO INTER DOS VALES HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO INTER DOS VALES HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/376151
-#EXTINF:-1 tvg-id="intertv.cabugi.br" tvg-name="GLOBO INTER GABUGI HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO INTER GABUGI HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/362680
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO JRP  FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO JRP  FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/380706
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO JUIZ DE FORA HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO JUIZ DE FORA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/466233
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO JUIZ DE FORA HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO JUIZ DE FORA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/376153
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO MARINGA FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO MARINGA FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/776602
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO MARINGA HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO MARINGA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/776601
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS FHD" tvg-logo="https://imagizer.imageshack.com/v2/1280x1024q90/921/gIgONl.png" group-title="CANAIS | JORNALISMO",GLOBO NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/45264
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://imagizer.imageshack.com/v2/1280x1024q90/921/gIgONl.png" group-title="CANAIS | JORNALISMO",GLOBO NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5074
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://imagizer.imageshack.com/v2/1280x1024q90/921/gIgONl.png" group-title="CANAIS | JORNALISMO",GLOBO NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5439
-#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="GLOBO NORDESTE FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO NORDESTE FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/373370
-#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="GLOBO NORDESTE HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO NORDESTE HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/373369
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO NSC TV JOINVILLE HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO NSC TV JOINVILLE HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/68540
-#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="GLOBO PELOTAS FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO PELOTAS FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/466235
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO PORTO ALEGRE HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO PORTO ALEGRE HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/767641
-#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="GLOBO RBS PELOTAS " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO RBS PELOTAS 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/380569
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO RBS TV CAXIAS DO SUL FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO RBS TV CAXIAS DO SUL FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/71724
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO RBS TV CAXIAS DO SUL HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO RBS TV CAXIAS DO SUL HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/71723
-#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="GLOBO RBS TV PORTO ALEGRE HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO RBS TV PORTO ALEGRE HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5310
-#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO RJ FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5352
-#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO RJ HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5307
-#EXTINF:-1 tvg-id="ric.curitiba.br" tvg-name="GLOBO RPC CURITIBA FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO RPC CURITIBA FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/49430
-#EXTINF:-1 tvg-id="rpc.foz.do.iguacu.br" tvg-name="GLOBO RPC FOZ DO IGUAÇU HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO RPC FOZ DO IGUAÇU HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/71736
-#EXTINF:-1 tvg-id="ric.curitiba.br" tvg-name="GLOBO RPC TV CURITIBA HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO RPC TV CURITIBA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/49429
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SC HD  " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO SC HD  
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/767648
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SC NSC TV FLORIANOPOLIS FHD  " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",Globo SC NSC TV FLORIANOPOLIS FHD  
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/767649
-#EXTINF:-1 tvg-id="tv.sergipe.br" tvg-name="GLOBO SERGIPE HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO SERGIPE HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/362664
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SOROCABA FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO SOROCABA FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/380741
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP  FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO SP  FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5365
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP  HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO SP  HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5309
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP TV VANGUARDA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO SP TV VANGUARDA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/380742
-#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="GLOBO SÃO LUIS HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO SÃO LUIS HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/364887
-#EXTINF:-1 tvg-id="tv.anhanguera.br" tvg-name="GLOBO TV ANHAGUERA FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO TV ANHAGUERA FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/376141
-#EXTINF:-1 tvg-id="tv.anhanguera.br" tvg-name="GLOBO TV ANHAGUERA HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO TV ANHAGUERA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/376142
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO TV CAXIAS DO SUL FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO TV CAXIAS DO SUL FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/364881
-#EXTINF:-1 tvg-id="tv.clube.br" tvg-name="GLOBO TV CLUB HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO TV CLUB HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/71765
-#EXTINF:-1 tvg-id="tv.diario.br" tvg-name="GLOBO TV DIARIO HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO TV DIARIO HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/465450
-#EXTINF:-1 tvg-id="tv.gazeta.sul.br" tvg-name="GLOBO TV GAZETA SUL HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO TV GAZETA SUL HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/376136
-#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="GLOBO TV MIRANTE FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO TV MIRANTE FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/71747
-#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="GLOBO TV MIRANTE HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO TV MIRANTE HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5392
-#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="GLOBO TV MORENA FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO TV MORENA FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/466236
-#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="GLOBO TV MORENA HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO TV MORENA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/376156
-#EXTINF:-1 tvg-id="tv.rio.sul.br" tvg-name="GLOBO TV RIO SUL HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO TV RIO SUL HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/364878
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO TV TEM BAURU HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO TV TEM BAURU HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/374208
-#EXTINF:-1 tvg-id="tv.tribuna.br" tvg-name="GLOBO TV TRIBUNA HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO TV TRIBUNA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/374110
-#EXTINF:-1 tvg-id="tv.tribuna.br" tvg-name="GLOBO TV TRIBUNA SANTOS FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO TV TRIBUNA SANTOS FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/71759
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO TV TV SOROCABA HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO TV TV SOROCABA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5525
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO TV VANGUARDA  SJC FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO TV VANGUARDA  SJC FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/117071
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO TV VANGUARDA  SJC HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO TV VANGUARDA  SJC HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/117048
-#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="GLOBO TV VERDE MARES HD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",GLOBO TV VERDE MARES HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/376133
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB FHD" tvg-logo="http://logocanais.ddns.net/Logo/Gloob1.png" group-title="CANAIS | INFANTIS",GLOOB FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5227
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="http://logocanais.ddns.net/Logo/Gloob1.png" group-title="CANAIS | INFANTIS",GLOOB HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5076
-#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/OiiizV.png" group-title="CANAIS | INFANTIS",GLOOBINHO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/374296
-#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/OiiizV.png" group-title="CANAIS | INFANTIS",GLOOBINHO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/374297
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD" tvg-logo="http://logocanais.ddns.net/Logo/GNT1.png" group-title="CANAIS | VARIEDADES",GNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5228
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="http://logocanais.ddns.net/Logo/GNT1.png" group-title="CANAIS | VARIEDADES",GNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5077
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD" tvg-logo="http://logocanais.ddns.net/Logo/GNT1.png" group-title="CANAIS | VARIEDADES",GNT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5444
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FHD" tvg-logo="https://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png" group-title="CANAIS | REDE HBO",HBO 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/17912
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD" tvg-logo="https://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png" group-title="CANAIS | REDE HBO",HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5078
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 SD" tvg-logo="https://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png" group-title="CANAIS | REDE HBO",HBO 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5449
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY FHD" tvg-logo="https://i.imgur.com/alOqjXS.png" group-title="CANAIS | REDE HBO",HBO FAMILY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5229
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.imgur.com/alOqjXS.png" group-title="CANAIS | REDE HBO",HBO FAMILY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5079
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY SD" tvg-logo="https://i.imgur.com/alOqjXS.png" group-title="CANAIS | REDE HBO",HBO FAMILY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5446
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png" group-title="CANAIS | REDE HBO",HBO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/355045
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png" group-title="CANAIS | REDE HBO",HBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/355046
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO MAX 1 HD" tvg-logo="https://i.imgur.com/MA5mS1l.png" group-title="CANAIS | HBO MAX E STAR+",HBO MAX 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/355727
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1 HD (ALT)" tvg-logo="https://i.imgur.com/MA5mS1l.png" group-title="CANAIS | HBO MAX E STAR+",HBO MAX 1 HD (ALT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923173
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO MAX 2 HD" tvg-logo="https://i.imgur.com/MA5mS1l.png" group-title="CANAIS | HBO MAX E STAR+",HBO MAX 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/355728
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 HD (ALT)" tvg-logo="https://i.imgur.com/MA5mS1l.png" group-title="CANAIS | HBO MAX E STAR+",HBO MAX 2 HD (ALT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923174
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO MAX 3 HD" tvg-logo="https://i.imgur.com/MA5mS1l.png" group-title="CANAIS | HBO MAX E STAR+",HBO MAX 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/355729
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 HD (ALT)" tvg-logo="https://i.imgur.com/MA5mS1l.png" group-title="CANAIS | HBO MAX E STAR+",HBO MAX 3 HD (ALT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923175
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO MAX 4 HD" tvg-logo="https://i.imgur.com/MA5mS1l.png" group-title="CANAIS | HBO MAX E STAR+",HBO MAX 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/355730
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4 HD (ALT)" tvg-logo="https://i.imgur.com/MA5mS1l.png" group-title="CANAIS | HBO MAX E STAR+",HBO MAX 4 HD (ALT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923176
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI FHD" tvg-logo="https://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png" group-title="CANAIS | REDE HBO",HBO MUNDI FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5239
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png" group-title="CANAIS | REDE HBO",HBO MUNDI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5087
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI SD" tvg-logo="https://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png" group-title="CANAIS | REDE HBO",HBO MUNDI SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923558
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS | REDE HBO",HBO PLUS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923015
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/3IBU8y.png" group-title="CANAIS | REDE HBO",HBO PLUS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923455
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD" tvg-logo="https://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png" group-title="CANAIS | REDE HBO",HBO POP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5241
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="https://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png" group-title="CANAIS | REDE HBO",HBO POP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5089
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP SD" tvg-logo="https://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png" group-title="CANAIS | REDE HBO",HBO POP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923559
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png" group-title="CANAIS | REDE HBO",HBO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5445
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png" group-title="CANAIS | REDE HBO",HBO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5447
-#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/B16iIp.png" group-title="CANAIS | REDE HBO",HBO SIGNATURE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5082
-#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/B16iIp.png" group-title="CANAIS | REDE HBO",HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/45334
-#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/B16iIp.png" group-title="CANAIS | REDE HBO",HBO SIGNATURE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5448
-#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FHD" tvg-logo="https://3.bp.blogspot.com/-wpkT1kBB508/XmQfxsbum-I/AAAAAAAACTI/CWh7uRsUWmsEWbF8du8SchSJrkHM3-EAwCK4BGAYYCw/s400/HBO%2BXTRE.png" group-title="CANAIS | REDE HBO",HBO XTREME FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5240
-#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME HD" tvg-logo="https://3.bp.blogspot.com/-wpkT1kBB508/XmQfxsbum-I/AAAAAAAACTI/CWh7uRsUWmsEWbF8du8SchSJrkHM3-EAwCK4BGAYYCw/s400/HBO%2BXTRE.png" group-title="CANAIS | REDE HBO",HBO XTREME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5088
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/yLVo0Y.png" group-title="CANAIS | VARIEDADES",HGTV FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5204
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/yLVo0Y.png" group-title="CANAIS | VARIEDADES",HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5052
-#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5235
-#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 FHD " tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923832
-#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5083
-#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 HD " tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923017
-#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 SD " tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923458
-#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 SD (ALT)" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 SD (ALT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5450
-#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5084
-#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5534
-#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5234
-#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY FHD " tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923807
-#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY HD " tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923018
-#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY SD " tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY SD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923541
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="https://imagizer.imageshack.com/img923/9138/z7mtU6.png" group-title="CANAIS | FILMES & SERIES",MEGAPIX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5242
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://imagizer.imageshack.com/img923/9138/z7mtU6.png" group-title="CANAIS | FILMES & SERIES",MEGAPIX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5090
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://imagizer.imageshack.com/img923/9138/z7mtU6.png" group-title="CANAIS | FILMES & SERIES",MEGAPIX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5458
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW FHD" tvg-logo="http://logocanais.ddns.net/Logo/Multishow1.png" group-title="CANAIS | VARIEDADES",MULTISHOW FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5244
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-logo="http://logocanais.ddns.net/Logo/Multishow1.png" group-title="CANAIS | VARIEDADES",MULTISHOW HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5092
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW SD" tvg-logo="http://logocanais.ddns.net/Logo/Multishow1.png" group-title="CANAIS | VARIEDADES",MULTISHOW SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5460
-#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="MUSIC BOX BRAZIL HD" tvg-logo="http://logocanais.ddns.net/Logo/Musicboxbrasil1.png" group-title="CANAIS | MUSICA",MUSIC BOX BRAZIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5462
-#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="MUSIC BOX BRAZIL SD" tvg-logo="http://logocanais.ddns.net/Logo/Musicboxbrasil1.png" group-title="CANAIS | MUSICA",MUSIC BOX BRAZIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/45325
-#EXTINF:-1 tvg-id="" tvg-name="Naruto 24h" tvg-logo="https://imgur.com/046zDW4.png" group-title="CANAIS | PLUTO TV",Naruto 24h
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/393035
-#EXTINF:-1 tvg-id="natgeo.wild.br" tvg-name="NATGEO WILD FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo-2.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO WILD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923829
-#EXTINF:-1 tvg-id="natgeo.wild.br" tvg-name="NATGEO WILD HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo-2.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923029
-#EXTINF:-1 tvg-id="natgeo.wild.br" tvg-name="NATGEO WILD SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo-2.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO WILD SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923471
-#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/ZwiPeb.png" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/104677
-#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/ZwiPeb.png" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/104678
-#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/ZwiPeb.png" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/104679
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 1 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-10.png" group-title="CANAIS | NBA",NBA League Pass 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766210
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-10.png" group-title="CANAIS | NBA",NBA League Pass 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766211
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-10.png" group-title="CANAIS | NBA",NBA League Pass 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766212
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-10.png" group-title="CANAIS | NBA",NBA League Pass 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766213
-#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 5 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-10.png" group-title="CANAIS | NBA",NBA League Pass 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766214
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-10.png" group-title="CANAIS | NBA",NBA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766209
-#EXTINF:-1 tvg-id="" tvg-name="NHK FHD (JAPONES)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/1024px-NHK_logo.svg.png" group-title="CANAIS | ESPORTES",NHK FHD (JAPONES)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923383
-#EXTINF:-1 tvg-id="" tvg-name="NHK HD (JAPONES)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/1024px-NHK_logo.svg.png" group-title="CANAIS | ESPORTES",NHK HD (JAPONES)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923382
-#EXTINF:-1 tvg-id="" tvg-name="NHK SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/1024px-NHK_logo.svg.png" group-title="CANAIS | ESPORTES",NHK SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923473
-#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR FHD" tvg-logo="https://seeklogo.com/images/N/nick-jr-logo-DC18CDB75D-seeklogo.com.png" group-title="CANAIS | INFANTIS",NICK JR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5249
-#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR HD" tvg-logo="https://seeklogo.com/images/N/nick-jr-logo-DC18CDB75D-seeklogo.com.png" group-title="CANAIS | INFANTIS",NICK JR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/45295
-#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON FHD" tvg-logo="http://logocanais.ddns.net/Logo/nick1.png" group-title="CANAIS | INFANTIS",NICKELODEON FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5248
-#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON HD" tvg-logo="http://logocanais.ddns.net/Logo/nick1.png" group-title="CANAIS | INFANTIS",NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5096
-#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="NOVO TEMPO FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/rzf5NE.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/374361
-#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="NOVO TEMPO HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/rzf5NE.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/45255
-#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="NOVO TEMPO HD (ALT)" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/rzf5NE.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO HD (ALT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923078
-#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="NOVO TEMPO SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/rzf5NE.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923543
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF FHD" tvg-logo="http://logocanais.ddns.net/Logo/OFF1.png" group-title="CANAIS | ESPORTES",OFF FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5250
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="http://logocanais.ddns.net/Logo/OFF1.png" group-title="CANAIS | ESPORTES",OFF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5098
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD" tvg-logo="http://logocanais.ddns.net/Logo/OFF1.png" group-title="CANAIS | ESPORTES",OFF SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5468
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD" tvg-logo="http://logocanais.ddns.net/Logo/OFF1.png" group-title="CANAIS | ESPORTES",OFF SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923476
-#EXTINF:-1 tvg-id="" tvg-name="PAN | HOSSANA VISION" tvg-logo="" group-title=" PERU",PAN | HOSSANA VISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/998193
-#EXTINF:-1 tvg-id="" tvg-name="PANAMA | HOSANNA VISIION HD" tvg-logo="" group-title=" PERU",PANAMA | HOSANNA VISIION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/998219
-#EXTINF:-1 tvg-id="" tvg-name="PANAMA | TVN 2 SD" tvg-logo="" group-title=" PERU",PANAMA | TVN 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/998256
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/1kqPRZ.png" group-title="CANAIS | FILMES & SERIES",PARAMOUNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5251
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/1kqPRZ.png" group-title="CANAIS | FILMES & SERIES",PARAMOUNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5099
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/1kqPRZ.png" group-title="CANAIS | FILMES & SERIES",PARAMOUNT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5469
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS | PREMIERE",PREMIERE 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/128493
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS | PREMIERE",PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/128489
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS | PREMIERE",PREMIERE 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5473
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS | PREMIERE",PREMIERE 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5254
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS | PREMIERE",PREMIERE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5101
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS | PREMIERE",PREMIERE 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/56159
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS | PREMIERE",PREMIERE 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5255
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS | PREMIERE",PREMIERE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5102
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS | PREMIERE",PREMIERE 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5475
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS | PREMIERE",PREMIERE 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5256
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS | PREMIERE",PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/45345
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS | PREMIERE",PREMIERE 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5476
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5257
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS | PREMIERE",PREMIERE 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5104
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS | PREMIERE",PREMIERE 6 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5477
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS | PREMIERE",PREMIERE 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5258
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS | PREMIERE",PREMIERE 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5105
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS | PREMIERE",PREMIERE 7 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5478
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/372983
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/372984
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5481
-#EXTINF:-1 tvg-id="record.bahia.br" tvg-name="Record BA - ITAPOAN HD  " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",Record BA - ITAPOAN HD  
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/70990
-#EXTINF:-1 tvg-id="record.bahia.br" tvg-name="Record BA HD  " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",Record BA HD  
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/389104
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD BELEM DO PARÁ FHD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD BELEM DO PARÁ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002418
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD BELEM DO PARÁ HD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD BELEM DO PARÁ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002419
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD CABRALIA FHD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD CABRALIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002420
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD CABRALIA HD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD CABRALIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002421
-#EXTINF:-1 tvg-id="cnt.br" tvg-name="RECORD CAMPINAS HD  " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD CAMPINAS HD  
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/373936
-#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="Record DF - HD  " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",Record DF - HD  
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766215
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record ES - HD " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",Record ES - HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766216
-#EXTINF:-1 tvg-id="record.goias.br" tvg-name="RECORD GO HD  " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD GO HD  
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/70996
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD GOIAS FULL HD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD GOIAS FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002422
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD GOIAS HD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD GOIAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002423
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD INTERIOR SP FHD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD INTERIOR SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002424
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD INTERIOR SP HD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD INTERIOR SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002425
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD ITAPOAN FHD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD ITAPOAN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002426
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD ITAPOAN HD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD ITAPOAN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002427
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD LITORAL VALE DO PARNAÍBA FHD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD LITORAL VALE DO PARNAÍBA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002428
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD LITORAL VALE DO PARNAÍBA HD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD LITORAL VALE DO PARNAÍBA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002429
-#EXTINF:-1 tvg-id="record.minas.br" tvg-name="RECORD MG HD  " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD MG HD  
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5179
-#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/2bve95.png" group-title="CANAIS | JORNALISMO",RECORD NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/115704
-#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/2bve95.png" group-title="CANAIS | JORNALISMO",RECORD NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5484
-#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/2bve95.png" group-title="CANAIS | JORNALISMO",RECORD NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/17922
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record PA - Belém HD  " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",Record PA - Belém HD  
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/68542
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD PARANAÍBA DE UBERLÂNDIA FHD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD PARANAÍBA DE UBERLÂNDIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002430
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD PARANAÍBA DE UBERLÂNDIA HD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD PARANAÍBA DE UBERLÂNDIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002431
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD PAULISTA FHD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD PAULISTA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002432
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD PAULISTA HD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD PAULISTA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002433
-#EXTINF:-1 tvg-id="record.porto.alegre.br" tvg-name="Record PR Maringá HD  " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",Record PR Maringá HD  
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5319
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RIO FHD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD RIO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002434
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RIO HD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD RIO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002435
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RIO PRETO FULL HD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD RIO PRETO FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002436
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RIO PRETO HD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD RIO PRETO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002437
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RJ FHD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD RJ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923402
-#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORD RJ HD " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD RJ HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5320
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RJ INTERIOR FHD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD RJ INTERIOR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002438
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RJ INTERIOR HD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD RJ INTERIOR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002439
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RS FHD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD RS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002440
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RS HD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD RS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002441
-#EXTINF:-1 tvg-id="record.rs.br" tvg-name="Record RS HD  " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",Record RS HD  
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/35165
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SIC TV RONDÔNIA FHD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD SIC TV RONDÔNIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002442
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SIC TV RONDÔNIA HD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD SIC TV RONDÔNIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002443
-#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="Record SP - Interior FHD  " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",Record SP - Interior FHD  
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/57255
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP FHD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002444
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP HD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923324
-#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORD SP HD  " tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD SP HD  
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5316
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV THATHI CAMPINAS FHD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD TV THATHI CAMPINAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002445
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV THATHI CAMPINAS HD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD TV THATHI CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002446
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV VILA REAL FHD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD TV VILA REAL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002447
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV VILA REAL HD" tvg-logo="https://i.imgur.com/A70v3be.png" group-title="CANAIS | ABERTOS",RECORD TV VILA REAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002448
-#EXTINF:-1 tvg-id="rede.brasil.br" tvg-name="REDE BRASIL HD" tvg-logo="http://www.imprensaemidia.com.br/wp-content/uploads/2018/04/LOGO-RBTV-Alta-resolu%C3%A7%C3%A3o.png" group-title="CANAIS | ABERTOS",REDE BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/374283
-#EXTINF:-1 tvg-id="rede.super.br" tvg-name="REDE SUPER HD" tvg-logo="http://54.39.132.164:3390/resize.php?max=42&url=https://imagizer.imageshack.com/v2/640x480q90/924/4WZG0T.png" group-title="CANAIS | RELIGIOSOS",REDE SUPER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923553
-#EXTINF:-1 tvg-id="rede.super.br" tvg-name="REDE SUPER SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/4WZG0T.png" group-title="CANAIS | RELIGIOSOS",REDE SUPER SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/374356
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV FHD " tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/1Tz7RO.png" group-title="CANAIS | ABERTOS",REDE TV FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/354855
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! HD " tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/1Tz7RO.png" group-title="CANAIS | ABERTOS",REDE TV! HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5108
-#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="REDE VIDA HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/E95uWE.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5488
-#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="REDE VIDA SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/E95uWE.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923495
-#EXTINF:-1 tvg-id="" tvg-name="RIT TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Rede_Internacional_de_Televis%C3%A3o.png" group-title="CANAIS | RELIGIOSOS",RIT TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923132
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT ITAPOAN HD" tvg-logo="http://appcliente.com:8880/images/9ba9eb9f5e6a710ac76e1e6719dad1af.png" group-title="CANAIS | ABERTOS",SBT ITAPOAN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002411
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT PR HD " tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="CANAIS | ABERTOS",SBT PR HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/68527
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RIO FHD" tvg-logo="http://appcliente.com:8880/images/9ba9eb9f5e6a710ac76e1e6719dad1af.png" group-title="CANAIS | ABERTOS",SBT RIO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002412
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RIO HD" tvg-logo="http://appcliente.com:8880/images/9ba9eb9f5e6a710ac76e1e6719dad1af.png" group-title="CANAIS | ABERTOS",SBT RIO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002413
-#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ CAPITAL HD " tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="CANAIS | ABERTOS",SBT RJ CAPITAL HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/68529
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RS FHD" tvg-logo="http://appcliente.com:8880/images/9ba9eb9f5e6a710ac76e1e6719dad1af.png" group-title="CANAIS | ABERTOS",SBT RS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002414
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RS HD" tvg-logo="http://appcliente.com:8880/images/9ba9eb9f5e6a710ac76e1e6719dad1af.png" group-title="CANAIS | ABERTOS",SBT RS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002415
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP FHD " tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="CANAIS | ABERTOS",SBT SP FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923894
-#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP FHD " tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="CANAIS | ABERTOS",SBT SP FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/68532
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="CANAIS | ABERTOS",SBT SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923395
-#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP HD " tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="CANAIS | ABERTOS",SBT SP HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/68531
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV ALTEROSA FHD" tvg-logo="http://appcliente.com:8880/images/9ba9eb9f5e6a710ac76e1e6719dad1af.png" group-title="CANAIS | ABERTOS",SBT TV ALTEROSA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002416
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV ALTEROSA HD" tvg-logo="http://appcliente.com:8880/images/9ba9eb9f5e6a710ac76e1e6719dad1af.png" group-title="CANAIS | ABERTOS",SBT TV ALTEROSA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002417
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KVkqxa.png" group-title="CANAIS | FILMES & SERIES",SPACE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5261
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KVkqxa.png" group-title="CANAIS | FILMES & SERIES",SPACE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5109
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/KVkqxa.png" group-title="CANAIS | FILMES & SERIES",SPACE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/49321
-#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA HD" tvg-logo="https://download.logo.wine/logo/Lotto_Sport_Italia/Lotto_Sport_Italia-Logo.wine.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",SPORT ITALIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923171
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://imagizer.imageshack.com/img922/3338/HOOHC6.png" group-title="CANAIS | ESPORTES",SPORTV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5262
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://imagizer.imageshack.com/img922/3338/HOOHC6.png" group-title="CANAIS | ESPORTES",SPORTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5110
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://imagizer.imageshack.com/img922/3338/HOOHC6.png" group-title="CANAIS | ESPORTES",SPORTV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5495
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="https://imagizer.imageshack.com/img922/3338/HOOHC6.png" group-title="CANAIS | ESPORTES",SPORTV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5263
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://imagizer.imageshack.com/img922/3338/HOOHC6.png" group-title="CANAIS | ESPORTES",SPORTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5111
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://imagizer.imageshack.com/img922/3338/HOOHC6.png" group-title="CANAIS | ESPORTES",SPORTV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5496
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://imagizer.imageshack.com/img922/3338/HOOHC6.png" group-title="CANAIS | ESPORTES",SPORTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/29359
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="https://imagizer.imageshack.com/img922/3338/HOOHC6.png" group-title="CANAIS | ESPORTES",SPORTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5112
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV SD" tvg-logo="https://imagizer.imageshack.com/img922/3338/HOOHC6.png" group-title="CANAIS | ESPORTES",SPORTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5494
-#EXTINF:-1 tvg-id="" tvg-name="STAR + 2 HD" tvg-logo="https://i.imgur.com/fKYD2IF.png" group-title="CANAIS | HBO MAX E STAR+",STAR + 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923177
-#EXTINF:-1 tvg-id="" tvg-name="STAR + 3 HD" tvg-logo="https://i.imgur.com/fKYD2IF.png" group-title="CANAIS | HBO MAX E STAR+",STAR + 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923178
-#EXTINF:-1 tvg-id="" tvg-name="STAR + HD" tvg-logo="https://i.imgur.com/fKYD2IF.png" group-title="CANAIS | HBO MAX E STAR+",STAR + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923172
-#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/p6i9NV.png" group-title="CANAIS | FILMES & SERIES",STAR CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5220
-#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/p6i9NV.png" group-title="CANAIS | FILMES & SERIES",STAR CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5067
-#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/p6i9NV.png" group-title="CANAIS | FILMES & SERIES",STAR CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5817
-#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="CANAIS | VARIEDADES",STAR LIFE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923440
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1 HD" tvg-logo="https://i.imgur.com/fKYD2IF.png" group-title="CANAIS | HBO MAX E STAR+",STAR+ 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/442153
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2 HD" tvg-logo="https://i.imgur.com/fKYD2IF.png" group-title="CANAIS | HBO MAX E STAR+",STAR+ 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/442154
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3 HD" tvg-logo="https://i.imgur.com/fKYD2IF.png" group-title="CANAIS | HBO MAX E STAR+",STAR+ 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/442155
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/Jbr3A1.png" group-title="CANAIS | FILMES & SERIES",STUDIO UNIVERSAL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5265
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/Jbr3A1.png" group-title="CANAIS | FILMES & SERIES",STUDIO UNIVERSAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5113
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/Jbr3A1.png" group-title="CANAIS | FILMES & SERIES",STUDIO UNIVERSAL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5497
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/5b1MAd.png" group-title="CANAIS | FILMES & SERIES",SYFY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5266
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/5b1MAd.png" group-title="CANAIS | FILMES & SERIES",SYFY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923881
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/5b1MAd.png" group-title="CANAIS | FILMES & SERIES",SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5114
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/5b1MAd.png" group-title="CANAIS | FILMES & SERIES",SYFY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5498
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS FHD" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png" group-title="CANAIS | FILMES & SERIES",TBS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5267
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS FHD (ALT)" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png" group-title="CANAIS | FILMES & SERIES",TBS FHD (ALT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923880
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png" group-title="CANAIS | FILMES & SERIES",TBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5115
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS SD" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png" group-title="CANAIS | FILMES & SERIES",TBS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923506
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS | FILMES & SERIES",TCM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923901
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS | FILMES & SERIES",TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923103
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS | FILMES & SERIES",TCM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923507
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/967/full/Tcactionb-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE ACTION FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5268
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/967/full/Tcactionb-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5116
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/967/full/Tcactionb-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE ACTION SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5501
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/995/full/Telecine_Cult_2019.png" group-title="CANAIS | REDE TELECINE",TELECINE CULT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5269
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/995/full/Telecine_Cult_2019.png" group-title="CANAIS | REDE TELECINE",TELECINE CULT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5117
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/995/full/Telecine_Cult_2019.png" group-title="CANAIS | REDE TELECINE",TELECINE CULT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5502
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/974/full/Tcfunb-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE FUN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5270
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/974/full/Tcfunb-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE FUN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5118
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/974/full/Tcfunb-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE FUN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5503
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA FHD " tvg-logo="https://uploaddeimagens.com.br/images/003/646/984/full/Tcpipocab-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE PIPOCA FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5271
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/984/full/Tcpipocab-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE PIPOCA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5119
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/984/full/Tcpipocab-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE PIPOCA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5504
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/992/full/Tcpremiumb.png" group-title="CANAIS | REDE TELECINE",TELECINE PREMIUM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5272
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/992/full/Tcpremiumb.png" group-title="CANAIS | REDE TELECINE",TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5120
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/992/full/Tcpremiumb.png" group-title="CANAIS | REDE TELECINE",TELECINE PREMIUM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5505
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/993/full/Tctouchb-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE TOUCH FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5273
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/993/full/Tctouchb-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5121
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://uploaddeimagens.com.br/images/003/646/993/full/Tctouchb-removebg-preview.png" group-title="CANAIS | REDE TELECINE",TELECINE TOUCH SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5506
-#EXTINF:-1 tvg-id="terra.viva.br" tvg-name="TERRA VIVA HD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/BBdTfu.png" group-title="CANAIS | ABERTOS",TERRA VIVA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/374284
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/55JFAv.png" group-title="CANAIS | VARIEDADES",TLC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5274
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/55JFAv.png" group-title="CANAIS | FILMES & SERIES",TLC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923835
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TLC HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/55JFAv.png" group-title="CANAIS | FILMES & SERIES",TLC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/354854
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD (ALT)" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/55JFAv.png" group-title="CANAIS | FILMES & SERIES",TLC HD (ALT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923056
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TLC SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/55JFAv.png" group-title="CANAIS | FILMES & SERIES",TLC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5500
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Fvgx5G.png" group-title="CANAIS | FILMES & SERIES",TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5275
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Fvgx5G.png" group-title="CANAIS | FILMES & SERIES",TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5123
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD (ALT)" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Fvgx5G.png" group-title="CANAIS | FILMES & SERIES",TNT HD (ALT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923057
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Fvgx5G.png" group-title="CANAIS | FILMES & SERIES",TNT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5509
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qcqLWr.png" group-title="CANAIS | FILMES & SERIES",TNT SERIES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5276
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qcqLWr.png" group-title="CANAIS | FILMES & SERIES",TNT SERIES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923873
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES HD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qcqLWr.png" group-title="CANAIS | FILMES & SERIES",TNT SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5124
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES SD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qcqLWr.png" group-title="CANAIS | FILMES & SERIES",TNT SERIES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5510
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/UkI8z8.png" group-title="CANAIS | INFANTIS",TOONCAST FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923860
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/UkI8z8.png" group-title="CANAIS | INFANTIS",TOONCAST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5511
-#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="Travel Box Brazil FHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="CANAIS | MUSICA",Travel Box Brazil FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/384894
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRUTV SD" tvg-logo="https://cdn.mitvstatic.com/channels/br_trutv-1_m.png" group-title="CANAIS | VARIEDADES",TRUTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923519
-#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV APARECIDA FHD" tvg-logo="https://imageshack.com/a/img923/6936/3OeYjR.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/374358
-#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV APARECIDA HD" tvg-logo="https://imageshack.com/a/img923/6936/3OeYjR.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/57362
-#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV APARECIDA SD" tvg-logo="https://imageshack.com/a/img923/6936/3OeYjR.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923521
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/TV_Brasil_logo.png" group-title="CANAIS | ABERTOS",TV BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/374285
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV Cultura HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/TPnvmR.png" group-title="CANAIS | ABERTOS",TV Cultura HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/374286
-#EXTINF:-1 tvg-id="rede.ngt.nova.geracao.br" tvg-name="TV EVANGELIZAR SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/TAa54t.png" group-title="CANAIS | RELIGIOSOS",TV EVANGELIZAR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/374381
-#EXTINF:-1 tvg-id="tv.mundial.br" tvg-name="TV MUNDIAL SD²" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/zx04si.png" group-title="CANAIS | RELIGIOSOS",TV MUNDIAL SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/374360
-#EXTINF:-1 tvg-id="DAZN 4" tvg-name="TV NSPORTS HD (JOGO 1)" tvg-logo="https://i.imgur.com/oBefMHX.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",TV NSPORTS HD (JOGO 1)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/442148
-#EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS HD (JOGO 1) (ALT)" tvg-logo="https://i.imgur.com/oBefMHX.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",TV NSPORTS HD (JOGO 1) (ALT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923133
-#EXTINF:-1 tvg-id="DAZN 3" tvg-name="TV NSPORTS HD (JOGO 2)" tvg-logo="https://i.imgur.com/oBefMHX.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",TV NSPORTS HD (JOGO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/442147
-#EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS HD (JOGO 2) (ALT)" tvg-logo="https://i.imgur.com/oBefMHX.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",TV NSPORTS HD (JOGO 2) (ALT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923134
-#EXTINF:-1 tvg-id="DAZN 2" tvg-name="TV NSPORTS HD (JOGO 3)" tvg-logo="https://i.imgur.com/oBefMHX.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",TV NSPORTS HD (JOGO 3)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/442146
-#EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS HD (JOGO 3) (ALT)" tvg-logo="https://i.imgur.com/oBefMHX.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",TV NSPORTS HD (JOGO 3) (ALT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923135
-#EXTINF:-1 tvg-id="tv.pai.eterno.br" tvg-name="TV PAI ETERNO FHD" tvg-logo="http://imageshack.com/a/img922/7467/FH96Y1.png" group-title="CANAIS | RELIGIOSOS",TV PAI ETERNO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/374383
-#EXTINF:-1 tvg-id="tv.pai.eterno.br" tvg-name="TV PAI ETERNO HD" tvg-logo="http://imageshack.com/a/img922/7467/FH96Y1.png" group-title="CANAIS | RELIGIOSOS",TV PAI ETERNO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/374382
-#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO SD" tvg-logo="http://imageshack.com/a/img922/7467/FH96Y1.png" group-title="CANAIS | RELIGIOSOS",TV PAI ETERNO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923128
-#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV RA TIM BUM FHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_ra-tim-bum-1_m.png" group-title="CANAIS | INFANTIS",TV RA TIM BUM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/465346
-#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV RA TIM BUM HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_ra-tim-bum-1_m.png" group-title="CANAIS | INFANTIS",TV RA TIM BUM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5127
-#EXTINF:-1 tvg-id="universal.br" tvg-name="TV UNIVERSAL SD" tvg-logo="https://imagizer.imageshack.com/img924/930/Un6ttf.gif" group-title="CANAIS | RELIGIOSOS",TV UNIVERSAL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/374385
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="TV VANGUARDA TAUBATE FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="CANAIS | GLOBO",TV VANGUARDA TAUBATE FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/362708
-#EXTINF:-1 tvg-id="" tvg-name="UEFA | ELEVEN 1 HD PORTUGAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS | ELEVEN SPORTES",UEFA | ELEVEN 1 HD PORTUGAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/1002196
-#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/6TvXnU.png" group-title="CANAIS | FILMES & SERIES",UNIVERSAL TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5280
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/6TvXnU.png" group-title="CANAIS | FILMES & SERIES",UNIVERSAL TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5129
-#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/6TvXnU.png" group-title="CANAIS | FILMES & SERIES",UNIVERSAL TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5535
-#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA FHD" tvg-logo="https://uploaddeimagens.com.br/images/003/647/070/thumb/Canal_Viva_logo_2014.png" group-title="CANAIS | VARIEDADES",VIVA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/30742
-#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA HD" tvg-logo="https://uploaddeimagens.com.br/images/003/647/070/thumb/Canal_Viva_logo_2014.png" group-title="CANAIS | VARIEDADES",VIVA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5131
-#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA SD" tvg-logo="https://uploaddeimagens.com.br/images/003/647/070/thumb/Canal_Viva_logo_2014.png" group-title="CANAIS | VARIEDADES",VIVA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5530
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png" group-title="CANAIS | FILMES & SERIES",WARNER CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5282
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png" group-title="CANAIS | FILMES & SERIES",WARNER CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5132
-#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL HD (ALT 2)" tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png" group-title="CANAIS | FILMES & SERIES",WARNER CHANNEL HD (ALT 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/994819
-#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD (ALT)" tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png" group-title="CANAIS | FILMES & SERIES",Warner Channel HD (ALT)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/994818
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png" group-title="CANAIS | FILMES & SERIES",WARNER CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5531
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/DX99xs.png" group-title="CANAIS | ESPORTES",WOOHOO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5283
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/DX99xs.png" group-title="CANAIS | ESPORTES",WOOHOO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5532
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/DX99xs.png" group-title="CANAIS | ESPORTES",WOOHOO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923539
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO TV FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/DX99xs.png" group-title="CANAIS | ESPORTES",WOOHOO TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923899
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO FHD" tvg-logo="https://imagizer.imageshack.com/img921/6128/Ucr8mo.png" group-title="CANAIS | INFANTIS",ZOOMOO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/923858
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO HD" tvg-logo="https://imagizer.imageshack.com/img921/6128/Ucr8mo.png" group-title="CANAIS | INFANTIS",ZOOMOO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/5533
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - 3 Palavrinhas" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - 3 Palavrinhas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766529
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - A Feiticeira" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - A Feiticeira
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766664
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - A Grande Familia" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - A Grande Familia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766665
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - A Vaca e o Frango Temp 1" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - A Vaca e o Frango Temp 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766539
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - A Vaca e o Frango Temp 2" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - A Vaca e o Frango Temp 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766540
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - A Vaca e o Frango Temp 3" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - A Vaca e o Frango Temp 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766541
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - A Vaca e o Frango Temp 4" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - A Vaca e o Frango Temp 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766542
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Agente Carter - T01" tvg-logo="http://01.perfeita.in:80/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS | SERIES 24h",[24H] - Agente Carter - T01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766667
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Agente Carter - T02" tvg-logo="http://01.perfeita.in:80/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS | SERIES 24h",[24H] - Agente Carter - T02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766668
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Agora Muppets" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Agora Muppets
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766669
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Aladin" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Aladin
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766543
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - As Mais Tocadas 2022" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SHOWS 24h",[24H] - As Mais Tocadas 2022
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766825
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - As Meninas Superpoderosas" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - As Meninas Superpoderosas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766545
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Ben 10" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Ben 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766549
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Bluey" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Bluey
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766663
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Bob Esponja" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Bob Esponja
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766553
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Breaking Bad" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Breaking Bad
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766671
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Carrossel 1989" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Carrossel 1989
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766771
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Caverna do Dragão" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Caverna do Dragão
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766565
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Chapolin Colorado" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Chapolin Colorado
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766673
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Chaves" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Chaves
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766675
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Chaves Desenho" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Chaves Desenho
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766567
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Corridas Proibidas" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Corridas Proibidas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766677
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Corridas Proibidas 2" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Corridas Proibidas 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766734
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Cupom Mania - T01" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Cupom Mania - T01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766569
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Cupom Mania - T02" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Cupom Mania - T02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766570
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Cupom Mania - T03" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Cupom Mania - T03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766571
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Cão Coragem" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Cão Coragem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766572
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Denis o Pimentinha" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Denis o Pimentinha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766574
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Desenhos Biblicos" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Desenhos Biblicos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766575
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Desenhos Disney" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Desenhos Disney
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766577
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Digimon" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Digimon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766579
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dois Homens e Meio 10T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Dois Homens e Meio 10T
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766748
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dois Homens e Meio 11T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Dois Homens e Meio 11T
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766749
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dois Homens e Meio 12T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Dois Homens e Meio 12T
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766750
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dois Homens e Meio 1T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Dois Homens e Meio 1T
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766739
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dois Homens e Meio 2T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Dois Homens e Meio 2T
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766740
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dois Homens e Meio 3T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Dois Homens e Meio 3T
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766741
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dois Homens e Meio 4T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Dois Homens e Meio 4T
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766742
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dois Homens e Meio 5T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Dois Homens e Meio 5T
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766743
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dois Homens e Meio 6T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Dois Homens e Meio 6T
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766744
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dois Homens e Meio 7T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Dois Homens e Meio 7T
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766745
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dois Homens e Meio 8T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Dois Homens e Meio 8T
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766746
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dois Homens e Meio 9T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Dois Homens e Meio 9T
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766747
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Doug" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Doug
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766580
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dragon Ball" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Dragon Ball
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766582
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - DRAGON BALL 02" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - DRAGON BALL 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766584
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Dragon Ball Z Saga Freeza" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Dragon Ball Z Saga Freeza
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766586
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Eu a Patroa e as Crianças" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Eu a Patroa e as Crianças
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766680
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Eu A Patroa E As Crianças - Temp 02" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Eu A Patroa E As Crianças - Temp 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766682
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Eu A Patroa E As Crianças - Temp 03" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Eu A Patroa E As Crianças - Temp 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766683
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Eu A Patroa E As Crianças - Temp 04" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Eu A Patroa E As Crianças - Temp 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766684
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Friends - Temp 01" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Friends - Temp 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766687
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Friends - Temp 02" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Friends - Temp 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766688
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Friends - Temp 03" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Friends - Temp 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766689
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Friends - Temp 04" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Friends - Temp 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766690
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Friends - Temp 05" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Friends - Temp 05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766691
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Friends - Temp 06" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Friends - Temp 06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766692
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Friends - Temp 07" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Friends - Temp 07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766693
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Friends - Temp 08" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Friends - Temp 08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766694
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Friends - Temp 09" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Friends - Temp 09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766695
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Friends - Temp 10" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Friends - Temp 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766696
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Galinha Pintadinha" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Galinha Pintadinha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766587
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Greys Anatomy - T01" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Greys Anatomy - T01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766762
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Greys Anatomy - T02" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Greys Anatomy - T02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766763
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Greys Anatomy - T03" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Greys Anatomy - T03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766764
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Greys Anatomy - T04" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Greys Anatomy - T04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766765
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Greys Anatomy - T05" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Greys Anatomy - T05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766766
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Greys Anatomy - T06" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Greys Anatomy - T06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766767
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Greys Anatomy - T07" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Greys Anatomy - T07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766768
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Greys Anatomy - T08" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Greys Anatomy - T08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766769
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Guardiões da Galaxia" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Guardiões da Galaxia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766589
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Hannah Montana - T01" tvg-logo="http://01.perfeita.in:80/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS | SERIES 24h",[24H] - Hannah Montana - T01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766697
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Hannah Montana - T02" tvg-logo="http://01.perfeita.in:80/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS | SERIES 24h",[24H] - Hannah Montana - T02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766698
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Hannah Montana - T03" tvg-logo="http://01.perfeita.in:80/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS | SERIES 24h",[24H] - Hannah Montana - T03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766699
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Hannah Montana - T04" tvg-logo="http://01.perfeita.in:80/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS | SERIES 24h",[24H] - Hannah Montana - T04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766700
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - He-Man" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - He-Man
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766592
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Hip Hop Mix" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SHOWS 24h",[24H] - Hip Hop Mix
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766826
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Historias Disney" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Historias Disney
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766593
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - iCarly 1T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - iCarly 1T
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766735
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - iCarly 2T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - iCarly 2T
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766736
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - iCarly 3T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - iCarly 3T
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766737
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - iCarly 4T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - iCarly 4T
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766738
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Inspetor Bugiganga" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Inspetor Bugiganga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766595
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Masha e o Urso 1T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Masha e o Urso 1T
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766660
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Masha e o Urso 2T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Masha e o Urso 2T
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766661
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Masha e o Urso 3T" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Masha e o Urso 3T
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766662
-#EXTINF:-1 tvg-id="" tvg-name="[24h] - Missão Harpa" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24h] - Missão Harpa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766612
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Mr. Bean" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Mr. Bean
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766702
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Música Eletrônica Academia" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SHOWS 24h",[24H] - Música Eletrônica Academia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766827
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Operação Policial - Da Cunha - Temp 1" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Operação Policial - Da Cunha - Temp 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766704
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Operação Policial - Da Cunha - Temp 2" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Operação Policial - Da Cunha - Temp 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766705
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Operação Policial - Da Cunha - Temp 3" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Operação Policial - Da Cunha - Temp 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766706
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Peppa Pig" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Peppa Pig
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766625
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Peppa Pig Curtas" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Peppa Pig Curtas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766626
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Pica Pau" tvg-logo="http://brla.me/242.png" group-title="CANAIS | DESENHOS 24h",[24H] - Pica Pau
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766627
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Piseiro 1" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SHOWS 24h",[24H] - Piseiro 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766822
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Piseiro 2" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SHOWS 24h",[24H] - Piseiro 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766823
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Piseiro 3" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SHOWS 24h",[24H] - Piseiro 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766824
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Polícia 24 horas - Temp 01" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Polícia 24 horas - Temp 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766730
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Polícia 24 horas - Temp 02" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Polícia 24 horas - Temp 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766731
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Polícia 24 horas - Temp 03" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Polícia 24 horas - Temp 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766732
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Polícia 24 horas - Temp 04" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Polícia 24 horas - Temp 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766733
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Qual é a Musica? - Silvio Santos" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Qual é a Musica? - Silvio Santos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766777
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Roda Roda Jequiti" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Roda Roda Jequiti
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766779
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Sertanejo 2022" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SHOWS 24h",[24H] - Sertanejo 2022
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766828
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Snoop Dogg" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SHOWS 24h",[24H] - Snoop Dogg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766829
-#EXTINF:-1 tvg-id="" tvg-name="[24h] - The Big Bang Theory - Temp 11" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24h] - The Big Bang Theory - Temp 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766720
-#EXTINF:-1 tvg-id="" tvg-name="[24h] - The Big Bang Theory - Temp 12" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24h] - The Big Bang Theory - Temp 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766721
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - The Walking Dead T01" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - The Walking Dead T01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766751
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - The Walking Dead T02" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - The Walking Dead T02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766752
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - The Walking Dead T03" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - The Walking Dead T03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766753
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - The Walking Dead T04" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - The Walking Dead T04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766754
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - The Walking Dead T05" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - The Walking Dead T05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766755
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - The Walking Dead T06" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - The Walking Dead T06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766756
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - The Walking Dead T07" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - The Walking Dead T07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766757
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - The Walking Dead T08" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - The Walking Dead T08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766758
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - The Walking Dead T09" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - The Walking Dead T09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766759
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - The Walking Dead T10" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - The Walking Dead T10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766760
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - The Walking Dead T11" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - The Walking Dead T11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766761
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Todo Mundo Odeia o Chris - Temp 01" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Todo Mundo Odeia o Chris - Temp 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766723
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Todo Mundo Odeia o Chris - Temp 02" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Todo Mundo Odeia o Chris - Temp 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766724
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Todo Mundo Odeia o Chris - Temp 03" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Todo Mundo Odeia o Chris - Temp 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766725
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Todo Mundo Odeia o Chris - Temp 04" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Todo Mundo Odeia o Chris - Temp 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766726
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Tomorrow Land" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SHOWS 24h",[24H] - Tomorrow Land
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766830
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Xena a Guerreira - Temp 01" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Xena a Guerreira - Temp 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766786
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Xena a Guerreira - Temp 02" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Xena a Guerreira - Temp 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766787
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Xena a Guerreira - Temp 03" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Xena a Guerreira - Temp 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766788
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Xena a Guerreira - Temp 04" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Xena a Guerreira - Temp 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766789
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Xena a Guerreira - Temp 05" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Xena a Guerreira - Temp 05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766790
-#EXTINF:-1 tvg-id="" tvg-name="[24H] - Xena a Guerreira - Temp 06" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SERIES 24h",[24H] - Xena a Guerreira - Temp 06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://fusion4k.online:80/00005776/MF159357C/766791
-
-
-
-
-
-
-
-
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461944
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png" group-title="CANAIS | FILMES & SERIES",A&E SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461943
+#EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AGROMAIS FHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_agromais-hd_m.png" group-title="CANAIS | ABERTOS",AGROMAIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461842
+#EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AGROMAIS HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_agromais-hd_m.png" group-title="CANAIS | ABERTOS",AGROMAIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461843
+#EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AGROMAIS SD" tvg-logo="https://cdn.mitvstatic.com/channels/br_agromais-hd_m.png" group-title="CANAIS | ABERTOS",AGROMAIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461844
+#EXTINF:-1 tvg-id="" tvg-name="ALADIN 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",ALADIN 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826907
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AMC.png" group-title="CANAIS | FILMES & SERIES",AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461942
+#EXTINF:-1 tvg-id="AMCBrazil.br" tvg-name="AMC FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AMC.png" group-title="CANAIS | H265",AMC FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461881
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AMC.png" group-title="CANAIS | FILMES & SERIES",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461941
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AMC.png" group-title="CANAIS | FILMES & SERIES",AMC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461940
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet 4K" tvg-logo="https://imgur.com/oJzfwld.png" group-title="CANAIS | UHD",Animal Planet 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2075804
+#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462067
+#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" tvg-name="ANIMAL PLANET FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/ANIMAL%20PLANET.png" group-title="CANAIS | H265",ANIMAL PLANET FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462026
+#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462068
+#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462066
+#EXTINF:-1 tvg-id="" tvg-name="ARTE 1 FHD" tvg-logo="https://lh3.googleusercontent.com/-fpiVO2imhf4/YB1kAESQUfI/AAAAAAAAJ7g/DrG7OC1klgA5u-YcbP3lmRW8zLNbXYUPACLcBGAsYHQ/ARTE%2B1.png" group-title="CANAIS | VARIEDADES",ARTE 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461953
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD (H265)" tvg-logo="https://lh3.googleusercontent.com/-fpiVO2imhf4/YB1kAESQUfI/AAAAAAAAJ7g/DrG7OC1klgA5u-YcbP3lmRW8zLNbXYUPACLcBGAsYHQ/ARTE%2B1.png" group-title="CANAIS | H265",ARTE 1 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462012
+#EXTINF:-1 tvg-id="" tvg-name="As Meninas Superpoderosas 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",As Meninas Superpoderosas 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826908
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AXN.png" group-title="CANAIS | FILMES & SERIES",AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461939
+#EXTINF:-1 tvg-id="AXNBrazil.br" tvg-name="AXN FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AXN.png" group-title="CANAIS | H265",AXN FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461880
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AXN.png" group-title="CANAIS | FILMES & SERIES",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461938
+#EXTINF:-1 tvg-id="AXNBrazil.br" tvg-name="AXN SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AXN.png" group-title="CANAIS | FILMES & SERIES",AXN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461937
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band 4K" tvg-logo="https://imgur.com/8PQkuVt.png" group-title="CANAIS | UHD",Band 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2075799
+#EXTINF:-1 tvg-id="band.campinas.br" tvg-name="BAND CAMPINAS FHD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="CANAIS | REDE BANDEIRANTES",BAND CAMPINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461783
+#EXTINF:-1 tvg-id="band.curitiba.br" tvg-name="BAND CURITIBA FHD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="CANAIS | REDE BANDEIRANTES",BAND CURITIBA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461781
+#EXTINF:-1 tvg-id="band.minas.br" tvg-name="BAND MINAS FHD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="CANAIS | REDE BANDEIRANTES",BAND MINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461779
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://lh3.googleusercontent.com/-2zKhIgG2QGA/YB60S40BVaI/AAAAAAAAJ_k/GqXLkvpbUV87r0-8FudkjaqFDFdtnP-KgCLcBGAsYHQ/BAND%2BNEWS.png" group-title="CANAIS | JORNALISMO",BAND NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462197
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND NEWS FHD (H265)" tvg-logo="https://lh3.googleusercontent.com/-2zKhIgG2QGA/YB60S40BVaI/AAAAAAAAJ_k/GqXLkvpbUV87r0-8FudkjaqFDFdtnP-KgCLcBGAsYHQ/BAND%2BNEWS.png" group-title="CANAIS | H265",BAND NEWS FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462186
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-2zKhIgG2QGA/YB60S40BVaI/AAAAAAAAJ_k/GqXLkvpbUV87r0-8FudkjaqFDFdtnP-KgCLcBGAsYHQ/BAND%2BNEWS.png" group-title="CANAIS | JORNALISMO",BAND NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462196
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND NEWS SD" tvg-logo="https://lh3.googleusercontent.com/-2zKhIgG2QGA/YB60S40BVaI/AAAAAAAAJ_k/GqXLkvpbUV87r0-8FudkjaqFDFdtnP-KgCLcBGAsYHQ/BAND%2BNEWS.png" group-title="CANAIS | JORNALISMO",BAND NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462195
+#EXTINF:-1 tvg-id="band.rj.br" tvg-name="BAND RJ FHD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="CANAIS | REDE BANDEIRANTES",BAND RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461789
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/BAND.png" group-title="CANAIS | REDE BANDEIRANTES",BAND SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461775
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND SP FHD (H265)" tvg-logo="http://trenduhd.xyz/images/ABERTOS/BAND.png" group-title="CANAIS | H265",BAND SP FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461791
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461392
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title="CANAIS | H265",BAND SPORTS FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461393
+#EXTINF:-1 tvg-id="TVGoianiaBand.br" tvg-name="BAND TV GOIANIA FHD (H265)" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="CANAIS | H265",BAND TV GOIANIA FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461773
+#EXTINF:-1 tvg-id="BBCWorldNewsNorthAmerica.uk" tvg-name="BBC WORLD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/1280px-BBC_World_News_red.svg.png" group-title="CANAIS | JORNALISMO",BBC WORLD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462198
+#EXTINF:-1 tvg-id="BBCWorldNewsNorthAmerica.uk" tvg-name="BBC WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/1280px-BBC_World_News_red.svg.png" group-title="CANAIS | JORNALISMO",BBC WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462200
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",BEN 10 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826909
+#EXTINF:-1 tvg-id="" tvg-name="BIS FHD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/BIS.png" group-title="CANAIS | VARIEDADES",BIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462001
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD (H265)" tvg-logo="http://dash.liveboxtv.xyz:9105/resize.php?max=42&url=http://trenduhd.xyz/images/VARIEDADES/BIS.png" group-title="CANAIS | H265",BIS FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461965
+#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/BIS.png" group-title="CANAIS | VARIEDADES",BIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462000
+#EXTINF:-1 tvg-id="" tvg-name="BIS SD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/BIS.png" group-title="CANAIS | VARIEDADES",BIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461999
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",BOB ESPONJA 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826910
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE C (JOGO 1)" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Channel/000/000/028/pwa_logo/120/tvn.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",BRASILEIRÃO SERIE C (JOGO 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2119058
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE C (JOGO 2)" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Channel/000/000/028/pwa_logo/120/tvn.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",BRASILEIRÃO SERIE C (JOGO 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2119059
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRÃO SERIE C (JOGO 3)" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Channel/000/000/028/pwa_logo/120/tvn.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",BRASILEIRÃO SERIE C (JOGO 3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2119060
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/BRASIL.png" group-title="CANAIS | FILMES & SERIES",CANAL BRASIL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461936
+#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="CANAL BRASIL FHD (H265)" tvg-logo="http://trenduhd.xyz/images/ABERTOS/BRASIL.png" group-title="CANAIS | H265",CANAL BRASIL FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461879
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/BRASIL.png" group-title="CANAIS | FILMES & SERIES",CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461935
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/BRASIL.png" group-title="CANAIS | FILMES & SERIES",CANAL BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461934
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://lh3.googleusercontent.com/-Li5io6A9WcM/YB1E7Q-wmnI/AAAAAAAAJ5U/RvH5WwHsB_8wneFb_bKmVmSENvH7jydtACLcBGAsYHQ/CanaldoBoi.png" group-title="CANAIS | ABERTOS",CANAL DO BOI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461832
+#EXTINF:-1 tvg-id="CanalRural.br" tvg-name="CANAL RURAL SD" tvg-logo="https://lh3.googleusercontent.com/-uVh3b-Epn5s/YT07LYtpnII/AAAAAAAAKlA/sYqkd1Jk9kIunl0Vzj2bYB5m1U3NcZP4gCLcBGAsYHQ/rural.png" group-title="CANAIS | ABERTOS",CANAL RURAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461835
+#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY FHD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/SONY.png" group-title="CANAIS | FILMES & SERIES",CANAL SONY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461933
+#EXTINF:-1 tvg-id="SonyChannelBrazil.br" tvg-name="CANAL SONY FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/SONY.png" group-title="CANAIS | H265",CANAL SONY FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461878
+#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY HD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/SONY.png" group-title="CANAIS | FILMES & SERIES",CANAL SONY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461932
+#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/SONY.png" group-title="CANAIS | FILMES & SERIES",CANAL SONY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461931
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA HD" tvg-logo="https://lh3.googleusercontent.com/-MyzIIOVq8hM/YB7q2n_7QJI/AAAAAAAAKC4/gAkKhUrbEf0Rnbi9PtEbOZjN6rVRjaMNQCLcBGAsYHQ/CANCAO%2BNOVA.png" group-title="CANAIS | RELIGIOSOS",CANCAO NOVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461854
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA SD" tvg-logo="https://lh3.googleusercontent.com/-MyzIIOVq8hM/YB7q2n_7QJI/AAAAAAAAKC4/gAkKhUrbEf0Rnbi9PtEbOZjN6rVRjaMNQCLcBGAsYHQ/CANCAO%2BNOVA.png" group-title="CANAIS | RELIGIOSOS",CANCAO NOVA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461853
+#EXTINF:-1 tvg-id="" tvg-name="CAO CORAGEM 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",CAO CORAGEM 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826911
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network 4K" tvg-logo="https://imgur.com/yHFW3vY.png" group-title="CANAIS | UHD",Cartoon Network 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2075805
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/CARTOON.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462176
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-name="CARTOON NETWORK FHD (H265)" tvg-logo="http://trenduhd.xyz/images/INFANTIL/CARTOON.png" group-title="CANAIS | H265",CARTOON NETWORK FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462139
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO FHD" tvg-logo="https://s2.glbimg.com/9BNgLXbdgDtR2_tBYTnkJoibfjo=/e.glbimg.com/og/ed/f/original/2021/11/30/cartoonito.jpg" group-title="CANAIS | INFANTIL",CARTOONITO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462177
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-name="CARTOONITO FHD (H265)" tvg-logo="https://s2.glbimg.com/9BNgLXbdgDtR2_tBYTnkJoibfjo=/e.glbimg.com/og/ed/f/original/2021/11/30/cartoonito.jpg" group-title="CANAIS | H265",CARTOONITO FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462140
+#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Caverna do Dragão 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826912
+#EXTINF:-1 tvg-id="" tvg-name="CENTRAL KIDS 24HRS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",CENTRAL KIDS 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826913
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Chapolin Colorado 24hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826914
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",CHAVES DESENHO 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826915
+#EXTINF:-1 tvg-id="" tvg-name="CINE AÇÃO" tvg-logo="https://i.pinimg.com/originals/d5/b2/c8/d5b2c8ebfc18c423426dd3e45e7e31a3.png" group-title="CANAIS | CINEMA",CINE AÇÃO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1827029
+#EXTINF:-1 tvg-id="" tvg-name="CINE COMÉDIA" tvg-logo="https://i.pinimg.com/originals/d5/b2/c8/d5b2c8ebfc18c423426dd3e45e7e31a3.png" group-title="CANAIS | CINEMA",CINE COMÉDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1827030
+#EXTINF:-1 tvg-id="" tvg-name="CINE DRAMA" tvg-logo="https://i.pinimg.com/originals/d5/b2/c8/d5b2c8ebfc18c423426dd3e45e7e31a3.png" group-title="CANAIS | CINEMA",CINE DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1827031
+#EXTINF:-1 tvg-id="" tvg-name="CINE KIDS" tvg-logo="https://www.pngkey.com/png/detail/675-6757053_cinema-kids.png" group-title="CANAIS | CINEMA",CINE KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1827032
+#EXTINF:-1 tvg-id="" tvg-name="CINE KIDS 24HRS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",CINE KIDS 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826916
+#EXTINF:-1 tvg-id="" tvg-name="CINE TERROR" tvg-logo="https://i.pinimg.com/originals/d5/b2/c8/d5b2c8ebfc18c423426dd3e45e7e31a3.png" group-title="CANAIS | CINEMA",CINE TERROR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1827033
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/CINEMAX.png" group-title="CANAIS | FILMES & SERIES",CINEMAX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461930
+#EXTINF:-1 tvg-id="CinemaxBrazil.br" tvg-name="CINEMAX FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/CINEMAX.png" group-title="CANAIS | H265",CINEMAX FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461877
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/CINEMAX.png" group-title="CANAIS | FILMES & SERIES",CINEMAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461929
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/CINEMAX.png" group-title="CANAIS | FILMES & SERIES",CINEMAX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461925
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="CANAIS | JORNALISMO",CNN BRASIL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462194
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="CANAIS | JORNALISMO",CNN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462193
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL SD" tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="CANAIS | JORNALISMO",CNN BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462192
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate 4K" tvg-logo="https://imgur.com/iBtthK7.png" group-title="CANAIS | UHD",Combate 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2075806
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png" group-title="CANAIS | ESPORTES",COMBATE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461396
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png" group-title="CANAIS | H265",COMBATE FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461397
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/COMEDY.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461998
+#EXTINF:-1 tvg-id="ComedyCentralBrazil.br" tvg-name="COMEDY CENTRAL FHD (H265)" tvg-logo="http://dash.liveboxtv.xyz:9105/resize.php?max=42&url=http://trenduhd.xyz/images/Filmes_Series/COMEDY.png" group-title="CANAIS | H265",COMEDY CENTRAL FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461964
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL TV 1 HD" tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/Conmebol.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461523
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL TV 2 HD" tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/Conmebol.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461524
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL TV 3 HD" tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/Conmebol.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461525
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL TV 4 HD" tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/Conmebol.png" group-title="CANAIS | CONMEBOL TV",CONMEBOL TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461526
+#EXTINF:-1 tvg-id="" tvg-name="Corrida Maluca" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Corrida Maluca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826917
+#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! FHD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/CURTA.png" group-title="CANAIS | FILMES & SERIES",CURTA! FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461951
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! FHD (H265)" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/CURTA.png" group-title="CANAIS | H265",CURTA! FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461952
+#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! HD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/CURTA.png" group-title="CANAIS | FILMES & SERIES",CURTA! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461950
+#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! SD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/CURTA.png" group-title="CANAIS | FILMES & SERIES",CURTA! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461928
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 04 HD" tvg-logo="https://1.bp.blogspot.com/-IUH_2Xew5nw/YBxY1cVweDI/AAAAAAAAJxo/A8Zn3MHfidUC93kZR4zybcs9PHVD-1LvwCLcBGAsYHQ/s0/DANZ.png" group-title="CANAIS | DAZN",DAZN 04 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461539
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 1 HD" tvg-logo="https://1.bp.blogspot.com/-IUH_2Xew5nw/YBxY1cVweDI/AAAAAAAAJxo/A8Zn3MHfidUC93kZR4zybcs9PHVD-1LvwCLcBGAsYHQ/s0/DANZ.png" group-title="CANAIS | DAZN",DAZN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461515
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 2 HD" tvg-logo="https://1.bp.blogspot.com/-IUH_2Xew5nw/YBxY1cVweDI/AAAAAAAAJxo/A8Zn3MHfidUC93kZR4zybcs9PHVD-1LvwCLcBGAsYHQ/s0/DANZ.png" group-title="CANAIS | DAZN",DAZN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461516
+#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 3 HD" tvg-logo="https://1.bp.blogspot.com/-IUH_2Xew5nw/YBxY1cVweDI/AAAAAAAAJxo/A8Zn3MHfidUC93kZR4zybcs9PHVD-1LvwCLcBGAsYHQ/s0/DANZ.png" group-title="CANAIS | DAZN",DAZN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461517
+#EXTINF:-1 tvg-id="" tvg-name="Denis o Pimentinha 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Denis o Pimentinha 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826918
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos Biblicos 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Desenhos Biblicos 24hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826919
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos Disney 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Desenhos Disney 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826920
+#EXTINF:-1 tvg-id="" tvg-name="Digimon 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Digimon 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826921
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel 4K" tvg-logo="https://imgur.com/tQW7jYa.png" group-title="CANAIS | UHD",Discovery Channel 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2075807
+#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://1.bp.blogspot.com/-Y58afh772xQ/YBxY_FteQaI/AAAAAAAAJ0Q/VSeNDMTJRloowbk-iaD9r3dcxjNqXy5AACLcBGAsYHQ/s0/discovery-channel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462065
+#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" tvg-name="DISCOVERY CHANNEL FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/DISCOVERY%20CHANNEL.png" group-title="CANAIS | H265",DISCOVERY CHANNEL FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462025
+#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-Y58afh772xQ/YBxY_FteQaI/AAAAAAAAJ0Q/VSeNDMTJRloowbk-iaD9r3dcxjNqXy5AACLcBGAsYHQ/s0/discovery-channel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462064
+#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://1.bp.blogspot.com/-Y58afh772xQ/YBxY_FteQaI/AAAAAAAAJ0Q/VSeNDMTJRloowbk-iaD9r3dcxjNqXy5AACLcBGAsYHQ/s0/discovery-channel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462063
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-name="DISCOVERY H&H FHD" tvg-logo="https://1.bp.blogspot.com/-Wx7zVokWRqg/YBxY-8i1HuI/AAAAAAAAJ0M/raRZqkwIKJcaqSKJnePcvOp1E924GC7rgCLcBGAsYHQ/s0/discovery%2Bh%2B%2526%2Bh.png" group-title="CANAIS | DISCOVERY",DISCOVERY H&H FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462062
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-name="DISCOVERY H&H FHD (H265)" tvg-logo="https://1.bp.blogspot.com/-Wx7zVokWRqg/YBxY-8i1HuI/AAAAAAAAJ0M/raRZqkwIKJcaqSKJnePcvOp1E924GC7rgCLcBGAsYHQ/s0/discovery%2Bh%2B%2526%2Bh.png" group-title="CANAIS | H265",DISCOVERY H&H FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462024
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-name="DISCOVERY H&H HD" tvg-logo="https://1.bp.blogspot.com/-Wx7zVokWRqg/YBxY-8i1HuI/AAAAAAAAJ0M/raRZqkwIKJcaqSKJnePcvOp1E924GC7rgCLcBGAsYHQ/s0/discovery%2Bh%2B%2526%2Bh.png" group-title="CANAIS | DISCOVERY",DISCOVERY H&H HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462061
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-name="DISCOVERY H&H SD" tvg-logo="https://1.bp.blogspot.com/-Wx7zVokWRqg/YBxY-8i1HuI/AAAAAAAAJ0M/raRZqkwIKJcaqSKJnePcvOp1E924GC7rgCLcBGAsYHQ/s0/discovery%2Bh%2B%2526%2Bh.png" group-title="CANAIS | DISCOVERY",DISCOVERY H&H SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462060
+#EXTINF:-1 tvg-id="DiscoveryKidsBrazil.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/DISCOVERY%20KIDS.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462173
+#EXTINF:-1 tvg-id="DiscoveryKidsBrazil.br" tvg-name="DISCOVERY KIDS FHD (H265)" tvg-logo="http://trenduhd.xyz/images/INFANTIL/DISCOVERY%20KIDS.png" group-title="CANAIS | H265",DISCOVERY KIDS FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462138
+#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://lh3.googleusercontent.com/-CDqjg6CJss4/YB1atPTRMTI/AAAAAAAAJ6w/sLy5dPruwDw9UGpiqU5-IYdGjEaDhq76gCLcBGAsYHQ/DISCOVERY%2BSCIENCE.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462059
+#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" tvg-name="DISCOVERY SCIENCE FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/DISCOVERY%20SCIENCE.png" group-title="CANAIS | H265",DISCOVERY SCIENCE FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462023
+#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://lh3.googleusercontent.com/-CDqjg6CJss4/YB1atPTRMTI/AAAAAAAAJ6w/sLy5dPruwDw9UGpiqU5-IYdGjEaDhq76gCLcBGAsYHQ/DISCOVERY%2BSCIENCE.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462058
+#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://lh3.googleusercontent.com/-CDqjg6CJss4/YB1atPTRMTI/AAAAAAAAJ6w/sLy5dPruwDw9UGpiqU5-IYdGjEaDhq76gCLcBGAsYHQ/DISCOVERY%2BSCIENCE.png" group-title="CANAIS | DISCOVERY",DISCOVERY SCIENCE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462057
+#EXTINF:-1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://lh3.googleusercontent.com/-MDvYo4VAxYA/YB1doX6th2I/AAAAAAAAJ68/pGBjUo77NAgIlz9VRgCy_t_6xS7C7HL5ACLcBGAsYHQ/DISCOVERY%2BTHEATER.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATER FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462056
+#EXTINF:-1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-name="DISCOVERY THEATER FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/DISCOVERY%20THEATER.png" group-title="CANAIS | H265",DISCOVERY THEATER FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462022
+#EXTINF:-1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://lh3.googleusercontent.com/-MDvYo4VAxYA/YB1doX6th2I/AAAAAAAAJ68/pGBjUo77NAgIlz9VRgCy_t_6xS7C7HL5ACLcBGAsYHQ/DISCOVERY%2BTHEATER.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462055
+#EXTINF:-1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://lh3.googleusercontent.com/-MDvYo4VAxYA/YB1doX6th2I/AAAAAAAAJ68/pGBjUo77NAgIlz9VRgCy_t_6xS7C7HL5ACLcBGAsYHQ/DISCOVERY%2BTHEATER.png" group-title="CANAIS | DISCOVERY",DISCOVERY THEATER SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462054
+#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://lh3.googleusercontent.com/-JXabrkdYRNI/YB1fGcGViOI/AAAAAAAAJ7I/a1LlZt4oJwQAjKouz3hZXIIiWUMiEm5EACLcBGAsYHQ/DISCOVERY%2BTURBO.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462053
+#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" tvg-name="DISCOVERY TURBO FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/DISCOVERY%20TURBO.png" group-title="CANAIS | H265",DISCOVERY TURBO FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462021
+#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://lh3.googleusercontent.com/-JXabrkdYRNI/YB1fGcGViOI/AAAAAAAAJ7I/a1LlZt4oJwQAjKouz3hZXIIiWUMiEm5EACLcBGAsYHQ/DISCOVERY%2BTURBO.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462052
+#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://lh3.googleusercontent.com/-JXabrkdYRNI/YB1fGcGViOI/AAAAAAAAJ7I/a1LlZt4oJwQAjKouz3hZXIIiWUMiEm5EACLcBGAsYHQ/DISCOVERY%2BTURBO.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462051
+#EXTINF:-1 tvg-id="DiscoveryWorldHDBrazil.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://lh3.googleusercontent.com/-eNs1uxOSSDk/YB1hjBFMERI/AAAAAAAAJ7U/ubz_aAbk1xMo-9XZKoTR-Y8yG4zefGSGACLcBGAsYHQ/DISCOVERY%2BWORLD.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462050
+#EXTINF:-1 tvg-id="DiscoveryWorldHDBrazil.br" tvg-name="DISCOVERY WORLD FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/DISCOVERY%20WORLD.png" group-title="CANAIS | H265",DISCOVERY WORLD FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462020
+#EXTINF:-1 tvg-id="DiscoveryWorldHDBrazil.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://lh3.googleusercontent.com/-eNs1uxOSSDk/YB1hjBFMERI/AAAAAAAAJ7U/ubz_aAbk1xMo-9XZKoTR-Y8yG4zefGSGACLcBGAsYHQ/DISCOVERY%2BWORLD.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462049
+#EXTINF:-1 tvg-id="DiscoveryWorldHDBrazil.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://lh3.googleusercontent.com/-eNs1uxOSSDk/YB1hjBFMERI/AAAAAAAAJ7U/ubz_aAbk1xMo-9XZKoTR-Y8yG4zefGSGACLcBGAsYHQ/DISCOVERY%2BWORLD.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462048
+#EXTINF:-1 tvg-id="DisneyChannelBrazil.br" tvg-name="DISNEY CHANNEL FHD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/DISNEY%20CHANNEL.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462170
+#EXTINF:-1 tvg-id="DisneyChannelBrazil.br" tvg-name="DISNEY CHANNEL FHD (H265)" tvg-logo="http://trenduhd.xyz/images/INFANTIL/DISNEY%20CHANNEL.png" group-title="CANAIS | H265",DISNEY CHANNEL FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462137
+#EXTINF:-1 tvg-id="DogTV.us" tvg-name="DOG TV FHD" tvg-logo="https://1.bp.blogspot.com/-CAmc1EBmg7g/YBxY_bAXEcI/AAAAAAAAJ0U/5dqhaXowGp46l9MB4p8tNmoKNy0VsCJIQCLcBGAsYHQ/s0/dotv.png" group-title="CANAIS | DOCUMENTÁRIOS",DOG TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462046
+#EXTINF:-1 tvg-id="DogTV.us" tvg-name="DOG TV HD" tvg-logo="https://1.bp.blogspot.com/-CAmc1EBmg7g/YBxY_bAXEcI/AAAAAAAAJ0U/5dqhaXowGp46l9MB4p8tNmoKNy0VsCJIQCLcBGAsYHQ/s0/dotv.png" group-title="CANAIS | DOCUMENTÁRIOS",DOG TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462047
+#EXTINF:-1 tvg-id="" tvg-name="Doug 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Doug 24hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826922
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",DRAGON BALL 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826923
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",DRAGON BALL SUPER 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826924
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",DRAGON BALL Z 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826925
+#EXTINF:-1 tvg-id="" tvg-name="E! FHD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/E.png" group-title="CANAIS | VARIEDADES",E! FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461995
+#EXTINF:-1 tvg-id="EBrazil.br" tvg-name="E! FHD (H265)" tvg-logo="http://dash.liveboxtv.xyz:9105/resize.php?max=42&url=http://trenduhd.xyz/images/VARIEDADES/E.png" group-title="CANAIS | H265",E! FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461963
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 01 HD" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="CANAIS | ELEVEN ",Eleven Sports 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461547
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 02 HD" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="CANAIS | ELEVEN ",Eleven Sports 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461548
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 03 HD" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="CANAIS | ELEVEN ",Eleven Sports 03 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461549
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 04 HD" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="CANAIS | ELEVEN ",Eleven Sports 04 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461550
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 05 HD" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="CANAIS | ELEVEN ",Eleven Sports 05 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461551
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 06 HD" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="CANAIS | ELEVEN ",Eleven Sports 06 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461552
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 07 HD" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="CANAIS | ELEVEN ",Eleven Sports 07 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461553
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 08 HD" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="CANAIS | ELEVEN ",Eleven Sports 08 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461554
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 09 HD" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="CANAIS | ELEVEN ",Eleven Sports 09 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461555
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 10 HD" tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="CANAIS | ELEVEN ",Eleven Sports 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461556
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 FHD" tvg-logo="https://espnpressroom.com/brazil/files/2018/08/RS2652_ESPN2_CLR_Pos-scr.jpg" group-title="CANAIS | ESPORTES",ESPN 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461404
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 2 FHD (H265)" tvg-logo="https://espnpressroom.com/brazil/files/2018/08/RS2652_ESPN2_CLR_Pos-scr.jpg" group-title="CANAIS | H265",ESPN 2 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461405
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD¹" tvg-logo="" group-title="CANAIS | ESPORTES",ESPN 2 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161624
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD¹" tvg-logo="" group-title="CANAIS | ESPORTES",ESPN 2 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161615
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 3 FHD" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="CANAIS | ESPORTES",ESPN 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461408
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 3 FHD (H265)" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="CANAIS | H265",ESPN 3 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461409
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 3 FHD¹" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="CANAIS | ESPORTES",ESPN 3 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161621
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 3 HD¹" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="CANAIS | ESPORTES",ESPN 3 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161620
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 4 4K" tvg-logo="https://imgur.com/rHPYRLv.png" group-title="CANAIS | UHD",ESPN 4 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2075809
+#EXTINF:-1 tvg-id="ESPN 4 HD" tvg-name="ESPN 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="CANAIS | ESPORTES",ESPN 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461412
+#EXTINF:-1 tvg-id="FoxSportsBrazil.br" tvg-name="ESPN 4 FHD (H265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="CANAIS | H265",ESPN 4 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461413
+#EXTINF:-1 tvg-id="ESPN 4 FHD" tvg-name="ESPN 4 FHD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="CANAIS | ESPORTES",ESPN 4 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161625
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="CANAIS | ESPORTES",ESPN 4 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161619
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 4K" tvg-logo="http://cdn.liveboxtv.xyz:80/images/04d080864054aefd1ef1a9ff87b7d107.png" group-title="CANAIS | UHD",ESPN 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2075818
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA FHD" tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="CANAIS | ESPORTES",ESPN EXTRA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461416
+#EXTINF:-1 tvg-id="ESPNExtraBrazil.br" tvg-name="ESPN EXTRA FHD (H265)" tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="CANAIS | H265",ESPN EXTRA FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461417
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA FHD¹" tvg-logo="" group-title="CANAIS | ESPORTES",ESPN EXTRA FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161622
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA HD¹" tvg-logo="" group-title="CANAIS | ESPORTES",ESPN EXTRA HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161618
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="CANAIS | ESPORTES",ESPN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461400
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="CANAIS | H265",ESPN FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461401
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN FHD¹" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="CANAIS | ESPORTES",ESPN FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161623
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD¹" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="CANAIS | ESPORTES",ESPN HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161616
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD¹" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="CANAIS | ESPORTES",ESPN HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161617
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-estadio-tnt-sports-2559.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",ESTADIO TNT SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461518
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-estadio-tnt-sports-2559.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",ESTADIO TNT SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461519
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-estadio-tnt-sports-2559.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",ESTADIO TNT SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461520
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 4 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-estadio-tnt-sports-2559.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",ESTADIO TNT SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461521
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 5 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-estadio-tnt-sports-2559.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",ESTADIO TNT SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461522
+#EXTINF:-1 tvg-id="film.arts.br" tvg-name="FILM & ART HD" tvg-logo="https://lh3.googleusercontent.com/-wFBrjFHqYyA/YBx8afDp4OI/AAAAAAAAJ4k/yjj4CIsPkHo0uth-j7_epEc7CrRAZHu4gCLcBGAsYHQ/FILM%2B%2526%2BART.png" group-title="CANAIS | FILMES & SERIES",FILM & ART HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461949
+#EXTINF:-1 tvg-id="film.arts.br" tvg-name="FILM & ARTS FHD" tvg-logo="https://lh3.googleusercontent.com/-wFBrjFHqYyA/YBx8afDp4OI/AAAAAAAAJ4k/yjj4CIsPkHo0uth-j7_epEc7CrRAZHu4gCLcBGAsYHQ/FILM%2B%2526%2BART.png" group-title="CANAIS | FILMES & SERIES",FILM & ARTS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461947
+#EXTINF:-1 tvg-id="film.arts.br" tvg-name="FILM & ARTS SD" tvg-logo="https://lh3.googleusercontent.com/-wFBrjFHqYyA/YBx8afDp4OI/AAAAAAAAJ4k/yjj4CIsPkHo0uth-j7_epEc7CrRAZHu4gCLcBGAsYHQ/FILM%2B%2526%2BART.png" group-title="CANAIS | FILMES & SERIES",FILM & ARTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461948
+#EXTINF:-1 tvg-id="FishTV.br" tvg-name="FISH TV FHD" tvg-logo="https://1.bp.blogspot.com/-s3Dd7ciieHQ/YBxY2DFXl7I/AAAAAAAAJx8/gGr736hrQKk65wifWgTTGRsbN6LkJcAfwCLcBGAsYHQ/s0/Fish%2BTV.png" group-title="CANAIS | DOCUMENTÁRIOS",FISH TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462070
+#EXTINF:-1 tvg-id="FishTV.br" tvg-name="FISH TV HD" tvg-logo="https://1.bp.blogspot.com/-s3Dd7ciieHQ/YBxY2DFXl7I/AAAAAAAAJx8/gGr736hrQKk65wifWgTTGRsbN6LkJcAfwCLcBGAsYHQ/s0/Fish%2BTV.png" group-title="CANAIS | DOCUMENTÁRIOS",FISH TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462071
+#EXTINF:-1 tvg-id="FishTV.br" tvg-name="FISH TV SD" tvg-logo="https://1.bp.blogspot.com/-s3Dd7ciieHQ/YBxY2DFXl7I/AAAAAAAAJx8/gGr736hrQKk65wifWgTTGRsbN6LkJcAfwCLcBGAsYHQ/s0/Fish%2BTV.png" group-title="CANAIS | DOCUMENTÁRIOS",FISH TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462072
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK FHD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/FOOD.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461993
+#EXTINF:-1 tvg-id="FoodNetworkBrazil.br" tvg-name="FOOD NETWORK FHD (H265)" tvg-logo="http://dash.liveboxtv.xyz:9105/resize.php?max=42&url=http://trenduhd.xyz/images/VARIEDADES/FOOD.png" group-title="CANAIS | H265",FOOD NETWORK FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461962
+#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1 TV" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-2-2.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",FORMULA 1 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789127
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 4K" tvg-logo="https://imgur.com/0xfNF6m.png" group-title="CANAIS | UHD",FOX SPORTS 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2075820
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="http://trenduhd.xyz/images/Esportes/FOX_SPORT2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461420
+#EXTINF:-1 tvg-id="FoxSports2Brazil.br" tvg-name="FOX SPORTS 2 FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Esportes/FOX_SPORT2.png" group-title="CANAIS | H265",FOX SPORTS 2 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461421
+#EXTINF:-1 tvg-id="" tvg-name="FURACÃO TV HD" tvg-logo="https://theme.zdassets.com/theme_assets/11249333/709015f0bed202642d4f719782ccfe4f4f39718f.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",FURACÃO TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2119056
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="FUTURA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/FUTURA.png" group-title="CANAIS | ABERTOS",FUTURA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461792
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="FUTURA SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/FUTURA.png" group-title="CANAIS | ABERTOS",FUTURA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461827
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/FX.png" group-title="CANAIS | FILMES & SERIES",FX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461927
+#EXTINF:-1 tvg-id="FXBrazil.br" tvg-name="FX FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/FX.png" group-title="CANAIS | H265",FX FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461876
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/FX.png" group-title="CANAIS | FILMES & SERIES",FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461924
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/FX.png" group-title="CANAIS | FILMES & SERIES",FX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461926
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Galinha Pintadinha 24hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826926
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo 4K" tvg-logo="https://imgur.com/zjqddfl.png" group-title="CANAIS | UHD",Globo 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2075810
+#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="GLOBO ANHANGUERA ANAPOLIS FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO ANHANGUERA ANAPOLIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461672
+#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="GLOBO ANHANGUERA ANAPOLIS HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO ANHANGUERA ANAPOLIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461673
+#EXTINF:-1 tvg-id="tv.anhaguera.catalao.br" tvg-name="GLOBO ANHANGUERA CATALAO FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO ANHANGUERA CATALAO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461670
+#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="GLOBO ANHANGUERA CATALAO HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO ANHANGUERA CATALAO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461671
+#EXTINF:-1 tvg-id="tv.anhanguera.br" tvg-name="GLOBO ANHANGUERA ITUMBIARA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO ANHANGUERA ITUMBIARA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461668
+#EXTINF:-1 tvg-id="tv.anhanguera.br" tvg-name="GLOBO ANHANGUERA ITUMBIARA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO ANHANGUERA ITUMBIARA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461669
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="GLOBO BAHIA FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO BAHIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461656
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="GLOBO BAHIA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461655
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="GLOBO BAHIA SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO BAHIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461700
+#EXTINF:-1 tvg-id="TVGloboNordeste.br" tvg-name="GLOBO BELEM FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO BELEM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461722
+#EXTINF:-1 tvg-id="TVGloboNordeste.br" tvg-name="GLOBO BELEM HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO BELEM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461654
+#EXTINF:-1 tvg-id="TVGloboNordeste.br" tvg-name="GLOBO BELEM SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO BELEM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461653
+#EXTINF:-1 tvg-id="TVGloboNordeste.br" tvg-name="GLOBO BOA VISTA FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO BOA VISTA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461652
+#EXTINF:-1 tvg-id="TVGloboNordeste.br" tvg-name="GLOBO BOA VISTA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO BOA VISTA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461651
+#EXTINF:-1 tvg-id="TVGloboNordeste.br" tvg-name="GLOBO BOA VISTA SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO BOA VISTA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789098
+#EXTINF:-1 tvg-id="TVGloboBrasilia.br" tvg-name="GLOBO BRASILIA FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO BRASILIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461724
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA FHD (H265)" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | H265",GLOBO BRASILIA FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461650
+#EXTINF:-1 tvg-id="TVGloboBrasilia.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461649
+#EXTINF:-1 tvg-id="TVGloboBrasilia.br" tvg-name="GLOBO BRASILIA SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO BRASILIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461648
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO EPTV CAMPINAS FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV CAMPINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461647
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461646
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV CAMPINAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461645
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV RIBEIRÃO PRETO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461644
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV RIBEIRÃO PRETO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461643
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV RIBEIRÃO PRETO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461642
+#EXTINF:-1 tvg-id="EPTVSuldeMinas.br" tvg-name="GLOBO EPTV SAO CARLOS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV SAO CARLOS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461641
+#EXTINF:-1 tvg-id="EPTVSuldeMinas.br" tvg-name="GLOBO EPTV SUL DE MINAS FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV SUL DE MINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789099
+#EXTINF:-1 tvg-id="EPTVSuldeMinas.br" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV SUL DE MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461640
+#EXTINF:-1 tvg-id="NSCTVFlorianopolis.br" tvg-name="GLOBO FLORIANOPOLIS FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO FLORIANOPOLIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461728
+#EXTINF:-1 tvg-id="NSCTVFlorianopolis.br" tvg-name="GLOBO FLORIANOPOLIS HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO FLORIANOPOLIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461639
+#EXTINF:-1 tvg-id="NSCTVFlorianopolis.br" tvg-name="GLOBO FLORIANOPOLIS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO FLORIANOPOLIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461729
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO GAZETA VITORIA  ES HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO GAZETA VITORIA  ES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461638
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO GAZETA VITORIA  ES SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO GAZETA VITORIA  ES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789100
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO GAZETA VITORIA ES FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO GAZETA VITORIA ES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461636
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO DIVINÓPOLIS FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO INTEGRAÇÃO DIVINÓPOLIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789101
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO DIVINÓPOLIS HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO INTEGRAÇÃO DIVINÓPOLIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461676
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO MG FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO INTEGRAÇÃO MG FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461585
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO INTEGRAÇÃO MG HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO INTEGRAÇÃO MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461584
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO INTER TV ALTO LITORAL HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV ALTO LITORAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461635
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV ALTO LITORAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789102
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GLOBO INTER TV CABUGI FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV CABUGI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461674
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV CABUGI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461637
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO INTER TV CABUGI SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV CABUGI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461634
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV DOS VALES HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV DOS VALES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461730
+#EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="GLOBO INTER TV GRANDE MINAS HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV GRANDE MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461731
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV SERRA MAR FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV SERRA MAR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461710
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO INTER TV SERRA MAR HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV SERRA MAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461632
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER VALE MG FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER VALE MG FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461709
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO INTER VALE MG HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER VALE MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461633
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO JOAÇABA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO JOAÇABA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461680
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO JOAÇABA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO JOAÇABA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461679
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="GLOBO JUAZEIRO BAHIA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO JUAZEIRO BAHIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461707
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="GLOBO JUAZEIRO BAHIA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO JUAZEIRO BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461708
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO JUIZ DE FORA MG FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO JUIZ DE FORA MG FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461682
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO JUIZ DE FORA MG HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO JUIZ DE FORA MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461681
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO JUIZ DE FORA MG SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO JUIZ DE FORA MG SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789103
+#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="GLOBO MARANHÃO HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO MARANHÃO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461695
+#EXTINF:-1 tvg-id="globo.minas.br" tvg-name="GLOBO MINAS FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO MINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789104
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS FHD (H265)" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | H265",GLOBO MINAS FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789105
+#EXTINF:-1 tvg-id="globo.minas.br" tvg-name="GLOBO MINAS HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461631
+#EXTINF:-1 tvg-id="globo.minas.br" tvg-name="GLOBO MINAS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO MINAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461630
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MOGI DAS CRUZES FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO MOGI DAS CRUZES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461678
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MOGI DAS CRUZES HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO MOGI DAS CRUZES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461677
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MONTES CLAROS MG FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO MONTES CLAROS MG FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789106
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MONTES CLAROS MG HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO MONTES CLAROS MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461685
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="GLOBO NEWS FHD" tvg-logo="https://lh3.googleusercontent.com/-Fui-0y_xQnc/YB608kI_g1I/AAAAAAAAJ_s/QDYTfrUn-6sdi8Wexz19m_q5gZDOS7oXwCLcBGAsYHQ/Globo%2BNews.png" group-title="CANAIS | JORNALISMO",GLOBO NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462191
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD (H265)" tvg-logo="https://lh3.googleusercontent.com/-Fui-0y_xQnc/YB608kI_g1I/AAAAAAAAJ_s/QDYTfrUn-6sdi8Wexz19m_q5gZDOS7oXwCLcBGAsYHQ/Globo%2BNews.png" group-title="CANAIS | H265",GLOBO NEWS FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462185
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-Fui-0y_xQnc/YB608kI_g1I/AAAAAAAAJ_s/QDYTfrUn-6sdi8Wexz19m_q5gZDOS7oXwCLcBGAsYHQ/Globo%2BNews.png" group-title="CANAIS | JORNALISMO",GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462190
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://lh3.googleusercontent.com/-Fui-0y_xQnc/YB608kI_g1I/AAAAAAAAJ_s/QDYTfrUn-6sdi8Wexz19m_q5gZDOS7oXwCLcBGAsYHQ/Globo%2BNews.png" group-title="CANAIS | JORNALISMO",GLOBO NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462189
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO NORDESTE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461629
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO NORDESTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461628
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO NORDESTE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461627
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC SANTA CATARINA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC SANTA CATARINA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789107
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAL FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV BLUMENAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461702
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAL HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV BLUMENAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461626
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAL SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV BLUMENAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789108
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV CHAPECO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461666
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV CHAPECO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461625
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV CHAPECO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789109
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CRICIUMA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV CRICIUMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789110
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV JOINVILLE FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV JOINVILLE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461694
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV JOINVILLE HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV JOINVILLE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461624
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PARAIBA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO PARAIBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461696
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO PRESIDENTE PRUDENTE SP FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO PRESIDENTE PRUDENTE SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461684
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="GLOBO PRESIDENTE PRUDENTE SP HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO PRESIDENTE PRUDENTE SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461683
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PORTO ALEGRE FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS PORTO ALEGRE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461740
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PORTO ALEGRE FHD (H265)" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | H265",GLOBO RBS PORTO ALEGRE FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461687
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS PORTO ALEGRE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461621
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS PORTO ALEGRE SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS PORTO ALEGRE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461619
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV CAXIAS DO SUL FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV CAXIAS DO SUL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461714
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV CAXIAS DO SUL HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV CAXIAS DO SUL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461715
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV CAXIAS DO SUL SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV CAXIAS DO SUL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789111
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PASSO FUNDO FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV PASSO FUNDO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461703
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PASSO FUNDO HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV PASSO FUNDO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461704
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PASSO FUNDO SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV PASSO FUNDO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789112
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PELOTAS FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV PELOTAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461713
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PELOTAS HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV PELOTAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461712
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PELOTAS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV PELOTAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789113
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV SANTA MARIA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV SANTA MARIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789114
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV SANTA MARIA SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV SANTA MARIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461620
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RECIFE HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO RECIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461746
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RECIFE SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO RECIFE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461747
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461616
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ FHD (H265)" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | H265",GLOBO RJ FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461748
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461615
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO RJ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461614
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC  TV MARINGA FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC  TV MARINGA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461749
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CASCAVEL FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC CASCAVEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461705
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CASCAVEL HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC CASCAVEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461706
+#EXTINF:-1 tvg-id="RPCTVCuritiba.br" tvg-name="GLOBO RPC CURITIBA FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC CURITIBA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461613
+#EXTINF:-1 tvg-id="RPCTVCuritiba.br" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC CURITIBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461612
+#EXTINF:-1 tvg-id="RPCTVCuritiba.br" tvg-name="GLOBO RPC CURITIBA SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC CURITIBA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461611
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC FOZ DO IGUACU FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC FOZ DO IGUACU FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461711
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC FOZ DO IGUACU HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC FOZ DO IGUACU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461610
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC PARANAVAI FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC PARANAVAI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461609
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC PARANAVAI HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC PARANAVAI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461692
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC PONTA GROSSA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC PONTA GROSSA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461750
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RPC TV MARINGA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC TV MARINGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461608
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO SERGIPE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461751
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SERGIPE HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO SERGIPE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461607
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SJRP HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO SJRP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461606
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SJRP SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO SJRP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461697
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="GLOBO SP FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461605
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD (H265)" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | H265",GLOBO SP FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461583
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="GLOBO SP HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461604
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="GLOBO SP SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461603
+#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="GLOBO TV ANHANGUERA GOIANIA FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV ANHANGUERA GOIANIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461581
+#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="GLOBO TV ANHANGUERA GOIANIA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV ANHANGUERA GOIANIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461602
+#EXTINF:-1 tvg-id="Globo TV Anhanguera SD" tvg-name="GLOBO TV ANHANGUERA GOIANIA SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO TV ANHANGUERA GOIANIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461701
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ASA BRANCA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO TV ASA BRANCA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461721
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ASA BRANCA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV ASA BRANCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461601
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CABO BRANCO FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO TV CABO BRANCO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461667
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CABO BRANCO HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV CABO BRANCO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461600
+#EXTINF:-1 tvg-id="Centroamerica.br" tvg-name="GLOBO TV CENTRO AMERICA CUIABA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV CENTRO AMERICA CUIABA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461599
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CENTRO AMERICA CUIABA SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO TV CENTRO AMERICA CUIABA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461699
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CENTRO AMERICA FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV CENTRO AMERICA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461752
+#EXTINF:-1 tvg-id="TVClube.br" tvg-name="GLOBO TV CLUBE TERESINA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV CLUBE TERESINA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461597
+#EXTINF:-1 tvg-id="TVClube.br" tvg-name="GLOBO TV CLUBE TERESINA SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV CLUBE TERESINA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789116
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV DIARIO FORTALEZA FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV DIARIO FORTALEZA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789117
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV DIARIO FORTALEZA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV DIARIO FORTALEZA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461596
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV GAZETA DE ALAGOAS FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV GAZETA DE ALAGOAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461595
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV GAZETA DE ALAGOAS HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV GAZETA DE ALAGOAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461594
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA DE ALAGOAS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV GAZETA DE ALAGOAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461754
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA SUL ES FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV GAZETA SUL ES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461755
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA SUL ES HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV GAZETA SUL ES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461593
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV INTEGRACAO ARAXA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO TV INTEGRACAO ARAXA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461661
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBO TV INTEGRACAO ARAXA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO TV INTEGRACAO ARAXA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461592
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE COCAIS FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV MIRANTE COCAIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789118
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE COCAIS HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV MIRANTE COCAIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461757
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE COCAIS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV MIRANTE COCAIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461758
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE SAO LUIS FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV MIRANTE SAO LUIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789119
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE SAO LUIS HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV MIRANTE SAO LUIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461760
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE SAO LUIS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV MIRANTE SAO LUIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461761
+#EXTINF:-1 tvg-id="Tvmorena.br" tvg-name="GLOBO TV MORENA CAMPO GRANDE FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO TV MORENA CAMPO GRANDE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461591
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA CAMPO GRANDE HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO TV MORENA CAMPO GRANDE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461693
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV REDE AMAZONICA MANAUS HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV REDE AMAZONICA MANAUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461618
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV REDE AMAZONICA MANAUS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV REDE AMAZONICA MANAUS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789120
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV REDE AMAZONICA PORTO VELHO FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV REDE AMAZONICA PORTO VELHO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461623
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV REDE AMAZONICA PORTO VELHO HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV REDE AMAZONICA PORTO VELHO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461622
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV REDE AMAZONICA PORTO VELHO SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV REDE AMAZONICA PORTO VELHO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789121
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO TV RIO SUL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461590
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV RIO SUL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789122
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV SANTA CRUZ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461764
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO TV SANTA CRUZ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461719
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SUBAE HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO TV SUBAE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461718
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SUBAE SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV SUBAE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789123
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM BAURU FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461690
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM BAURU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461691
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM BAURU SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461698
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM ITAPE FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM ITAPE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789124
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM ITAPE HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM ITAPE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789125
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM SOROCABA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461664
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM SOROCABA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461663
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM SOROCABA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461665
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA FHD (SANTOS)" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TRIBUNA FHD (SANTOS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461658
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA HD (SANTOS)" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TRIBUNA HD (SANTOS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461659
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA SD (SANTOS)" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TRIBUNA SD (SANTOS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461660
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA S J CAMPOS FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV VANGUARDA S J CAMPOS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461657
+#EXTINF:-1 tvg-id="Vangsaojchd.br" tvg-name="GLOBO TV VANGUARDA S J CAMPOS HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV VANGUARDA S J CAMPOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461589
+#EXTINF:-1 tvg-id="Vangsaojchd.br" tvg-name="GLOBO TV VANGUARDA S J CAMPOS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV VANGUARDA S J CAMPOS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461588
+#EXTINF:-1 tvg-id="tv.verdes.mares.cariri.br" tvg-name="GLOBO TV VERDES MARES FORTALEZA FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV VERDES MARES FORTALEZA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789126
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GLOBO TV VERDES MARES FORTALEZA FHD (H265)" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | H265",GLOBO TV VERDES MARES FORTALEZA FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461769
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GLOBO TV VERDES MARES FORTALEZA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV VERDES MARES FORTALEZA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461587
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GLOBO TV VERDES MARES FORTALEZA SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | REDE GLOBO",GLOBO TV VERDES MARES FORTALEZA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461586
+#EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="GLOBO UBERABA FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO UBERABA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461720
+#EXTINF:-1 tvg-id="EPTVSuldeMinas.br" tvg-name="GLOBO UBERABA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="CANAIS | REDE GLOBO",GLOBO UBERABA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461662
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/GLOOB.png" group-title="CANAIS | INFANTIL",GLOOB FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462161
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD (H265)" tvg-logo="http://trenduhd.xyz/images/INFANTIL/GLOOB.png" group-title="CANAIS | H265",GLOOB FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462135
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/GLOOBINHO.png" group-title="CANAIS | INFANTIL",GLOOBINHO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462146
+#EXTINF:-1 tvg-id="" tvg-name="GNT FHD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/GNT.png" group-title="CANAIS | VARIEDADES",GNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461989
+#EXTINF:-1 tvg-id="" tvg-name="GNT FHD (H265)" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/GNT.png" group-title="CANAIS | H265",GNT FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461961
+#EXTINF:-1 tvg-id="HBO2Brazil.br" tvg-name="HBO 2 FHD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO2.png" group-title="CANAIS | REDE HBO",HBO 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462126
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 2 FHD (H265)" tvg-logo="http://trenduhd.xyz/images/HBO/HBO2.png" group-title="CANAIS | H265",HBO 2 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462105
+#EXTINF:-1 tvg-id="HBO2Brazil.br" tvg-name="HBO 2 HD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO2.png" group-title="CANAIS | REDE HBO",HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462125
+#EXTINF:-1 tvg-id="HBO2Brazil.br" tvg-name="HBO 2 SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO2.png" group-title="CANAIS | REDE HBO",HBO 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462124
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 4K" tvg-logo="https://imgur.com/MSbGlF3.png" group-title="CANAIS | UHD",HBO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2075811
+#EXTINF:-1 tvg-id="HBOFamilyHDBrazil.br" tvg-name="HBO Familly FHD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20FAMILY.png" group-title="CANAIS | REDE HBO",HBO Familly FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462123
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Familly FHD (H265)" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20FAMILY.png" group-title="CANAIS | H265",HBO Familly FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462104
+#EXTINF:-1 tvg-id="HBOFamilyHDBrazil.br" tvg-name="HBO Familly HD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20FAMILY.png" group-title="CANAIS | REDE HBO",HBO Familly HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462122
+#EXTINF:-1 tvg-id="HBOFamilyHDBrazil.br" tvg-name="HBO Familly SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20FAMILY.png" group-title="CANAIS | REDE HBO",HBO Familly SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462121
+#EXTINF:-1 tvg-id="HBOBrazil.br" tvg-name="HBO FHD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO.png" group-title="CANAIS | REDE HBO",HBO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462120
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD (H265)" tvg-logo="http://trenduhd.xyz/images/HBO/HBO.png" group-title="CANAIS | H265",HBO FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462103
+#EXTINF:-1 tvg-id="HBOBrazil.br" tvg-name="HBO HD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO.png" group-title="CANAIS | REDE HBO",HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462119
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 01 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",HBO MAX 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461513
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 02 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",HBO MAX 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461514
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 03 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",HBO MAX 03 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461527
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 04 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",HBO MAX 04 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461528
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 05 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",HBO MAX 05 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461545
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 06 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",HBO MAX 06 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461546
+#EXTINF:-1 tvg-id="HBOMundiBrazil.br" tvg-name="HBO MUNDI FHD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20MUNDI.png" group-title="CANAIS | REDE HBO",HBO MUNDI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462118
+#EXTINF:-1 tvg-id="HBOMundiBrazil.br" tvg-name="HBO MUNDI FHD (H265)" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20MUNDI.png" group-title="CANAIS | H265",HBO MUNDI FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462102
+#EXTINF:-1 tvg-id="HBOMundiBrazil.br" tvg-name="HBO MUNDI HD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20MUNDI.png" group-title="CANAIS | REDE HBO",HBO MUNDI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462117
+#EXTINF:-1 tvg-id="HBOMundiBrazil.br" tvg-name="HBO MUNDI SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20MUNDI.png" group-title="CANAIS | REDE HBO",HBO MUNDI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462127
+#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" tvg-name="HBO PLUS FHD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20PLUS.png" group-title="CANAIS | REDE HBO",HBO PLUS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462116
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD (H265)" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20PLUS.png" group-title="CANAIS | H265",HBO PLUS FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462101
+#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" tvg-name="HBO PLUS HD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20PLUS.png" group-title="CANAIS | REDE HBO",HBO PLUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462115
+#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" tvg-name="HBO PLUS SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20PLUS.png" group-title="CANAIS | REDE HBO",HBO PLUS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462114
+#EXTINF:-1 tvg-id="HBOPopBrazil.br" tvg-name="HBO POP FHD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20POP.png" group-title="CANAIS | REDE HBO",HBO POP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462113
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO POP FHD (H265)" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20POP.png" group-title="CANAIS | H265",HBO POP FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462100
+#EXTINF:-1 tvg-id="HBOPopBrazil.br" tvg-name="HBO POP HD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20POP.png" group-title="CANAIS | REDE HBO",HBO POP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462110
+#EXTINF:-1 tvg-id="HBOPopBrazil.br" tvg-name="HBO POP SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20POP.png" group-title="CANAIS | REDE HBO",HBO POP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462128
+#EXTINF:-1 tvg-id="HBOBrazil.br" tvg-name="HBO SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO.png" group-title="CANAIS | REDE HBO",HBO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462109
+#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20SIGNATURE.png" group-title="CANAIS | REDE HBO",HBO SIGNATURE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462111
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE FHD (H265)" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20SIGNATURE.png" group-title="CANAIS | H265",HBO SIGNATURE FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462099
+#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20SIGNATURE.png" group-title="CANAIS | REDE HBO",HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462112
+#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" tvg-name="HBO SIGNATURE SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20SIGNATURE.png" group-title="CANAIS | REDE HBO",HBO SIGNATURE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462107
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME 4K" tvg-logo="https://imgur.com/tZQou9l.png" group-title="CANAIS | UHD",HBO XTREME 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2075817
+#EXTINF:-1 tvg-id="HBOXtremeBrazil.br" tvg-name="HBO XTREME FHD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20Xtreme.png" group-title="CANAIS | REDE HBO",HBO XTREME FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462108
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME FHD (H265)" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20Xtreme.png" group-title="CANAIS | H265",HBO XTREME FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462098
+#EXTINF:-1 tvg-id="HBOXtremeBrazil.br" tvg-name="HBO XTREME HD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20Xtreme.png" group-title="CANAIS | REDE HBO",HBO XTREME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462106
+#EXTINF:-1 tvg-id="HBOXtremeBrazil.br" tvg-name="HBO XTREME SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20Xtreme.png" group-title="CANAIS | REDE HBO",HBO XTREME SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462129
+#EXTINF:-1 tvg-id="" tvg-name="He-Man 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",He-Man 24hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826927
+#EXTINF:-1 tvg-id="HGTVBrazil.br" tvg-name="HGTV FHD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/HG.png" group-title="CANAIS | DOCUMENTÁRIOS",HGTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462042
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FHD (H265)" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/HG.png" group-title="CANAIS | H265",HGTV FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462014
+#EXTINF:-1 tvg-id="HGTVBrazil.br" tvg-name="HGTV HD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/HG.png" group-title="CANAIS | DOCUMENTÁRIOS",HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462041
+#EXTINF:-1 tvg-id="History2Brazil.br" tvg-name="HISTORY 2 FHD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/H2.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462045
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/H2.png" group-title="CANAIS | H265",HISTORY 2 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462019
+#EXTINF:-1 tvg-id="History2Brazil.br" tvg-name="HISTORY 2 HD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/H2.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462073
+#EXTINF:-1 tvg-id="History2Brazil.br" tvg-name="HISTORY 2 SD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/H2.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462043
+#EXTINF:-1 tvg-id="HistoryBrazil.br" tvg-name="HISTORY FHD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/HISTORY.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462040
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHD (H265)" tvg-logo="http://dash.liveboxtv.xyz:9105/resize.php?max=42&url=http://trenduhd.xyz:80/images/DOCUMENTARIOS/HISTORY.png" group-title="CANAIS | H265",HISTORY FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462018
+#EXTINF:-1 tvg-id="HistoryBrazil.br" tvg-name="HISTORY HD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/HISTORY.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462039
+#EXTINF:-1 tvg-id="HistoryBrazil.br" tvg-name="HISTORY SD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/HISTORY.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462038
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",HOMEM ARANHA 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826929
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Homem de Ferro 24hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826930
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HYSTORY 2 HD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/H2.png" group-title="CANAIS | DOCUMENTÁRIOS",HYSTORY 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462044
+#EXTINF:-1 tvg-id="" tvg-name="Hércules 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Hércules 24hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826931
+#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" tvg-name="ID DISCOVERY FHD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/ID.png" group-title="CANAIS | DISCOVERY",ID DISCOVERY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462037
+#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" tvg-name="ID DISCOVERY FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/ID.png" group-title="CANAIS | H265",ID DISCOVERY FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462017
+#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" tvg-name="ID DISCOVERY HD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/ID.png" group-title="CANAIS | DISCOVERY",ID DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462036
+#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" tvg-name="ID DISCOVERY SD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/ID.png" group-title="CANAIS | DISCOVERY",ID DISCOVERY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462035
+#EXTINF:-1 tvg-id="" tvg-name="Jack-Chan 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Jack-Chan 24hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826932
+#EXTINF:-1 tvg-id="" tvg-name="Jaspion 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Jaspion 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826933
+#EXTINF:-1 tvg-id="" tvg-name="JIRAYA O Incrível Ninja 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",JIRAYA O Incrível Ninja 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826934
+#EXTINF:-1 tvg-id="JPNews.br" tvg-name="JOVEM PAN NEWS FHD" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="CANAIS | JORNALISMO",JOVEM PAN NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462183
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="JOVEM PAN NEWS FHD (H265)" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="CANAIS | H265",JOVEM PAN NEWS FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462202
+#EXTINF:-1 tvg-id="JPNews.br" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="CANAIS | JORNALISMO",JOVEM PAN NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462184
+#EXTINF:-1 tvg-id="JPNews.br" tvg-name="JOVEM PAN NEWS SD" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="CANAIS | JORNALISMO",JOVEM PAN NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462201
+#EXTINF:-1 tvg-id="" tvg-name="Kenan e Kel 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Kenan e Kel 24hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826935
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME FHD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/LIFETIME.png" group-title="CANAIS | VARIEDADES",LIFETIME FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461986
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/LIFETIME.png" group-title="CANAIS | H265",LIFETIME FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461960
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justica 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Liga da Justica 24hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826936
+#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL HD" tvg-logo="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_antigo_ligafutsal-1.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",LIGA FUTSAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2119057
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE FHD" tvg-logo="https://w7.pngwing.com/pngs/390/91/png-transparent-love-nature-illustration-love-nature-4k-resolution-television-blue-ant-media-18-miscellaneous-text-trademark.png" group-title="CANAIS | DOCUMENTÁRIOS",LOVE NATURE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462069
+#EXTINF:-1 tvg-id="" tvg-name="Luluzinha 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Luluzinha 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826937
+#EXTINF:-1 tvg-id="" tvg-name="Medabots 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Medabots 24hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826938
+#EXTINF:-1 tvg-id="" tvg-name="MegaMan 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",MegaMan 24hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826939
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix 4K" tvg-logo="https://imgur.com/a1T8A7Y.png" group-title="CANAIS | UHD",Megapix 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2075812
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/MEGAPIX.png" group-title="CANAIS | FILMES & SERIES",MEGAPIX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461919
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/MEGAPIX.png" group-title="CANAIS | H265",MEGAPIX FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461874
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/MEGAPIX.png" group-title="CANAIS | FILMES & SERIES",MEGAPIX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461918
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/MEGAPIX.png" group-title="CANAIS | FILMES & SERIES",MEGAPIX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461920
+#EXTINF:-1 tvg-id="E! Entertainment Television FHD" tvg-name="MODO VIAGEM FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | FILMES & SERIES",MODO VIAGEM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461923
+#EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM FHD (H265)" tvg-logo="https://lh3.googleusercontent.com/-156xqW-BlXM/YB2LVcPyC2I/AAAAAAAAJ8g/A3bYkrKjqi09DknAXLGchXNkyH-SmMmSACLcBGAsYHQ/Mais%2BGlobosat.png" group-title="CANAIS | H265",MODO VIAGEM FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461875
+#EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CANAIS | FILMES & SERIES",MODO VIAGEM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461922
+#EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM SD" tvg-logo="https://lh3.googleusercontent.com/-156xqW-BlXM/YB2LVcPyC2I/AAAAAAAAJ8g/A3bYkrKjqi09DknAXLGchXNkyH-SmMmSACLcBGAsYHQ/Mais%2BGlobosat.png" group-title="CANAIS | FILMES & SERIES",MODO VIAGEM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461921
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Mortal Kombat 24hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826940
+#EXTINF:-1 tvg-id="" tvg-name="Mr.Ben 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Mr.Ben 24hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826941
+#EXTINF:-1 tvg-id="" tvg-name="MTV FHD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/MTV.png" group-title="CANAIS | VARIEDADES",MTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461982
+#EXTINF:-1 tvg-id="" tvg-name="MTV FHD (H265)" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/MTV.png" group-title="CANAIS | H265",MTV FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461959
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow 4K" tvg-logo="https://imgur.com/TmJwUyT.png" group-title="CANAIS | UHD",Multishow 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2075813
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW FHD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/MULTISHOW.png" group-title="CANAIS | VARIEDADES",MULTISHOW FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461980
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW FHD (H265)" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/MULTISHOW.png" group-title="CANAIS | H265",MULTISHOW FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461958
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden DUB 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Naruto Shippuden DUB 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826942
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATGEO 4K" tvg-logo="https://imgur.com/ajTduA7.png" group-title="CANAIS | UHD",NATGEO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2075819
+#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" tvg-name="NATGEO FHD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/NATGEO.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462034
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/NATGEO.png" group-title="CANAIS | H265",NATGEO FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462016
+#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" tvg-name="NATGEO HD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/NATGEO.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462033
+#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" tvg-name="NATGEO SD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/NATGEO.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462032
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK WORLD HD" tvg-logo="http://trenduhd.xyz/images/NOTICIAS/NHK.png" group-title="CANAIS | DOCUMENTÁRIOS",NHK WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462028
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK WORLD SD" tvg-logo="http://trenduhd.xyz/images/NOTICIAS/NHK.png" group-title="CANAIS | DOCUMENTÁRIOS",NHK WORLD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462027
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKJR.png" group-title="CANAIS | INFANTIL",NICK JR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462155
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD (H265)" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKJR.png" group-title="CANAIS | H265",NICK JR FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462132
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON FHD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKE.png" group-title="CANAIS | INFANTIL",NICKELODEON FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462152
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON FHD (H265)" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKE.png" group-title="CANAIS | H265",NICKELODEON FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462133
+#EXTINF:-1 tvg-id="" tvg-name="O Fantástico Mundo de Bobby 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",O Fantástico Mundo de Bobby 24hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826943
+#EXTINF:-1 tvg-id="" tvg-name="O MASKARA 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",O MASKARA 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826944
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF FHD" tvg-logo="https://1.bp.blogspot.com/-sVZuVBZoYSk/YBxY4uH9OTI/AAAAAAAAJyo/drXf5kzqFqE3tc4fwwiTYlCX8SVbcD1YQCLcBGAsYHQ/s0/OFF.png" group-title="CANAIS | ESPORTES",OFF FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461436
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD (H265)" tvg-logo="https://1.bp.blogspot.com/-sVZuVBZoYSk/YBxY4uH9OTI/AAAAAAAAJyo/drXf5kzqFqE3tc4fwwiTYlCX8SVbcD1YQCLcBGAsYHQ/s0/OFF.png" group-title="CANAIS | H265",OFF FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461437
+#EXTINF:-1 tvg-id="" tvg-name="Os Anjinhos - Rugrats 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Os Anjinhos - Rugrats 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826945
+#EXTINF:-1 tvg-id="" tvg-name="OS CAVALEIROS DO ZODIACO 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",OS CAVALEIROS DO ZODIACO 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826946
+#EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",OS FLINTSTONES 24hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826947
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",OS SIMPSONS 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826948
+#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Os Vingadores 24hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826949
+#EXTINF:-1 tvg-id="" tvg-name="Papa-Léguas 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Papa-Léguas 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826950
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT FHD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/PARAMOUNT.png" group-title="CANAIS | FILMES & SERIES",PARAMOUNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461917
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/PARAMOUNT.png" group-title="CANAIS | H265",PARAMOUNT FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461873
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT HD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/PARAMOUNT.png" group-title="CANAIS | FILMES & SERIES",PARAMOUNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461916
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/PARAMOUNT.png" group-title="CANAIS | FILMES & SERIES",PARAMOUNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461915
+#EXTINF:-1 tvg-id="" tvg-name="PEQUENOS ESPIOES 24 HRS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",PEQUENOS ESPIOES 24 HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826951
+#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",PERNALONGA 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826952
+#EXTINF:-1 tvg-id="" tvg-name="Phineas e Ferb 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Phineas e Ferb 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826953
+#EXTINF:-1 tvg-id="" tvg-name="PICA PAU 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",PICA PAU 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826954
+#EXTINF:-1 tvg-id="" tvg-name="Pink-e-Cerebro 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Pink-e-Cerebro 24hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826955
+#EXTINF:-1 tvg-id="PlayboyTVBrazil.br" tvg-name="PLAYBOY TV SD" tvg-logo="https://www.vector-logo.net/logo_preview/eps/p/Playboy_TV.png" group-title="CANAIS | ADULTOS+18",PLAYBOY TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789069
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",POKEMON 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826956
+#EXTINF:-1 tvg-id="FashionTVBrazil.br" tvg-name="POLISHOP SD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/POLISHOP.png" group-title="CANAIS | ABERTOS",POLISHOP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461826
+#EXTINF:-1 tvg-id="" tvg-name="Popeye O Marinheiro 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Popeye O Marinheiro 24hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826957
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461444
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | H265",PREMIERE 2 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461445
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461446
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461447
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461448
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | H265",PREMIERE 3 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461449
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461450
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461451
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461452
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | H265",PREMIERE 4 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461453
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461454
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461455
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461456
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | H265",PREMIERE 5 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461457
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461458
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461459
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461460
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | H265",PREMIERE 6 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461461
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461462
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461463
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461464
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 7 FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | H265",PREMIERE 7 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461469
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461465
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461466
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes 4K" tvg-logo="https://imgur.com/JwneBNo.png" group-title="CANAIS | UHD",Premiere Clubes 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2075823
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="PREMIERE CLUBES FHD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461440
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | H265",PREMIERE CLUBES FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461441
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461442
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="PREMIERE CLUBES SD" tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461443
+#EXTINF:-1 tvg-id="" tvg-name="Rambo 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Rambo 24hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826958
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record 4K" tvg-logo="https://imgur.com/8aIWOVK.png" group-title="CANAIS | UHD",Record 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2075800
+#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORD CAMPINAS FHD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="CANAIS | REDE RECORD",RECORD CAMPINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461487
+#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORD CAMPINAS HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | REDE RECORD",RECORD CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461481
+#EXTINF:-1 tvg-id="RecordTV Goiás" tvg-name="RECORD GOIAS FHD (H265)" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | H265",RECORD GOIAS FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461472
+#EXTINF:-1 tvg-id="record.goias.br" tvg-name="RECORD GOIAS HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | REDE RECORD",RECORD GOIAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461480
+#EXTINF:-1 tvg-id="record.minas.br" tvg-name="RECORD MINAS FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | REDE RECORD",RECORD MINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461478
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="RECORD NEWS FHD" tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="CANAIS | JORNALISMO",RECORD NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462199
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="CANAIS | JORNALISMO",RECORD NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462188
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="RECORD NEWS SD" tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="CANAIS | JORNALISMO",RECORD NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462187
+#EXTINF:-1 tvg-id="record.rs.br" tvg-name="RECORD RS FHD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="CANAIS | REDE RECORD",RECORD RS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461485
+#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORD SP FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | REDE RECORD",RECORD SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461475
+#EXTINF:-1 tvg-id="record.curitiba.br" tvg-name="RECORD TV PARANÁ FHD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="CANAIS | REDE RECORD",RECORD TV PARANÁ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461486
+#EXTINF:-1 tvg-id="" tvg-name="REDE 21 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rede_21_logo.svg/1200px-Rede_21_logo.svg.png" group-title="CANAIS | RELIGIOSOS",REDE 21 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461856
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="REDE BRASIL SD" tvg-logo="https://lh3.googleusercontent.com/-DheWJ_pUPiQ/YB1DqDzkh1I/AAAAAAAAJ5I/kttnnjEOomAcHHC-b4xquxHeCWZ3zqW4gCLcBGAsYHQ/TV%2BBRASIL%2BRE.png" group-title="CANAIS | ABERTOS",REDE BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461831
+#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL HD" tvg-logo="https://lh3.googleusercontent.com/-g16E1tbKpow/YY5HAgchPZI/AAAAAAAAKvI/mpiZfuDrHcgEVbPDMNvORVdpazr0cI8gACLcBGAsYHQ/rede%2Bgospel.png" group-title="CANAIS | RELIGIOSOS",REDE GOSPEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461852
+#EXTINF:-1 tvg-id="" tvg-name="REDE SUPER FHD" tvg-logo="https://lh3.googleusercontent.com/-D5d1wcnqfj8/YT009l6rOZI/AAAAAAAAKkg/4OfFErGZ7SQMWnYU2FlKYzcryCsbKRjQQCLcBGAsYHQ/super.png" group-title="CANAIS | RELIGIOSOS",REDE SUPER FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461855
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="REDE TV FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/REDETV.png" group-title="CANAIS | ABERTOS",REDE TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461825
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV FHD (H265)" tvg-logo="http://trenduhd.xyz/images/ABERTOS/REDETV.png" group-title="CANAIS | H265",REDE TV FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461818
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="REDE TV HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/REDETV.png" group-title="CANAIS | ABERTOS",REDE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461824
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="REDE TV SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/REDETV.png" group-title="CANAIS | ABERTOS",REDE TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461823
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA FHD" tvg-logo="https://lh3.googleusercontent.com/-sXM0T_H-OdQ/YB7vVSrfZ-I/AAAAAAAAKDo/wdMquyO8rqoWOGn7KDLABrFv4_P4dr2tQCLcBGAsYHQ/Rede%2BVida.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461858
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA HD" tvg-logo="https://lh3.googleusercontent.com/-sXM0T_H-OdQ/YB7vVSrfZ-I/AAAAAAAAKDo/wdMquyO8rqoWOGn7KDLABrFv4_P4dr2tQCLcBGAsYHQ/Rede%2BVida.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461857
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA SD" tvg-logo="https://lh3.googleusercontent.com/-sXM0T_H-OdQ/YB7vVSrfZ-I/AAAAAAAAKDo/wdMquyO8rqoWOGn7KDLABrFv4_P4dr2tQCLcBGAsYHQ/Rede%2BVida.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461851
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDETV 4K" tvg-logo="https://imgur.com/MSeODpX.png" group-title="CANAIS | UHD",REDETV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2075821
+#EXTINF:-1 tvg-id="" tvg-name="RIT TV HD" tvg-logo="https://media.glassdoor.com/sqll/2491026/rit-tv-squarelogo-1554440519232.png" group-title="CANAIS | RELIGIOSOS",RIT TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461850
+#EXTINF:-1 tvg-id="" tvg-name="RIT TV SD" tvg-logo="https://media.glassdoor.com/sqll/2491026/rit-tv-squarelogo-1554440519232.png" group-title="CANAIS | RELIGIOSOS",RIT TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461859
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT 4K" tvg-logo="https://imgur.com/fAIRogr.png" group-title="CANAIS | UHD",SBT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2075814
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT ARATU BAHIA HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="CANAIS | SBT",SBT ARATU BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461808
+#EXTINF:-1 tvg-id="sbt.brasilia.br" tvg-name="SBT BRASILIA HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="CANAIS | SBT",SBT BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461811
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT CAMPINAS FHD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="CANAIS | SBT",SBT CAMPINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461805
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT CAMPINAS HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="CANAIS | SBT",SBT CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461806
+#EXTINF:-1 tvg-id="sbt.belem.br" tvg-name="SBT PARANA FHD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="CANAIS | SBT",SBT PARANA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461812
+#EXTINF:-1 tvg-id="sbt.para.br" tvg-name="SBT PR FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/SBT.png" group-title="CANAIS | SBT",SBT PR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461799
+#EXTINF:-1 tvg-id="sbt.para.br" tvg-name="SBT PR HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/SBT.png" group-title="CANAIS | SBT",SBT PR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461798
+#EXTINF:-1 tvg-id="sbt.sergipe.br" tvg-name="SBT RECIFE SD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="CANAIS | SBT",SBT RECIFE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461813
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/SBT.png" group-title="CANAIS | SBT",SBT RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461797
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/SBT.png" group-title="CANAIS | SBT",SBT RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461807
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ SD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="CANAIS | SBT",SBT RJ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461814
+#EXTINF:-1 tvg-id="sbt.rs.br" tvg-name="SBT RS HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="CANAIS | SBT",SBT RS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461810
+#EXTINF:-1 tvg-id="sbt.sergipe.br" tvg-name="SBT SERGIPE HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="CANAIS | SBT",SBT SERGIPE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461809
+#EXTINF:-1 tvg-id="SBTRS.BR" tvg-name="SBT SERRA DOURADA FHD (H265)" tvg-logo="http://trenduhd.xyz/images/ABERTOS/SBT.png" group-title="CANAIS | H265",SBT SERRA DOURADA FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461796
+#EXTINF:-1 tvg-id="sbt.piaui.br" tvg-name="SBT SERRA DOURADA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/SBT.png" group-title="CANAIS | SBT",SBT SERRA DOURADA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461802
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/SBT.png" group-title="CANAIS | SBT",SBT SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461795
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD (H265)" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="CANAIS | H265",SBT SP FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461815
+#EXTINF:-1 tvg-id="sbt.belo.horizonte.br" tvg-name="SBT TV ALTEROSA MG FHD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="CANAIS | SBT",SBT TV ALTEROSA MG FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461803
+#EXTINF:-1 tvg-id="sbt.ms.br" tvg-name="SBT TV ALTEROSA MG HD" tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="CANAIS | SBT",SBT TV ALTEROSA MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461804
+#EXTINF:-1 tvg-id="sbt.piaui.br" tvg-name="SBT TV CIDADE VERDE (PI) HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/SBT.png" group-title="CANAIS | SBT",SBT TV CIDADE VERDE (PI) HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461801
+#EXTINF:-1 tvg-id="sbt.ponta.verde.br" tvg-name="SBT TV JORNAL (PE) HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/SBT.png" group-title="CANAIS | SBT",SBT TV JORNAL (PE) HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461800
+#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Scooby-Doo 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826959
+#EXTINF:-1 tvg-id="Sextreme.br" tvg-name="SEXTREME SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Sextreme.jpg" group-title="CANAIS | ADULTOS+18",SEXTREME SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789070
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="SEXY HOT SD" tvg-logo="https://lh3.googleusercontent.com/proxy/OubCgk80HyM1yCPF0Gv2RJYz5dvTjsBP4vPWUhr5cRcGcmUwI7TDG0g_nkU_W_3mtjZRxGxc635vpWNvA5udA_1ud9zWw3eOuF0" group-title="CANAIS | ADULTOS+18",SEXY HOT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/789073
+#EXTINF:-1 tvg-id="" tvg-name="SHOPTIME FHD" tvg-logo="https://lh3.googleusercontent.com/-EQ6AwC0WcuM/YT012tjJSKI/AAAAAAAAKko/sfdIri6EbfI7dKQLQcpkGJjR_NANoK5PQCLcBGAsYHQ/sptame.png" group-title="CANAIS | VARIEDADES",SHOPTIME FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462003
+#EXTINF:-1 tvg-id="" tvg-name="South Park 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",South Park 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826960
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space 4K" tvg-logo="https://imgur.com/jrLtYGg.png" group-title="CANAIS | UHD",Space 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2075815
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/SPACE.png" group-title="CANAIS | FILMES & SERIES",SPACE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461914
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/SPACE.png" group-title="CANAIS | H265",SPACE FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461872
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/SPACE.png" group-title="CANAIS | FILMES & SERIES",SPACE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461913
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/SPACE.png" group-title="CANAIS | FILMES & SERIES",SPACE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461912
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="CANAIS | ESPORTES",SPORTV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461428
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD (H265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="CANAIS | H265",SPORTV 2 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461429
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SporTV2_2021.png/799px-SporTV2_2021.png" group-title="CANAIS | ESPORTES",SPORTV 2 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161613
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SporTV2_2021.png/799px-SporTV2_2021.png" group-title="CANAIS | ESPORTES",SPORTV 2 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161606
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="CANAIS | ESPORTES",SPORTV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461432
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD (H265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="CANAIS | H265",SPORTV 3 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461433
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="CANAIS | ESPORTES",SPORTV 3 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161614
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="CANAIS | ESPORTES",SPORTV 3 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161607
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV 4K" tvg-logo="https://imgur.com/PuiKfMf.png" group-title="CANAIS | UHD",SporTV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2075816
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="CANAIS | ESPORTES",SPORTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461424
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD (H265)" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="CANAIS | H265",SPORTV FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461425
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="CANAIS | ESPORTES",SPORTV FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161612
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="CANAIS | ESPORTES",SPORTV HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161608
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV2 FHD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SporTV2_2021.png/799px-SporTV2_2021.png" group-title="CANAIS | ESPORTES",SPORTV2 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161609
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV3 FHD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="CANAIS | ESPORTES",SPORTV3 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161610
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL 4K" tvg-logo="https://imgur.com/Djn232m.png" group-title="CANAIS | UHD",STAR CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2075808
+#EXTINF:-1 tvg-id="StarChannelBrazil.br" tvg-name="STAR CHANNEL FHD" tvg-logo="https://lh3.googleusercontent.com/-aLoYeViBiqc/YBx4UEvHXpI/AAAAAAAAJ4A/2fKw-l73j30BISNKY0BC3ATlFJHqtPxXACLcBGAsYHQ/FOX.png" group-title=" CANAIS | STAR PLUS",STAR CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461911
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL FHD (H265)" tvg-logo="https://lh3.googleusercontent.com/-aLoYeViBiqc/YBx4UEvHXpI/AAAAAAAAJ4A/2fKw-l73j30BISNKY0BC3ATlFJHqtPxXACLcBGAsYHQ/FOX.png" group-title="CANAIS | H265",STAR CHANNEL FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461871
+#EXTINF:-1 tvg-id="StarChannelBrazil.br" tvg-name="STAR CHANNEL HD" tvg-logo="https://lh3.googleusercontent.com/-aLoYeViBiqc/YBx4UEvHXpI/AAAAAAAAJ4A/2fKw-l73j30BISNKY0BC3ATlFJHqtPxXACLcBGAsYHQ/FOX.png" group-title=" CANAIS | STAR PLUS",STAR CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461909
+#EXTINF:-1 tvg-id="StarChannelBrazil.br" tvg-name="STAR CHANNEL HD (LEG)" tvg-logo="https://lh3.googleusercontent.com/-aLoYeViBiqc/YBx4UEvHXpI/AAAAAAAAJ4A/2fKw-l73j30BISNKY0BC3ATlFJHqtPxXACLcBGAsYHQ/FOX.png" group-title=" CANAIS | STAR PLUS",STAR CHANNEL HD (LEG)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461378
+#EXTINF:-1 tvg-id="StarChannelBrazil.br" tvg-name="STAR CHANNEL SD" tvg-logo="https://lh3.googleusercontent.com/-aLoYeViBiqc/YBx4UEvHXpI/AAAAAAAAJ4A/2fKw-l73j30BISNKY0BC3ATlFJHqtPxXACLcBGAsYHQ/FOX.png" group-title=" CANAIS | STAR PLUS",STAR CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461908
+#EXTINF:-1 tvg-id="StarLifeBrazil.br" tvg-name="STAR LIFE FHD" tvg-logo="https://lh3.googleusercontent.com/-IgSsbk6TeGQ/YBxwZhfFmEI/AAAAAAAAJ3U/4wSIewTLk98XGKJ8Hh5tc3AAAHF27iKNACLcBGAsYHQ/FOX%2BLIFE.png" group-title=" CANAIS | STAR PLUS",STAR LIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461907
+#EXTINF:-1 tvg-id="StarLifeBrazil.br" tvg-name="STAR LIFE HD" tvg-logo="https://lh3.googleusercontent.com/-IgSsbk6TeGQ/YBxwZhfFmEI/AAAAAAAAJ3U/4wSIewTLk98XGKJ8Hh5tc3AAAHF27iKNACLcBGAsYHQ/FOX%2BLIFE.png" group-title=" CANAIS | STAR PLUS",STAR LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461910
+#EXTINF:-1 tvg-id="StarLifeBrazil.br" tvg-name="STAR LIFE SD" tvg-logo="https://lh3.googleusercontent.com/-IgSsbk6TeGQ/YBxwZhfFmEI/AAAAAAAAJ3U/4wSIewTLk98XGKJ8Hh5tc3AAAHF27iKNACLcBGAsYHQ/FOX%2BLIFE.png" group-title=" CANAIS | STAR PLUS",STAR LIFE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461906
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/STUDIO.png" group-title="CANAIS | FILMES & SERIES",STUDIO UNIVERSAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461905
+#EXTINF:-1 tvg-id="StudioUniversalBrazil.br" tvg-name="STUDIO UNIVERSAL FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/STUDIO.png" group-title="CANAIS | H265",STUDIO UNIVERSAL FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461870
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/STUDIO.png" group-title="CANAIS | FILMES & SERIES",STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461904
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/STUDIO.png" group-title="CANAIS | FILMES & SERIES",STUDIO UNIVERSAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461903
+#EXTINF:-1 tvg-id="" tvg-name="Super Choque 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Super Choque 24hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826961
+#EXTINF:-1 tvg-id="" tvg-name="Superman 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Superman 24hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826962
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY FHD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/SYFY.png" group-title="CANAIS | FILMES & SERIES",SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461902
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/SYFY.png" group-title="CANAIS | H265",SYFY FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461869
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY HD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/SYFY.png" group-title="CANAIS | FILMES & SERIES",SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461901
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/SYFY.png" group-title="CANAIS | FILMES & SERIES",SYFY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461900
+#EXTINF:-1 tvg-id="" tvg-name="TARTARUGAS NINJAS 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",TARTARUGAS NINJAS 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826963
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS FHD" tvg-logo="https://1.bp.blogspot.com/-J6LrcJ8xvNw/YBxZBRoEyiI/AAAAAAAAJ08/QhuCSNNbI7Y28b8IW_zDJv9-DyTFQGkzwCLcBGAsYHQ/s0/tbs.png" group-title="CANAIS | FILMES & SERIES",TBS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461899
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD (H265)" tvg-logo="https://1.bp.blogspot.com/-J6LrcJ8xvNw/YBxZBRoEyiI/AAAAAAAAJ08/QhuCSNNbI7Y28b8IW_zDJv9-DyTFQGkzwCLcBGAsYHQ/s0/tbs.png" group-title="CANAIS | H265",TBS FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461868
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="https://1.bp.blogspot.com/-J6LrcJ8xvNw/YBxZBRoEyiI/AAAAAAAAJ08/QhuCSNNbI7Y28b8IW_zDJv9-DyTFQGkzwCLcBGAsYHQ/s0/tbs.png" group-title="CANAIS | FILMES & SERIES",TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461898
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS SD" tvg-logo="https://1.bp.blogspot.com/-J6LrcJ8xvNw/YBxZBRoEyiI/AAAAAAAAJ08/QhuCSNNbI7Y28b8IW_zDJv9-DyTFQGkzwCLcBGAsYHQ/s0/tbs.png" group-title="CANAIS | FILMES & SERIES",TBS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461897
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/TCM.png" group-title="CANAIS | FILMES & SERIES",TCM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461946
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/TCM.png" group-title="CANAIS | FILMES & SERIES",TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461896
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/TCM.png" group-title="CANAIS | FILMES & SERIES",TCM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461895
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20ACTION.png" group-title="CANAIS | REDE TELECINE",TELECINE ACTION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462097
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20ACTION.png" group-title="CANAIS | H265",TELECINE ACTION FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462078
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="TELECINE ACTION HD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20ACTION.png" group-title="CANAIS | REDE TELECINE",TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462096
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="TELECINE ACTION SD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20ACTION.png" group-title="CANAIS | REDE TELECINE",TELECINE ACTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462095
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://1.bp.blogspot.com/-D2s_8Dll7bw/YBxZBwYWhuI/AAAAAAAAJ1E/WmYvLjhIokEoGNm5sAxr4__ob-OGBVlCQCLcBGAsYHQ/s0/telecine%2Bcult.png" group-title="CANAIS | REDE TELECINE",TELECINE CULT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462094
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD (H265)" tvg-logo="https://1.bp.blogspot.com/-D2s_8Dll7bw/YBxZBwYWhuI/AAAAAAAAJ1E/WmYvLjhIokEoGNm5sAxr4__ob-OGBVlCQCLcBGAsYHQ/s0/telecine%2Bcult.png" group-title="CANAIS | H265",TELECINE CULT FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462079
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://1.bp.blogspot.com/-D2s_8Dll7bw/YBxZBwYWhuI/AAAAAAAAJ1E/WmYvLjhIokEoGNm5sAxr4__ob-OGBVlCQCLcBGAsYHQ/s0/telecine%2Bcult.png" group-title="CANAIS | REDE TELECINE",TELECINE CULT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462093
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://1.bp.blogspot.com/-D2s_8Dll7bw/YBxZBwYWhuI/AAAAAAAAJ1E/WmYvLjhIokEoGNm5sAxr4__ob-OGBVlCQCLcBGAsYHQ/s0/telecine%2Bcult.png" group-title="CANAIS | REDE TELECINE",TELECINE CULT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462092
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="TELECINE FUN FHD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20FUN.png" group-title="CANAIS | REDE TELECINE",TELECINE FUN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462091
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20FUN.png" group-title="CANAIS | H265",TELECINE FUN FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462077
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="TELECINE FUN HD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20FUN.png" group-title="CANAIS | REDE TELECINE",TELECINE FUN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462090
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="TELECINE FUN SD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20FUN.png" group-title="CANAIS | REDE TELECINE",TELECINE FUN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462089
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA 4K" tvg-logo="https://imgur.com/Y9bDX2R.png" group-title="CANAIS | UHD",TELECINE PIPOCA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2075822
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20PIPOCA.png" group-title="CANAIS | REDE TELECINE",TELECINE PIPOCA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462088
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20PIPOCA.png" group-title="CANAIS | H265",TELECINE PIPOCA FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462076
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20PIPOCA.png" group-title="CANAIS | REDE TELECINE",TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462087
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20PIPOCA.png" group-title="CANAIS | REDE TELECINE",TELECINE PIPOCA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462086
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium 4K" tvg-logo="https://imgur.com/11uUTvW.png" group-title="CANAIS | UHD",Telecine Premium 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2075801
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20PREMIUM.png" group-title="CANAIS | REDE TELECINE",TELECINE PREMIUM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462085
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20PREMIUM.png" group-title="CANAIS | H265",TELECINE PREMIUM FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462075
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20PREMIUM.png" group-title="CANAIS | REDE TELECINE",TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462084
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20PREMIUM.png" group-title="CANAIS | REDE TELECINE",TELECINE PREMIUM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462083
+#EXTINF:-1 tvg-id="Telecine Touch SD [Alter]" tvg-name="TELECINE TOUCH FHD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20TOUCH.png" group-title="CANAIS | REDE TELECINE",TELECINE TOUCH FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462082
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20TOUCH.png" group-title="CANAIS | H265",TELECINE TOUCH FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462074
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20TOUCH.png" group-title="CANAIS | REDE TELECINE",TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462081
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="http://trenduhd.xyz:80/images/Telecines/TELECINE%20TOUCH.png" group-title="CANAIS | REDE TELECINE",TELECINE TOUCH SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462080
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="TERRA VIVA SD" tvg-logo="https://lh3.googleusercontent.com/-1Zg8V5Pfxd4/YB1Gnnx4hEI/AAAAAAAAJ5o/Yct-RuSsxvwjmygNXX0lpz46Phq469KmQCLcBGAsYHQ/Terra%2BViva.png" group-title="CANAIS | ABERTOS",TERRA VIVA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461830
+#EXTINF:-1 tvg-id="" tvg-name="Thundercats 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Thundercats 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826964
+#EXTINF:-1 tvg-id="" tvg-name="TIMAO E PUMBA 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",TIMAO E PUMBA 24HS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826965
+#EXTINF:-1 tvg-id="" tvg-name="TLC FHD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/TLC.png" group-title="CANAIS | VARIEDADES",TLC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461975
+#EXTINF:-1 tvg-id="" tvg-name="TLC FHD (H265)" tvg-logo="http://dash.liveboxtv.xyz:9105/resize.php?max=42&url=http://trenduhd.xyz:80/images/DOCUMENTARIOS/TLC.png" group-title="CANAIS | H265",TLC FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461957
+#EXTINF:-1 tvg-id="" tvg-name="TLC SD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/TLC.png" group-title="CANAIS | VARIEDADES",TLC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461973
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT 4K" tvg-logo="https://imgur.com/Hahaouj.png" group-title="CANAIS | UHD",TNT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2075802
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/TNT.png" group-title="CANAIS | FILMES & SERIES",TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461894
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/TNT.png" group-title="CANAIS | H265",TNT FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461867
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/TNT.png" group-title="CANAIS | FILMES & SERIES",TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461893
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/TNT.png" group-title="CANAIS | FILMES & SERIES",TNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461892
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series 4K" tvg-logo="http://cdn.liveboxtv.xyz:80/images/3d9b6b4d3c0fe15c610dbc7bcfcd93d3.png" group-title="CANAIS | UHD",TNT Series 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2075803
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD" tvg-logo="https://1.bp.blogspot.com/-qEATimLGJfw/YBxY8F6IZUI/AAAAAAAAJzc/k7ssZlCCEy4xubINVVn49CLxhHeP9OLLQCLcBGAsYHQ/s0/TNT%2BSERIES.png" group-title="CANAIS | FILMES & SERIES",TNT SERIES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461891
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/TNT%20SERIES.png" group-title="CANAIS | H265",TNT SERIES FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461866
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES HD" tvg-logo="https://1.bp.blogspot.com/-qEATimLGJfw/YBxY8F6IZUI/AAAAAAAAJzc/k7ssZlCCEy4xubINVVn49CLxhHeP9OLLQCLcBGAsYHQ/s0/TNT%2BSERIES.png" group-title="CANAIS | FILMES & SERIES",TNT SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461890
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES SD" tvg-logo="https://1.bp.blogspot.com/-qEATimLGJfw/YBxY8F6IZUI/AAAAAAAAJzc/k7ssZlCCEy4xubINVVn49CLxhHeP9OLLQCLcBGAsYHQ/s0/TNT%2BSERIES.png" group-title="CANAIS | FILMES & SERIES",TNT SERIES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461889
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST FHD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/TOONCAST.png" group-title="CANAIS | INFANTIL",TOONCAST FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462149
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRASIL FHD" tvg-logo="https://lh3.googleusercontent.com/-Jv9Fqh1kL_8/YZgIiZzStGI/AAAAAAAAKxU/XXrjjg787X4E9Yo63l0cGywdmbG4nxcRQCLcBGAsYHQ/TRAVA.png" group-title="CANAIS | VARIEDADES",TRAVEL BOX BRASIL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462004
+#EXTINF:-1 tvg-id="" tvg-name="Tres Espias Demais 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Tres Espias Demais 24hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826966
+#EXTINF:-1 tvg-id="" tvg-name="TRUTV FHD" tvg-logo="https://1.bp.blogspot.com/-Fiw4brPaCjU/YBxZDBx9i3I/AAAAAAAAJ1c/SlnstmbOAT0pvdjfA7QkRR8xuM6aGnN5QCLcBGAsYHQ/s0/tru%2Btv.png" group-title="CANAIS | VARIEDADES",TRUTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462005
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA SD" tvg-logo="https://lh3.googleusercontent.com/-jxrYBhdc3Gg/YB7u9f2qpkI/AAAAAAAAKDg/qWySSHpGwgMk54cczTwspzh_2Wj2W6fUwCLcBGAsYHQ/TV%2BAparecida.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461849
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV BRASIL FHD" tvg-logo="https://lh3.googleusercontent.com/-DheWJ_pUPiQ/YB1DqDzkh1I/AAAAAAAAJ5I/kttnnjEOomAcHHC-b4xquxHeCWZ3zqW4gCLcBGAsYHQ/TV%2BBRASIL%2BRE.png" group-title="CANAIS | ABERTOS",TV BRASIL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461837
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV BRASIL HD" tvg-logo="https://lh3.googleusercontent.com/-DheWJ_pUPiQ/YB1DqDzkh1I/AAAAAAAAJ5I/kttnnjEOomAcHHC-b4xquxHeCWZ3zqW4gCLcBGAsYHQ/TV%2BBRASIL%2BRE.png" group-title="CANAIS | ABERTOS",TV BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461836
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV BRASIL SD" tvg-logo="https://lh3.googleusercontent.com/-DheWJ_pUPiQ/YB1DqDzkh1I/AAAAAAAAJ5I/kttnnjEOomAcHHC-b4xquxHeCWZ3zqW4gCLcBGAsYHQ/TV%2BBRASIL%2BRE.png" group-title="CANAIS | ABERTOS",TV BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461838
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV CAMARA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Marca_TV_C%C3%A2mara_-_2018.png/200px-Marca_TV_C%C3%A2mara_-_2018.png" group-title="CANAIS | ABERTOS",TV CAMARA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1425989
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV CAMARA SD" tvg-logo="https://lh3.googleusercontent.com/-GAijnROUhNU/YB1HohJOn-I/AAAAAAAAJ5w/Tdh_j1l8Qf47lzGGEwWZHUjLnsv55nBggCLcBGAsYHQ/TV%2BCamara.png" group-title="CANAIS | ABERTOS",TV CAMARA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461822
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="TV CULTURA HD" tvg-logo="https://1.bp.blogspot.com/-JZGBv9SHgQE/YBxY0WMdxcI/AAAAAAAAJxc/iOadVf2hblYte8kXjT-X1iyDGKbBuV0DwCLcBGAsYHQ/s0/CULTURA.png" group-title="CANAIS | ABERTOS",TV CULTURA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461840
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="TV CULTURA SD" tvg-logo="https://1.bp.blogspot.com/-JZGBv9SHgQE/YBxY0WMdxcI/AAAAAAAAJxc/iOadVf2hblYte8kXjT-X1iyDGKbBuV0DwCLcBGAsYHQ/s0/CULTURA.png" group-title="CANAIS | ABERTOS",TV CULTURA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461821
+#EXTINF:-1 tvg-id="TVEscola.br" tvg-name="TV ESCOLA SD" tvg-logo="https://lh3.googleusercontent.com/-xOI5FufxfH8/YB1IRzNl5oI/AAAAAAAAJ54/mWWxP_wtcQAnljLKuoTyUjyeY1TV_zrvQCLcBGAsYHQ/Tv%2BEscola.png" group-title="CANAIS | ABERTOS",TV ESCOLA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461828
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGILIZAR FHD" tvg-logo="https://lh3.googleusercontent.com/-heaDxFLkgnM/YB7ua_QVHWI/AAAAAAAAKDY/QCq61JtiTuU-FZaO6nWibZwNeqFwpL8-QCLcBGAsYHQ/TV%2BEVANGELIZAR.png" group-title="CANAIS | RELIGIOSOS",TV EVANGILIZAR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461860
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGILIZAR HD" tvg-logo="https://lh3.googleusercontent.com/-heaDxFLkgnM/YB7ua_QVHWI/AAAAAAAAKDY/QCq61JtiTuU-FZaO6nWibZwNeqFwpL8-QCLcBGAsYHQ/TV%2BEVANGELIZAR.png" group-title="CANAIS | RELIGIOSOS",TV EVANGILIZAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461861
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGILIZAR SD" tvg-logo="https://lh3.googleusercontent.com/-heaDxFLkgnM/YB7ua_QVHWI/AAAAAAAAKDY/QCq61JtiTuU-FZaO6nWibZwNeqFwpL8-QCLcBGAsYHQ/TV%2BEVANGELIZAR.png" group-title="CANAIS | RELIGIOSOS",TV EVANGILIZAR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461848
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA SP FHD" tvg-logo="https://1.bp.blogspot.com/-iQw-T74c1Is/YBxY2ikKYPI/AAAAAAAAJyA/pFcciwizOj4n9q7qyN2dgv0CrwmnJZfFwCLcBGAsYHQ/s0/GASETA.png" group-title="CANAIS | ABERTOS",TV GAZETA SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461841
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA SP HD" tvg-logo="https://1.bp.blogspot.com/-iQw-T74c1Is/YBxY2ikKYPI/AAAAAAAAJyA/pFcciwizOj4n9q7qyN2dgv0CrwmnJZfFwCLcBGAsYHQ/s0/GASETA.png" group-title="CANAIS | ABERTOS",TV GAZETA SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461820
+#EXTINF:-1 tvg-id="TVJustica.br" tvg-name="TV JUSTIÇA SD" tvg-logo="https://lh3.googleusercontent.com/-Q85ZPelOntc/YB1LglRwRpI/AAAAAAAAJ6Y/v27Vf7kqf2gKDfyYF4hMdGCehjaM760ywCLcBGAsYHQ/TV%2BJustica.png" group-title="CANAIS | ABERTOS",TV JUSTIÇA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461829
+#EXTINF:-1 tvg-id="" tvg-name="TV MUNDIAL SD" tvg-logo="https://4.bp.blogspot.com/-U4BMQVun848/V4BR2aJSYOI/AAAAAAAAuEI/xb82iDy7gOkSxIGc2HleWFxCMukWKosBQCLcB/s1600/1619829.jpg" group-title="CANAIS | RELIGIOSOS",TV MUNDIAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461862
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO HD" tvg-logo="https://lh3.googleusercontent.com/-K0rwTTR762o/YB7sO0CcCeI/AAAAAAAAKDE/fBgC6U6ExogYwq3bb9Gx7o-hbTBsEwIFgCLcBGAsYHQ/NOVO%2BTEMPO.png" group-title="CANAIS | RELIGIOSOS",TV NOVO TEMPO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461847
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO SD" tvg-logo="https://lh3.googleusercontent.com/-K0rwTTR762o/YB7sO0CcCeI/AAAAAAAAKDE/fBgC6U6ExogYwq3bb9Gx7o-hbTBsEwIFgCLcBGAsYHQ/NOVO%2BTEMPO.png" group-title="CANAIS | RELIGIOSOS",TV NOVO TEMPO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461846
+#EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS HD (JOGO 1)" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Channel/000/000/028/pwa_logo/120/tvn.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",TV NSPORTS HD (JOGO 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461538
+#EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS HD (JOGO 2)" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Channel/000/000/028/pwa_logo/120/tvn.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",TV NSPORTS HD (JOGO 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461537
+#EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS HD (JOGO 3)" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Channel/000/000/028/pwa_logo/120/tvn.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",TV NSPORTS HD (JOGO 3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461536
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO HD" tvg-logo="https://lh3.googleusercontent.com/-LGmBxtx20RM/YB7tXZVubsI/AAAAAAAAKDQ/VYewkrCiMU0c8RD0cbBPr-xKEE5SOLsVACLcBGAsYHQ/TV%2BPAI%2BETERNO.png" group-title="CANAIS | RELIGIOSOS",TV PAI ETERNO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461845
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO SD" tvg-logo="https://lh3.googleusercontent.com/-LGmBxtx20RM/YB7tXZVubsI/AAAAAAAAKDQ/VYewkrCiMU0c8RD0cbBPr-xKEE5SOLsVACLcBGAsYHQ/TV%2BPAI%2BETERNO.png" group-title="CANAIS | RELIGIOSOS",TV PAI ETERNO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461863
+#EXTINF:-1 tvg-id="RBSTVRS.br" tvg-name="TV PAMPA RS FHD" tvg-logo="https://1.bp.blogspot.com/-OwB7L5cQnyc/YBxY5ZgwPnI/AAAAAAAAJy0/1D_T7J0H7_cln2ZUTlhwSVDHG92dUdEHwCLcBGAsYHQ/s0/REDE%2BTV.png" group-title="CANAIS | ABERTOS",TV PAMPA RS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461833
+#EXTINF:-1 tvg-id="" tvg-name="TV PAMPA RS HD" tvg-logo="https://1.bp.blogspot.com/-OwB7L5cQnyc/YBxY5ZgwPnI/AAAAAAAAJy0/1D_T7J0H7_cln2ZUTlhwSVDHG92dUdEHwCLcBGAsYHQ/s0/REDE%2BTV.png" group-title="CANAIS | ABERTOS",TV PAMPA RS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461834
+#EXTINF:-1 tvg-id="" tvg-name="TV SENADO SD" tvg-logo="https://lh3.googleusercontent.com/-onWZFubMbtM/YB1JVyA6XZI/AAAAAAAAJ6E/zunSXwBILJMDNwLtJXPyJ7VyAkQvuan9ACLcBGAsYHQ/TV%2BSenado.png" group-title="CANAIS | ABERTOS",TV SENADO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461819
+#EXTINF:-1 tvg-id="" tvg-name="Uma Família da Pesada 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24 HORAS ",Uma Família da Pesada 24hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/1826967
+#EXTINF:-1 tvg-id="UniversalTVBrazil.br" tvg-name="UNIVERSAL TV FHD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/UNIVERSAL.png" group-title="CANAIS | FILMES & SERIES",UNIVERSAL TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461888
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV FHD (H265)" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/UNIVERSAL.png" group-title="CANAIS | H265",UNIVERSAL TV FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461865
+#EXTINF:-1 tvg-id="UniversalTVBrazil.br" tvg-name="UNIVERSAL TV HD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/UNIVERSAL.png" group-title="CANAIS | FILMES & SERIES",UNIVERSAL TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461887
+#EXTINF:-1 tvg-id="UniversalTVBrazil.br" tvg-name="UNIVERSAL TV SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/UNIVERSAL.png" group-title="CANAIS | FILMES & SERIES",UNIVERSAL TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461886
+#EXTINF:-1 tvg-id="" tvg-name="VH1 FHD (H265)" tvg-logo="https://lh3.googleusercontent.com/-ITpft2CaGLs/YB2NhDrxhcI/AAAAAAAAJ80/jrymho5PUxUnNF4m1FWHsAAg6-RndfGkwCLcBGAsYHQ/VH1.png" group-title="CANAIS | H265",VH1 FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461955
+#EXTINF:-1 tvg-id="" tvg-name="VIVA FHD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/VIVA.png" group-title="CANAIS | VARIEDADES",VIVA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461971
+#EXTINF:-1 tvg-id="WarnerChannelBrazil.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/WARNER.png" group-title="CANAIS | FILMES & SERIES",WARNER CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461885
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD (H265)" tvg-logo="http://dash.liveboxtv.xyz:9105/resize.php?max=42&url=http://trenduhd.xyz/images/Filmes_Series/WARNER.png" group-title="CANAIS | H265",WARNER CHANNEL FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461864
+#EXTINF:-1 tvg-id="WarnerChannelBrazil.br" tvg-name="WARNER CHANNEL HD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/WARNER.png" group-title="CANAIS | FILMES & SERIES",WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461884
+#EXTINF:-1 tvg-id="WarnerChannelBrazil.br" tvg-name="WARNER CHANNEL SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/WARNER.png" group-title="CANAIS | FILMES & SERIES",WARNER CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461883
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO FHD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/WOOHOO.png" group-title="CANAIS | VARIEDADES",WOOHOO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461968
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO FHD (H265)" tvg-logo="http://trenduhd.xyz/images/INFANTIL/WOOHOO.png" group-title="CANAIS | H265",WOOHOO FHD (H265)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461956
+#EXTINF:-1 tvg-id="" tvg-name="PRÉVIA A FAZENDA" tvg-logo="https://istoe.com.br/wp-content/uploads/2022/09/a-fazenda.jpg" group-title="CANAIS | A FAZENDA ",PRÉVIA A FAZENDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161626
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD¹" tvg-logo="" group-title="CANAIS | PREMIERE",Premiere 2 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161627
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD¹" tvg-logo="" group-title="CANAIS | PREMIERE",Premiere 3 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161628
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD¹" tvg-logo="" group-title="CANAIS | PREMIERE",Premiere 4 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161629
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD¹" tvg-logo="" group-title="CANAIS | PREMIERE",Premiere 5 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161630
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD¹" tvg-logo="" group-title="CANAIS | PREMIERE",Premiere 6 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161631
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD¹" tvg-logo="" group-title="CANAIS | PREMIERE",Premiere 7 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161632
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 FHD¹" tvg-logo="" group-title="CANAIS | PREMIERE",PREMIERE 7 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161633
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 FHD¹" tvg-logo="" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161634
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 FHD¹" tvg-logo="" group-title="CANAIS | PREMIERE",PREMIERE 5 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161635
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 FHD¹" tvg-logo="" group-title="CANAIS | PREMIERE",PREMIERE 4 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161636
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 FHD¹" tvg-logo="" group-title="CANAIS | PREMIERE",PREMIERE 3 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161637
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 FHD¹" tvg-logo="" group-title="CANAIS | PREMIERE",PREMIERE 2 FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161638
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES HD¹" tvg-logo="" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161639
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES FHD¹ H265" tvg-logo="" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD¹ H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/2161640
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 1" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="CANAIS | COPA DO BRASIL ",AMAZON PRIME JOGO 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461543
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 2" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="CANAIS | COPA DO BRASIL ",AMAZON PRIME JOGO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461542
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 3" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="CANAIS | COPA DO BRASIL ",AMAZON PRIME JOGO 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461541
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 4" tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="CANAIS | COPA DO BRASIL ",AMAZON PRIME JOGO 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461540
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 1" tvg-logo="http://trenduhd.xyz/images/HBO/SKY.png" group-title="CANAIS | CINEMA",CINE SKY 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462207
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2" tvg-logo="http://trenduhd.xyz/images/HBO/SKY.png" group-title="CANAIS | CINEMA",CINE SKY 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462206
+#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 3" tvg-logo="http://trenduhd.xyz/images/HBO/SKY.png" group-title="CANAIS | CINEMA",CINE SKY 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462205
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4" tvg-logo="http://trenduhd.xyz/images/HBO/SKY.png" group-title="CANAIS | CINEMA",CINE SKY 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462204
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5" tvg-logo="http://trenduhd.xyz/images/HBO/SKY.png" group-title="CANAIS | CINEMA",CINE SKY 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462203
+#EXTINF:-1 tvg-id="" tvg-name="Retrô Cartoon" tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="CANAIS | INFANTIL",Retrô Cartoon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462180
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1" tvg-logo="https://lh3.googleusercontent.com/-v9krBfARsvI/YT0h8aqZu9I/AAAAAAAAKjI/UCr0_eByYPAONB20imUSCc5zKF-89_H4QCLcBGAsYHQ/STAR%2B%252B.png" group-title=" CANAIS | STAR PLUS",STAR+ 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461529
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2" tvg-logo="https://lh3.googleusercontent.com/-v9krBfARsvI/YT0h8aqZu9I/AAAAAAAAKjI/UCr0_eByYPAONB20imUSCc5zKF-89_H4QCLcBGAsYHQ/STAR%2B%252B.png" group-title=" CANAIS | STAR PLUS",STAR+ 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461530
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3" tvg-logo="https://lh3.googleusercontent.com/-v9krBfARsvI/YT0h8aqZu9I/AAAAAAAAKjI/UCr0_eByYPAONB20imUSCc5zKF-89_H4QCLcBGAsYHQ/STAR%2B%252B.png" group-title=" CANAIS | STAR PLUS",STAR+ 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461531
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 4" tvg-logo="https://lh3.googleusercontent.com/-v9krBfARsvI/YT0h8aqZu9I/AAAAAAAAKjI/UCr0_eByYPAONB20imUSCc5zKF-89_H4QCLcBGAsYHQ/STAR%2B%252B.png" group-title=" CANAIS | STAR PLUS",STAR+ 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461532
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 5" tvg-logo="https://lh3.googleusercontent.com/-v9krBfARsvI/YT0h8aqZu9I/AAAAAAAAKjI/UCr0_eByYPAONB20imUSCc5zKF-89_H4QCLcBGAsYHQ/STAR%2B%252B.png" group-title=" CANAIS | STAR PLUS",STAR+ 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461533
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 6" tvg-logo="https://lh3.googleusercontent.com/-v9krBfARsvI/YT0h8aqZu9I/AAAAAAAAKjI/UCr0_eByYPAONB20imUSCc5zKF-89_H4QCLcBGAsYHQ/STAR%2B%252B.png" group-title=" CANAIS | STAR PLUS",STAR+ 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461534
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/BAND.png" group-title="CANAIS | REDE BANDEIRANTES",BAND SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461774
+#EXTINF:-1 tvg-id="band.rj.br" tvg-name="BAND RJ HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/BAND.png" group-title="CANAIS | REDE BANDEIRANTES",BAND RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461776
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP SD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="CANAIS | REDE BANDEIRANTES",BAND SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461777
+#EXTINF:-1 tvg-id="band.bahia.br" tvg-name="BAND BAHIA HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="CANAIS | REDE BANDEIRANTES",BAND BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461778
+#EXTINF:-1 tvg-id="band.minas.br" tvg-name="BAND MINAS HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="CANAIS | REDE BANDEIRANTES",BAND MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461780
+#EXTINF:-1 tvg-id="band.curitiba.br" tvg-name="BAND CURITIBA HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="CANAIS | REDE BANDEIRANTES",BAND CURITIBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461782
+#EXTINF:-1 tvg-id="band.curitiba.br" tvg-name="BAND PARANA HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="CANAIS | REDE BANDEIRANTES",BAND PARANA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461784
+#EXTINF:-1 tvg-id="band.maceio.br" tvg-name="BAND SERGIPE HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="CANAIS | REDE BANDEIRANTES",BAND SERGIPE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461785
+#EXTINF:-1 tvg-id="band.rio.grande.do.sul.br" tvg-name="BAND RS HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="CANAIS | REDE BANDEIRANTES",BAND RS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461786
+#EXTINF:-1 tvg-id="band.campinas.br" tvg-name="BAND CAMPINAS HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="CANAIS | REDE BANDEIRANTES",BAND CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461787
+#EXTINF:-1 tvg-id="band.brasilia.br" tvg-name="BAND BRASILIA HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="CANAIS | REDE BANDEIRANTES",BAND BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461788
+#EXTINF:-1 tvg-id="band.goiania.br" tvg-name="BAND TV GOIANIA HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="CANAIS | REDE BANDEIRANTES",BAND TV GOIANIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461790
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/SBT.png" group-title="CANAIS | SBT",SBT SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461793
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/SBT.png" group-title="CANAIS | SBT",SBT SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461794
+#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORD SP SD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="CANAIS | REDE RECORD",RECORD SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461470
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RECORD RJ SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | REDE RECORD",RECORD RJ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461471
+#EXTINF:-1 tvg-id="recordtv.belem.br" tvg-name="RECORD TV BELEM HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | REDE RECORD",RECORD TV BELEM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461473
+#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORD SP HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | REDE RECORD",RECORD SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461474
+#EXTINF:-1 tvg-id="record.bahia.br" tvg-name="RECORD BAHIA SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | REDE RECORD",RECORD BAHIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461483
+#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="RECORD BRASILIA SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | REDE RECORD",RECORD BRASILIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461495
+#EXTINF:-1 tvg-id="record.minas.br" tvg-name="RECORD MINAS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | REDE RECORD",RECORD MINAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461496
+#EXTINF:-1 tvg-id="record.rs.br" tvg-name="RECORD RS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | REDE RECORD",RECORD RS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461497
+#EXTINF:-1 tvg-id="record.goias.br" tvg-name="RECORD GOIAS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | REDE RECORD",RECORD GOIAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461498
+#EXTINF:-1 tvg-id="recordtv.belem.br" tvg-name="RECORD TV BELEM SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | REDE RECORD",RECORD TV BELEM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461499
+#EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="RECORD MANAUS SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | REDE RECORD",RECORD MANAUS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461500
+#EXTINF:-1 tvg-id="record.rs.br" tvg-name="RECORD RS HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | REDE RECORD",RECORD RS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461476
+#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORD RJ HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | REDE RECORD",RECORD RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461477
+#EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="RECORD MANAUS HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | REDE RECORD",RECORD MANAUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461479
+#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="RECORD BRASILIA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | REDE RECORD",RECORD BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461482
+#EXTINF:-1 tvg-id="record.bahia.br" tvg-name="RECORD BAHIA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | REDE RECORD",RECORD BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461484
+#EXTINF:-1 tvg-id="record.florianopolis.br" tvg-name="RECORD TV SANTA CATARINA HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="CANAIS | REDE RECORD",RECORD TV SANTA CATARINA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461489
+#EXTINF:-1 tvg-id="record.curitiba.br" tvg-name="RECORD TV PARANÁ HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="CANAIS | REDE RECORD",RECORD TV PARANÁ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461488
+#EXTINF:-1 tvg-id="record.minas.br" tvg-name="RECORD UBERLANDIA MG HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="CANAIS | REDE RECORD",RECORD UBERLANDIA MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461490
+#EXTINF:-1 tvg-id="record.minas.br" tvg-name="RECORD MINAS HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="CANAIS | REDE RECORD",RECORD MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461491
+#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORD SJRP HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="CANAIS | REDE RECORD",RECORD SJRP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461494
+#EXTINF:-1 tvg-id="rede.record.maceio.br" tvg-name="RECORD SERGIPE HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="CANAIS | REDE RECORD",RECORD SERGIPE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461493
+#EXTINF:-1 tvg-id="recordtv.paulista.br" tvg-name="RECORD SANTOS HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="CANAIS | REDE RECORD",RECORD SANTOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461492
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD" tvg-logo="https://1.bp.blogspot.com/-sVZuVBZoYSk/YBxY4uH9OTI/AAAAAAAAJyo/drXf5kzqFqE3tc4fwwiTYlCX8SVbcD1YQCLcBGAsYHQ/s0/OFF.png" group-title="CANAIS | ESPORTES",OFF SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461439
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="CANAIS | ESPORTES",SPORTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461435
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="CANAIS | ESPORTES",SPORTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461427
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="http://trenduhd.xyz/images/Esportes/FOX_SPORT2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461423
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="CANAIS | ESPORTES",ESPN EXTRA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461419
+#EXTINF:-1 tvg-id="ESPN 4 HD" tvg-name="ESPN 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="CANAIS | ESPORTES",ESPN 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461415
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 3 SD" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="CANAIS | ESPORTES",ESPN 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461411
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN SD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="CANAIS | ESPORTES",ESPN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461403
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE SD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png" group-title="CANAIS | ESPORTES",COMBATE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461399
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461395
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 SD" tvg-logo="https://espnpressroom.com/brazil/files/2018/08/RS2652_ESPN2_CLR_Pos-scr.jpg" group-title="CANAIS | ESPORTES",ESPN 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461407
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SporTV2_2021.png/799px-SporTV2_2021.png" group-title="CANAIS | ESPORTES",SPORTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461431
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="https://1.bp.blogspot.com/-sVZuVBZoYSk/YBxY4uH9OTI/AAAAAAAAJyo/drXf5kzqFqE3tc4fwwiTYlCX8SVbcD1YQCLcBGAsYHQ/s0/OFF.png" group-title="CANAIS | ESPORTES",OFF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461438
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="CANAIS | ESPORTES",SPORTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461434
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="CANAIS | ESPORTES",SPORTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461430
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="CANAIS | ESPORTES",SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461426
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://trenduhd.xyz/images/Esportes/FOX_SPORT2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461422
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="CANAIS | ESPORTES",ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461418
+#EXTINF:-1 tvg-id="ESPN 4 HD" tvg-name="ESPN 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="CANAIS | ESPORTES",ESPN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461414
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 3 HD" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="CANAIS | ESPORTES",ESPN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461410
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 HD" tvg-logo="https://espnpressroom.com/brazil/files/2018/08/RS2652_ESPN2_CLR_Pos-scr.jpg" group-title="CANAIS | ESPORTES",ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461406
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="CANAIS | ESPORTES",ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461402
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE HD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png" group-title="CANAIS | ESPORTES",COMBATE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461398
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461394
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/COMEDY.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461997
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/COMEDY.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461996
+#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/E.png" group-title="CANAIS | VARIEDADES",E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461994
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/FOOD.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461992
+#EXTINF:-1 tvg-id="" tvg-name="E! SD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/E.png" group-title="CANAIS | VARIEDADES",E! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461991
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK SD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/FOOD.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461990
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/GNT.png" group-title="CANAIS | VARIEDADES",GNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461988
+#EXTINF:-1 tvg-id="" tvg-name="GNT SD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/GNT.png" group-title="CANAIS | VARIEDADES",GNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461987
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/LIFETIME.png" group-title="CANAIS | VARIEDADES",LIFETIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461985
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/MTV.png" group-title="CANAIS | VARIEDADES",MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461984
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/LIFETIME.png" group-title="CANAIS | VARIEDADES",LIFETIME SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461983
+#EXTINF:-1 tvg-id="" tvg-name="MTV SD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/MTV.png" group-title="CANAIS | VARIEDADES",MTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461981
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW HD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/MULTISHOW.png" group-title="CANAIS | VARIEDADES",MULTISHOW HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461979
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW SD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/MULTISHOW.png" group-title="CANAIS | VARIEDADES",MULTISHOW SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461978
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRAZIL HD" tvg-logo="https://lh3.googleusercontent.com/-cNnnZao7fwM/YZgE2VaA1-I/AAAAAAAAKw8/iqfkYwr0EVk6LDj2lZWAjRhMBpQbTUVtQCLcBGAsYHQ/BOX.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRAZIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461977
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRAZIL SD" tvg-logo="https://lh3.googleusercontent.com/-cNnnZao7fwM/YZgE2VaA1-I/AAAAAAAAKw8/iqfkYwr0EVk6LDj2lZWAjRhMBpQbTUVtQCLcBGAsYHQ/BOX.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRAZIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461976
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/TLC.png" group-title="CANAIS | VARIEDADES",TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461974
+#EXTINF:-1 tvg-id="" tvg-name="VH1 MEGAHITS SD" tvg-logo="https://lh3.googleusercontent.com/-ITpft2CaGLs/YB2NhDrxhcI/AAAAAAAAJ80/jrymho5PUxUnNF4m1FWHsAAg6-RndfGkwCLcBGAsYHQ/VH1.png" group-title="CANAIS | VARIEDADES",VH1 MEGAHITS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461972
+#EXTINF:-1 tvg-id="" tvg-name="VIVA HD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/VIVA.png" group-title="CANAIS | VARIEDADES",VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461970
+#EXTINF:-1 tvg-id="" tvg-name="VIVA SD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/VIVA.png" group-title="CANAIS | VARIEDADES",VIVA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461969
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/WOOHOO.png" group-title="CANAIS | VARIEDADES",WOOHOO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461966
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/WOOHOO.png" group-title="CANAIS | VARIEDADES",WOOHOO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461967
+#EXTINF:-1 tvg-id="" tvg-name="ARTE 1 HD" tvg-logo="https://lh3.googleusercontent.com/-fpiVO2imhf4/YB1kAESQUfI/AAAAAAAAJ7g/DrG7OC1klgA5u-YcbP3lmRW8zLNbXYUPACLcBGAsYHQ/ARTE%2B1.png" group-title="CANAIS | VARIEDADES",ARTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/461954
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO SD" tvg-logo="https://s2.glbimg.com/9BNgLXbdgDtR2_tBYTnkJoibfjo=/e.glbimg.com/og/ed/f/original/2021/11/30/cartoonito.jpg" group-title="CANAIS | INFANTIL",CARTOONITO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462130
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO HD" tvg-logo="https://s2.glbimg.com/9BNgLXbdgDtR2_tBYTnkJoibfjo=/e.glbimg.com/og/ed/f/original/2021/11/30/cartoonito.jpg" group-title="CANAIS | INFANTIL",CARTOONITO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462131
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMO SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/ZOOMO.png" group-title="CANAIS | INFANTIL",ZOOMO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462141
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RATIMBUM SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/TVRA.png" group-title="CANAIS | INFANTIL",TV RATIMBUM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462142
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RATIMBUM HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/TVRA.png" group-title="CANAIS | INFANTIL",TV RATIMBUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462143
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/GLOOBINHO.png" group-title="CANAIS | INFANTIL",GLOOBINHO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462144
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMO HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/ZOOMO.png" group-title="CANAIS | INFANTIL",ZOOMO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462145
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="TOONCAST SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/TOONCAST.png" group-title="CANAIS | INFANTIL",TOONCAST SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462147
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/TOONCAST.png" group-title="CANAIS | INFANTIL",TOONCAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462148
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKE.png" group-title="CANAIS | INFANTIL",NICKELODEON SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462150
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKE.png" group-title="CANAIS | INFANTIL",NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462151
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKJR.png" group-title="CANAIS | INFANTIL",NICK JR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462153
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKJR.png" group-title="CANAIS | INFANTIL",NICK JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462154
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/GLOOB.png" group-title="CANAIS | INFANTIL",GLOOB SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462159
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/GLOOB.png" group-title="CANAIS | INFANTIL",GLOOB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462160
+#EXTINF:-1 tvg-id="DisneyChannelBrazil.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/DISNEY%20CHANNEL.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462168
+#EXTINF:-1 tvg-id="DisneyChannelBrazil.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/DISNEY%20CHANNEL.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462169
+#EXTINF:-1 tvg-id="DiscoveryKidsBrazil.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/DISCOVERY%20KIDS.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462171
+#EXTINF:-1 tvg-id="DiscoveryKidsBrazil.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/DISCOVERY%20KIDS.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462172
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-name="CARTOON NETWORK SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/CARTOON.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462174
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/CARTOON.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462175
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BABY TV SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/BABYTV.png" group-title="CANAIS | INFANTIL",BABY TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462178
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BABY TV HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/BABYTV.png" group-title="CANAIS | INFANTIL",BABY TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462179
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/GLOOBINHO.png" group-title="CANAIS | INFANTIL",GLOOBINHO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR green]TV[/COLOR]&maxbitrate=0&buffer=8.8.8.8&url=http://top.streancdn.fun:80/sandro2022/sandro2022/462182
