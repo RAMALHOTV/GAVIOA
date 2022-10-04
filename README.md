@@ -1,918 +1,1032 @@
 
 
-##EXTM3U
-
-#PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
-
-################################################################################# Informações da Lista
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",downloadsdefimes.blogspot.com 
-https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",youtube.com/matamataxiterbr 
-https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 30/09/2022
- https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV
- https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos! 
-https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4xQxZ5g.png" group-title="Informações da Lista",(44) 98656144 
-https://www.youtube.com/channel/UCojJ
+<item>
+<title>[B][COLOR turquoise]RamalhoIPTV [/COLOR][/B]</title>
+<link>http</link>
+<thumbnail>https://i.imgur.com/M0aRl2a.jpg</thumbnail>
+<fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
+<info>RamalhoIPTV com confira várias listas IPTV com CANAIS funcionando e 100% testadas e funcionando, confira agora mesmo todas essas listas, e divirta-se! </info>
+</item>
 
 
+<item>
+<title>[B]Globo RPC TV [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/72248$nome= [COLOR green]Globo RPC Maringá HD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/287$nome= [COLOR yellow]Globo RPC Curitiba HD[/COLOR]</link>
+<thumbnail>https://imgur.com/5RQ1PxL.png</thumbnail>
+<fanart>https://imgur.com/5RQ1PxL.png</fanart>
+<info>TV Globo é uma rede de televisão comercial aberta brasileira. É assistida por mais de 200 milhões de pessoas diariamente, sejam elas no Brasil ou no exterior. </info>
+</item>
 
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="A FAZENDA 14" tvg-logo="https://i.ytimg.com/vi/ANCWZUl4TBg/hqdefault.jpg" group-title="A FAZENDA",A FAZENDA 14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/75439
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 14 HD - Cam 02" tvg-logo="https://pp-vod-img.akamaized.net/res/liveGridProgram/29b27f24-157a-497e-a5be-39a77b9dbd30.jpg" group-title="A FAZENDA",A Fazenda 14 HD - Cam 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/75597
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 14 HD - Cam 03" tvg-logo="https://pp-vod-img.akamaized.net/res/liveGridProgram/7dca4f92-4276-451c-836b-90e6f2ed9ac4.jpg" group-title="A FAZENDA",A Fazenda 14 HD - Cam 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/75598
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 14 HD - Cam 04" tvg-logo="https://pp-vod-img.akamaized.net/res/liveGridProgram/a13cee42-c8c2-4e82-8860-ff8535549fc6.jpg" group-title="A FAZENDA",A Fazenda 14 HD - Cam 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/75599
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 14 HD - Cam 05" tvg-logo="https://pp-vod-img.akamaized.net/res/liveGridProgram/2d4a72ea-aa4d-4b21-b148-f508bd0aebac.jpg" group-title="A FAZENDA",A Fazenda 14 HD - Cam 05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/75600
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 14 HD - Cam 06" tvg-logo="https://pp-vod-img.akamaized.net/res/liveGridProgram/d7f65bb0-6a80-43ad-a27c-089555ffeedb.jpg" group-title="A FAZENDA",A Fazenda 14 HD - Cam 06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/75601
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 14 HD - Cam 07" tvg-logo="https://pp-vod-img.akamaized.net/res/liveGridProgram/bf21aaa4-ad08-4eda-90bc-fb31b28daed4.jpg" group-title="A FAZENDA",A Fazenda 14 HD - Cam 07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/75602
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 14 HD - Cam 08" tvg-logo="https://pp-vod-img.akamaized.net/res/liveGridProgram/c0c92f47-7aa1-45df-bd4d-c8728a4870cc.jpg" group-title="A FAZENDA",A Fazenda 14 HD - Cam 08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/75603
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 14 HD - Cam 09" tvg-logo="https://pp-vod-img.akamaized.net/res/liveGridProgram/fb242640-d528-4c6e-a5f5-938642bdf2cf.jpg" group-title="A FAZENDA",A Fazenda 14 HD - Cam 09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/75604
-#EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="FILMES & SÉRIES",A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62650
-#EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="FILMES & SÉRIES",A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62651
-#EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="FILMES & SÉRIES",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62652
-#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Arabic HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/al-jazeera-500x288.png" group-title="VARIEDADES",Al Jazeera Arabic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62653
-#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera English HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/al-jazeera-500x288.png" group-title="VARIEDADES",Al Jazeera English HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62654
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="FILMES & SÉRIES",AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62655
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="FILMES & SÉRIES",AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62656
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="FILMES & SÉRIES",AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62657
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="VARIEDADES",Animal Planet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62658
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="VARIEDADES",Animal Planet FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62659
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="VARIEDADES",Animal Planet HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62660
-#EXTINF:-1 tvg-id="Arte 1 HD [Alter]" tvg-name="Arte 1 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/arte1.png" group-title="VARIEDADES",Arte 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62662
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="FILMES & SÉRIES",AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62668
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="FILMES & SÉRIES",AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62669
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="FILMES & SÉRIES",AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62670
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/babytv.png" group-title="INFANTIL",Baby TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62671
-#EXTINF:-1 tvg-id="Band HD" tvg-name="Band" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/band.png" group-title="CANAIS REGIONAIS",Band
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62673
-#EXTINF:-1 tvg-id="Band HD" tvg-name="Band HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/band.png" group-title="CANAIS REGIONAIS",Band HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62674
-#EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandnews.png" group-title="CANAIS REGIONAIS",Band News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62675
-#EXTINF:-1 tvg-id="" tvg-name="Band News HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandnews.png" group-title="CANAIS REGIONAIS",Band News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62676
-#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="Band Sports" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandsports.png" group-title="ESPORTES",Band Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62677
-#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="Band Sports HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandsports.png" group-title="ESPORTES",Band Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62678
-#EXTINF:-1 tvg-id="" tvg-name="BBC World News" tvg-logo="https://tvmagazine.com.br/imagens/icones/64/bbcworld.png" group-title="VARIEDADES",BBC World News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62679
-#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="VARIEDADES",BIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62681
-#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="VARIEDADES",BIS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62682
-#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="VARIEDADES",BIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62683
-#EXTINF:-1 tvg-id="Bloomberg.br" tvg-name="Bloomberg" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/bloomberg.png" group-title="VARIEDADES",Bloomberg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62684
-#EXTINF:-1 tvg-id="Bloomberg.br" tvg-name="Bloomberg USA" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Ymxvb21iZXJnX19fQkJfRXhhbXBsZQ--1454431104.png" group-title="VARIEDADES",Bloomberg USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62685
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/boomerang.png" group-title="INFANTIL",Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62692
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/boomerang.png" group-title="INFANTIL",Boomerang HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62693
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 1 HD" tvg-logo="https://www.lance.com.br/files/article_main/uploads/2022/01/04/61d4d355e79c5.jpeg" group-title="ESPORTES",Campeonato Carioca 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72350
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/images/d848b6a0612bf39985339b7cea4770ea.jpeg" group-title="ESPORTES",Campeonato Carioca 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72351
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense 1 HD" tvg-logo="https://www.ogol.com.br/img/logos/associacoes/46_santa_catarina_imgbank.png" group-title="ESPORTES",Campeonato Catarinense 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72569
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/images/04b842a937a179e69c95366964b3273b.png" group-title="ESPORTES",Campeonato Catarinense 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72570
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato do Nordeste 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/19/CopaNordeste2017.png/150px-CopaNordeste2017.png" group-title="ESPORTES",Campeonato do Nordeste 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72353
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato do Nordeste 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/19/CopaNordeste2017.png/150px-CopaNordeste2017.png" group-title="ESPORTES",Campeonato do Nordeste 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72352
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Paranaense 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/images/64c4238859fd1de8ce789b92276a4509.jpg" group-title="ESPORTES",Campeonato Paranaense 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72571
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Paranaense 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/images/64c4238859fd1de8ce789b92276a4509.jpg" group-title="ESPORTES",Campeonato Paranaense 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72572
-#EXTINF:-1 tvg-id="" tvg-name="Canal 26 Argentina" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Canal_26_Argentina.png" group-title="VARIEDADES",Canal 26 Argentina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62698
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/canalbrasil.png" group-title="VARIEDADES",Canal Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62699
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sony.png" group-title="FILMES & SÉRIES",Canal Sony
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62700
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sony.png" group-title="FILMES & SÉRIES",Canal Sony HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62701
-#EXTINF:-1 tvg-id="" tvg-name="Canale 7 Itália" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Canale_7.png" group-title="VARIEDADES",Canale 7 Itália
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62702
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canção Nova" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cancaonova.png" group-title="RELIGIOSOS",Canção Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62703
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canção Nova FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cancaonova.png" group-title="RELIGIOSOS",Canção Nova FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62704
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cn.png" group-title="INFANTIL",Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62705
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cn.png" group-title="INFANTIL",Cartoon Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62706
-#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/CGTN.png" group-title="VARIEDADES",CGTN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62708
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 01 HD" tvg-logo="http://run.mine.nu:80/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CINE SKY",Cine Sky 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/73173
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 02 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/images/711b1f8b9a30ceff12f0e72268a2b765.png" group-title="CINE SKY",Cine Sky 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/73174
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 03 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/images/711b1f8b9a30ceff12f0e72268a2b765.png" group-title="CINE SKY",Cine Sky 03 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/73175
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 04 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/images/711b1f8b9a30ceff12f0e72268a2b765.png" group-title="CINE SKY",Cine Sky 04 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/73176
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 05 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/images/711b1f8b9a30ceff12f0e72268a2b765.png" group-title="CINE SKY",Cine Sky 05 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/73177
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 06 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/images/711b1f8b9a30ceff12f0e72268a2b765.png" group-title="CINE SKY",Cine Sky 06 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/73178
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 07 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/images/711b1f8b9a30ceff12f0e72268a2b765.png" group-title="CINE SKY",Cine Sky 07 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/73179
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 08 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/images/711b1f8b9a30ceff12f0e72268a2b765.png" group-title="CINE SKY",Cine Sky 08 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/73180
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 09 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/images/711b1f8b9a30ceff12f0e72268a2b765.png" group-title="CINE SKY",Cine Sky 09 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/73181
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 10 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/images/711b1f8b9a30ceff12f0e72268a2b765.png" group-title="CINE SKY",Cine Sky 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/73182
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cinemax.png" group-title="FILMES & SÉRIES",Cinemax
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62710
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cinemax.png" group-title="FILMES & SÉRIES",Cinemax FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62711
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cinemax.png" group-title="FILMES & SÉRIES",Cinemax HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62712
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/logo-0457804d41d68a5c1c3de124ff229c35.png" group-title="VARIEDADES",CNN Brasil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62713
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/logo-0457804d41d68a5c1c3de124ff229c35.png" group-title="VARIEDADES",CNN Brasil FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62714
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/logo-0457804d41d68a5c1c3de124ff229c35.png" group-title="VARIEDADES",CNN Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62715
-#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN International" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/cnni.png" group-title="VARIEDADES",CNN International
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62716
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png" group-title="ESPORTES",Combate
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62717
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png" group-title="ESPORTES",Combate FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62718
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png" group-title="ESPORTES",Combate HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62719
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/41NS1I5HffL.png" group-title="VARIEDADES",Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62720
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/41NS1I5HffL.png" group-title="VARIEDADES",Comedy Central FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62721
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/41NS1I5HffL.png" group-title="VARIEDADES",Comedy Central HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62722
-#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="Conmebol TV 1 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="ESPORTES",Conmebol TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/61427
-#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="Conmebol TV 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="ESPORTES",Conmebol TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62725
-#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="Conmebol TV 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="ESPORTES",Conmebol TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62726
-#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="Conmebol TV 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="ESPORTES",Conmebol TV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62727
-#EXTINF:-1 tvg-id="" tvg-name="Copa do Brasil 01" tvg-logo="https://logospng.org/download/copa-do-brasil/logo-copa-do-brasil-256.png" group-title="ESPORTES",Copa do Brasil 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72600
-#EXTINF:-1 tvg-id="TV Cultura HD" tvg-name="Cultura HD" tvg-logo="https://cultura.uol.com.br/_img/tvcultura/header/logotipo-tvcultura-desktop-orange.png" group-title="CANAIS REGIONAIS",Cultura HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/71625
-#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! HD" tvg-logo="https://tvmagazine.com.br/imagens/icones/64/curta.png" group-title="VARIEDADES",Curta! HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62729
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD (Eventos)" tvg-logo="https://reports.exodus-privacy.eu.org/reports/13215/icon" group-title="ESPORTES",DAZN 1 HD (Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62731
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD (Eventos)" tvg-logo="https://reports.exodus-privacy.eu.org/reports/13215/icon" group-title="ESPORTES",DAZN 2 HD (Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62732
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/discoverychannel.png" group-title="DOCUMENTÁRIOS",Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62735
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/discoverychannel.png" group-title="DOCUMENTÁRIOS",Discovery Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62736
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/discoverychannel.png" group-title="DOCUMENTÁRIOS",Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62737
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery H&H" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryhh.png" group-title="DOCUMENTÁRIOS",Discovery H&H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62738
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery H&H FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryhh.png" group-title="DOCUMENTÁRIOS",Discovery H&H FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62739
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery H&H HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryhh.png" group-title="DOCUMENTÁRIOS",Discovery H&H HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62740
-#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverykids.png" group-title="DOCUMENTÁRIOS",Discovery Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62741
-#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverykids.png" group-title="DOCUMENTÁRIOS",Discovery Kids HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62742
-#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="Discovery Science FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryscience.png" group-title="DOCUMENTÁRIOS",Discovery Science FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62743
-#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="Discovery Science HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryscience.png" group-title="DOCUMENTÁRIOS",Discovery Science HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62744
-#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theather" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png" group-title="DOCUMENTÁRIOS",Discovery Theather
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62745
-#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theather FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png" group-title="DOCUMENTÁRIOS",Discovery Theather FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62746
-#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theather HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png" group-title="DOCUMENTÁRIOS",Discovery Theather HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62747
-#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/discoveryturbo.png" group-title="DOCUMENTÁRIOS",Discovery Turbo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62748
-#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/discoveryturbo.png" group-title="DOCUMENTÁRIOS",Discovery Turbo FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62749
-#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/discoveryturbo.png" group-title="DOCUMENTÁRIOS",Discovery Turbo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62750
-#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryworld.png" group-title="DOCUMENTÁRIOS",Discovery World FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62751
-#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryworld.png" group-title="DOCUMENTÁRIOS",Discovery World HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62752
-#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="Disney" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/disney.png" group-title="INFANTIL",Disney
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62753
-#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="Disney HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/disney.png" group-title="INFANTIL",Disney HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62754
-#EXTINF:-1 tvg-id="Disney Junior HD" tvg-name="Disney Junior" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/disneyjunior.png" group-title="INFANTIL",Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62755
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/disneyjunior.png" group-title="INFANTIL",Disney Junior HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62756
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/disneyxd.png" group-title="INFANTIL",Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62757
-#EXTINF:-1 tvg-id="" tvg-name="DW (Deutsch+)" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/dwlogo-print.gif" group-title="VARIEDADES",DW (Deutsch+)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62763
-#EXTINF:-1 tvg-id="E.br" tvg-name="E!" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1273_1.png" group-title="VARIEDADES",E!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62764
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1273_1.png" group-title="VARIEDADES",E! HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62765
-#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/espn.png" group-title="ESPORTES",ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62767
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 2" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/espn2hd.png" group-title="ESPORTES",ESPN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62768
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/espn2hd.png" group-title="ESPORTES",ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62769
-#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-name="ESPN Brasil" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/espnbrasil.png" group-title="ESPORTES",ESPN Brasil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62770
-#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-name="ESPN Brasil HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/espnbrasil.png" group-title="ESPORTES",ESPN Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62771
-#EXTINF:-1 tvg-id="ESPN Extra HD" tvg-name="ESPN Extra HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/espnextra.png" group-title="ESPORTES",ESPN Extra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62772
-#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/espn.png" group-title="ESPORTES",ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62773
-#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo HD 1" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Esporte_Interativo_2_Colorido_-_Branco_2017.png" group-title="ESPORTES",Esporte Interativo HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62774
-#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo HD 2" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Esporte_Interativo_Colorido_-_Branco_2017.png" group-title="ESPORTES",Esporte Interativo HD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62775
-#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT 1 HD" tvg-logo="http://ipbr.tv/img/stream/estadiotnt.png" group-title="ESPORTES",Estádio TNT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/71750
-#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/images/28422257ab92985b43dd33b013b4f89d.png" group-title="ESPORTES",Estádio TNT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/71751
-#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/images/28422257ab92985b43dd33b013b4f89d.png" group-title="ESPORTES",Estádio TNT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/71752
-#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT 4 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/images/28422257ab92985b43dd33b013b4f89d.png" group-title="ESPORTES",Estádio TNT 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/71753
-#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT 5 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/images/28422257ab92985b43dd33b013b4f89d.png" group-title="ESPORTES",Estádio TNT 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/71754
-#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/images/28422257ab92985b43dd33b013b4f89d.png" group-title="ESPORTES",Estádio TNT Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/71755
-#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/fishtv.png" group-title="VARIEDADES",Fish TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62779
-#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/fishtv.png" group-title="VARIEDADES",Fish TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62780
-#EXTINF:-1 tvg-id="Food Network HD" tvg-name="Food Network" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foodnetwork.png" group-title="VARIEDADES",Food Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62783
-#EXTINF:-1 tvg-id="Food Network HD" tvg-name="Food Network FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foodnetwork.png" group-title="VARIEDADES",Food Network FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62784
-#EXTINF:-1 tvg-id="Food Network HD" tvg-name="Food Network HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foodnetwork.png" group-title="VARIEDADES",Food Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62785
-#EXTINF:-1 tvg-id="Star Channel SD [Alter]" tvg-name="FOX" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/fox.png" group-title="FILMES & SÉRIES",FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62786
-#EXTINF:-1 tvg-id="Star Channel HD [Alter]" tvg-name="FOX HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/fox.png" group-title="FILMES & SÉRIES",FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62787
-#EXTINF:-1 tvg-id="Example" tvg-name="Fox Life" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxlife.png" group-title="VARIEDADES",Fox Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62788
-#EXTINF:-1 tvg-id="Example" tvg-name="Fox Life FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxlife.png" group-title="VARIEDADES",Fox Life FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62789
-#EXTINF:-1 tvg-id="Example" tvg-name="Fox Life HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxlife.png" group-title="VARIEDADES",Fox Life HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62790
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium 1 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium1b.png" group-title="FILMES & SÉRIES",Fox Premium 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62791
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium 1 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium1b.png" group-title="FILMES & SÉRIES",Fox Premium 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62792
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium 2 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium1b.png" group-title="FILMES & SÉRIES",Fox Premium 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62793
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium 2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxpremium2b.png" group-title="FILMES & SÉRIES",Fox Premium 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62794
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxsports.png" group-title="ESPORTES",Fox Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62795
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxsports2.png" group-title="ESPORTES",Fox Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62796
-#EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-name="Fox Sports 2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxsports2hd.png" group-title="ESPORTES",Fox Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62797
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxsportshd.png" group-title="ESPORTES",Fox Sports FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62798
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/foxsportshd.png" group-title="ESPORTES",Fox Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62799
-#EXTINF:-1 tvg-id="" tvg-name="Futura HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/futura.png" group-title="VARIEDADES",Futura HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62803
-#EXTINF:-1 tvg-id="FX HD" tvg-name="FX" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="FILMES & SÉRIES",FX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62804
-#EXTINF:-1 tvg-id="FX HD" tvg-name="FX FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="FILMES & SÉRIES",FX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62805
-#EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="FILMES & SÉRIES",FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62806
-#EXTINF:-1 tvg-id="" tvg-name="Globo Amazônica HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rede_am.png" group-title="GLOBOS",Globo Amazônica HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62811
-#EXTINF:-1 tvg-id="" tvg-name="Globo Amazônica HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rede_am.png" group-title="GLOBOS",Globo Amazônica HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72196
-#EXTINF:-1 tvg-id="" tvg-name="Globo Bahia" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4c/Logotipo_da_TV_Bahia.jpg" group-title="GLOBOS",Globo Bahia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62812
-#EXTINF:-1 tvg-id="" tvg-name="Globo Bahia" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4c/Logotipo_da_TV_Bahia.jpg" group-title="GLOBOS",Globo Bahia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72197
-#EXTINF:-1 tvg-id="" tvg-name="Globo Bahia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4c/Logotipo_da_TV_Bahia.jpg" group-title="GLOBOS",Globo Bahia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62813
-#EXTINF:-1 tvg-id="" tvg-name="Globo Bahia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4c/Logotipo_da_TV_Bahia.jpg" group-title="GLOBOS",Globo Bahia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72198
-#EXTINF:-1 tvg-id="" tvg-name="Globo Brasília" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globodf.png" group-title="GLOBOS",Globo Brasília
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62814
-#EXTINF:-1 tvg-id="" tvg-name="Globo Brasília" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globodf.png" group-title="GLOBOS",Globo Brasília
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72199
-#EXTINF:-1 tvg-id="" tvg-name="Globo Brasília FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globodf.png" group-title="GLOBOS",Globo Brasília FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72200
-#EXTINF:-1 tvg-id="" tvg-name="Globo Brasília HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globodf.png" group-title="GLOBOS",Globo Brasília HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62815
-#EXTINF:-1 tvg-id="" tvg-name="Globo Brasília HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globodf.png" group-title="GLOBOS",Globo Brasília HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72201
-#EXTINF:-1 tvg-id="" tvg-name="Globo Centro América Cuaibá HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvcentroamerica.png" group-title="GLOBOS",Globo Centro América Cuaibá HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72202
-#EXTINF:-1 tvg-id="" tvg-name="Globo Cuaibá" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvcentroamerica.png" group-title="GLOBOS",Globo Cuaibá
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62816
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/eptv.png" group-title="GLOBOS",Globo EPTV Campinas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62817
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/eptv.png" group-title="GLOBOS",Globo EPTV Campinas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72203
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/EPTV.png/200px-EPTV.png" group-title="GLOBOS",Globo EPTV Campinas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62818
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/EPTV.png/200px-EPTV.png" group-title="GLOBOS",Globo EPTV Campinas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72204
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Ribeirão Preto" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/eptv.png" group-title="GLOBOS",Globo EPTV Ribeirão Preto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62819
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Ribeirão Preto" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/eptv.png" group-title="GLOBOS",Globo EPTV Ribeirão Preto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72205
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Sul de Minas FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bb/Logotipo_da_TV_Globo_Minas.png" group-title="GLOBOS",Globo EPTV Sul de Minas FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72206
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Sul de Minas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/EPTV.png/200px-EPTV.png" group-title="GLOBOS",Globo EPTV Sul de Minas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72207
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV São Carlos" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/eptv.png" group-title="GLOBOS",Globo EPTV São Carlos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62820
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV São Carlos" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/eptv.png" group-title="GLOBOS",Globo EPTV São Carlos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72208
-#EXTINF:-1 tvg-id="" tvg-name="Globo Gazeta Alagoas" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/tvgazetaalagoas.png" group-title="GLOBOS",Globo Gazeta Alagoas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72209
-#EXTINF:-1 tvg-id="" tvg-name="Globo Gazeta Alagoas FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/tvgazetaalagoas.png" group-title="GLOBOS",Globo Gazeta Alagoas FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62821
-#EXTINF:-1 tvg-id="" tvg-name="Globo Gazeta Alagoas FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/tvgazetaalagoas.png" group-title="GLOBOS",Globo Gazeta Alagoas FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72210
-#EXTINF:-1 tvg-id="" tvg-name="Globo Goiânia - TV Anhanguera HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/image.png" group-title="GLOBOS",Globo Goiânia - TV Anhanguera HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62822
-#EXTINF:-1 tvg-id="" tvg-name="Globo Goiânia - TV Anhanguera HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/image.png" group-title="GLOBOS",Globo Goiânia - TV Anhanguera HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72211
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Cabugi FHD" tvg-logo="" group-title="GLOBOS",Globo Inter TV Cabugi FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72212
-#EXTINF:-1 tvg-id="Inter TV Cabugi" tvg-name="Globo Inter TV Cabugi HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_InterTV.png" group-title="GLOBOS",Globo Inter TV Cabugi HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62823
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Cabugi HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_InterTV.png" group-title="GLOBOS",Globo Inter TV Cabugi HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72213
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV dos Vales FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_InterTV.png/200px-Logotipo_da_InterTV.png" group-title="GLOBOS",Globo Inter TV dos Vales FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72214
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV dos Vales HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_InterTV.png/200px-Logotipo_da_InterTV.png" group-title="GLOBOS",Globo Inter TV dos Vales HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72215
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="http://s2.glbimg.com/FfDSGtP6CgEUrqKm9B4CqIDDGco=/s.glbimg.com/og/rg/f/original/2015/10/23/logo.png" group-title="GLOBOS",Globo Inter TV Grande Minas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72216
-#EXTINF:-1 tvg-id="" tvg-name="Globo Minas" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Globo_Minas.png" group-title="GLOBOS",Globo Minas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62824
-#EXTINF:-1 tvg-id="" tvg-name="Globo Minas" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Globo_Minas.png" group-title="GLOBOS",Globo Minas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72217
-#EXTINF:-1 tvg-id="" tvg-name="Globo Minas FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Globo_Minas.png" group-title="GLOBOS",Globo Minas FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62825
-#EXTINF:-1 tvg-id="" tvg-name="Globo Minas FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Globo_Minas.png" group-title="GLOBOS",Globo Minas FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72218
-#EXTINF:-1 tvg-id="" tvg-name="Globo Minas HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Globo_Minas.png" group-title="GLOBOS",Globo Minas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62826
-#EXTINF:-1 tvg-id="" tvg-name="Globo Minas HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Globo_Minas.png" group-title="GLOBOS",Globo Minas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72219
-#EXTINF:-1 tvg-id="" tvg-name="Globo News" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globonews.png" group-title="GLOBOS",Globo News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62827
-#EXTINF:-1 tvg-id="" tvg-name="Globo News" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="GLOBOS",Globo News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72220
-#EXTINF:-1 tvg-id="" tvg-name="Globo News FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globonews.png" group-title="GLOBOS",Globo News FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62828
-#EXTINF:-1 tvg-id="" tvg-name="Globo News FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="GLOBOS",Globo News FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72221
-#EXTINF:-1 tvg-id="" tvg-name="Globo News HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globonews.png" group-title="GLOBOS",Globo News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62829
-#EXTINF:-1 tvg-id="" tvg-name="Globo News HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="GLOBOS",Globo News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72222
-#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/globone.png" group-title="GLOBOS",Globo Nordeste FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72223
-#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/globone.png" group-title="GLOBOS",Globo Nordeste HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62831
-#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="Globo Nordeste HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/globone.png" group-title="GLOBOS",Globo Nordeste HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72224
-#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Blumenau FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nsctv.png" group-title="GLOBOS",Globo NSC Blumenau FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72225
-#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Centro Oeste FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nsctv.png" group-title="GLOBOS",Globo NSC Centro Oeste FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72226
-#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Chapecó FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nsctv.png" group-title="GLOBOS",Globo NSC Chapecó FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72227
-#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Criciúma FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nsctv.png" group-title="GLOBOS",Globo NSC Criciúma FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72228
-#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Floripa FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/NSC_TV_logo.png/200px-NSC_TV_logo.png" group-title="GLOBOS",Globo NSC Floripa FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72229
-#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Floripa HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nsctv.png" group-title="GLOBOS",Globo NSC Floripa HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72230
-#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Joinville FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nsctv.png" group-title="GLOBOS",Globo NSC Joinville FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72231
-#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nsctv.png" group-title="GLOBOS",Globo NSC TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62832
-#EXTINF:-1 tvg-id="" tvg-name="Globo Porto Velho HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/26/Logotipo_da_Rede_Amaz%C3%B4nica.png/250px-Logotipo_da_Rede_Amaz%C3%B4nica.png" group-title="GLOBOS",Globo Porto Velho HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72232
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS Caxias do Sul HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rbs.png" group-title="GLOBOS",Globo RBS Caxias do Sul HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72233
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV 4K" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rbs.png" group-title="GLOBOS",Globo RBS TV 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62833
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rbs.png" group-title="GLOBOS",Globo RBS TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62834
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV FHD" tvg-logo="https://tvmagazine.com.br/imagens/icones/600/rbs.png" group-title="GLOBOS",Globo RBS TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72234
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV FHD alt" tvg-logo="https://tvmagazine.com.br/imagens/icones/600/rbs.png" group-title="GLOBOS",Globo RBS TV FHD alt
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72235
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rbs.png" group-title="GLOBOS",Globo RBS TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62835
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV HD" tvg-logo="https://tvmagazine.com.br/imagens/icones/600/rbs.png" group-title="GLOBOS",Globo RBS TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72236
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Passo Fundo HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rbs.png" group-title="GLOBOS",Globo RBS TV Passo Fundo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72237
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rbs.png" group-title="GLOBOS",Globo RBS TV Pelotas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72238
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Santa Maria HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rbs.png" group-title="GLOBOS",Globo RBS TV Santa Maria HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72239
-#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO Recife FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/globone.png" group-title="GLOBOS",GLOBO Recife FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72240
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globorj.png" group-title="GLOBOS",Globo RJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62836
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globorj.png" group-title="GLOBOS",Globo RJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72241
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globorj.png" group-title="GLOBOS",Globo RJ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62837
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globorj.png" group-title="GLOBOS",Globo RJ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72242
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globorj.png" group-title="GLOBOS",Globo RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62838
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globorj.png" group-title="GLOBOS",Globo RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72243
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ Interior HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globorj.png" group-title="GLOBOS",Globo RJ Interior HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72244
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rpc.png" group-title="GLOBOS",Globo RPC Curitiba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62839
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/rpc.png" group-title="GLOBOS",Globo RPC Curitiba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72245
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rpc.png" group-title="GLOBOS",Globo RPC Curitiba HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62840
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/rpc.png" group-title="GLOBOS",Globo RPC Curitiba HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72246
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Foz FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/rpc.png" group-title="GLOBOS",Globo RPC Foz FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72247
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Maringá HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/rpc.png" group-title="GLOBOS",Globo RPC Maringá HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72248
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Paranavaí HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/rpc.png" group-title="GLOBOS",Globo RPC Paranavaí HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72249
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globosp.png" group-title="GLOBOS",Globo SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62841
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globosp.png" group-title="GLOBOS",Globo SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72250
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globosp.png" group-title="GLOBOS",Globo SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62842
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globosp.png" group-title="GLOBOS",Globo SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72251
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/globosp.png" group-title="GLOBOS",Globo SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62843
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD" tvg-logo="https://tvmagazine.com.br/imagens/icones/600/globo.png" group-title="GLOBOS",Globo SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72252
-#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="Globo Sudoeste Bahia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a4/Logotipo_TV_Sudoeste_%28Vit%C3%B3ria_da_Conquista%29.png/200px-Logotipo_TV_Sudoeste_%28Vit%C3%B3ria_da_Conquista%29.png" group-title="GLOBOS",Globo Sudoeste Bahia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72253
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Asa Branca FHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-asa-branca-hd_m.png" group-title="GLOBOS",Globo TV Asa Branca FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72254
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia FHD" tvg-logo="" group-title="GLOBOS",Globo TV Bahia FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72255
-#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="Globo TV Cabo Branco FHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-cabo-branco_m.png" group-title="GLOBOS",Globo TV Cabo Branco FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72256
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Cabo Branco HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2a/TV_Cabo_Branco.jpg/200px-TV_Cabo_Branco.jpg" group-title="GLOBOS",Globo TV Cabo Branco HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72257
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Fronteira Paulista HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/7f/Logotipo_da_TV_Fronteira.png/200px-Logotipo_da_TV_Fronteira.png" group-title="GLOBOS",Globo TV Fronteira Paulista HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72258
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Integração Araxá HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Integra%C3%A7%C3%A3o.png" group-title="GLOBOS",Globo TV Integração Araxá HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72259
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Liberal Belém HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-liberal_m.png" group-title="GLOBOS",Globo TV Liberal Belém HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72260
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7e/TV_Mirante.png" group-title="GLOBOS",Globo TV Mirante
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72261
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7e/TV_Mirante.png" group-title="GLOBOS",Globo TV Mirante FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72262
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7e/TV_Mirante.png" group-title="GLOBOS",Globo TV Mirante HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72263
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Morena.png" group-title="GLOBOS",Globo TV Morena
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62844
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena" tvg-logo="https://tvmagazine.com.br/imagens/icones/600/tvmorena.png" group-title="GLOBOS",Globo TV Morena
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72264
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Morena.png" group-title="GLOBOS",Globo TV Morena FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62845
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena FHD" tvg-logo="https://tvmagazine.com.br/imagens/icones/600/tvmorena.png" group-title="GLOBOS",Globo TV Morena FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72265
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Morena.png" group-title="GLOBOS",Globo TV Morena HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62846
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena HD" tvg-logo="https://tvmagazine.com.br/imagens/icones/600/tvmorena.png" group-title="GLOBOS",Globo TV Morena HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72266
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sergipe FHD" tvg-logo="" group-title="GLOBOS",Globo TV Sergipe FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72267
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sergipe HD" tvg-logo="" group-title="GLOBOS",Globo TV Sergipe HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72268
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Bauru HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="GLOBOS",Globo TV Tem Bauru HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62847
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Bauru HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="GLOBOS",Globo TV Tem Bauru HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72269
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Itapetininga FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/51/Logotipo_da_TV_TEM.png/200px-Logotipo_da_TV_TEM.png" group-title="GLOBOS",Globo TV TEM Itapetininga FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72270
-#EXTINF:-1 tvg-id="Inter TV Cabugi" tvg-name="Globo TV Tem SJRP" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="GLOBOS",Globo TV Tem SJRP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62848
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem SJRP" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="GLOBOS",Globo TV Tem SJRP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72271
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Sorocaba" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="GLOBOS",Globo TV Tem Sorocaba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72272
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Sorocaba HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="GLOBOS",Globo TV Tem Sorocaba HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62849
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Sorocaba HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png" group-title="GLOBOS",Globo TV Tem Sorocaba HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72273
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Taubaté FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/51/Logotipo_da_TV_TEM.png/200px-Logotipo_da_TV_TEM.png" group-title="GLOBOS",Globo TV TEM Taubaté FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72274
-#EXTINF:-1 tvg-id="Tvtribuna.br" tvg-name="Globo TV Tribuna" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/tvtribunaglobo.png" group-title="GLOBOS",Globo TV Tribuna
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62850
-#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="Globo TV Tribuna HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/tvtribunaglobo.png" group-title="GLOBOS",Globo TV Tribuna HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62851
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tribuna Santos" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/tvtribunaglobo.png" group-title="GLOBOS",Globo TV Tribuna Santos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72275
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tribuna Santos HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/tvtribunaglobo.png" group-title="GLOBOS",Globo TV Tribuna Santos HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72276
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Vanguarda SJC" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvvanguarda.png" group-title="GLOBOS",Globo TV Vanguarda SJC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62852
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Vanguarda SJC" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvvanguarda.png" group-title="GLOBOS",Globo TV Vanguarda SJC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72277
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Vanguarda SJC FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvvanguarda.png" group-title="GLOBOS",Globo TV Vanguarda SJC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72278
-#EXTINF:-1 tvg-id="" tvg-name="Globo Verde Mares Fortaleza HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/tvverdesmares.png" group-title="GLOBOS",Globo Verde Mares Fortaleza HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62853
-#EXTINF:-1 tvg-id="" tvg-name="Globo Verdes Mares Fortaleza" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/tvverdesmares.png" group-title="GLOBOS",Globo Verdes Mares Fortaleza
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62854
-#EXTINF:-1 tvg-id="" tvg-name="Globo Verdes Mares Fortaleza" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/tvverdesmares.png" group-title="GLOBOS",Globo Verdes Mares Fortaleza
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72279
-#EXTINF:-1 tvg-id="" tvg-name="Globo Verdes Mares Fortaleza FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/tvverdesmares.png" group-title="GLOBOS",Globo Verdes Mares Fortaleza FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72280
-#EXTINF:-1 tvg-id="" tvg-name="Globo Verdes Mares Fortaleza HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/tvverdesmares.png" group-title="GLOBOS",Globo Verdes Mares Fortaleza HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/72281
-#EXTINF:-1 tvg-id="Gloob HD" tvg-name="Gloob" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/gloob.png" group-title="INFANTIL",Gloob
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62855
-#EXTINF:-1 tvg-id="Gloob HD" tvg-name="Gloob HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/gloob.png" group-title="INFANTIL",Gloob HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62856
-#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/gnt.png" group-title="VARIEDADES",GNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62857
-#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/gnt.png" group-title="VARIEDADES",GNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62858
-#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/gnt.png" group-title="VARIEDADES",GNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62859
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="FILMES & SÉRIES",HBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62861
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="FILMES & SÉRIES",HBO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62862
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="FILMES & SÉRIES",HBO 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62863
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png" group-title="FILMES & SÉRIES",HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62864
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png" group-title="FILMES & SÉRIES",HBO Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62865
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png" group-title="FILMES & SÉRIES",HBO Family FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62866
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png" group-title="FILMES & SÉRIES",HBO Family HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62867
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="FILMES & SÉRIES",HBO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62868
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hbo.png" group-title="FILMES & SÉRIES",HBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62869
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max HD 01" tvg-logo="https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png" group-title="ESPORTES",HBO Max HD 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/71756
-#EXTINF:-1 tvg-id="" tvg-name="HBO Max HD 02" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/images/0d6b31d2c416b52facf721bbe871a132.png" group-title="ESPORTES",HBO Max HD 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/71757
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOMundi.png" group-title="FILMES & SÉRIES",HBO Mundi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62870
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOMundi.png" group-title="FILMES & SÉRIES",HBO Mundi FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62871
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOMundi.png" group-title="FILMES & SÉRIES",HBO Mundi HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62872
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/HBOPOP.png" group-title="FILMES & SÉRIES",HBO Pop
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62873
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/HBOPOP.png" group-title="FILMES & SÉRIES",HBO Pop HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62874
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/hbosignature.png" group-title="FILMES & SÉRIES",HBO Signature FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62875
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/hbosignature.png" group-title="FILMES & SÉRIES",HBO Signature HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62876
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png" group-title="FILMES & SÉRIES",HBO Xtreme
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62877
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png" group-title="FILMES & SÉRIES",HBO Xtreme FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62878
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png" group-title="FILMES & SÉRIES",HBO Xtreme HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62879
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hboplus.png" group-title="FILMES & SÉRIES",HBO+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62880
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hboplus.png" group-title="FILMES & SÉRIES",HBO+ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62881
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hboplus.png" group-title="FILMES & SÉRIES",HBO+ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62882
-#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1200px-HGTV_US_Logo_2015.svg.png" group-title="VARIEDADES",HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62883
-#EXTINF:-1 tvg-id="History HD" tvg-name="History" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/history.png" group-title="VARIEDADES",History
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62884
-#EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="VARIEDADES",History 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62885
-#EXTINF:-1 tvg-id="" tvg-name="History 2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="VARIEDADES",History 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62886
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/history.png" group-title="VARIEDADES",History HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62887
-#EXTINF:-1 tvg-id="Example" tvg-name="ID - Investigação Discovery" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/id.png" group-title="DOCUMENTÁRIOS",ID - Investigação Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62890
-#EXTINF:-1 tvg-id="Example" tvg-name="ID - Investigação Discovery HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/id.png" group-title="DOCUMENTÁRIOS",ID - Investigação Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62891
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/jovempan.png" group-title="VARIEDADES",Jovem Pan News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/71614
-#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/lifetime.png" group-title="VARIEDADES",Lifetime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62894
-#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/lifetime.png" group-title="VARIEDADES",Lifetime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62895
-#EXTINF:-1 tvg-id="" tvg-name="Mais na Tela" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/maisglobosat.png" group-title="VARIEDADES",Mais na Tela
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62897
-#EXTINF:-1 tvg-id="" tvg-name="Mais na Tela HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/maisglobosat.png" group-title="VARIEDADES",Mais na Tela HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62898
-#EXTINF:-1 tvg-id="Megapix HD" tvg-name="Megapix" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/megapix.png" group-title="FILMES & SÉRIES",Megapix
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62899
-#EXTINF:-1 tvg-id="Megapix HD" tvg-name="Megapix FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/megapix.png" group-title="FILMES & SÉRIES",Megapix FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62900
-#EXTINF:-1 tvg-id="Megapix HD" tvg-name="Megapix HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/megapix.png" group-title="FILMES & SÉRIES",Megapix HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62901
-#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/mtv-logo-300x150.png" group-title="VARIEDADES",MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62905
-#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/mtv-logo-300x150.png" group-title="VARIEDADES",MTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62906
-#EXTINF:-1 tvg-id="Multishow HD" tvg-name="Multishow" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/multishow.png" group-title="VARIEDADES",Multishow
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62907
-#EXTINF:-1 tvg-id="Multishow HD" tvg-name="Multishow HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/multishow.png" group-title="VARIEDADES",Multishow HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62908
-#EXTINF:-1 tvg-id="" tvg-name="Mundial TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f3409bb0ed003448041dfd1aa8871a9e.jpg" group-title="RELIGIOSOS",Mundial TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62892
-#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/musicboxbrazil.png" group-title="VARIEDADES",Music Box Brazil HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62909
-#EXTINF:-1 tvg-id="Example" tvg-name="Natgeo Kids HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/natgeokids.png" group-title="INFANTIL",Natgeo Kids HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62910
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeowild.png" group-title="VARIEDADES",NatGeo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62911
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeowild.png" group-title="VARIEDADES",NatGeo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62912
-#EXTINF:-1 tvg-id="Example" tvg-name="National Geographic" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="VARIEDADES",National Geographic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62913
-#EXTINF:-1 tvg-id="Example" tvg-name="National Geographic HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="VARIEDADES",National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62914
-#EXTINF:-1 tvg-id="" tvg-name="NHK Japan" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/NHK-Logo-620x360.png" group-title="VARIEDADES",NHK Japan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62915
-#EXTINF:-1 tvg-id="Example" tvg-name="Nick Jr." tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nickjr.png" group-title="INFANTIL",Nick Jr.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62916
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nickjr.png" group-title="INFANTIL",Nick Jr. HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62917
-#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nickelodeon.png" group-title="INFANTIL",Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62918
-#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/nickelodeon.png" group-title="INFANTIL",Nickelodeon HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62919
-#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/zmGfFOtn_400x400.jpg" group-title="ESPORTES",OFF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62921
-#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/zmGfFOtn_400x400.jpg" group-title="ESPORTES",OFF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62922
-#EXTINF:-1 tvg-id="Example" tvg-name="Paramount" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/paramount.png" group-title="FILMES & SÉRIES",Paramount
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62928
-#EXTINF:-1 tvg-id="Paramount HD" tvg-name="Paramount HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/paramount.png" group-title="FILMES & SÉRIES",Paramount HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62929
-#EXTINF:-1 tvg-id="" tvg-name="Playplus Kids HD" tvg-logo="https://pp-vod-img.akamaized.net/res/liveGridProgram/dbf9dce2-23be-4f70-9588-35e67cbb5570.jpg" group-title="INFANTIL",Playplus Kids HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62934
-#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="PREMIERES",Premiere 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62939
-#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="PREMIERES",Premiere 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62940
-#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="PREMIERES",Premiere 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62941
-#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="PREMIERES",Premiere 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62942
-#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="PREMIERES",Premiere 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62943
-#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="PREMIERES",Premiere 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62944
-#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="Premiere 4" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="PREMIERES",Premiere 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62945
-#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="Premiere 4 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="PREMIERES",Premiere 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62946
-#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="Premiere 5" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="PREMIERES",Premiere 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62947
-#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="Premiere 5 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="PREMIERES",Premiere 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62948
-#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="Premiere 6 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="PREMIERES",Premiere 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62949
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="PREMIERES",Premiere 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62950
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="PREMIERES",Premiere Clubes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62951
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="PREMIERES",Premiere Clubes FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62952
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png" group-title="PREMIERES",Premiere Clubes HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62953
-#EXTINF:-1 tvg-id="" tvg-name="Record" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/record.png" group-title="CANAIS REGIONAIS",Record
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62954
-#EXTINF:-1 tvg-id="" tvg-name="Record Belém HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/recorddf.png" group-title="CANAIS REGIONAIS",Record Belém HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62955
-#EXTINF:-1 tvg-id="" tvg-name="Record Brasília HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/record.png" group-title="CANAIS REGIONAIS",Record Brasília HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62956
-#EXTINF:-1 tvg-id="" tvg-name="Record Goiás HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/record.png" group-title="CANAIS REGIONAIS",Record Goiás HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62957
-#EXTINF:-1 tvg-id="" tvg-name="Record Itapoan HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/record.png" group-title="CANAIS REGIONAIS",Record Itapoan HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62958
-#EXTINF:-1 tvg-id="" tvg-name="Record Manaus HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/record.png" group-title="CANAIS REGIONAIS",Record Manaus HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62959
-#EXTINF:-1 tvg-id="" tvg-name="Record Minas HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/recordmg.png" group-title="CANAIS REGIONAIS",Record Minas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62960
-#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/recordnews.png" group-title="CANAIS REGIONAIS",Record News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62961
-#EXTINF:-1 tvg-id="Example" tvg-name="Record News HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/recordnews.png" group-title="CANAIS REGIONAIS",Record News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62962
-#EXTINF:-1 tvg-id="" tvg-name="Record Rio HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/recordrj.png" group-title="CANAIS REGIONAIS",Record Rio HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62963
-#EXTINF:-1 tvg-id="" tvg-name="Record RS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/record.png" group-title="CANAIS REGIONAIS",Record RS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62964
-#EXTINF:-1 tvg-id="" tvg-name="Record SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/recordsp.png" group-title="CANAIS REGIONAIS",Record SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62965
-#EXTINF:-1 tvg-id="" tvg-name="Redbull TV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/icon-2.png" group-title="ESPORTES",Redbull TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62966
-#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/a0d63881986e2d53734fb0660594b420.png" group-title="RELIGIOSOS",Rede Vida
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62967
-#EXTINF:-1 tvg-id="Rede TV HD" tvg-name="RedeTV! HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/redetv.png" group-title="CANAIS REGIONAIS",RedeTV! HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62968
-#EXTINF:-1 tvg-id="Example" tvg-name="RIT TV" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/rit.jpg" group-title="RELIGIOSOS",RIT TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62970
-#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sbt.png" group-title="CANAIS REGIONAIS",SBT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62971
-#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT RS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sbt.png" group-title="CANAIS REGIONAIS",SBT RS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62972
-#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT SP HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sbt.png" group-title="CANAIS REGIONAIS",SBT SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62973
-#EXTINF:-1 tvg-id="SIC Internacional SD" tvg-name="SIC Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/SICinternacional.jpg/300px-SICinternacional.jpg"" group-title="CANAIS PORTUGUESES ",SIC Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/71635
-#EXTINF:-1 tvg-id="Space HD" tvg-name="Space" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="FILMES & SÉRIES",Space
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62978
-#EXTINF:-1 tvg-id="Space HD" tvg-name="Space FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="FILMES & SÉRIES",Space FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62979
-#EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="FILMES & SÉRIES",Space HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62980
-#EXTINF:-1 tvg-id="" tvg-name="SporTV" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv.png" group-title="ESPORTES",SporTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62981
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv2.png" group-title="ESPORTES",SporTV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62982
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv2.png" group-title="ESPORTES",SporTV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62983
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv2.png" group-title="ESPORTES",SporTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62984
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 3" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv3.png" group-title="ESPORTES",SporTV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62985
-#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv3.png" group-title="ESPORTES",SporTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62986
-#EXTINF:-1 tvg-id="" tvg-name="SporTV FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv.png" group-title="ESPORTES",SporTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62987
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv.png" group-title="ESPORTES",SporTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62988
-#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="Star+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_de_Star%2B_Star_Plus.jpg" group-title="ESPORTES",Star+ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/71758
-#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="Studio Universal HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_studio-universal-hd_m.png" group-title="FILMES & SÉRIES",Studio Universal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62989
-#EXTINF:-1 tvg-id="Syfy" tvg-name="SyFy" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/syfy.png" group-title="FILMES & SÉRIES",SyFy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62990
-#EXTINF:-1 tvg-id="Syfy HD" tvg-name="SyFy HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/syfy.png" group-title="FILMES & SÉRIES",SyFy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62991
-#EXTINF:-1 tvg-id="TBS HD" tvg-name="TBS" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tbs.png" group-title="VARIEDADES",TBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62992
-#EXTINF:-1 tvg-id="TBS HD" tvg-name="TBS HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tbs.png" group-title="VARIEDADES",TBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62993
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tcm.png" group-title="VARIEDADES",TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62994
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="Telecine Action" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/447.jpg" group-title="FILMES & SÉRIES",Telecine Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62995
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="Telecine Action FHD" tvg-logo="https://tvmagazine.com.br/imagens/icones/64/tcaction.png" group-title="FILMES & SÉRIES",Telecine Action FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62996
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="Telecine Action HD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/447.jpg" group-title="FILMES & SÉRIES",Telecine Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62997
-#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="Telecine Cult" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x509.jpg.pagespeed.ic.TEzvTgzBmt.webp" group-title="FILMES & SÉRIES",Telecine Cult
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62998
-#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="Telecine Cult FHD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x509.jpg.pagespeed.ic.TEzvTgzBmt.webp" group-title="FILMES & SÉRIES",Telecine Cult FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/62999
-#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="Telecine Cult HD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x509.jpg.pagespeed.ic.TEzvTgzBmt.webp" group-title="FILMES & SÉRIES",Telecine Cult HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63000
-#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="Telecine Fun" tvg-logo="https://tvmagazine.com.br/imagens/icones/64/tcfun.png" group-title="FILMES & SÉRIES",Telecine Fun
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63001
-#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="Telecine Fun FHD" tvg-logo="https://tvmagazine.com.br/imagens/icones/64/tcfun.png" group-title="FILMES & SÉRIES",Telecine Fun FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63002
-#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="Telecine Fun HD" tvg-logo="https://tvmagazine.com.br/imagens/icones/64/tcfun.png" group-title="FILMES & SÉRIES",Telecine Fun HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63003
-#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="Telecine Pipoca" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x453.jpg.pagespeed.ic.viMJ9OU6DQ.webp" group-title="FILMES & SÉRIES",Telecine Pipoca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63004
-#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="Telecine Pipoca FHD" tvg-logo="https://tvmagazine.com.br/imagens/icones/64/tcpipoca.png" group-title="FILMES & SÉRIES",Telecine Pipoca FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63005
-#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="Telecine Pipoca HD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x453.jpg.pagespeed.ic.viMJ9OU6DQ.webp" group-title="FILMES & SÉRIES",Telecine Pipoca HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63006
-#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x429.jpg.pagespeed.ic.II6mnaqVf7.webp" group-title="FILMES & SÉRIES",Telecine Premium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63007
-#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium FHD" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x429.jpg.pagespeed.ic.II6mnaqVf7.webp" group-title="FILMES & SÉRIES",Telecine Premium FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63008
-#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium HD" tvg-logo="https://tvmagazine.com.br/imagens/icones/64/tcpremium.png" group-title="FILMES & SÉRIES",Telecine Premium HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63009
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch" tvg-logo="https://www.lojapremio.com.br/media/grade-de-canais/x515.jpg.pagespeed.ic.alb0HTT_gH.webp" group-title="FILMES & SÉRIES",Telecine Touch
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63010
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch FHD" tvg-logo="https://tvmagazine.com.br/imagens/icones/64/tctouch.png" group-title="FILMES & SÉRIES",Telecine Touch FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63011
-#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch HD" tvg-logo="https://tvmagazine.com.br/imagens/icones/64/tctouch.png" group-title="FILMES & SÉRIES",Telecine Touch HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63012
-#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tlc.png" group-title="VARIEDADES",TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63016
-#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tlc.png" group-title="VARIEDADES",TLC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63017
-#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tlc.png" group-title="VARIEDADES",TLC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63018
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="FILMES & SÉRIES",TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63019
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="FILMES & SÉRIES",TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63020
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="FILMES & SÉRIES",TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63021
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD alt" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="FILMES & SÉRIES",TNT HD alt
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63022
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Séries" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tntseries.png" group-title="FILMES & SÉRIES",TNT Séries
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63023
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Séries HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tntseries.png" group-title="FILMES & SÉRIES",TNT Séries HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63024
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tooncast.png" group-title="INFANTIL",Tooncast
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63026
-#EXTINF:-1 tvg-id="TruTV" tvg-name="TruTV" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-TruTV_logo_2014.png" group-title="VARIEDADES",TruTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63029
-#EXTINF:-1 tvg-id="Aparecida" tvg-name="TV Aparecida FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Aparecida.png" group-title="RELIGIOSOS",TV Aparecida FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63030
-#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/UGXTMajQzEpLMZgCM02kEA6b3q_UZjQXJWdFMhPwmUcpN77tyS5dPv2MRIy6IVmMEw=s360-rw" group-title="VARIEDADES",TV Gazeta FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63031
-#EXTINF:-1 tvg-id="" tvg-name="TV Novo Tempo HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tvnovotempo.png" group-title="RELIGIOSOS",TV Novo Tempo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63032
-#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0?e=2159024400&v=beta&t=S7_LMTmQMnXcSFdi2w5E8r5236hHIs5WCOnub9nHDfM" group-title="RELIGIOSOS",TV Pai Eterno
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63033
-#EXTINF:-1 tvg-id="" tvg-name="TV Rá-Tim-Bum" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tvratimbum.png" group-title="INFANTIL",TV Rá-Tim-Bum
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63034
-#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/tv5-monde-logo-png-3.png" group-title="VARIEDADES",TV5 Monde HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63035
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal TV" tvg-logo="http://logocanais.ddns.net/Logo/universalchannel1.png" group-title="FILMES & SÉRIES",Universal TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63038
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal TV HD" tvg-logo="http://logocanais.ddns.net/Logo/universalchannel1.png" group-title="FILMES & SÉRIES",Universal TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63039
-#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/vh1.png" group-title="VARIEDADES",VH1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63040
-#EXTINF:-1 tvg-id="Viva HD" tvg-name="Viva" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png" group-title="VARIEDADES",Viva
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63042
-#EXTINF:-1 tvg-id="Viva HD" tvg-name="Viva HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png" group-title="VARIEDADES",Viva HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63043
-#EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="Warner Channel" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="FILMES & SÉRIES",Warner Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63044
-#EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="Warner Channel HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="FILMES & SÉRIES",Warner Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63045
-#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="Woohoo" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/woohoo.png" group-title="ESPORTES",Woohoo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63046
-#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="Woohoo HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/woohoo.png" group-title="ESPORTES",Woohoo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asb x.xyz:80/smarters/123456/63047
+<item>
+<title>[B]Globo SP[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/282$nome= [COLOR green]GLOBO NORDESTE HD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/286$nome= [COLOR yellow]Globo RJ HD[/COLOR]</link>
+<thumbnail>https://imgur.com/5RQ1PxL.png</thumbnail>
+<fanart>https://imgur.com/5RQ1PxL.png</fanart>
+<info>TV Globo é uma rede de televisão comercial aberta brasileira. É assistida por mais de 200 milhões de pessoas diariamente, sejam elas no Brasil ou no exterior. </info>
+</item>
+
+<item>
+<title>[B]Globo Nordeste [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/7918$nome= [COLOR green]Globo SP HD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/7919$nome= [COLOR yellow]Globo Minas HD[/COLOR]</link>
+<thumbnail>https://imgur.com/5RQ1PxL.png</thumbnail>
+<fanart>https://imgur.com/5RQ1PxL.png</fanart>
+<info>TV Globo é uma rede de televisão comercial aberta brasileira. É assistida por mais de 200 milhões de pessoas diariamente, sejam elas no Brasil ou no exterior. </info>
+</item>
+
+
+<item>
+<title>[B]SBT [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/452$nome= [COLOR green]SBT RJ HD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8$nome= [COLOR yellow]SBT - TV Difusora (MA)[/COLOR]</link>
+<thumbnail>http://i.imgur.com/7SlZF9B.png</thumbnail>
+<fanart>http://i.imgur.com/7SlZF9B.png</fanart>
+<info>Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta brasileira fundada em 19 de agosto de 1981 pelo empresário e animador de televisão Silvio Santos.</info>
+</item>
+
+<item>
+<title>[B]SBT[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8$nome= [COLOR green]SBT Rede Massa [/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=$nome= [COLOR yellow]SBT PE SD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/7SlZF9B.png</thumbnail>
+<fanart>http://i.imgur.com/7SlZF9B.png</fanart>
+<info>Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta brasileira fundada em 19 de agosto de 1981 pelo empresário e animador de televisão Silvio Santos.</info>
+</item>
+
+
+
+<item>
+<title>[B]BAND[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/74$nome= [COLOR green]Band SP [/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://fastuhd.tech:80/837286374477/616273637474/737371$nome= [COLOR yellow]Band RJ [/COLOR]</link>
+<thumbnail>http://i.imgur.com/x70tdT3.png</thumbnail>
+<fanart>http://i.imgur.com/x70tdT3.png</fanart>
+<info>Rede Bandeirantes é uma rede de televisão aberta comercial brasileira pertencente ao Grupo Bandeirantes. Entrou no ar no dia 13 de maio de 1967 pelo canal 13 VHF. Seu fundador foi João Jorge Saad, que contou com a ajuda do sogro, o político Ademar de Barros, antigo proprietário da Rádio</info>
+</item>
+
+<item>
+<title>[B]RECORD RJ[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/436$nome= [COLOR green]Record RJ HD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8$nome= [COLOR yellow]Record RJ SD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/5UeQAk9.png</thumbnail>
+<fanart>http://i.imgur.com/5UeQAk9.png</fanart>
+<info>Record TV é uma rede de televisão comercial aberta brasileira. Atualmente é a segunda maior emissora de TV comercial do Brasil, e a 28.ª maior no ranking mundial. Em 2010 ela foi eleita pelo mercado publicitário a 5º maior emissora do mundo em faturamento e a 8º maior rede em estrutura física.</info>
+</item>
+
+<item>
+<title>[B]RECORD SP[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/437$nome= [COLOR green]Record SP SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8$nome= [COLOR yellow]Record SP HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/5UeQAk9.png</thumbnail>
+<fanart>http://i.imgur.com/5UeQAk9.png</fanart>
+<info>Record TV é uma rede de televisão comercial aberta brasileira. Atualmente é a segunda maior emissora de TV comercial do Brasil, e a 28.ª maior no ranking mundial. Em 2010 ela foi eleita pelo mercado publicitário a 5º maior emissora do mundo em faturamento e a 8º maior rede em estrutura física.</info>
+</item>
+
+<item>
+<title>[B]RedeTV![/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/442$nome= [COLOR green]RedeTV! SP[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8$nome= [COLOR yellow]Rede TV [/COLOR]</link>
+<thumbnail>https://i.imgur.com/hd76Jt4.png</thumbnail>
+<fanart>https://i.imgur.com/hd76Jt4.png</fanart>
+<info>RedeTV! é uma rede de televisão comercial brasileira com sede em Osasco, município da Região Metropolitana de São Paulo, pertencente ao Grupo Amilcare Dallevo e ao Grupo Marcelo de Carvalho.</info>
+</item>
+
+
+<item>
+<title>[B]RedeTV![/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8$nome= [COLOR green]Rede TV RS[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8$nome= [COLOR yellow]RedeTV! TV Arapuan HD (PB)[/COLOR]</link>
+<thumbnail>https://i.imgur.com/hd76Jt4.png</thumbnail>
+<fanart>https://i.imgur.com/hd76Jt4.png</fanart>
+<info>RedeTV! é uma rede de televisão comercial brasileira com sede em Osasco, município da Região Metropolitana de São Paulo, pertencente ao Grupo Amilcare Dallevo e ao Grupo Marcelo de Carvalho.</info>
+</item>
+ 
+<item>
+<title>[B]DISCOVERY CHANNEL HD[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62737$nome= [COLOR green] DISCOVERY CHANNEL HD SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://fastuhd.tech:80/837286374477/616273637474/622763$nome= [COLOR yellow] DISCOVERY CHANNEL HD HD[/COLOR]</link>
+<thumbnail>https://tvmagazine.com.br/imagens/icones/600/discoverychannelb.png</thumbnail>
+<fanart>https://tvmagazine.com.br/imagens/icones/600/discoverychannelb.png</fanart>
+<info>O Discovery Channel é um canal de televisão por assinatura distribuído pela Warner Bros. Discovery destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história, meio ambiente e geografia. </info>
+</item>
+ 
+<item>
+<title>[B]DISCOVERY H&amp [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62740$nome= [COLOR green]DISCOVERY H&amp SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://fastuhd.tech:80/837286374477/616273637474/622764$nome= [COLOR yellow]DISCOVERY H&amp HD[/COLOR]</link>
+<thumbnail>https://yt3.ggpht.com/ytc/AAUvwnh0bJr9GVVVw7OhSD4x3MCjzIbsJMy2dqCgQ90eyA=s900-c-k-c0x00ffffff-no-rj</thumbnail>
+<fanart>https://yt3.ggpht.com/ytc/AAUvwnh0bJr9GVVVw7OhSD4x3MCjzIbsJMy2dqCgQ90eyA=s900-c-k-c0x00ffffff-no-rj</fanart>
+<info>TVE Brasil foi uma emissora de televisão brasileira sediada no Rio de Janeiro, capital do estado homônimo. Operava pelo canal 2 VHF analógico e era mantida pela Associação de Comunicação Educativa Roquette Pinto. </info>
+</item>
+
+
+<item>
+<title>[B]DISCOVERY ID [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://fastuhd.tech:80/837286374477/616273637474/622349$nome= [COLOR green]DISCOVERY ID  SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://fastuhd.tech:80/837286374477/616273637474/622800$nome= [COLOR yellow]DISCOVERY ID  HD[/COLOR]</link>
+<thumbnail>https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png</thumbnail>
+<fanart>https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png</fanart>
+<info>é uma rede de televisão brasileira sediada em Campinas, São Paulo. É uma das empresas do Grupo Record. Foi criada em 1.º de agosto de 1998, e atualmente, mantém uma grade de programação com programas jornalísticos e de variedades, além de reprises de programas produzidos pela sua coirmã RecordTV.</info>
+</item>
+
+<item>
+<title>[B]Rede Vida HD[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://a5t elecom.distv.net:8080/6188/6188/418$nome= [COLOR green]Rede Vida HD SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://a5t elecom.distv.net:8080/6188/6188/418$nome= [COLOR yellow]Rede Vida HD HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/1469ea51fe637967d0e56d2dfe8838bb.png</thumbnail>
+<fanart>http://www.vod-logo.net/photos/1469ea51fe637967d0e56d2dfe8838bb.png</fanart>
+<info>Rede Família é uma rede de televisão brasileira sediada em Campinas, São Paulo. É uma das empresas do Grupo Record. Foi criada em 1.º de agosto de 1998, e atualmente, mantém uma grade de programação com programas jornalísticos e de variedades, além de reprises de programas produzidos pela sua coirmã RecordTV.</info>
+</item>
+
+
+<item>
+<title>[B]DISCOVERY SCIENCE[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62744$nome= [COLOR green]DISCOVERY SCIENCE HD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://fastuhd.tech:80/837286374477/616273637474/622321$nome= [COLOR green]DISCOVERY SCIENCE SD[/COLOR]</link>
+<thumbnail>https://www.tvmagazine.com.br/imagens/icones/600/discoveryscienceb.png</thumbnail>
+<fanart>https://www.tvmagazine.com.br/imagens/icones/600/discoveryscienceb.png</fanart>
+<info>Discovery Science é um canal de televisão de TV por assinatura do grupo Warner Bros. Discovery que tem como tarefa reexibir os programas ligados a ciência passados no Discovery Channel, sem intervalos comerciais. Exibe documentários sobre astronomia, tecnologia, história e biologia.  </info>
+</item>
+
+<item>
+<title>[B]DISCOVERY TURBO[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62750$nome= [COLOR green]DISCOVERY TURBO[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://fastuhd.tech:80/837286374477/616273637474/622323$nome= [COLOR yellow]DISCOVERY TURBO[/COLOR]</link>
+<thumbnail>https://i.ytimg.com/vi/cxcPXtbddh4/maxresdefault.jpgL</thumbnail>
+<fanart>https://i.ytimg.com/vi/cxcPXtbddh4/maxresdefault.jpg</fanart>
+<info>O Discovery Turbo é uma rede pertencente a Warner Bros. Discovery com a programação dedicada a máquinas como carros, motos, barcos e aviões. Tem a tarefa de re-exibir os programas ligados a essas máquinas passados no Discovery Channel, sem intervalos comerciais. </info>
+</item>
+
+<item>
+<title>[B]HISTORY CHANNEL[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62884$nome= [COLOR green]HISTORY CHANNEL SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://fastuhd.tech:80/837286374477/616273637474/1604818$nome= [COLOR green]HISTORY CHANNEL HD[/COLOR]</link>
+<thumbnail>http://midia.gruposinos.com.br/_midias/png/2016/03/15/history_channel_logo-1375411.png</thumbnail>
+<fanart>http://midia.gruposinos.com.br/_midias/png/2016/03/15/history_channel_logo-1375411.png</fanart>
+<info>O History, é uma rede de televisão por assinatura americano cuja programação é focada essencialmente em conteúdos de teor histórico e científico. Apesar disso, a rede também aborda temas atuais de relevância. O History está disponível na maior parte das ofertas televisivas pagas. </info>
+</item>
+
+<item>
+<title>[B]NATIONAL GEOGRAPHIC  [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62914$nome= [COLOR green]NATIONAL GEOGRAPHIC SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://fastuhd.tech:80/837286374477/616273637474/16048245$nome= [COLOR green]NATIONAL GEOGRAPHIC HD[/COLOR]</link>
+<thumbnail>https://www.nationalgeographicbrasil.com/images/logo.png</thumbnail>
+<fanart>https://www.nationalgeographicbrasil.com/images/logo.png</fanart>
+<info>National Geographic, anteriormente National Geographic Magazine, é a revista oficial da National Geographic Society. Publicou a sua primeira edição em 1888, apenas nove meses após a própria sociedade ter sido fundada. É imediatamente identificável pela moldura amarela característica que envolve a sua capa. </info>
+</item>
+
+<item>
+<title>[B]COMEDY CENTRAL  [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62721$nome= [COLOR green]COMEDY CENTRAL SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://fastuhd.tech:80/837286374477/616273637474/622316$nome= [COLOR green]COMEDY CENTRAL HD[/COLOR]</link>
+<thumbnail>https://www.exorbeo.com/wp-content/uploads/2013/04/comedy+central+sem+graca-1280x720.jpg</thumbnail>
+<fanart>https://www.exorbeo.com/wp-content/uploads/2013/04/comedy+central+sem+graca-1280x720.jpg</fanart>
+<info>Comedy Central é uma rede e canal pago de humor dos Estados Unidos famoso pelos seus programas de comédia. Pertence a Americana Paramount Media Networks. Entre os destaques de sua programação está a animação South Park célebre pelo seu humor politicamente incorreto. </info>
+</item>
+
+<item>
+<title>[B]VIVA[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/63043$nome= [COLOR green]VIVA SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://fastuhd.tech:80/837286374477/616273637474/737438$nome= [COLOR green]VIVA HD[/COLOR]</link>
+<thumbnail>http://images.uncyc.org/pt/1/1c/Viva.jpg</thumbnail>
+<fanart>http://images.uncyc.org/pt/1/1c/Viva.jpg</fanart>
+<info>Viva é um canal de televisão por assinatura brasileiro de entretenimento pertencente à divisão de canais de TV a cabo do Grupo Globo. Foi inaugurado no dia 18 de maio de 2010 e está presente nas operadoras de televisão a cabo e satélite Sky, Claro TV, Vivo TV, Oi TV e TV Alphaville</info>
+</item>
+
+<item>
+<title>[B]Gospel Cartoon[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8$nome= [COLOR green]Gospel Cartoon[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8$nome= [COLOR yellow]Gospel Cartoon 2[/COLOR]</link>
+<thumbnail>http://i.imgur.com/KlbMTBD.png</thumbnail>
+<fanart>http://i.imgur.com/KlbMTBD.png</fanart>
+<info>CANAIS  KIDS .</info>
+</item>
+
+<item>
+<title>[B]Nickelodeon[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62919$nome=[COLOR green]Nickelodeon SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://fastuhd.tech:80/837286374477/616273637474/1605200$nome= [COLOR yellow]Nickelodeon HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/ZjLSLiY.png</thumbnail>
+<fanart>http://i.imgur.com/ZjLSLiY.png</fanart>
+<info>Nickelodeon Brasil é um canal de televisão por assinatura que pertence à ViacomCBS Networks Americas, filiais do canal americano Nickelodeon. Sua sede está localizada na cidade de São Paulo, e tem o público alvo principal de adolescentes e crianças. </info>
+</item>
+
+<item>
+<title>[B]Nick Jr.[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62917$nome= [COLOR green]Nick Jr. SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://fastuhd.tech:80/837286374477/616273637474/1605198$nome= [COLOR yellow]Nick Jr. HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/6vVmJJf.png</thumbnail>
+<fanart>http://i.imgur.com/6vVmJJf.png</fanart>
+<info>Nick Jr. é um canal infantil de TV por assinatura dos Estados Unidos fundado em 4 de janeiro de 1988 como Nick Junior e 2 de fevereiro de 1997 como Noggin até ser convertido para os novos marca e nome em 28 de setembro de 2009, às 6h do horário de Brasília. </info>
+</item>
+
+<item>
+<title>[B]Cartoon Network[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62706$nome= [COLOR green]Cartoon Network SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62705$nome= [COLOR yellow]Cartoon Network HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/S5PsDDR.png</thumbnail>
+<fanart>http://i.imgur.com/S5PsDDR.png</fanart>
+<info>Cartoon Network é um canal norte-americano de televisão por assinatura de rede de propriedade da Warner Bros. Global Kids & Young Adults, que vai ao ar principalmente com programação animada.</info>
+</item>
+
+<item>
+<title>[B]Disney XD[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62757$nome= [COLOR green]Disney XD SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://fastuhd.tech:80/837286374477/616273637474/1603681$nome= [COLOR yellow]Disney XD HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/zNNIALN.png</thumbnail>
+<fanart>http://i.imgur.com/zNNIALN.png</fanart>
+<info>Disney XD é um canal de televisão por assinatura estadunidense com versões por vários países, de propriedade da The Walt Disney Company unidade da The Walt Disney Company através da Disney Channels Worldwide. A programação da rede é direcionada a crianças da idade de 6 aos 15 anos.</info>
+</item>
+
+<item>
+<title>[B]Disney Junior[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62756$nome= [COLOR green]Disney Junior SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://fastuhd.tech:80/837286374477/616273637474/1605191$nome= [COLOR yellow]Disney Junior HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/H9AY5z4.png</thumbnail>
+<fanart>http://i.imgur.com/H9AY5z4.png</fanart>
+<info>Disney Junior é o canal de televisão por assinatura americana, da propriedade Disney General Entertainment Content para The Walt Disney Company e foi através pela Disney Branded Television. </info>
+</item>
+
+<item>
+<title>[B]Disney Channel[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62754$nome= [COLOR green]Disney Channel SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://fastuhd.tech:80/837286374477/616273637474/1605189$nome= [COLOR yellow]Disney Channel HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/ETxffjm.png</thumbnail>
+<fanart>http://i.imgur.com/ETxffjm.png</fanart>
+<info>Disney Channel é um canal de televisão norte-americano especializado em programação infanto-juvenil, através das suas séries originais e filmes.</info>
+</item>
+
+<item>
+<title>[B]Tooncast[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/63026$nome= [COLOR green]Tooncast SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://fastuhd.tech:80/837286374477/616273637474/1605203$nome= [COLOR yellow]Tooncast HD[/COLOR]</link>
+<thumbnail>http://playhdtv.tk/logs/tooncoscat.jpg</thumbnail>
+<fanart>https://i1.wp.com/anmtv.com.br/wp-content/uploads/tooncast.jpg?ssl=1</fanart>
+<info>O Tooncast é um canal infantil de desenhos clássicos fundado pela Warner Bros. Entertainment e pela Turner International que é também a programadora da Cartoon Network, do Boomerang, da TNT, da TNT Séries, do Space, da CNN Brasil, da CNN International, da CNN en Español, do TBS, do TCM, do I.Sat e do TruTV. </info>
+</item>
+
+
+
+<item>
+<title>[B]Globinho[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62855$nome=[COLOR green]Globinho SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62856$nome=[COLOR yellow]Gloob HD[/COLOR]</link>
+<thumbnail>https://i.ytimg.com/vi/aYL11NvVQtI/hqdefault.jpg</thumbnail>
+<fanart>https://febreteen.com.br/wp-content/uploads/2020/06/tv-globinho.png</fanart>
+<info>O programa exibe desenhos animados e séries infantojuvenis.</info>
+</item>
+
+<item>
+<title>[B]Boomerang[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62693$nome= [COLOR green]Boomerang SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62692$nome= [COLOR yellow]Boomerang HD[/COLOR]</link>
+<thumbnail>https://static.wikia.nocookie.net/tvpediabrasil/images/7/7c/Boomerang.png/revision/latest/top-crop/width/360/height/450?cb=20180804010050&path-prefix=pt-br</thumbnail>
+<fanart>https://blog.roku.com/wp-content/uploads/2017/06/Boomerang-on-Roku_blog.jpg</fanart>
+<info>O Boomerang é um canal de televisão digital, cabo e satélite americano que é de propriedade da subsidiária Warner Bros. Global Kids & Young Adults.</info>
+</item>
+
+
+<item>
+<title>[B]Gloob[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62855$nome= [COLOR green]Gloob SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62856$nome= [COLOR yellow]Gloob HD[/COLOR]</link>
+<thumbnail>https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a2/dd/53/a2dd5380-cc89-7176-b9ad-4c7b289ca911/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/600x600wa.png</thumbnail>
+<fanart>https://image.isu.pub/200625214129-962feed7e052d6bbee8250e0beb6e1f9/jpg/page_1_thumb_large.jpg</fanart>
+<info>Gloob é um canal de televisão por assinatura brasileiro que pertence ao Grupo Globo e foi lançado no dia 15 de junho de 2012, direcionado ao público infantil. Seu nome é um anagrama da palavra Globo, invertendo a letra "O" antes do "B". Também transmite sua programação em high definition em versão simulcast.</info>
+</item>
+
+
+<item>
+<title>[B]FX[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/267$nome= [COLOR green]FX SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62804$nome= [COLOR yellow]FX HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/GaQZSu6.png</thumbnail>
+<fanart>http://i.imgur.com/GaQZSu6.png</fanart>
+<info>O FX é um canal norte-americano de TV por assinatura da Walt Disney Television. Lançado originalmente nos Estados Unidos, a 1º de junho de 1994, e em alguns países da Europa como Portugal e América Latina como Brasil.</info>
+</item>
+
+<item>
+<title>[B]Megapix [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://fastuhd.tech:80/837286374477/616273637474/622354$nome= [COLOR green]Megapix SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/4518$nome= [COLOR yellow]Megapix  HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/LewQb1v.png</thumbnail>
+<fanart>http://i.imgur.com/LewQb1v.png</fanart>
+<info>O Megapix é um canal por assinatura do Grupo Globo. É voltado exclusivamente para filmes dublados, faz exibição de títulos na segunda janela da TV por assinatura. Filmes que geralmente foram lançados pela Telecine ou HBO, mas que estreiam com exclusividade nos pacotes básicos pelo Megapix. </info>
+</item>
+
+<item>
+<title>[B]Telecine Action[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/481$nome= [COLOR green]Telecine Action SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://fastuhd.tech:80/837286374477/616273637474/622380$nome= [COLOR yellow]Telecine Action HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/9n9boo3.png</thumbnail>
+<fanart>http://i.imgur.com/9n9boo3.png</fanart>
+<info>Telecine Action é um canal de televisão por assinatura brasileiro transmitido pelas operadoras Sky, Claro TV, Vivo TV e Oi TV que dá destaque à transmissão de antigos e novos filmes de ação, suspense, terror, guerra e erótico. </info>
+</item>
+
+<item>
+<title>[B]Telecine Premium[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/491$nome= [COLOR green]Telecine Premium SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://fastuhd.tech:80/837286374477/616273637474/622384$nome= [COLOR yellow]Telecine Premium HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/ZZxY55p.png</thumbnail>
+<fanart>http://i.imgur.com/ZZxY55p.png</fanart>
+<info>Telecine Premium é um canal de televisão brasileiro pertencente à Rede Telecine, transmitido pela TV por assinatura nas operadoras Vivo TV, Claro TV, Sky Brasil e Oi TV com a transmissão de filmes ...</info>
+</item>
+
+<item>
+<title>[B]Telecine Touch[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://fastuhd.tech:80/837286374477/616273637474/622385$nome= [COLOR green]Telecine Touch SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/493$nome= [COLOR yellow]Telecine Touch HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/Ns47Tfm.png</thumbnail>
+<fanart>http://i.imgur.com/Ns47Tfm.png</fanart>
+<info>Telecine Touch é um canal de televisão por assinatura brasileiro que exibe uma programação com gêneros de drama, romance, emoção, etc. O canal possui como idioma padrão o português que é usado completamente nos comentários sobre a programação do canal. </info>
+</item>
+
+<item>
+<title>[B]Telecine Fun[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/485$nome=[COLOR green]Telecine Fun SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://fastuhd.tech:80/837286374477/616273637474/622382$nome=[COLOR yellow]Telecine Fun HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/9nwihyb.png</thumbnail>
+<fanart>http://i.imgur.com/9nwihyb.png</fanart>
+<info>Telecine Fun é um canal de televisão por assinatura brasileiro pertencente aos canais da Rede Telecine. O canal exibe filmes de comédia, comédia romântica, animações e desenhos animados. Originalmente no idioma original com legendas, mas desde 2012 em versão dublada. </info>
+</item>
+
+
+<item>
+<title>[B]Telecine Pipoca[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/488
+#EXTINF:-1,TELECINE PREMIUM 4$nome=[COLOR green]Telecine Pipoca SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://fastuhd.tech:80/837286374477/616273637474/622383$nome=[COLOR yellow]Telecine Pipoca HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/HtsOTJm.png</thumbnail>
+<fanart>http://i.imgur.com/HtsOTJm.png</fanart>
+<info>Telecine Pipoca é um canal de televisão por assinatura brasileiro que exibe 24 horas de filmes em versão dublada os principais filmes apresentados pelo Telecine Premium, Telecine Action, Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comerciais de 2 minutos.</info>
+</item>
+<item>
+<title>[B]Telecine Cult[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/63000$nome= [COLOR green]Telecine Cult SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62998$nome= [COLOR yellow]Telecine Cult HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/fPwVtGc.png</thumbnail>
+<fanart>http://i.imgur.com/fPwVtGc.png</fanart>
+<info>Telecine Cult é um canal de televisão por assinatura brasileiro que exibe filmes clássicos, filmes independentes, filmes temáticos, filmes raros e filmes de arte com produções europeias, asiáticas, latinas e filmes antigos. O canal exibe todos os filmes sem os intervalos comerciais. </info>
+</item>
+
+<item>
+<title>[B]Cinemax[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/105$nome= [COLOR green]Cinemax SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62712$nome= [COLOR yellow]Cinemax HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/nlGx2t1.png</thumbnail>
+<fanart>http://i.imgur.com/nlGx2t1.png</fanart>
+<info>O Cinemax é uma rede de televisão por assinatura de filmes, que pertence a Home Box Office, uma subsidiária da WarnerMedia Inc. Foi lançado no Brasil no dia 1º de outubro de 1997.</info>
+</item>
+
+<item>
+<title>[B]A&E[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62650$nome= [COLOR green]A&E SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62652$nome= [COLOR yellow]A&E HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/jT9k8mt.png</thumbnail>
+<fanart>http://i.imgur.com/jT9k8mt.png</fanart>
+<info>A&E é uma rede de televisão transmitida por servidores de televisão a cabo ou satélite. Seus edifícios empresariais principais se localizam em Manhattan, com demais escritórios em Stamford, Atlanta, Detroit, Los Angeles, Chicago e Londres.</info>
+</item>
+
+<item>
+<title>[B]AXN[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/67$nome= [COLOR green]AXN SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62670$nome= [COLOR yellow]AXN HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/kNNpfSN.png</thumbnail>
+<fanart>http://i.imgur.com/kNNpfSN.png</fanart>
+<info>AXN é um canal de televisão por assinatura de propriedade da Sony Pictures Entertainment, que foi inicialmente lançado a 22 de maio de 1997 na Ásia com o nome de Action Extreme Network. No entanto, por razões comerciais e para facilitar a sua difusão pelo público, o nome é alterado para AXN</info>
+</item>
+<item>
+<title>[B]AMC HD[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/9$nome= [COLOR green]AMC HD SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62655$nome= [COLOR yellow]AMC HD HD[/COLOR]</link>
+<thumbnail>http://vod-logo.net/photos/c7cea0ec0525f128734aefd3eaa0559a.jpg</thumbnail>
+<fanart>http://vod-logo.net/photos/c7cea0ec0525f128734aefd3eaa0559a.jpg</fanart>
+<info>AMC é um canal de televisão por assinatura multinacional americana que é a principal propriedade da AMC Networks. A programação do canal consiste principalmente de filmes lançados nos cinemas, juntamente com uma quantidade limitada de programação original</info>
+</item>
+
+<item>
+<title>[B]Star Channel[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/250$nome= [COLOR green]Star Channel SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62786$nome= [COLOR yellow]Star Channel HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/pjtRpMJ.png</thumbnail>
+<fanart>http://i.imgur.com/pjtRpMJ.png</fanart>
+<info>Star Channel Brasil é um canal de televisão por assinatura brasileiro, de propriedade da The Walt Disney Company. O canal exibe filmes da 20th Century Studios e séries dos canais Fox e ABC dos Estados Unidos. A emissora é integrante da Walt Disney Direct-to-Consumer & International. </info>
+</item>
+
+
+<item>
+<title>[B]Sony[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/86$nome= [COLOR green]Sony SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62701$nome= [COLOR yellow]Sony HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/KjvoSeG.png</thumbnail>
+<fanart>http://i.imgur.com/KjvoSeG.png</fanart>
+<info>A Sony Group Corporation é uma empresa multinacional japonesa, sendo o quinto maior conglomerado de mídia do planeta.</info>
+</item>
+
+
+<item>
+<title>[B]TNT Séries[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/502$nome= [COLOR green]TNT Séries SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/63023$nome= [COLOR yellow]TNT Séries HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/ky7Nxh1.png</thumbnail>
+<fanart>http://i.imgur.com/ky7Nxh1.png</fanart>
+<info>TNT, é um canal de televisão por assinatura especializado em filmes, séries e eventualmente transmissões esportivas.</info>
+</item>
+
+
+
+<item>
+<title>[B]TNT[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/503$nome= [COLOR green]TNT SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/63021$nome= [COLOR yellow]TNT HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/wtLZgX5.png</thumbnail>
+<fanart>http://i.imgur.com/wtLZgX5.png</fanart>
+<info>TNT, é um canal de televisão por assinatura especializado em filmes, séries e eventualmente transmissões esportivas.</info>
+</item>
+
+<item>
+<title>[B]Paramount[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/346$nome= [COLOR green]Paramount SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62929$nome= [COLOR yellow]Paramount HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/yScrn6s.png</thumbnail>
+<fanart>http://i.imgur.com/yScrn6s.png</fanart>
+<info>Paramount+ é um serviço de streaming norte-americano de propriedade e operado pela CBS Interactive, uma subsidiária da ViacomCBS. Oferece conteúdo original, conteúdo recém-transmitido nas propriedades de transmissão da CBS e conteúdo da biblioteca da ViacomCBS. </info>
+</item>
+
+<item>
+<title>[B]Warner[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/19291$nome= [COLOR green]Warner SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/63045$nome= [COLOR yellow]Warner HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/HBaycf4.png</thumbnail>
+<fanart>http://i.imgur.com/HBaycf4.png</fanart>
+<info>A Warner Bros. Entertainment., também conhecida como Warner Bros. Pictures ou simplesmente Warner Bros. é uma produtora e distribuidora estadunidense de filmes e entretenimento televisivo. Foi fundada em 4 de abril de 1923 pelos irmãos Warner.</info>
+</item>
+
+
+
+
+<item>
+<title>[B]TBS[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/477$nome= [COLOR green]TBS SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62993$nome= [COLOR yellow]TBS HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/d99ec076329eccd8ffbb94895090a2b7.jpg</thumbnail>
+<fanart>http://www.vod-logo.net/photos/d99ec076329eccd8ffbb94895090a2b7.jpg</fanart>
+<info>TBS Brasil é uma rede brasileira de TV por assinatura pertencente a WarnerMedia, subsidiária da AT&T, sendo a versão local do canal americano TBS. A rede é voltado para a comédia, filmes, e séries para a família, sendo o primeiro no país com estas</info>
+</item>
+
+
+<item>
+<title>[B]Studio Universal [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://a5t elecom.distv.net:8080/6188/6188/652$nome= [COLOR green]Studio Universal SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://170.82.200.38:8080/tnt/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS$nome= [COLOR yellow]Studio Universal  HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/4b16934e7fb61fbe17e9b0f3f76b95ef.png</thumbnail>
+<fanart>http://www.vod-logo.net/photos/4b16934e7fb61fbe17e9b0f3f76b95ef.png</fanart>
+<info>Studio Universal é um canal de televisão por assinatura com programação de filmes e séries ...</info>
+</item>
+
+<item>
+<title>[B]SyFy[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62991$nome= [COLOR green]SyFySD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62990$nome= [COLOR yellow]SyFy HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/458ea1b04f052078408f348448d87d0e.jpg</thumbnail>
+<fanart>http://www.vod-logo.net/photos/458ea1b04f052078408f348448d87d0e.jpg</fanart>
+<info>Syfy é um canal de televisão por assinatura. Sua programação é dedicada à ficção científica, fantasia, terror e paranormal. Lançado em 24 de Setembro de 1992 pela NBCUniversal o Syfy está presente em alguns países da América Latina, América do Norte,</info>
+</item>
+<item>
+<title>[B]Space [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/459$nome= [COLOR green]SpaceSD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62980$nome= [COLOR yellow]Space HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/88873418020ce76995a8164c17841f74.png</thumbnail>
+<fanart>http://www.vod-logo.net/photos/88873418020ce76995a8164c17841f74.png</fanart>
+<info>Space é um canal de televisão por assinatura brasileiro. É um canal pertencente à WarnerMedia, subsidiária da AT&T. Por exibir filmes dos gêneros de ação, ficção científica, policial e terror, e séries do gênero policial e suspense é voltado para mulheres e homens acima de 18 anos de idade. </info>
+</item>
+
+<item>
+<title>[B]TCM[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62994$nome= [COLOR green]TCM SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62994$nome= [COLOR yellow]TCM HD[/COLOR]</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png</fanart>
+<info>TCM é um canal de televisão por assinatura com programação de filmes e séries ...</info>
+</item>
+
+<item>
+<title>[B]HBO [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/309$nome= [COLOR green]HBO SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62861$nome= [COLOR yellow]HBO HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/b85876d3637aafe73ba3dc50ae027dfa.jpg</thumbnail>
+<fanart>http://www.vod-logo.net/photos/b85876d3637aafe73ba3dc50ae027dfa.jpg</fanart>
+<info>O HBO HD foi o primeiro canal premium da TV por assinatura na América Latina a transmitir 24 horas de filmes, séries e documentários em alta definição, com áudio 5.1 Dolby. Com o início da transmissão simultânea total em HD do canal original HBO, o HBO HD deixou de ser transmitido.</info>
+</item>
+
+<item>
+<title>[B]HBO 2[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/303$nome= [COLOR green]HBO 2 SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62864$nome= [COLOR yellow]HBO 2 HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/c6ee5c05ed06960e3134797075af15d4.png</thumbnail>
+<fanart>http://www.vod-logo.net/photos/c6ee5c05ed06960e3134797075af15d4.png</fanart>
+<info>O HBO 2, é um canal de televisão por assinatura da rede HBO que exibe 24 horas de filmes em versão dublada os principais filmes apresentados pela HBO e séries exclusivas, sem intervalos comerciais. A partir de julho de 2009, a HBO 2 ganhou sua independência..</info>
+</item>
+
+<item>
+<title>[B]HBO Family[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/308$nome= [COLOR green]HBO Family SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62867$nome= [COLOR yellow]HBO Family HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/bc94c34ea8467a191e82a249f2a10485.png</thumbnail>
+<fanart>http://www.vod-logo.net/photos/bc94c34ea8467a191e82a249f2a10485.png</fanart>
+<info>HBO Family é um canal de televisão por assinatura originado da HBO. A HBO Family se caracteriza pela leveza da programação, que vai desde os filmes até o visual das chamadas com uma locução composta de uma voz ...</info>
+</item>
+
+<item>
+<title>[B] HBO Plus [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/301$nome= [COLOR green] HBO Plus  SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62873$nome= [COLOR yellow] HBO Plus  HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/7b3fc19616539e7a4b4a46c7fb240b46.png</thumbnail>
+<fanart>http://www.vod-logo.net/photos/7b3fc19616539e7a4b4a46c7fb240b46.png</fanart>
+<info>HBO+ é um canal de televisão por assinatura pertencente a HBO lançado em 2003 na América Latina. O canal exibe filmes de sucesso mundial e também, séries, shows e boxe...</info>
+</item>
+
+<item>
+<title>[B]HBO Signature HD[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/316$nome= [COLOR green]HBO Signature SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62876$nome= [COLOR yellow]HBO Signature HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/e830e41982c90258cb60df46cbf35eb6.jpg</thumbnail>
+<fanart>http://www.vod-logo.net/photos/e830e41982c90258cb60df46cbf35eb6.jpg</fanart>
+<info>Assista filmes, séries e documentários da HBO Brasil, quando e onde você quiser. Sucessos globais e premiados ... .</info>
+</item>
+
+<item>
+<title>[B]HBO Mundi HD[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/310$nome= [COLOR green]HBO Mundi SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62872$nome= [COLOR yellow]HBO Mundi HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/b238a800871a6b866596065a180fdd66.png</thumbnail>
+<fanart>http://www.vod-logo.net/photos/b238a800871a6b866596065a180fdd66.png</fanart>
+<info>HBO Mundi é um canal premium de televisão por assinatura que oferecem filmes, apresentações especiais e outros serviços aos consumidores...</info>
+</item>
+
+<item>
+<title>[B]HBO Extreme [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/317$nome= [COLOR green]HBO Extreme  SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62879$nome= [COLOR yellow]HBO Extreme  HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/fdeac453ed80c4c62ac98970551dda73.png</thumbnail>
+<fanart>http://www.vod-logo.net/photos/fdeac453ed80c4c62ac98970551dda73.png</fanart>
+<info>HBO Xtreme é um canal de televisão por assinatura, que foi lançado em 2000 como Cinemax Prime. O canal tem atualmente como foco o público adulto masculino. O canal chamava-se MaxPrime de setembro de 2003 até 2020...</info>
+</item>
+
+<item>
+<title>[B]HBO Pop  [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/314$nome= [COLOR green]HBO Pop  SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62874$nome= [COLOR yellow]HBO Pop HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/f662791f6afe8a539764c06c24dcb443.png</thumbnail>
+<fanart>http://www.vod-logo.net/photos/f662791f6afe8a539764c06c24dcb443.png</fanart>
+<info>HBO Pop é um canal de televisão por assinatura pertencente a HBO, que substituiu os anteriores Max HD e Max UP. Em 31 de outubro de 2019, com o anúncio da ......</info>
+</item>
+
+<item>
+<title>[B]CINE SKY [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/73173$nome= [COLOR green]CINE SKY  01[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/73174$nome= [COLOR yellow]CINE SKY  02[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/73175$nome= [COLOR green]CINE SKY  03[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/73176$nome= [COLOR yellow]CINE SKY 04[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/73177$nome= [COLOR green]CINE SKY  05[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/73178$nome= [COLOR yellow]CINE SKY 06[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/73179$nome= [COLOR green]CINE SKY  07[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/73180$nome= [COLOR yellow]CINE SKY 08[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/73181$nome= [COLOR green]CINE SKY  09[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/73182$nome= [COLOR yellow]CINE SKY 10[/COLOR]</link>
+<thumbnail>http://45.170.92.6:8080/icones/cinesky.png</thumbnail>
+<fanart>http://45.170.92.6:8080/icones/cinesky.png</fanart>
+<info>A melhor programação do Cinema em Sua casa SKY.  </info>
+</item>
+
+
+<item>
+<title>[B]Premiere Clubes[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/368$nome= [COLOR green]Premiere Clubes SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62953$nome= [COLOR yellow]Premiere Clubes HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/xmmiHls.png</thumbnail>
+<fanart>http://i.imgur.com/xmmiHls.png</fanart>
+<info>O Premiere é um canal de televisão por assinatura brasileiro em pay-per-view pertencente ao Grupo Globo, que transmite os principais Campeonatos Estaduais de futebol do Brasil, além do Campeonato Brasileiro da série A e da série B.</info>
+</item>
+<item>
+<title>[B]Premiere [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/351$nome= [COLOR green]Premiere 1[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/353$nome= [COLOR yellow]Premiere 2[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/355$nome= [COLOR yellow]Premiere 3[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/357$nome= [COLOR yellow]Premiere 4[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/359$nome= [COLOR yellow]Premiere 5[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/361$nome= [COLOR yellow]Premiere 6[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://mn.hostinggonow.com:2095/NEW_LIVE4363169633/7992209551/363$nome= [COLOR yellow]Premiere 7[/COLOR]</link>
+<thumbnail>http://i.imgur.com/xmmiHls.png</thumbnail>
+<fanart>http://i.imgur.com/xmmiHls.png</fanart>
+<info>O Premiere é um canal de televisão por assinatura brasileiro em pay-per-view pertencente ao Grupo Globo, que transmite os principais Campeonatos Estaduais de futebol do Brasil, além do Campeonato Brasileiro da série A e da série B.</info>
+</item>
+
+
+
+<item>
+<title>[B]Combate[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62719$nome= [COLOR green]Combate SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62719$nome= [COLOR yellow]Combate HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/dOFWcWV.png</thumbnail>
+<fanart>http://i.imgur.com/dOFWcWV.png</fanart>
+<info>Combate é uma marca brasileira de conteúdo especializada em esportes de luta pertencente ao Grupo Globo e distribuida via operadoras de tv por assinatura em sistema de pay-per-view. O canal exibe todos os eventos do UFC ao vivo, bem como os maiores eventos do mundo de Jiu-Jitsu e Kickboxing. </info>
+</item>
+
+
+
+<item>
+<title>[B]CONMEBOL TV [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/61427$nome= [COLOR green],CONMEBOL TV 1[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62725$nome= [COLOR yellow],CONMEBOL TV 2[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62726$nome= [COLOR yellow],CONMEBOL TV 3[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62727$nome= [COLOR yellow],CONMEBOL TV 4[/COLOR]</link>
+<thumbnail>https://www.netbrasilia.net/wp-content/uploads/2020/09/net-brasilia-conmebol-tv-assine-internet-oferta-especial.png</thumbnail>
+<fanart>https://www.netbrasilia.net/wp-content/uploads/2020/09/net-brasilia-conmebol-tv-assine-internet-oferta-especial.png</fanart>
+<info>Conmebol TV é um canal de televisão por assinatura brasileiro em pay-per-view, lançado no dia 15 de setembro de 2020 que transmite a Copa Libertadores da América, a Copa Sul-Americana e a Recopa Sul-Americana.  </info>
+</item>
+
+
+<item>
+<title>[B]TNT Sports[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/71755$nome= [COLOR green]ESTADIO TNT SPORT [/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/71750$nome= [COLOR green]ESTADIO TNT SPORT 01[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/71751$nome= [COLOR yellow]ESTADIO TNT SPORT 02[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/71752$nome= [COLOR yellow]ESTADIO TNT SPORT 03[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/71753$nome= [COLOR yellow]ESTADIO TNT SPORT 04[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/71754$nome= [COLOR yellow]ESTADIO TNT SPORT 05[/COLOR]</link>
+<thumbnail>http://i.imgur.com/ka06Cjw.png</thumbnail>
+<fanart>http://i.imgur.com/ka06Cjw.png</fanart>
+<info>Esporte Interativo foi um canal esportivo de televisão por assinatura brasileiro que iniciou as transmissões em 5 de janeiro de 2014, incialmente como o nome de Esporte Interativo Nordeste. Ao contrário do canal aberto, este tinha transmissão somente pela TV por Assinatura e transmitidos inteiramente em HD.</info>
+</item>
+
+<item>
+<title>[B]ESPN Brasil[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62771$nome= [COLOR green]ESPN Brasil SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62770$nome= [COLOR yellow]ESPN Brasil HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/rTXcueh.png</thumbnail>
+<fanart>http://i.imgur.com/rTXcueh.png</fanart>
+<info>ESPN Brasil é a franquia local da ESPN, sendo a filial controlada diretamente pela The Walt Disney Company e pela Hearst Corporation. Transmite eventos esportivos de várias modalidades, tanto nacionais quanto internacionais. No Brasil, a Disney conta com seis canais na TV por assinatura.</info>
+</item>
+
+<item>
+<title>[B]ESPN[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62767$nome= [COLOR green]ESPN 1[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62769$nome= [COLOR yellow]ESPN 2[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62772$nome= [COLOR green]ESPN 3[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://a5t elecom.distv.net:8080/6536/6536/539$nome= [COLOR yellow]ESPN 4[/COLOR]</link>
+<thumbnail>http://i.imgur.com/kcxzdPA.png</thumbnail>
+<fanart>http://i.imgur.com/kcxzdPA.png</fanart>
+<info>ESPN.com é o website oficial da ESPN e uma subdivisão da ESPN Inc. O site foi lançado em 1995 como ESPNet.SportsZone.com. O site tem várias seções: para a NHL, NFL, MLB, NBA, NASCAR, IRL, College, golfe e futebol. </info>
+</item>
+
+<item>
+<title>[B]SporTV[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62981$nome= [COLOR green]SporTV 1[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62982$nome= [COLOR yellow]SporTV 2[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62985$nome= [COLOR yellow]SporTV 3[/COLOR]</link>
+<thumbnail>https://seeklogo.com/images/S/sportv-logo-EE99497E46-seeklogo.com.png</thumbnail>
+<fanart>https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/08/sportv_prem-639x338.jpg</fanart>
+<info>O SporTV é um canal de televisão por assinatura brasileiro. Foi lançado em 19 de outubro de 1991 sob o nome de Top Sport, alterado para o atual em 1994. Tem dois canais irmãos, o SporTV 2 e SporTV 3. Transmite atualmente, mais de dois mil eventos esportivos por ano de todas as importantes modalidades. </info>
+</item>
+
+
+<item>
+<title>[B]Woohoo[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/63046$nome= [COLOR green]Woohoo SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/63046$nome= [COLOR yellow]Woohoo HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/Dt61U19.png</thumbnail>
+<fanart>http://i.imgur.com/Dt61U19.png</fanart>
+<info>Woohoo é um canal de TV por assinatura brasileiro, voltado para os esportes de ação, música e comportamento jovem. O canal esta disponível em várias operadoras de TV por assinatura brasileiras. Em Portugal foi lançado no início de 2013 em exclusivo na ZON. </info>
+</item>
+
+<item>
+<title>[B]Band Sports[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62678$nome= [COLOR green]Band Sports SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62678$nome= [COLOR yellow]Band Sports HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/wuMZB2S.png</thumbnail>
+<fanart>http://i.imgur.com/wuMZB2S.png</fanart>
+<info>BandSports é um canal de televisão brasileiro de esportes via televisão por assinatura do Grupo Bandeirantes de Comunicação. Foi lançado em 13 de maio de 2002.</info>
+</item>
+
+
+<item>
+<title>[B]CNN BRASIL[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62715$nome= [COLOR green]CNN BRASIL SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62715$nome= [COLOR yellow]CNN BRASIL HD[/COLOR]</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png</thumbnail>
+<fanart>https://adtv.com.br/wp-content/uploads/2021/11/canais-de-noticias-outubro.png</fanart>
+<info>CNN Brasil é um canal de televisão por assinatura brasileiro com programação inteiramente voltada ao jornalismo.</info>
+</item>
+
+<item>
+<title>[B]CNN INTERNACIONAL[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62716$nome= [COLOR green]CNN INTERNACIONAL SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62716$nome= [COLOR yellow]CNN INTERNACIONAL HD[/COLOR]</link>
+<thumbnail>https://pbs.twimg.com/profile_images/926050400062631936/Rvynw19f_400x400.jpg</thumbnail>
+<fanart>https://adtv.com.br/wp-content/uploads/2021/11/canais-de-noticias-outubro.png</fanart>
+<info>CNN é um canal de notícias através de televisão por assinatura estadunidense, em propriedade da Warner Bros. Discovery. A CNN foi fundada em 1980 pelo proprietário da mídia Ted Turner como um canal de notícias 24 horas..</info>
+</item>
+
+<item>
+<title>[B]FOX NEWS[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62829$nome= [COLOR green]FOX NEWS SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://a5t elecom.distv.net:8080/6536/6536/669$nome= [COLOR yellow]FOX NEWS HD[/COLOR]</link>
+<thumbnail>https://static.foxnews.com/static/orion/styles/img/fox-news/pages/apps-products/fn-go.png</thumbnail>
+<fanart>https://static.foxnews.com/static/orion/styles/img/fox-news/pages/apps-products/fn-go.png</fanart>
+<info>Fox News Channel, também conhecido como Fox News, é um canal conservador de notícias americano de televisão a cabo que pertence à Fox Corporation. O canal transmite principalmente a partir de seus estúdios no número 1211 da Avenue of the Americas.</info>
+</item>
+
+<item>
+<title>[B]GLOBO NEWS[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62829$nome= [COLOR green]GLOBO NEWS SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/72222$nome= [COLOR yellow]GLOBO NEWS HD[/COLOR]</link>
+<thumbnail>https://megacanais.com/wp-content/uploads/2020/12/globonews.png</thumbnail>
+<fanart>https://megacanais.com/wp-content/uploads/2020/12/globonews.png</fanart>
+<info>GloboNews é um canal de televisão por assinatura brasileiro sediado no Rio de Janeiro, capital do estado brasileiro homônimo, e que transmite uma programação jornalística durante as 24 horas do dia.</info>
+</item>
+
+<item>
+<title>[B]JOVEM PAN NEWS[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/71758$nome= [COLOR green]JOVEM PAN NEWS SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/71758$nome= [COLOR yellow]JOVEM PAN NEWS HD[/COLOR]</link>
+<thumbnail>https://media.gazetadopovo.com.br/2021/11/09172455/ALTERA%C3%87%C3%83O03_Logo_2.jpg</thumbnail>
+<fanart>https://media.gazetadopovo.com.br/2021/11/09172455/ALTERA%C3%87%C3%83O03_Logo_2.jpg</fanart>
+<info>Jovem Pan News é um canal de televisão por assinatura brasileiro sediado na cidade de São Paulo capital do estado brasileiro homônimo.</info>
+</item>
+
+
+
+<item>
+<title>[B]Fox Sports[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62799$nome= [COLOR green]Fox Sports 1[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62797$nome= [COLOR yellow]Fox Sports 2[/COLOR]</link>
+<thumbnail>http://i.imgur.com/bYUGfOo.png</thumbnail>
+<fanart>http://i.imgur.com/bYUGfOo.png</fanart>
+<info>Fox Sports Brasil é um canal de televisão por assinatura brasileiro voltado para transmissão de eventos esportivos. Desde 5 de fevereiro de 2012 o canal já está disponível em todo o território brasileiro, disponível em algumas operadoras no lugar do canal Speed Channel com o início da Copa Libertadores.</info>
+</item>
+
+
+
+<item>
+<title>[B]All Sports[/B]</title>
+<link>https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?PEDROJUNIORTUTORIAIS$nome= [COLOR green]All Sports SD[/COLOR]</link>
+<link>https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?PEDROJUNIORTUTORIAIS$nome= [COLOR yellow]All Sports HD[/COLOR]</link>
+<thumbnail>http://i.imgur.com/HozFynS.png</thumbnail>
+<fanart>http://i.imgur.com/HozFynS.png</fanart>
+<info>Web TV dedicado ao esporte em geral, especialmente os com pouca visibilidade na grande</info>
+</item>
+
+
+
+<item>
+<title>[B]ID Investigation Discovery [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62890$nome= [COLOR green]ID Investigation Discovery SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62890$nome= [COLOR yellow]ID Investigation Discovery HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/4147f4662da018ccaa41e9e0827f1af0.jpg</thumbnail>
+<fanart>http://www.vod-logo.net/photos/4147f4662da018ccaa41e9e0827f1af0.jpg</fanart>
+<info>Discovery ID é um canal focado desde investigações criminais até séries de crimes por dinheiro, vingança e mentes assassinas. Conheça nossa programação e ...</info>
+</item>
+
+<item>
+<title>[B]Animal Planet[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62660$nome= [COLOR green]Animal Planet SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62660$nome= [COLOR yellow]Animal Planet HD[/COLOR]</link>
+<thumbnail>http://www.vod-logo.net/photos/d0d2b8959e111eb667f25fdaa183a98a.jpg</thumbnail>
+<fanart>http://www.vod-logo.net/photos/d0d2b8959e111eb667f25fdaa183a98a.jpg</fanart>
+<info>O Animal Planet é um canal de televisão por assinatura com sede nos Estados Unidos da América e transmitido também para a América latina. Estabelecido pela primeira vez em 1 de outubro de 1996, a rede é dedicada principalmente a séries e documentários sobre animais selvagens e animais domésticos. </info>
+</item>
+
+
+
+<item>
+<title>[B]MULTISHOW[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62908$nome= [COLOR green]MULTISHOW SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62908$nome= [COLOR yellow]MULTISHOW HD[/COLOR]</link>
+<thumbnail>https://static.wikia.nocookie.net/tvpediabrasil/images/4/4a/Multishow.png/revision/latest?cb=20140430152740&path-prefix=pt-br</thumbnail>
+<fanart>https://static.wikia.nocookie.net/tvpediabrasil/images/4/4a/Multishow.png/revision/latest?cb=20140430152740&path-prefix=pt-br</fanart>
+<info>Multishow é um canal de televisão por assinatura brasileiro fundado em 10 de novembro de 1991. O canal é conhecido por ter uma ampla gama de estilos em sua programação, focada em música e comédia para o público jovem.</info>
+</item>
+
+<item>
+<title>[B]UNIVERSAL TV[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/63039$nome= [COLOR green]UNIVERSAL TV SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/63039$nome= [COLOR yellow]UNIVERSAL TV HD[/COLOR]</link>
+<thumbnail>https://cdn.mitvstatic.com/channels/br_universal_m.png</thumbnail>
+<fanart>https://cdn.mitvstatic.com/channels/br_universal_m.png</fanart>
+<info>Universal TV é um canal de televisão por assinatura internacional, disponível em diversos países do mundo, incluindo o Brasil. O canal é especializado em séries de televisão de diversos gêneros, dentre os quais, principalmente, thrillers, dramas, horror crime e erótico. </info>
+</item>
+
+<item>
+<title>[B]TV NOVO TEMPO[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://a5telecom.distv.net:8080/6188/6188/385$nome= [COLOR green]TV NOVO TEMPO SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://a5telecom.distv.net:8080/6188/6188/385$nome= [COLOR yellow]TV NOVO TEMPO HD[/COLOR]</link>
+<thumbnail>https://static.wikia.nocookie.net/tvpediabrasil/images/f/f5/Tvnovotempo.jpg/revision/latest?cb=20160619201050&path-prefix=pt-br</thumbnail>
+<fanart>https://static.wikia.nocookie.net/tvpediabrasil/images/f/f5/Tvnovotempo.jpg/revision/latest?cb=20160619201050&path-prefix=pt-br</fanart>
+<info>TV Novo Tempo é uma rede de televisão brasileira sediada em Jacareí, no estado de São Paulo. A emissora é de propriedade da Igreja Adventista do Sétimo Dia.</info>
+</item>
+
+<item>
+<title>[B]TV MORENA[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://a5telecom.distv.net:8080/6188/6188/474$nome= [COLOR green]TV MORENA[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://a5telecom.distv.net:8080/6188/6188/474$nome= [COLOR yellow]TV MORENA[/COLOR]</link>
+<thumbnail>https://www.tvmagazine.com.br/imagens/icones/600/tvmorena.png</thumbnail>
+<fanart>https://www.tvmagazine.com.br/imagens/icones/600/tvmorena.png</fanart>
+<info>TV Morena é uma emissora de televisão brasileira sediada em Campo Grande, capital do estado de Mato Grosso do Sul. Opera no canal 6 e é afiliada à TV Globo</info>
+</item>
+
+
+<item>
+<title>[B]TV FUTURA[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://a5telecom.distv.net:8080/6188/6188/396$nome= [COLOR green]TV FUTURA SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://a5telecom.distv.net:8080/6188/6188/396$nome= [COLOR yellow]TV FUTURA HD[/COLOR]</link>
+<thumbnail>https://www.futura.org.br/wp-content/themes/futura2020/assets/images/logo-futura-cursos.png</thumbnail>
+<fanart>https://www.futura.org.br/wp-content/themes/futura2020/assets/images/logo-futura-cursos.png</fanart>
+<info>Futura é um canal de televisão brasileiro. Pertence à Fundação Roberto Marinho, instituição educativa privada do conglomerado de mídia Grupo Globo. Foi inaugurado pelo jornalista Roberto Marinho em 22 de setembro de 1997 na cidade do Rio de Janeiro, capital do estado homônimo. </info>
+</item>
+
+<item>
+<title>[B]TV APARECIDA[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/63030$nome= [COLOR green]TV APARECIDA SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/63030$nome= [COLOR yellow]TV APARECIDA HD[/COLOR]</link>
+<thumbnail>https://santuariosantapaulina.org.br/wp-content/uploads/2013/01/Logo_TV_Aparecida_700.jpg</thumbnail>
+<fanart>https://santuariosantapaulina.org.br/wp-content/uploads/2013/01/Logo_TV_Aparecida_700.jpg</fanart>
+<info>TV Aparecida é uma rede de televisão brasileira de conteúdo religioso e de entretenimento, com sede em Aparecida, no estado de São Paulo. A TV Aparecida está entre as 14 maiores redes de televisão do Brasil em abrangência, e é a 7ª emissora de TV aberta mais vista em todo o país.</info>
+</item>
+
+<item>
+<title>[B]TV BRASIL[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://a5telecom.distv.net:8080/6188/6188/447$nome= [COLOR green]TV BRASIL SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://a5telecom.distv.net:8080/6188/6188/447$nome= [COLOR yellow]TV BRASIL HD[/COLOR]</link>
+<thumbnail>https://esporteemidia.com/wp-content/uploads/2017/04/tvbrasil.jpg</thumbnail>
+<fanart>https://static.wikia.nocookie.net/tvpediabrasil/images/5/59/Tv-brasil.jpg/revision/latest?cb=20200625154248&path-prefix=pt-br</fanart>
+<info>TV Brasil é a rede de televisão pública do Poder Executivo Brasileiro. Pertence à Empresa Brasil de Comunicação, conglomerado de mídia do governo do país. </info>
+</item>
+
+<item>
+<title>[B]REDE FAMILIA[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://a5telecom.distv.net:8080/6188/6188/440$nome= [COLOR green]REDE FAMILIA SD[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://a5telecom.distv.net:8080/6188/6188/440$nome= [COLOR yellow]REDE FAMILIA HD[/COLOR]</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1333503642129850369/UvfE1X3v_400x400.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/1333503642129850369/UvfE1X3v_400x400.jpg</fanart>
+<info>Rede Família é uma rede de televisão brasileira sediada em Campinas, São Paulo. É uma das empresas do Grupo Record. Foi criada em 1.º de agosto de 1998, e atualmente, mantém uma grade de programação com programas jornalísticos e de variedades, além de reprises de programas produzidos pela sua coirmã RecordTV. </info>
+</item>
+
+<item>
+<title>[B]DAZN[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62731$nome= [COLOR green]DAZN 01[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://asbx.xyz:80/smarters/123456/62732$nome= [COLOR yellow]DAZN 02[/COLOR]</link>
+<thumbnail>http://45.170.92.6:8080/icones/dazn.png</thumbnail>
+<fanart>http://45.170.92.6:8080/icones/dazn.png</fanart>
+<info>DAZN é o primeiro serviço de streaming de esportes ao vivo e sob demanda do mundo e apresenta competições esportivas nacionais e internacionais. É de propriedade da DAZN Group, uma empresa da Access Industries com investimentos no setor de mídia e entretenimento que incluem a Warner Music Group e o Deezer. </info>
+</item>
+<item>
+<title>[B]Jetsons - Webtv[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8$nome= [COLOR green]Jetsons - Webtv[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8$nome=[COLOR yellow]Jetsons - Webtv (PB)[/COLOR]</link>
+<thumbnail>https://listaiptv.gratis/logos/imagens/jetsons.png</thumbnail>
+<fanart>https://listaiptv.gratis/logos/imagens/jetsons.png</fanart>
+<info>Assista agora. The Jetsons é uma série animada de televisão</info>
+</item>
+
+<item>
+<title>[B]Retrô Cartoon[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8$nome= [COLOR green]Retrô Cartoon[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8$nome= [COLOR yellow]Retrô Cartoon[/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Retrô Cartoon é um canal de desenhos clássicos antigos do estúdio Hanna-Barbera, a emissora passa 24 horas por dia de programação para o público infantil,</info>
+</item>
+
+<item>
+<title>[B]Gospel Cartoon[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8$nome= [COLOR green]Gospel Cartoon[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8$nome=[COLOR yellow]Gospel Cartoon[/COLOR]</link>
+<thumbnail>https://varioscanais.com/wp-content/uploads/2021/09/Gospel-Cartoon-300x300.png</thumbnail>
+<fanart>https://varioscanais.com/wp-content/uploads/2021/09/Gospel-Cartoon-300x300.png</fanart>
+<info>Gospel Cartoon AO VIVO. Assista agora. A Gospel Cartoon 2 é um canal evangélico, que transmite ao vivo em português, desenhos bíblicos no formato .</info>
+</item>
+
+<item>
+<title>[B]Gospel Movie TV[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=$nome= [COLOR green]Gospel Movie TV[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=$nome= [COLOR yellow]Gospel Movie TV[/COLOR]</link>
+<thumbnail>https://listaiptv.gratis/logos/imagens/gospel.jpg</thumbnail>
+<fanart>https://listaiptv.gratis/logos/imagens/gospel.jpg</fanart>
+<info>Gospel Movie TV AO VIVO. Assista agora. Canal de filmes 24 horas, direcionado a comunidade evangélica.</info>
+</item>
+
+<item>
+<title>[B]TV Aracati[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=https://livefocamundo.com:8081/tvaracati/index.m3u8$nome= [COLOR green]TV Aracati[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=https://livefocamundo.com:8081/tvaracati/index.m3u8$nome= [COLOR yellow]TV Aracati (PB)[/COLOR]</link>
+<thumbnail>https://listaiptv.gratis/logos/imagens/logo2btv-0.png</thumbnail>
+<fanart>https://listaiptv.gratis/logos/imagens/logo2btv-0.png</fanart>
+<info>TV Aracati online 24 horas grátis. Desenhos Filmes Seriados Variedades. Tecnologia do Blogger. @ 2019 - 2022 Olhos na TV </info>
+</item>
+
+<item>
+<title>[B]Bons Tempos TV - WebTV[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=$nome= [COLOR green]Bons Tempos TV - WebTV[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=$nome= [COLOR yellow]Bons Tempos TV - WebTV[/COLOR]</link>
+<thumbnail>https://listaiptv.gratis/logos/imagens/bonstempos.png</thumbnail>
+<fanart>https://listaiptv.gratis/logos/imagens/bonstempos.png</fanart>
+<info>Bons Tempos TV é um canal dedicado ao público nostálgico que curte séries, filmes, e desenhos antigos. A emissora exibe clássicos como Planeta dos Macacos</info>
+</item>
+
+<item>
+<title>[B]TV Séries - WebTV[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8$nome= [COLOR green]TV Séries - WebTV[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8$nome=[COLOR yellow]TV Séries - WebTV[/COLOR]</link>
+<thumbnail>https://listaiptv.gratis/logos/imagens/tvseries.png</thumbnail>
+<fanart>https://listaiptv.gratis/logos/imagens/tvseries.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B]Jackie Chan[/B]</title>
+<link>http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D$nome=[COLOR green]Jackie Chan HD[/COLOR]</link>
+<link>http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D$nome=[COLOR yellow]Jackie Chan SD[/COLOR]</link>
+<thumbnail>https://i.pinimg.com/originals/3d/69/39/3d69394514136ef2664daf688bc9a640.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/3d/69/39/3d69394514136ef2664daf688bc9a640.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B]As Panteras 24h [/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8?ROGERIOTORRES$nome= [COLOR green]As Panteras 24h [/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8?ROGERIOTORRES$nome= [COLOR yellow]As Panteras 24h [/COLOR]</link>
+<thumbnail>http://www.mdig.com.br/imagens/tv/as_panteras.jpg</thumbnail>
+<fanart>http://www.mdig.com.br/imagens/tv/as_panteras.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[B]A Mulher Bionica 24h[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=$nome= [COLOR green]A Mulher Bionica 24h[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=$nome= [COLOR yellow]A Mulher Bionica 24h[/COLOR]</link>
+<thumbnail>https://s3-sa-east-1.amazonaws.com/loja2/83ac5831a28a4e5cdc548263e2f05ebe.jpg</thumbnail>
+<fanart>https://s3-sa-east-1.amazonaws.com/loja2/83ac5831a28a4e5cdc548263e2f05ebe.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B]Agente 86 24h[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=https://stmv1.srvif.com/tvserie7/tvserie7/chunklist.m3u8?$nome= [COLOR green]Agente 86 24h[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=https://stmv1.srvif.com/tvserie7/tvserie7/chunklist.m3u8?$nome= [COLOR yellow]Agente 86 24h[/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B]Arnold - Diff'rent Strokes - 24h [/B]</title>
+<link>http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D$nome= [COLOR green]Arnold - Diff'rent Strokes - 24h [/COLOR]</link>
+<link>http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D$nome= [COLOR yellow]Arnold - Diff'rent Strokes - 24h [/COLOR]</link>
+<thumbnail>https://yonacienlos80.files.wordpress.com/2008/10/contenido_arnold41.jpeg</thumbnail>
+<fanart>https://yonacienlos80.files.wordpress.com/2008/10/contenido_arnold41.jpeg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[B]Adrenalina Freezone [/B]</title>
+<link>http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D$nome= [COLOR green]Adrenalina Freezone [/COLOR]</link>
+<link>http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D$nome= [COLOR yellow]Adrenalina Freezone [/COLOR]</link>
+<thumbnail>https://marcaspelomundo.com.br/wp-content/uploads/2021/11/Vix-Channel-Cards-BR-Adrenalina-Freezonev5-e1637259988161.jpg</thumbnail>
+<fanart>https://marcaspelomundo.com.br/wp-content/uploads/2021/11/Vix-Channel-Cards-BR-Adrenalina-Freezonev5-e1637259988161.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B]Classique TV[/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8?$nome= [COLOR green]Classique TV 02[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=https://stmv1.srvif.com/classique/classique/playlist.m3u8?$nome= [COLOR yellow]Classique TV [/COLOR]</link>
+<thumbnail>https://1.bp.blogspot.com/-JsTEwsw1-FQ/YM9qe1_J1iI/AAAAAAAAE48/nAOnbSjZHhgQ9-Hoyc0b4smdZtChLFJCwCLcBGAsYHQ/w1200-h630-p-k-no-nu/CLASSIQUE%2BTV.png</thumbnail>
+<fanart>https://1.bp.blogspot.com/-JsTEwsw1-FQ/YM9qe1_J1iI/AAAAAAAAE48/nAOnbSjZHhgQ9-Hoyc0b4smdZtChLFJCwCLcBGAsYHQ/w1200-h630-p-k-no-nu/CLASSIQUE%2BTV.png</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[B]Jornada Nas Estrelas 24h[/B]</title>
+<link>https://stmv1.srvif.com/tvserie3/tvserie3/playlist.m3u8?$nome= [COLOR green]Jornada Nas Estrelas 24h[/COLOR]</link>
+<link>https://stmv1.srvif.com/tvserie3/tvserie3/playlist.m3u8?$nome= [COLOR yellow]Jornada Nas Estrelas 24h[/COLOR]</link>
+<thumbnail>https://m.media-amazon.com/images/I/51tPb-tbgHL.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/I/51tPb-tbgHL.jpg</fanart>
+<info>Jornada nas Estrelas, assistir canal de tv online com 24 horas de episódios da série clássica de aventura e ficção Star Trek ao vivo online grátis HD.</info>
+</item>
+
+<item>
+<title>[B]Telecine Action[/B]</title>
+<link>http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8$nome=[COLOR green]Telecine Action[/COLOR]</link>
+<link>http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8$nome=[COLOR yellow]Telecine Action[/COLOR]</link>
+<thumbnail>https://www.cxtv.com.br/img/Tvs/Logo/webp-l/13c521cefbb5fde40d549a9d66891530.webp</thumbnail>
+<fanart>https://www.cxtv.com.br/img/Tvs/Logo/webp-l/13c521cefbb5fde40d549a9d66891530.webp</fanart>
+<info></info>
+</item>
 
 
