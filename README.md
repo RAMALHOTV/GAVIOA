@@ -4,9 +4,8 @@
 <link>http</link>
 <thumbnail>https://i.imgur.com/M0aRl2a.jpg</thumbnail>
 <fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
-<info>RamalhoIPTV com confira várias listas IPTV com CANAIS funcionando e 100% testadas e funcionando, confira agora mesmo todas essas listas, e divirta-se! </info>
+<info>RamalhoIPTV (44)991045772 Entre em contato e  confira várias listas IPTV com CANAIS funcionando  100% testadas , confira agora mesmo todas essas listas, e divirta-se! </info>
 </item>
-
 
 <item>
 <title>[B]Globo RPC TV [/B]</title>
